@@ -6,21 +6,6 @@
 	KITS/TOOLS
 -->
 
-	<string id="st_itm_repairkit_tier_2_name">
-		<text>Advanced Tools</text>
-	</string>
-	<string id="st_itm_advancedkit_name">
-		<text>Advanced Tools</text>
-	</string>
-	<string id="st_itm_advancedkit_descr">
-		<text>A decent set of tools containing small pliers, tipped tweezers and a probe and pick set. With enough knowledge and experience, this kit can be used for the creation of better equipment.\n \n
-		%c[0,255,255,255]PROPERTIES:\n
-		%c[d_orange] • %c[ui_gray_2] usable on mechanic's workshop for crafting\n
-		%c[d_orange] • %c[ui_gray_2] a technician could use this to fully modify weapons and armor\n
-		%c[0,255,255,255] • %c[d_red] requires suitable materials\n
-		</text>
-	</string>
-
 	<string id="st_itm_repairkit_tier_1_name">
 		<text>Basic Tools</text>
 	</string>
@@ -36,18 +21,21 @@
 		</text>
 	</string>
 
-	<string id="st_itm_drugkit">
-		<text>Drug-making Kit</text>
+	<string id="st_itm_repairkit_tier_2_name">
+		<text>Advanced Tools</text>
 	</string>
-	<string id="st_itm_drugkit_descr">
-		<text>A small case of plastic packages, tablets and ampoules used for managing and producing drugs.\n \n
+	<string id="st_itm_advancedkit_name">
+		<text>Advanced Tools</text>
+	</string>
+	<string id="st_itm_advancedkit_descr">
+		<text>A decent set of tools containing small pliers, tipped tweezers and a probe and pick set. With enough knowledge and experience, this kit can be used for the creation of better equipment.\n \n
 		%c[0,255,255,255]PROPERTIES:\n
 		%c[d_orange] • %c[ui_gray_2] usable on mechanic's workshop for crafting\n
-		%c[d_orange] • %c[ui_gray_2] a medic could use this in making drugs and medicine\n
+		%c[d_orange] • %c[ui_gray_2] a technician could use this to fully modify weapons and armor\n
 		%c[0,255,255,255] • %c[d_red] requires suitable materials\n
 		</text>
 	</string>
-	
+
 	<string id="st_itm_repairkit_tier_3_name">
 		<text>Expert Tools</text>
 	</string>
@@ -59,6 +47,18 @@
 		%c[0,255,255,255]PROPERTIES:\n
 		%c[d_orange] • %c[ui_gray_2] usable on mechanic's workshop for crafting\n
 		%c[d_orange] • %c[ui_gray_2] a technician could use this to fully modify weapons and armor\n
+		%c[0,255,255,255] • %c[d_red] requires suitable materials\n
+		</text>
+	</string>
+
+	<string id="st_itm_drugkit">
+		<text>Drug-making Kit</text>
+	</string>
+	<string id="st_itm_drugkit_descr">
+		<text>A small case of plastic packages, tablets and ampoules used for managing and producing drugs.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable on mechanic's workshop for crafting\n
+		%c[d_orange] • %c[ui_gray_2] a medic could use this in making drugs and medicine\n
 		%c[0,255,255,255] • %c[d_red] requires suitable materials\n
 		</text>
 	</string>
