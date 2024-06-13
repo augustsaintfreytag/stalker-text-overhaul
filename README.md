@@ -1,4 +1,4 @@
-(Cover Pending)
+![Artwork Text Overhaul 01](https://github.com/augustsaintfreytag/stalker-text-overhaul/assets/7656669/06cacc72-b2db-4f96-9de8-6bb78f8bbc81)
 
 # STALKER Text Overhaul
 
