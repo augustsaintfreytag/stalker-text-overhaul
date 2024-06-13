@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="encyclopedia_features">
+		<text>Features (Anomaly)</text>
+	</string>
+	<string id="encyclopedia_addons">
+		<text>Features (Addons)</text>
+	</string>
+	<string id="encyclopedia_gamma">
+		<text>Features (GAMMA)</text>
+	</string>
+	<string id="encyclopedia_gamma_text">
+		<text>G.A.M.M.A. Manual</text>
+	</string>
+	<string id="article_gamma_aaintro">
+		<text>(Introduction)</text>
+	</string>
+	<string id="stalker">
+		<text>Loner</text>
+	</string>
+	<string id="st_tip">
+		<text>Message</text>
+	</string>
+</string_table>

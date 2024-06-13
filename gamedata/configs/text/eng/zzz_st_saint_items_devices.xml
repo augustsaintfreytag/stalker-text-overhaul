@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>A portable hand-held computer with vital functions for the day to day life in the exclusion zone. \n \nThis series of PDAs was developed specifically for use in the Zone and is one of the few electronic devices able to operate without significant interference. All PDAs come in a durable casing, are dust-resistant and waterproof up to a few meters of depth and have special internal shielding to electrical pulses common around anomalies and during emissions. All models come equipped with a GPS module that provides highly accurate geolocation and bearing by evaluating signal pings from a number of antennae and relays inside the perimeter, making it the only viable electronic means of location. \n \nThough the model and firmware appear notably outdated, it has inarguably established itself as the device of choice for communication, navigation, task organization, an encyclopedia, and storage for personal information. This particular device is a basic model providing core functionality. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	
+	<string id="st_pda_1_name">
+		<text>PDA</text>
+	</string>
+	<string id="st_pda_1_descr">
+		<text>A portable hand-held computer with vital functions for the day to day life in the exclusion zone. \n \nThis series of PDAs was developed specifically for use in the Zone and is one of the few electronic devices able to operate without significant interference. All PDAs come in a durable casing, are dust-resistant and waterproof up to a few meters of depth and have special internal shielding to electrical pulses common around anomalies and during emissions. All models come equipped with a GPS module that provides highly accurate geolocation and bearing by evaluating signal pings from a number of antennae and relays inside the perimeter, making it the only viable electronic means of location. \n \nThough the model and firmware appear notably outdated, it has inarguably established itself as the device of choice for communication, navigation, task organization, an encyclopedia, and storage for personal information. This particular device is a basic model providing core functionality. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] personal device\n
+		</text>
+	</string>
+	
+	<string id="st_pda_2_name">
+		<text>PDA v2.0 with KilTrak™</text>
+	</string>
+	<string id="st_pda_2_descr">
+		<text>A portable hand-held computer with vital functions for the day to day life in the exclusion zone. \n \nThis series of PDAs was developed specifically for use in the Zone and is one of the few electronic devices able to operate without significant interference. All PDAs come in a durable casing, are dust-resistant and waterproof up to a few meters of depth and have special internal shielding to electrical pulses common around anomalies and during emissions. All models come equipped with a GPS module that provides highly accurate geolocation and bearing by evaluating signal pings from a number of antennae and relays inside the perimeter, making it the only viable electronic means of location. \n \nThough the model and firmware appear notably outdated, it has inarguably established itself as the device of choice for communication, navigation, task organization, an encyclopedia, and storage for personal information. \n \n
+		
+		This particular device is an advanced, second tier model providing signal detection and mapping on top of core functionality. It is able to retrieve and process the approximate position of other devices connected to the network in a radius of around 300 meters around the user. Additionally, the device contains an installation of the IMI KilTrak software component.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] peer signal detection\n
+		%c[d_orange] • %c[ui_gray_2] KilTrak software component\n
+		</text>
+	</string>
+	
+	<string id="st_pda_3_name">
+		<text>PDA v3.1</text>
+	</string>
+	<string id="st_pda_3_descr">
+		<text>A portable hand-held computer with vital functions for the day to day life in the exclusion zone. \n \nThis series of PDAs was developed specifically for use in the Zone and is one of the few electronic devices able to operate without significant interference. All PDAs come in a durable casing, are dust-resistant and waterproof up to a few meters of depth and have special internal shielding to electrical pulses common around anomalies and during emissions. All models come equipped with a GPS module that provides highly accurate geolocation and bearing by evaluating signal pings from a number of antennae and relays inside the perimeter, making it the only viable electronic means of location. \n \nThough the model and firmware appear notably outdated, it has inarguably established itself as the device of choice for communication, navigation, task organization, an encyclopedia, and storage for personal information. \n \n
+		
+		This particular device is an advanced, third tier model providing extended signal detection for and mapping on top of core functionality. It is able to retrieve and process the approximate position of other devices and connected groups of devices (like those used by groups and squads) connected to the network in a radius of around 300 meters around the user. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] group signal detection\n
+		%c[d_orange] • %c[ui_gray_2] KilTrak software component\n
+		</text>
+	</string>
+	
+	<string id="st_detector1">
+		<text>Echo Detector</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>A field detector using electromagnetic pulse reflection to detect and locate anomalous formations. \n \nThe device operates by emitting electromagnetic pulses at specific harmonic frequencies in a limited radius around the user. A compatible artifact reflects the pulse back towards the device. The detector then analyzes the returning "echo" for changes in signal frequency, amplitude, and phase shift. Both its emitter and receptor are omnidirectional, so only distance to detected objects can be inferred from the processed data. The computed distance is indicated by a glowing diode on the device's front panel and by an emitted beeping sound that increases in frequency as the distance to the object decreases. Multiple objects or other interference may throw detection off. Only few artifacts reflect electromagnetic pulses at predeterminate frequencies that the device can analyze. Echo detectors are housed in a durable, iconic yellow casing and can survive a lot of the rough conditions of artifact hunting. \n \nIt is considered an entry-level detector type and only usually carried by inexperienced stalkers in southern sectors of the Zone. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] Tier I artifact detection\n
+		</text>
+	</string>
+	
+	<string id="st_detector2">
+		<text>Bear Detector</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>An intermediate field detector using electromagnetic field skew to detect and locate anomalous formations. \n \nThe device employs high sensitivity sensors to detect minor distortions (skews) in a generated low energy electromagnetic field. It can also automatically switch to an alternate mode where it uses the existing gravitational fields, even minor and imperceptible, often formed around clusters of anomalies. In alternate mode, the device auto-callibrates to intensity and frequency of the existing field and works off the minor changes anomalous objects cause within the field. While lower tier detectors only allow for distance approximation, the Bear detector uses a flip-up parabolic antenna to provide directional data. When an artifact is detected, a colored ring indicates its rough direction relative to the user and a beeping sound is emitted to indicate distance. The most common known artifacts exert a field skew that the device can detect. Bear detectors are housed in a durable, orange casing and are well suited for the rough conditions of artifact hunting. \n \nIt is considered a mid-tier detector type and is commonly carried by experienced stalkers in central sectors of the Zone. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] Tier II artifact detection\n
+		</text>
+	</string>
+	
+	<string id="st_detector3">
+		<text>Veles Detector</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>An advanced field detector using a hybrid mode of directed electromagnetic pulses and field skew measurement to detect and locate anomalous formations. \n \nThe device operates by sending out electromagnetic pulses at specific harmonic frequencies by a rotating emitter, like a radar system. Anomalous objects reflect the received pulse back towards the device with signature alterations to frequency, amplitude, and phase shift. The difference in pulses is used to calculate distance to the artifact once detected. Additionally, the device generates a low energy electromagnetic field around itself and uses a concentrated array of sensors to measure distortions to the field. The hybrid mode allows the Veles device to reliably detect a much higher breadth of anomalous formations than other detectors. The device features a prominent LED screen to display formations as blips in a cone-shaped pattern in front of the user. It is housed in a durable and weather-resistant polymer case. \n \nThe Veles detector is considered a high-tier detector type and is commonly carried by research personnel and experienced stalkers in northern sectors of the Zone. The device is named after the Slavic god of the earth, fauna, waters, and the underworld, a protector of the living. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] Tier III artifact detection\n
+		</text>
+	</string>
+	
+	<string id="st_detector4">
+		<text>Svarog Detector</text>
+	</string>
+	<string id="st_detector4_descr">
+		<text>An advanced prototype field detector based off the functionality and design of the Veles detector. \n \nLike its reference model, the device operates by sending out electromagnetic pulses at specific harmonic frequencies by a rotating emitter. Anomalous objects reflect the received pulse back towards the device with signature alterations to frequency, amplitude, and phase shift. The difference in pulses is used to calculate distance to the artifact once detected. In parallel, the device generates a low energy electromagnetic field around itself and uses a concentrated array of sensors to measure distortions to the field. The hybrid mode allows it to reliably detect a much higher breadth of anomalous formations than more basic detectors. The Svarog device is outfitted with extra processing components and can also approximate areas of anomalous activity instead of only evaluating peaks in its measurement data. The device features a similar LED screen as the Veles detector and displays both formations and areas in a cone-shaped pattern in front of the user. It is housed in a durable and weather-resistant polymer case. The Svarog detector is considered a high-tier detector type. It is rarely found in active use by common operatives in the field and few devices were ever built. Svarog models are almost exclusively employed by researchers and ecologists for specific collection runs and measurements. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] anomalous field detection\n
+		%c[d_orange] • %c[ui_gray_2] Tier IV artifact detection\n
+		</text>
+	</string>
+	
+	<string id="st_detector9">
+		<text>RF Receiver</text>
+	</string>
+	<string id="st_detector9_descr">
+		<text>A handheld RF receiver (radio frequencies receiver) with a programmable frequency selector, capable of receiving transmissions in a range between 30 and 300 MHz. It is equipped with a high-gain antenna and a hardware signal processing component to filter out some of the interference commonly encountered in the Zone. The casing is made from hard plastic and provides basic dust and water resistance for use in the field. Despite its capabilities, point to point transmissions in the exclusion zone generally fall off after short distances and reception range of the device is low due to the same limitations, usually found to be around 200 meters. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] transmission reception\n
+		</text>
+	</string>
+	
+	<string id="st_detector8">
+		<text>Anomalous Measurement Device</text>
+	</string>
+	<string id="st_detector8_descr">
+		<text>An advanced anomalous field measurement device, designed to detect and analyze the presence of anomalies through electromagnetic field disturbances. \n \nThis handheld instrument is equipped with a series of sensitive magnetometers and electric field sensors, capable of identifying fluctuations in the ambient electromagnetic spectrum. The device is intended primarily as a data collection and mapping device and internally records field strength, frequency variations, and directional vectors. It is manufactured from reinforced polymer to withstand harsh environmental conditions and prolonged use in the Zone. Like other detection equipment, it must be calibrated with field signatures to provide detection at all and it may not detect all types of fields found in the Zone. Similar models were developed and built by ecologists operating in the Zone, working closely with outside laboratories. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] anomalous field detection\n
+		</text>
+	</string>
+	
+	<string id="st_broken_pda">
+		<text>Broken PDA</text>
+	</string>
+	<string id="st_broken_pda_descr">
+		<text>A pocket-sized electronic device in bad condition, with signs of severe wear and scratches on its plastic case. The screen is cracked and some buttons are missing or pushed inside the shell. The device only seems to power on intermittently and the GPS module no longer receives a signal. PDAs are used by virtually every person in the Zone and many are lost during expeditions in the field. Broken devices are still a valued item for electronic components and scrap and are often collected to be either repaired or recycled by technicians and traders. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		</text>
+	</string>
+	
+	<string id="st_device_torch_name">
+		<text>Headlamp</text>
+	</string>
+	<string id="st_device_torch_descr">
+		<text>A standard, head-mounted flashlight with a lightweight aluminum frame and adjustable elastic straps for a secure fit. This headlamp offers basic illumination, useful for nighttime and underground operations and multi-day expeditions. It is outfitted with high-intensity LED bulbs and produces a beam of up to 100 meters. It takes standard-issue battery packs. The device is water-resistant and shockproof, built to withstand the extensive wear and tear of everyday use. It is used by the majority of personnel and operatives in the Zone. User is advised to consider visibility and stealth when using the device. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] equipped light source\n
+		</text>
+	</string>
+	
+	<string id="st_device_torch_nv_1_name">
+		<text>Headlamp w/ 1PN93-1 Night Vision</text>
+	</string>
+	<string id="st_device_torch_nv_1_descr">
+		<text>A head-mounted combined night vision device and flashlight with a lightweight aluminum frame and adjustable elastic straps for a secure fit. The standard-issue 1PN93-1 light amplification device uses a low-resolution image intensifier tube and offers basic visibility in low light conditions. It has an above-average power drain ans is highly susceptible to bright light sources. The flashlight module offers regular illumination, useful for nighttime and underground operations and multi-day expeditions. It is outfitted with high-intensity LED bulbs and produces a beam of up to 100 meters. The housing is water-resistant and shockproof, built to withstand the extensive wear and tear of everyday use. The 1PN93-1 model is considered an entry-level night-vision device. It is used by operatives seeking inexpensive night vision and low rank military personnel. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] light source\n
+		%c[d_orange] • %c[ui_gray_2] Tier I night vision\n
+		%c[d_orange] • %c[ui_gray_2] long-press NVG button to toggle\n
+		%c[d_orange] • %c[ui_gray_2] short-press NVG button to adjust brightness\n
+		</text>
+	</string>
+	
+	<string id="st_device_torch_nv_2_name">
+		<text>Headlamp w/ PN21KL Night Vision</text>
+	</string>
+	<string id="st_device_torch_nv_2_descr">
+		<text>A head-mounted combined night vision device and flashlight with a lightweight aluminum frame and adjustable elastic straps for a secure fit. The PN21KL is a compact, multifunctional light amplification device designed for military and law enforcement applications. It utilizes a high-performance Gen 2+ image intensifier tube alongside an infrared illuminator and provides improved resolution and image clarity in low-light scenarios. Its field of view is an upgrade from lower-end models, though still limited. The device has a high power drain and is susceptible to bright light sources. The flashlight module offers regular illumination, useful for nighttime and underground operations and multi-day expeditions. It is outfitted with high-intensity LED bulbs and produces a beam of up to 100 meters. The housing is water-resistant and shockproof, built to withstand the extensive wear and tear of everyday use. The PN21KL model is considered an intermediate-level night-vision device. It is widely used by experienced operatives, contracted mercenaries, and higher rank military personnel. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] light source\n
+		%c[d_orange] • %c[ui_gray_2] Tier II night vision\n
+		%c[d_orange] • %c[ui_gray_2] long-press NVG button to toggle\n
+		%c[d_orange] • %c[ui_gray_2] short-press NVG button to adjust brightness\n
+		</text>
+	</string>
+	
+	<string id="st_device_torch_nv_3_name">
+		<text>Headlamp w/ ANPN-20 Night Vision</text>
+	</string>
+	<string id="st_device_torch_nv_3_descr">
+		<text>
+		A head-mounted combined night vision device and flashlight with a lightweight aluminum frame and adjustable elastic straps for a secure fit. The ANPN-20 is a multifunctional light amplification device designed primarily for military applications. It utilizes a high-performance IIT Gen 3+ image intensifier tube alongside an infrared illuminator with extended image-processing capabilities. It provides improved resolution and image clarity in low-light scenarios with high field of view. All its top of the line functionality comes at the cost of high power drain. The flashlight module offers regular illumination, useful for nighttime and underground operations and multi-day expeditions. It is outfitted with high-intensity LED bulbs and produces a beam of up to 100 meters. The housing is water-resistant and shockproof, built to withstand the extensive wear and tear of everyday use. The ANPN-20 model is considered a high-end night-vision device. It is widely used by experienced operatives, contracted mercenaries, and top rank military personnel. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] light source\n
+		%c[d_orange] • %c[ui_gray_2] Tier III night vision\n
+		%c[d_orange] • %c[ui_gray_2] long-press NVG button to toggle\n
+		%c[d_orange] • %c[ui_gray_2] short-press NVG button to adjust brightness\n
+		</text>
+	</string>
+	
+	<string id="st_device_flashlight">
+		<text>Flashlight</text>
+	</string>
+	<string id="st_device_flashlight_descr">
+		<text>A durable handheld flashlight made from rugged, machined aluminum for general purpose use. The model provides decent brightness for its power consumption. It has a comfortable ergonomic design and comes in a water-resistant and shockproof enclosure. Similar flashlights are commonly used as auxiliary equipment by all kinds of personnel operating in the Zone, including inexperienced stalkers and stationed military personnel. It is advised to upgrade to a worn light source like a headlamp or even night-vision devices when possible. its ergonomic design and durable construction make it a reliable tool for navigation and emergency situations in the field.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] hand-held light source\n
+		</text>
+	</string>
+	
+	<string id="st_batteries_dead">
+		<text>Old Batteries</text>
+	</string>
+	<string id="st_batteries_dead_descr">
+		<text>A pack of old batteries with a depleted charge. The outer metal casing seems to be corroded and covered in dirt. In their deteriorated state, they can no longer be used to power electrical devices. Non-rechargable batteries are typically bought and collected by scavengers and technicians in the Zone to be recycled for their valuable compounds. Some may be repurposed into usable power sources. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		</text>
+	</string>
+	
+	<string id="st_batteries">
+		<text>Battery Pack</text>
+	</string>
+	<string id="st_batteries_descr">
+		<text>A battery pack consisting of multiple cells, used for powering a variety of electronic devices. Each battery pack is composed of six individual 1.5V cells arranged in a series configuration, providing a nominal total of 9 volts. The batteries utilize a zinc-carbon chemistry, featuring a zinc anode and a manganese dioxide cathode, with an acidic electrolyte facilitating the chemical reactions that generate electrical energy. The batteries are encased in a durable and non-conductive housing to keep them from leaking and ensure the safety of the equipment they are used in. Portable power sources are an essential resource when working in the Zone. They are widely used for the operation of radios, flashlights, worn pieces of gear, and other critical equipment. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] power source\n
+		</text>
+	</string>
+	
+	<string id="st_geiger_dead">
+		<text>Dosimeter</text>
+	</string>
+	<string id="st_geiger_dead_descr">
+		<text>A Geiger counter used for measuring ionizing radiation and detecting alpha, beta, and gamma particles. Invented in 1908, this widely available model remains a staple in health, physics, industry, and geology for its reliability and simplicity. Its design includes a gas-filled tube that produces an electrical pulse when radiation is detected. The device produces a sound when environmental levels rise above a configured threshold and displays an approximated numeric value in its LCD display. This widely used model offers two operational modes, one for environmental detection (displaying mSv/sec) and one for the level of accumulated radiation in the user (displaying a total mSv value). The device is compact and durable, well suited for everyday field and laboratory use. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] radiation measurement\n
+		</text>
+	</string>
+	
+	<string id="extension_pda">
+		<text>Multimedia PDA</text>
+	</string>
+	<string id="exten_sion_pda">
+		<text>An expensive moisture and shock-resistant PDA, featuring a chat client and an integrated music player.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_orange] • %c[ui_gray_2] music playback\n
+		</text>
+	</string>
+	
+	<string id="st_gps_tracker">
+		<text>Military GPS Module</text>
+	</string>
+	<string id="st_gps_tracker_descr">
+		<text>A prototype of the next generation GPS navigation devices with only a few copies being made. Although distributed exclusively among the highest military ranks, some devices have found their way into the hands of other parties as well. This improved module, featuring an improved framework and high sensitivity sensors, guarantees reliable operation even in the most hostile environments. Unlike usual GPS modules, this one relies on sets of codes that allows the module to acquire special privileges on the connected network. An automatic switching circuit inside the module, turns it off after 20 seconds of continuous scanning to save power.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] military item\n
+		</text>
+	</string>
+
+	<string id="st_musicplayer">
+		<text>Radio</text>
+	</string>
+	<string id="st_musicplayer_desc">
+		<text>A rugged portable radio for outdoor use, made with a durable polycarbonate casing to withstand harsh weather conditions. This model comes with a few pre-programmed frequencies of stations known to broadcast music. The radio has an integrated antenna able to receive signals even with minor to moderate interference. It is equipped with a backlit LCD display to be able to be used in low-light conditions.  \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	
+	<string id="st_weather_radar">
+		<text>Doppler Weather Radar Kit</text>
+	</string>
+	<string id="st_weather_radar_descr">
+		<text>An advanced pulse-doppler weather radar mini-kit for meteorolical research, powered by fragments of a captured Meatchunk artifact. The radar device is part of a series of prototypes, originally developed by an ecologist research group with the goal of mapping out patterns in anomalous weather changes in the Zone. The device emits high-frequency microwave pulses and measures the frequency shift of the returned signal caused by the movement of precipitation particles. Utilizing the Doppler effect, it determines the velocity and intensity of weather phenomena, providing detailed data on wind patterns, precipitation rates, and storm structures. It is one of few devices developed to operate entirely on the low power emission of the Meatchunk artifact. The kit incorporates an advanced signal processing unit to filter out noise and output high-resolution data. It comes in a robust, weather-resistant plastic shell suited for field operations. \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] research item\n
+		</text>
+	</string>
+
+</string_table>

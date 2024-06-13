@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+
+	<string id="st_itm_backpack_name">
+		<text>Light Backpack</text>
+	</string>
+	<string id="st_itm_backpack_desc">
+		<text>A rugged lightweight backpack made from reinforced nylon with a basic inner waterproofing layer, moderately suited for use in harsher environments. The model has a single main compartment with a secure zipper closure and two side pockets for additional storage. Ideal for everyday use, shorter excursions, and smaller budgets. \n \nOffers entry-level storage capacity for essential provisions and gear. Commonly carried by newcomers, short-term visitors to the Zone, or to be placed in hidden locations as stashes.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] storage item\n
+		%c[d_cyan] • %c[ui_gray_2] Tier I storage capacity\n
+		%c[d_orange] • %c[ui_gray_2] placeable stash\n
+		</text>
+	</string>
+
+	<string id="st_equ_smallpack_name">
+		<text>Camping Backpack</text>
+	</string>
+	<string id="st_equ_smallpack_desc">
+		<text>A high-capacity backpack tailored specifically for camping, constructed from durable, waterproof canvas to keep contents dry in rainfall, storm, or partial submersion in water. It has multiple compartments for organization on the inside and smaller pockets that can be accessed easily on the outside. The model is valued for its versatility and environmental protection, a commonly carried choice for camping and extended expeditions where a lower weight profile or cost is a consideration. \n \nOffers entry to intermediate-level storage capacity for provisions and gear. Commonly carried by personnel with a predictable short-term stay, research assistant personnel, personal protection, and general newcomers to the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] storage item\n
+		%c[d_cyan] • %c[ui_gray_2] Tier II storage capacity\n
+		%c[d_orange] • %c[ui_gray_2] placeable stash\n
+		</text>
+	</string>
+
+	<string id="st_equ_smilpack_name">
+		<text>Travel Backpack</text>
+	</string>
+	<string id="st_equ_smilpack_desc">
+		<text>A large, high quality travel backpack featuring a sophisticated weight distribution system to reduce fatigue from prolonged carrying, designed specifically for extended travels and moderate loads. The model is made from heavy-duty polyester and includes multiple compartments for organization on the inside and a number of external straps for securing additional gear. \n \nOffers intermediate-level storage capacity for provisions, gear, and bulkier tools. Commonly carried by experienced independent stalkers, researchers and assistants on longer expeditions, and some military personnel preferring lighter equipment over heavier army-issue options.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] storage item\n
+		%c[d_cyan] • %c[ui_gray_2] Tier III storage capacity\n
+		%c[d_orange] • %c[ui_gray_2] placeable stash\n
+		</text>
+	</string>
+
+	<string id="st_equ_milpack_name">
+		<text>Combat Backpack</text>
+	</string>
+	<string id="st_equ_milpack_desc">
+		<text>A highly durable, military-grade, short-range combat backpack, constructed from high-tensile Cordura fabric, with resistance to abrasions and harsh weather conditions. It provides a variable carrying system for weight distribution for carrying moderate to heavy loads, with adjustable shoulder straps and a padded waist belt. The padded back includes aluminum support elements for extra comfort and structural integrity. The model features multiple compartments and waterproof pockets for organization on the inside, along with a MOLLE hook-and-loop webbing for modular attachments. The pack is built with reinforced panels, flaps, and stitching for extended use. \n \nOffers high storage capacity for provisions, gear, tools, firearms, and munitions. Commonly carried by military personnel and experienced operatives in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] storage item\n
+		%c[d_cyan] • %c[ui_gray_2] Tier IV storage capacity\n
+		%c[d_orange] • %c[ui_gray_2] placeable stash\n
+		</text>
+	</string>
+
+	<string id="st_equ_touristpack_name">
+		<text>Expeditionary Backpack</text>
+	</string>
+	<string id="st_equ_touristpack_desc">
+		<text>A highly durable, military-grade, long-range combat backpack, constructed from high-tensile Cordura fabric, with high resistance to abrasions, piercing and scratching, harsh weather conditions, and extraordinary elemental damage like ambient acidity and fire. It provides a variable carrying system for weight distribution for carrying moderate to heavy loads, with adjustable shoulder straps and a padded waist belt. It has a padded back with aluminum support elements for extra comfort and structural integrity and lightweight shielding inserts for basic protection from certain anomalous effects. The model features multiple compartments and waterproof pockets for organization on the inside, along with a MOLLE hook-and-loop webbing for modular attachments. Has pockets dedicated to commonly used devices like dosimeters, detectors, and radios. The pack is built with reinforced panels, flaps, and stitching for extended use. \n \nOffers high storage capacity for provisions, gear, tools, firearms, munitions, and storage for collected anomalous objects. Commonly carried by research personnel on week-long expeditions, high rank military personnel, and experienced operatives in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] storage item\n
+		%c[d_cyan] • %c[ui_gray_2] Tier V storage capacity\n
+		%c[d_orange] • %c[ui_gray_2] placeable stash\n
+		</text>
+	</string>
+
+	<string id="st_kit_hunt">
+		<text>Hunting Backpack</text>
+	</string>
+	<string id="st_kit_hunt_descr">
+		<text>A comprehensive backpack specifically designed for hunting, made from durable, waterproof canvas material. The pack comes equipped with an assortment of tools, including hooks, knives, and other equipment suited for skinning and gutting animals. The variety of tools included allows for highly effective harvesting of animal parts. Includes separate compartments for tool and equipment storage and a number of pockets on the exterior for easier access. \n \nOffers entry-level storage capacity for for provisions, firearms, and munitions. Commonly carried by mutant hunters and research personnel studying animals in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] storage item\n
+		%c[d_orange] • %c[ui_gray_2] placeable stash\n
+		%c[d_green] • %c[ui_gray_2] increased hunting yield\n
+		</text>
+	</string>
+	
+	<string id="st_itm_actor_backpack_name">
+		<text>Quick Release System</text>
+	</string>
+	<string id="st_itm_actor_backpack_descr">
+		<text>A quick release system designed for rapid detachment of backpacks in emergency situations, constructed from high-strength polymer and corrosion-resistant metal components. The mechanism features a single-pull release handle, offering the user swift removal of the pack with minimal effort. This system integrates seamlessly with most military and expeditionary backpacks, providing a crucial safety feature for operations in hazardous environments. The quick release function is particularly advantageous during sudden engagements or when rapid mobility is essential.\n \n
+		Instructions: Place the system in a hotkey slot and press the assigned hotkey to activate the emergency release. Your backpack will be instantly dropped to the ground, including everything inside of it. Equipped weapons, ammunition, armor, and armor attachments, as well as your PDA remain on your person.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] built-in GPS module\n
+		%c[d_orange] • %c[ui_gray_2] gear detachment\n
+		</text>
+	</string>
+	<string id="st_itm_actor_backpack_desc_mlr">
+		<text>A quick release system designed for rapid detachment of backpacks in emergency situations, constructed from high-strength polymer and corrosion-resistant metal components. The mechanism features a single-pull release handle, offering the user swift removal of the pack with minimal effort. This system integrates seamlessly with most military and expeditionary backpacks, providing a crucial safety feature for operations in hazardous environments. The quick release function is particularly advantageous during sudden engagements or when rapid mobility is essential.\n \n
+		Instructions: Place the system in a hotkey slot and press the assigned hotkey to activate the emergency release. Your backpack will be instantly dropped to the ground, including everything inside of it. Equipped weapons, ammunition, armor, and armor attachments, as well as your PDA remain on your person.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] built-in GPS module\n
+		%c[d_orange] • %c[ui_gray_2] gear detachment\n
+		</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="st_box_matches">
+		<text>Matchbox</text>
+	</string>
+	<string id="st_box_matches_descr">
+		<text>A box of a Polish brand Strike Anywhere matches, made from wood with a phosphorous-tipped head. The matches are designed for easy ignition on any rough, dry surface, offering reliable fire-starting capabilities, even in challenging conditions. Each matchstick is approximately 5cm in length, with a white-tipped head ensuring a quick, stable flame upon striking. \n \nTo use, grip the match firmly and strike it briskly against a rough, dry surface such as a rock or brick. Ensure the surface is dry for optimal ignition. The wooden shaft, while sturdy, can break under excessive force, requiring careful handling. Despite their durability, the match heads are susceptible to moisture, necessitating storage in a waterproof container for best performance in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_orange] • %c[ui_gray_2] firestarting item\n
+		</text>
+	</string>
+	
+	<string id="st_kerosene">
+		<text>Kerosene</text>
+	</string>
+	<string id="st_kerosene_descr">
+		<text>A 1-liter can of kerosene, a clear, low-sulfur fuel suitable for various applications. Kerosene is a hydrocarbon liquid derived from petroleum, composed primarily of aliphatic hydrocarbons with the chemical formula C12H26. It has a boiling point range between 150°C and 275°C, making it a stable and efficient fuel source. This kerosene is refined to reduce impurities, ensuring a cleaner burn and minimizing smoke and odor. \n \nCommonly used for heating, lighting, and as a solvent in industrial settings, it provides a versatile energy source for off-grid scenarios. In portable stoves, kerosene offers a reliable and controllable flame for cooking. While kerosene is effective, it can emit harmful fumes if used in enclosed spaces, so adequate ventilation is crucial to prevent respiratory issues. Proper storage in a cool, dry place away from direct sunlight and heat sources is essential to maintain fuel integrity and safety.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_orange] • %c[ui_gray_2] fuel item\n
+		</text>
+	</string>
+	
+	<string id="st_charcoal">
+		<text>Charcoal</text>
+	</string>
+	<string id="st_charcoal_descr">
+		<text>A 5-kilogram bag of charcoal briquettes, made from hardwood timber (oak, hickory, and maple). Charcoal is a carbon-rich material, produced by slow pyrolysis of wood, is an efficient cooking fuel known for high energy density and solid burn time. The briquettes are made in a way to provide a consistent heat output for outdoor cooking or heating. \n \nHardwood charcoal is preferred due to its dense structure, which burns hotter and longer than softwood alternatives. The specific blend of oak, hickory, and maple ensures a balanced combustion, imparting a distinct, smoky flavor to food. Each briquette is formulated to ignite quickly and burn evenly, reducing the need for constant adjustments during cooking. While highly effective, charcoal requires adequate ventilation during use to prevent carbon monoxide buildup and should be stored in a dry place to maintain its combustibility and performance.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_orange] • %c[ui_gray_2] fuel item\n
+		</text>
+	</string>
+
+	<string id="st_balon_gas">
+		<text>Gas Balloon</text>
+	</string>
+	<string id="st_balon_gas_descr">
+		<text>Heavy metal gas balloon. In the Zone, such canisters often contain a composition of methane, propane, ethane and butane, and can be used for cooking, though some Zoners have found alternate ways of utilizing the jerrycans, namely, as improvised explosives. Upon direct hit, the canister will catch fire and explode after a slight delay.\n \n
+		%c[d_red]WARNING: %c[ui_gray_2]Explodes upon impact\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] explosive\n
+		%c[d_cyan] • %c[ui_gray_2] cooking fuel\n
+		%c[d_cyan] • %c[0,255,255,255] Triggering Mechanism: %c[ui_gray_2]bullet impact or explosion\n
+		</text>
+	</string>
+
+	<string id="st_balon_gas_empty">
+		<text>Gas Balloon (Empty)</text>
+	</string>
+	<string id="st_balon_gas_empty_descr">
+		<text>Emptied heavy metal gas balloon. In the Zone, such canisters often contain a composition of methane, propane, ethane and butane, and can be used for cooking as well as combat purposes. Though empty, it can still be put to good use in outfit maintenance.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] junk\n
+		</text>
+	</string>
+
+	<string id="st_jerrycan_fuel">
+		<text>Jerrycan</text>
+	</string>
+	<string id="st_jerrycan_fuel_descr">
+		<text>A large metal can filled with E95 gasoline. Usable as a high-tier cooking fuel though some Zoners have found alternate ways of utilizing the jerrycans, namely, as improvised explosives. Upon direct hit, the canister will catch fire and explode after a slight delay.\n \n
+		%c[d_red]WARNING: %c[ui_gray_2]Explodes upon impact\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] explosive\n
+		%c[d_cyan] • %c[ui_gray_2] cooking fuel\n
+		%c[d_cyan] • %c[0,255,255,255] Triggering Mechanism: %c[ui_gray_2]bullet impact or explosion\n
+		</text>
+	</string>
+
+	<string id="st_jerrycan_fuel_empty">
+		<text>Jerrycan (Empty)</text>
+	</string>
+	<string id="st_jerrycan_fuel_empty_descr">
+		<text>Empty jerrycan. Still usable as material for basic outfit repairs.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] junk\n
+		</text>
+	</string>
+
+	<string id="st_fuel_tier_1">
+		<text>Any Flammable</text>
+	</string>
+	<string id="st_fuel_tier_1_desc">
+		<text>
+		%c[d_blue] • %c[ui_gray_2] campfire\n
+		%c[d_blue] • %c[ui_gray_2] charcoal\n
+		%c[d_blue] • %c[ui_gray_2] kerosene\n
+		%c[d_blue] • %c[ui_gray_2] jerrycan\n
+		%c[d_blue] • %c[ui_gray_2] gas balloon\n
+		</text>
+	</string>
+	
+	<string id="st_fuel_tier_2">
+		<text>Liquid Fuels</text>
+	</string>
+	<string id="st_fuel_tier_2_desc">
+		<text>
+		%c[d_blue] • %c[ui_gray_2] kerosene\n
+		%c[d_blue] • %c[ui_gray_2] jerrycan\n
+		%c[d_blue] • %c[ui_gray_2] gas balloon\n
+		</text>
+	</string>
+
+</string_table>

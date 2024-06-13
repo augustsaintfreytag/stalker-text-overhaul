@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Inventory Stats -->
+
+    <string id="ui_ammo_count">
+		<text>Capacity</text>
+	</string>
+    <string id="ui_inv_outfit_additional_weight">
+        <text>Carry Weight</text>
+    </string>
+    <string id="ui_inv_effect_time">
+		<text>Duration</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>Accuracy</text>
+	</string>
+	<string id="ui_inv_damage">
+		<text>Damage</text>
+	</string>
+	<string id="ui_inv_handling">
+		<text>Handling</text>
+	</string>
+	<string id="ui_inv_health">
+		<text>Health Restoration</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Stamina Recovery</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Bleeding Control</text>
+	</string>
+	<string id="ui_ammo_count">
+		<text>Round Capacity</text>
+	</string>
+	<string id="ui_inv_outfit_additional_weight">
+		<text>Weight Carried</text>
+	</string>
+	<string id="ui_inv_outfit_artefact_count">
+		<text>Belt Slots</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>Burn Res.</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>Chemical Res.</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>Ballistic Res.</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>Radiation Res.</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>Electrical Res.</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>Psychic Res.</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>Rupture Res.</text>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<text>Explosive Res.</text>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<text>Impact Res.</text>
+	</string>
+	<string id="ui_inv_satiety">
+		<text>Satiety</text>
+	</string>
+	<string id="ui_inv_outfit_power_restore">
+		<text>Stamina Recovery</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>Conv. Encumbrance</text>
+	</string>
+	<string id="ui_inv_af_condition">
+		<text>Efficiency</text>
+	</string>
+	<string id="st_ui_armor_static">
+		<text>Armor Condition</text>
+	</string>
+	<string id="st_itm_desc_eat_radiation">
+		<text>Radiation Contamination</text>
+	</string>
+	<string id="st_itm_desc_outfit_heardgear">
+		<text>Headgear</text>
+	</string>
+	<string id="st_itm_desc_outfit_run">
+		<text>Sprinting</text>
+	</string>
+	<string id="st_itm_desc_outfit_faction">
+		<text>Faction</text>
+	</string>
+	<string id="st_itm_desc_outfit_repair_bonus">
+		<text>Repair Bonus</text>
+	</string>
+	<string id="st_itm_desc_outfit_required_tool">
+		<text>Required Tool</text>
+	</string>
+	<string id="st_itm_desc_repair_min_con">
+		<text>Minimum Condition</text>
+	</string>
+	<string id="st_itm_desc_repair_base_con">
+		<text>Base Condition Gain</text>
+	</string>
+		<string id="ui_inv_radiation">
+		<text>Radiation</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>Fire Rate</text>
+	</string>
+	<string id="ui_inv_wrange">
+		<text>Max Range</text>
+	</string>
+	<string id="ui_inv_bspeed">
+		<text>Muzzle Velocity</text>
+	</string>
+	<string id="ui_inv_drag">
+		<text>Air Resistance</text>
+	</string>
+	<string id="ui_inv_reli">
+		<text>Reliability</text>
+	</string>
+	<string id="ui_inv_recoil">
+		<text>Recoil Control</text>
+	</string>
+    <string id="ui_inv_survive_surge">
+        <text>Emission Survival Chance</text>
+	</string>
+    <string id="ui_inv_weight">
+        <text>Total Encumbrance</text>
+    </string>
+	<string id="ui_inv_outfit_speed">
+		<text>Movement Speed</text>
+	</string>
+
+    <!-- Inventory Text -->
+
+    <string id="st_itm_desc_state_avail_workshop">
+        <text>available (via mechanic)</text>
+    </string>
+	<string id="ui_inv_you_already_have">
+        <text>Already in Inventory</text>
+    </string>
+	<string id="ui_inv_cant_buy_item">
+        <text>Purchase Unavailable</text>
+	</string>
+
+	<!-- Section Names-->
+
+	<string id="ui_ammo_types">
+        <text>CALIBRE</text>
+    </string>
+	<string id="st_ui_awr_parts_list">
+        <text>PARTS</text>
+    </string>
+
+	<!-- Crafting Tooltip -->
+
+	<string id="st_craft_used_for">
+        <text>CRAFTING</text>
+    </string>
+	<string id="st_craft_unlocks">
+        <text>BLUEPRINTS</text>
+    </string>
+	<string id="st_cook_used_for">
+        <text>COOKING</text>
+    </string>
+</string_table>
