@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_device_glowstick">
+		<text>Glowstick (Green)</text>
+	</string>
+	<string id="st_device_glowstick_descr">
+		<text>A green color glowstick in durable plastic tubing. It can be activated by bending the stick to break an internal glass vial, allowing hydrogen peroxide to mix with a phenyl oxalate ester and fluorescent dye. This chemical reaction produces a moderately bright green glow. Glowsticks are reliable light sources and are widely used for low cost emergency signaling and navigation in the Zone, both in dark interiors and expeditions during nighttime. It provides reliable, low-light illumination without the need for batteries or external power sources. Its output however is limited and glowsticks cannot be turned off once activated and are not reusable. Sticks may also activate or break when stored inside a backpack when subjected to impacts.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] Lifetime: ~40 minutes\n
+		</text>
+	</string>
+
+	<string id="st_device_glowstick_red">
+		<text>Glowstick (Red)</text>
+	</string>
+	<string id="st_device_glowstick_red_descr">
+		<text>A red color glowstick in durable plastic tubing. It can be activated by bending the stick to break an internal glass vial, allowing hydrogen peroxide to mix with a phthalate ester and fluorescent dye. This chemical reaction produces a moderately bright red glow. Glowsticks are reliable light sources and are widely used for low-cost emergency signaling and navigation in the Zone, both in dark interiors and during nighttime expeditions. They provide reliable, low-light illumination without the need for batteries or external power sources. However, their output is limited, and glowsticks cannot be turned off once activated and are not reusable. Sticks may also activate or break when stored inside a backpack if subjected to impacts.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] Lifetime: ~60 minutes\n
+		</text>
+	</string>
+
+	<string id="st_device_glowstick_orange">
+		<text>Glowstick (Orange)</text>
+	</string>
+	<string id="st_device_glowstick_orange_descr">
+		<text>An orange color glowstick in durable plastic tubing. It can be activated by bending the stick to break an internal glass vial, allowing hydrogen peroxide to mix with a diphenyl oxalate ester and fluorescent dye. This chemical reaction produces a moderately bright orange glow. Glowsticks are reliable light sources and are widely used for low-cost emergency signaling and navigation in the Zone, both in dark interiors and during nighttime expeditions. They provide reliable, low-light illumination without the need for batteries or external power sources. However, their output is limited, and glowsticks cannot be turned off once activated and are not reusable. Sticks may also activate or break when stored inside a backpack if subjected to impacts.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] Lifetime: ~40 minutes\n
+		</text>
+	</string>
+
+	<string id="st_device_glowstick_blue">
+		<text>Glowstick (Cyan)</text>
+	</string>
+	<string id="st_device_glowstick_blue_descr">
+		<text>A cyan glowstick in durable plastic tubing. It can be activated by bending the stick to break an internal glass vial, allowing hydrogen peroxide to mix with a phthalate ester and fluorescent dye. This chemical reaction produces a moderately bright cyan glow. Glowsticks are reliable light sources and are widely used for low-cost emergency signaling and navigation in the Zone, both in dark interiors and during nighttime expeditions. They provide reliable, low-light illumination without the need for batteries or external power sources. However, their output is limited, and glowsticks cannot be turned off once activated and are not reusable. Sticks may also activate or break when stored inside a backpack if subjected to impacts.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] Lifetime: ~30 minutes\n
+		</text>
+	</string>
+
+	<!--
+		MCM
+	-->
+
+	<string id="ui_mcm_menu_glowsticks">
+		<text>Glowsticks</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker">
+		<text>Brain Scorcher and Miracle Machine Flickering</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker_desc">
+		<text>Lamps and flashlights flicker in the Brain Scorcher and Miracle Machine as long as they are active, giving a reason to bring/use glowsticks.</text>
+	</string>
+	<string id="ui_mcm_glowsticks_throw_force">
+        <text>Glowstick Throw Distance</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance">
+        <text>Glowstick Stash Chance</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance_desc">
+        <text>Chance to find glowsticks in stashes.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance">
+        <text>Glowstick Loot Chance</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance_desc">
+        <text>Chance to find glowsticks on dead bodies.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_throw_key">
+        <text>Throw Key</text>
+    </string>
+    <string id="ui_mcm_glowsticks_throw_key_desc">
+        <text>Key to hold to throw glowsticks.</text>
+    </string>
+	
+	<string id="ui_mcm_glowsticks_equip_next">
+        <text>Equip next glowstick after throw</text>
+    </string>
+	<string id="ui_mcm_glowsticks_sort_worst">
+        <text>Use expired glowsticks first</text>
+    </string>
+    <string id="ui_mcm_glowsticks_sort_worst_desc">
+        <text>When enabled, player will use glowsticks with lower condition first, and will keep unused glowsticks for later.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_keybind">
+        <text>Throw Key</text>
+    </string>
+	<string id="ui_mcm_glowsticks_keybind_desc">
+        <text>Key to throw glowsticks.</text>
+    </string>
+	
+</string_table>
