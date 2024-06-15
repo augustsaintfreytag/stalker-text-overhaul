@@ -134,6 +134,9 @@
 	<string id="ui_inv_outfit_speed">
 		<text>Movement Speed</text>
 	</string>
+	<string id="ui_inv_ap_res">
+		<text>Ballistic Class</text>
+	</string>
 
     <!-- Inventory Text -->
 
