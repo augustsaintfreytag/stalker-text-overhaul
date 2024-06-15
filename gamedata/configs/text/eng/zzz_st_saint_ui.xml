@@ -39,31 +39,31 @@
 		<text>Belt Slots</text>
 	</string>
 	<string id="ui_inv_outfit_burn_protection">
-		<text>Burn Res.</text>
+		<text>Burn Protection</text>
 	</string>
 	<string id="ui_inv_outfit_chemical_burn_protection">
-		<text>Chemical Res.</text>
+		<text>Chemical Protection</text>
 	</string>
 	<string id="ui_inv_outfit_fire_wound_protection">
-		<text>Ballistic Res.</text>
+		<text>Ballistic Protection</text>
 	</string>
 	<string id="ui_inv_outfit_radiation_protection">
-		<text>Radiation Res.</text>
+		<text>Radiation Protection</text>
 	</string>
 	<string id="ui_inv_outfit_shock_protection">
-		<text>Electrical Res.</text>
+		<text>Electrical Protection</text>
 	</string>
 	<string id="ui_inv_outfit_telepatic_protection">
-		<text>Psychic Res.</text>
+		<text>Psychic Protection</text>
 	</string>
 	<string id="ui_inv_outfit_wound_protection">
-		<text>Rupture Res.</text>
+		<text>Rupture Protection</text>
 	</string>
 	<string id="ui_inv_outfit_explosion_protection">
-		<text>Explosive Res.</text>
+		<text>Explosive Protection</text>
 	</string>
 	<string id="ui_inv_outfit_strike_protection">
-		<text>Impact Res.</text>
+		<text>Impact Protection</text>
 	</string>
 	<string id="ui_inv_satiety">
 		<text>Satiety</text>
