@@ -156,52 +156,53 @@
 	SLEEPING
 -->
 
-	<string id="st_compression_bag">
-		<text>Sleeping Bag Sack</text>
-	</string>
-	<string id="st_compression_bag_descr">
-		<text>Holds a sleeping bag.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] used to pick up an unrolled sleeping bag\n
-		%c[d_orange] • %c[ui_gray_2] right-click 'Sleeping Bag Sack' when near Sleeping Bag > 'Use'\n
-		</text>
-	</string>
-
 	<string id="st_itm_sleepbag_name">
 		<text>Sleeping Bag</text>
 	</string>
 	<string id="st_itm_sleepbag_descr">
-		<text>A light sleeping bag for staying warm and dry when needing to rest away from a bed.\n \n
-		%c[d_red]WARNING: %c[ui_gray_2]Sleeping in the open may attract predators.\n
-		Does not protect from radiation.\n \n
-		%c[0,255,255,255]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] sets up sleeping bag\n
-		%c[d_cyan] • %c[ui_gray_2] use a sleeping bag sack to pick up\n
-		%c[d_cyan] • %c[ui_gray_2] unlimited usage\n
+		<text>A durable sleeping bag for camping in the field. Made with a tough, water-resistant polyester shell and a soft, insulated interior lining made from synthetic fibers. The insulation provides adequate heat retention for temperatures down to -10°C, making it suitable for usual climate conditions in the exclusion zone. The drawstring hood offers additional warmth for colder conditions. The bag shows some minor signs of use on the outer layer, and the zipper may occasionally snag. \n \n
+		Sleeping bags of different models are widely used to offer a more personal place of rest and may be moved between bases and hideouts. Bags do not offer protection against dangerous wildlife, radiation, or other environmental hazards. Sleeping in the open may attract predators.\n \n
+		%c[d_orange]Instructions: %c[ui_gray_2]Find a safe spot to set up the sleeping bag. There should be adequate space to place the bag in its fully rolled out position. Use the beg when standing in a chosen spot to unroll it. Use the leftover compression bag to pack up the sleeping bag. Note that unpacking a sleeping bag may take some time.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] portable camping gear\n
 		</text>
 	</string>
 
-	<string id="st_itm_tent_bag">
-		<text>Camping Tent Bag (Empty)</text>
+	<string id="st_compression_bag">
+		<text>Compression Bag</text>
 	</string>
-	<string id="st_itm_tent_bag_descr">
-		<text>A bag, intended for the storage and transportation of a camping tent. Disassembly and packing takes time.\n \n
-		%c[0,255,255,255]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] used to pack up a tent\n
-		%c[d_orange] • %c[ui_gray_2] right-click 'Camping Tent Bag (Empty)' when near Tent > 'Use'\n
+	<string id="st_compression_bag_descr">
+		<text>A compression bag designed to compactly store and transport sleeping bags, made from high-denier nylon with reinforced stitching. It features four adjustable straps with heavy-duty buckles to allow users to compress a sleeping bag to a fraction of its original size. To use, place the sleeping bag inside, secure the top closure, and evenly tighten each strap to remove excess air and reduce bulk. Minor abrasions on the exterior do not affect functionality.\n \n
+		%c[d_orange]Instructions: %c[ui_gray_2]While standing in close proximity of a rolled out sleeping bag, use the compression bag to pack it up. The wrapped sleeping and compression bag will be picked up as one unit for easy transport. When using the sleeping bag later, you will receive the compression bag as a leftover for later use. Note that packing up a sleeping bag may take some time.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] auxiliary transport item\n
 		</text>
 	</string>
 
 	<string id="st_itm_tent_name">
-		<text>Camping Tent Bag (Full)</text>
+		<text>Camping Tent</text>
 	</string>
 	<string id="st_itm_tent_descr">
-		<text>A bag containing a tent for camping, allowing shelter from rain and wind. Assembly and installation take time.\n \n
-		%c[d_red]WARNING: %c[ui_gray_2]Sleeping in the open may attract predators.\n
-		Does not protect from radiation.\n \n
-		%c[0,255,255,255]PROPERTIES:\n
-		%c[d_orange] • %c[ui_gray_2] sets up tent\n
-		%c[d_cyan] • %c[ui_gray_2] unlimited usage\n
+		<text>A Vityaz M-B2 A-frame camping tent, constructed from strong, weather-resistant polyester fabric with reinforced with fiberglass poles and a 1000D polyethylene floor for protection against rough terrain and moisture. The exterior is treated with a water-resistant coating, ensuring protection against light to moderate rainfall. The model also features inverted and taped seams to prevent leakage. Provides good ventilation through mesh windows and a zippable entrance.\n \n
+		Frequent use may lead to minor issues like wear on the tent's fabric, particularly at stress points, or fraying of the guy lines. Periodic inspection and application of seam sealer is recommended and can extend the tent's life. This model provides shelter for up to two occupants. Camping tents are commonly used by operatives, researchers, and independent stalkers working predominantly outside of major bases. When used in conjunction with a sleeping bag, the tent offers a home away from Rostok to rest.\n \n
+		%c[d_orange]Instructions: %c[ui_gray_2]Find a suitable outdoor location to set up the tent. The area should be flat, free of debris, and some distance away from buildings and bases. Use the tent when standing in the chosen spot to assemble it. Note that setting up a tent may take some time.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] portable camping gear\n
+		</text>
+	</string>
+
+	<string id="st_itm_tent_bag">
+		<text>Camping Tent Bag</text>
+	</string>
+	<string id="st_itm_tent_bag_descr">
+		<text>A tent duffel bag for secure and convenient transportation of camping tents. The model is made from rugged, water-resistant 900D polyester fabric for extended use and hazardous environments. The bag features a wide U-shaped opening with a heavy-duty YKK zipper to allow easy access to both the tent and accessories. Comes with reinforced carry handles and a padded shoulder strap for versatile carrying options. \n \n
+		%c[d_orange]Instructions: %c[ui_gray_2]While standing in close proximity of a camping tent, use the tent bag to pack it up. The wrapped tent and tent bag will be picked up as one unit for easy transport. When using the tent later, you will receive the tent bag as a leftover for later use. Note that packing up a tent may take some time.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] auxiliary transport item\n
 		</text>
 	</string>
 
