@@ -252,6 +252,7 @@
 	<string id="st_barrel_1_descr">
 		<text>Barrels from an 18.5mm double-barrel shotgun, manufactured from hardened steel with a blued finish. Each barrel measures 710mm in length and features a smooth bore with a slight constriction towards the muzzle for improved shot patterning. The twin barrels are precisely aligned, allowing for quick follow-up shots. Delivers powerful, close-range stopping power with the right type of ammunition.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -262,6 +263,7 @@
 	<string id="st_barrel_2_descr">
 		<text>Barrels from an 18.5mm cock double-barrel shotgun, manufactured from hardened steel with a blued finish. Each barrel measures 710mm in length and features a smooth bore with a slight constriction towards the muzzle for improved shot patterning. The twin barrels are precisely aligned, allowing for quick follow-up shots. Delivers powerful, close-range stopping power with the right type of ammunition.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -272,6 +274,7 @@
 	<string id="st_barrel_3_descr">
 		<text>Barrel from an 18.5mm smooth-bore rifle, manufactured from hardened steel with a blued finish. Each barrel measures 710mm in length and features a smooth bore with a slight constriction towards the muzzle for improved shot patterning. The twin barrels are precisely aligned, allowing for quick follow-up shots. Delivers powerful, close-range stopping power with the right type of ammunition.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -282,6 +285,7 @@
 	<string id="st_barrel_4_descr">
 		<text>Barrel from a 7.62mm rifle, precision-manufactured from chrome-molybdenum steel. Measuring 520mm in length, it features a 1:10 twist rate for optimal bullet stabilization and accuracy. The interior is chrome-lined to enhance durability and resist corrosion, while the exterior is finished with a phosphate coating for additional protection. Designed for robust performance, this barrel ensures reliable operation and consistent accuracy in various conditions.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -292,6 +296,7 @@
 	<string id="st_barrel_5_descr">
 		<text>Barrel from a 7.92mm rifle, manufactured from cold hammer-forged steel. With a length of 600mm and a 1:9.5 twist rate, it provides excellent bullet stability and accuracy. The bore is chrome-lined to resist wear and corrosion, and the exterior is treated with a manganese phosphate finish for enhanced durability. Designed for precision and reliability, this barrel is suited for consistent performance in demanding situations.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -302,6 +307,7 @@
 	<string id="st_barrel_6_descr">
 		<text>A 9mm barrel-suppressor, integrated into an automatic special-purpose rifle. Manufactured from high-grade stainless steel with a matte black finish, it measures 300mm in length. The internal suppressor features advanced baffle design to minimize muzzle flash and reduce noise signature significantly. The rifling is precision-engineered with a 1:10 twist rate to ensure optimal bullet stabilization and accuracy. This barrel-suppressor combination enhances stealth capabilities while maintaining reliable performance and durability.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -312,6 +318,7 @@
 	<string id="st_barrel_7_descr">
 		<text>A barrel from a semi-automatic or automatic 7.62mm rifle, manufactured from cold hammer-forged steel. Measuring 415mm in length, it features a 1:12 twist rate for stable and accurate projectile flight. The bore is chrome-lined for enhanced durability and corrosion resistance, while the exterior is finished with a phosphate coating for added protection. Engineered for reliability and precision, this barrel is suitable for a variety of tactical and combat applications.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -322,6 +329,7 @@
 	<string id="st_barrel_8_descr">
 		<text>A barrel from an automatic 5.45mm rifle, precision-manufactured from chrome-molybdenum steel. With a length of 415mm and a 1:8 twist rate, it ensures superior bullet stabilization and accuracy. The bore is chrome-lined to enhance durability and provide resistance against corrosion, while the exterior features a phosphate coating for added protection. This barrel is designed to deliver consistent performance and reliability in diverse operational conditions. Extended wear or variable quality during manufacturing may affect overall performance.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -332,6 +340,7 @@
 	<string id="st_barrel_9_descr">
 		<text>A barrel from an automatic 5.45mm rifle, crafted from high-strength chrome-molybdenum steel. Measuring 415mm in length, it features a 1:8 twist rate for optimal bullet stabilization and accuracy. The bore is chrome-lined to resist wear and corrosion, and the exterior is coated with a protective phosphate finish. Designed for consistent performance and durability, this barrel ensures reliable operation in a variety of conditions. Extended wear or variable quality during manufacturing may affect overall performance.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -342,6 +351,7 @@
 	<string id="st_barrel_10_descr">
 		<text>A barrel from a 7.62mm rifle with an integrated gas regulator, constructed from chrome-molybdenum steel. Measuring 520mm in length, it features a 1:10 twist rate for precise bullet stabilization. The chrome-lined bore enhances durability and corrosion resistance, while the phosphate-coated exterior provides additional protection. The gas regulator allows for adjustable gas flow, optimizing the rifle’s performance under various conditions and ammunition types. Engineered for reliability and versatility, this barrel ensures consistent accuracy and operational efficiency.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -352,6 +362,7 @@
 	<string id="st_barrel_11_descr">
 		<text>A barrel from an automatic special-purpose 9mm rifle, constructed from high-strength stainless steel. Measuring 254mm in length, it features a 1:10 twist rate for optimal bullet stabilization and accuracy. The bore is precision-crafted and chrome-lined to resist wear and corrosion, while the exterior is treated with a matte black nitride finish for enhanced durability. Designed for reliable performance in various tactical scenarios, this barrel ensures consistent accuracy and effective operation.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -362,6 +373,7 @@
 	<string id="st_barrel_12_descr">
 		<text>A barrel from the legendary PPSh submachine gun system, manufactured from hardened steel. Measuring 269mm in length, it features a smooth bore with a 1:10 twist rate for effective bullet stabilization. The barrel’s robust construction ensures durability and reliability, while the design accommodates the high rate of fire characteristic of the PPSh. Widely regarded for its performance in close-quarters combat, this barrel has played a crucial role in the historical significance of the PPSh, providing consistent accuracy and rapid fire capability.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
@@ -372,6 +384,7 @@
 	<string id="st_barrel_13_descr">
 		<text>A barrel from an automatic 12.7x55mm rifle, constructed from high-grade chrome-molybdenum steel. Measuring 400mm in length, it features a 1:8 twist rate for optimal stabilization of heavy, subsonic bullets. The bore is chrome-lined to enhance durability and resist corrosion, while the exterior is treated with a black nitride finish for additional protection and reduced glare. Designed for robust performance, this barrel ensures reliable operation and accuracy, suitable for high-impact, close-quarters engagements and specialized tactical applications.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
