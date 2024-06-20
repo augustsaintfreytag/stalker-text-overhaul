@@ -188,12 +188,30 @@
 
 	<!-- Section Names-->
 
+	<string id="st_ui_info">
+		<text>INFO</text>
+	</string>
 	<string id="ui_ammo_types">
         <text>CALIBRE</text>
     </string>
 	<string id="st_ui_awr_parts_list">
         <text>PARTS</text>
     </string>
+	<string id="st_ui_repair_kit_list">
+		<text>REPAIR KITS</text>
+	</string>
+	<string id="st_ui_workshop_kit_list">
+		<text>WORKSHOP KITS</text>
+	</string>
+	<string id="st_ui_disassemly_list">
+		<text>COMPONENTS</text>
+	</string>
+	<string id="st_ui_upgrade_list">
+		<text>UPGRADES</text>
+	</string>
+	<string id="st_ui_repair_kits_by_material">
+		<text>COMPLEMENTARIES</text>
+	</string>
 
 	<!-- Crafting Tooltip -->
 
