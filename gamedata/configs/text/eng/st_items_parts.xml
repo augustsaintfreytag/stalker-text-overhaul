@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<!--
+		ITEMS
+	-->
+
+	<string id="st_prt_i_ammo">
+		<text>Ammo Parts</text>
+	</string>
+	<string id="st_prt_i_ammo_descr">
+		<text>A collection of spare ammo parts, consisting of primers, casings, bullets, and powder charges. The primers are brass-cupped with a reliable ignition composition, ensuring consistent firing. Casings are predominantly brass, with some steel variants, showing moderate wear but still functional. The bullets range from lead-core to full metal jacket, suitable for a variety of calibers. The powder charges are securely sealed in moisture-resistant packets to prevent degradation. The pieces all have wildly varying conditions and require careful inspection before use.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_paper">
+		<text>Paper Sheets</text>
+	</string>
+	<string id="st_prt_i_paper_descr">
+		<text>A bundle of paper sheets, most of them torn or otherwise damaged, loosely bound together for safekeeping. The paper quality varies, with some sheets being yellowed and brittle while others remain relatively intact but stained from water damage. Some appear to have been ripped from books, magazines, and newspapers, some are higher quality poster print material. Paper scrap may be useful for various crafting applications or for making quick notes or starting fires. The paper's fragility and inconsistent quality can limit utility. In the Zone, scrap paper is a common resource valued for a number of crafting and repair tasks.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_textolite">
+		<text>Textolite Base</text>
+	</string>
+	<string id="st_prt_i_textolite_descr">
+		<text>A multi-layered textolite base, constructed of cotton fabric, impregnated with thermoreactive tactifying resin, with substantial structural integrity. The material consists of several thin sheets of cotton fabric bonded together under heat and pressure, resulting in a dense, durable composite. The surface shows signs of previous use, with scuffs and minor delamination at the edges, yet retains much of its original strength. Textolite's high resistance to mechanical stress and thermal stability makes it an invaluable scrap crafting material in the Zone. However, its weight and occasional brittleness under extreme conditions require careful handling during repurposing.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+	
+	<string id="st_textile_patch_b">
+		<text>Cloth Sheet</text>
+	</string>
+	<string id="st_textile_patch_b_descr">
+		<text>A stack of cloth sheets, consisting of varying sizes and fabric types, showing signs of previous use and fraying at the edges. These sheets, predominantly cotton with occasional polyester blends, are versatile crafting materials. They can be cut and stitched to patch up clothing, providing essential durability and warmth. Their absorbent nature also makes them ideal for spreading oils and cleaning solvents, aiding in weapon maintenance and general cleanliness. Despite some wear and discoloration, these cloth sheets remain a valuable resource in the Zone, offering multiple practical applications for survival and upkeep.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] outfit repair item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+	
+	<string id="st_textile_patch_m">
+		<text>Textile Sheet</text>
+	</string>
+	<string id="st_textile_patch_m_descr">
+		<text>A stack of military-grade textile sheets, known for their rugged durability and tactical versatility. These sheets, made from a blend of nylon and polyester, exhibit high resistance to tearing and abrasion. They are valued for their relatively low cost and are considered a staple for crafting and repair needs in the Zone. Medium-grade sewing equipment is sufficient for most applications, though advanced adhesive solutions are recommended for creating watertight or reinforced seams. Despite their robustness, careful handling is advised to maintain their integrity under prolonged use. These textile sheets are essential for constructing shelters, repairing gear, and improvising protective clothing.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] outfit repair item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+		
+	<string id="st_textile_patch_e">
+		<text>Reinforced Textile Sheet</text>
+	</string>
+	<string id="st_textile_patch_e_descr">
+		<text>A thick textile patch reinforced with Kevlar padding. High-quality sewing kits and adhesives are required for application. This material offers substantial durability and protection, suitable for patching up armored vests or heavy-duty clothing. Though effective in enhancing ballistic resistance, its rigidity can reduce flexibility and comfort.\n \n
+		%c[ui_gray_3]PROPERTIES:
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] outfit repair item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+
+	<string id="st_prt_i_capacitors">
+		<text>Pack of Capacitors</text>
+	</string>
+	<string id="st_prt_i_capacitors_descr">
+		<text>A pack of capacitors, essential for rectifying alternating current, storing electrical energy, and bypassing noise in circuits. These components are crucial for maintaining the functionality of electronic devices in the Zone. Proper handling and precise installation are necessary to avoid potential failures or electrical hazards.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+
+	<string id="st_prt_i_transistors">
+		<text>Box of Transistors</text>
+	</string>
+	<string id="st_prt_i_transistors_descr">
+		<text>A box of high-quality BJT transistors capable of converting and amplifying electrical oscillations. These transistors are integral in signal processing and power management systems. Despite their small size, improper handling can lead to circuit malfunctions and reduced device reliability.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+
+	<string id="st_prt_i_resistors">
+		<text>Box of Resistors</text>
+	</string>
+	<string id="st_prt_i_resistors_descr">
+		<text>A box of resistors, the most common components in electronics. They limit and direct the passage of electrical current through circuit branches, ensuring proper voltage distribution. These resistors are vital for circuit stability but require precise specification to avoid overheating or failure.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_copper">
+		<text>Copper Wire</text>
+	</string>
+	<string id="st_prt_i_copper_descr">
+		<text>A roll of thin strand pure copper wire, highly conductive and essential for numerous electrical applications. Copper wire can be scavenged from a number of common electronics, like disassembled radios or walkie-talkies. Its pliability and resistance to corrosion make it invaluable for repairs and makeshift electronic projects. Salvaged copper wire may be found in moderately used condition and may require some cleaning to remove oxidation and ensure optimal conductivity before it can be used in new applications.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+	</text>
+	</string>
+
+	<string id="st_prt_i_wood">
+		<text>Wooden Parts</text>
+	</string>
+	<string id="st_prt_i_wood_descr">
+		<text>Assorted pieces of wide-grained, light cedar wood, known for its durability and resistance to decay. Preserved wood is a valued material in the Zone. It can be used in various crafting and repair projects. The wood's natural oils offer some protection against pests and environmental wear. The pieces often show signs of previous use, with some scratches and minor cracks.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+	</text>
+	</string>
+
+	<string id="st_prt_i_scrap">
+		<text>Metallic Scrap</text>
+	</string>
+	<string id="st_prt_i_scrap_descr">
+		<text>A collection of metal bits and pieces, including various grades of steel and aluminum alloys. These scraps are usually leftovers from broken equipment, offering a diverse range of potential uses in repair and construction. Despite their irregular shapes and sizes, they can be repurposed for reinforcing structures, crafting tools, or as makeshift weapon parts. Many of the pieces shows signs of rust and wear, necessitating some cleaning and reshaping before proper use.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+	</text>
+	</string>
+
+	<string id="st_prt_i_fasteners">
+		<text>Fasteners</text>
+	</string>
+	<string id="st_prt_i_fasteners_descr">
+		<text>A mixed assortment of screws, washers, nuts, nails, and small metal plates, varying in type and size. Fasteners of all kinds are used for securing and assembling components in various repair and construction tasks, a vital part in maintaining the integrity of equipment and gear in the demanding conditions of the Zone. They are typically scavenged from old buildings, machinery, or torn body armor. Scavenged parts often show moderate signs of rust and deformation but are still usable with some restorative effort.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+	</text>
+	</string>
+
+	<string id="st_prt_i_plastic">
+		<text>Plastic Film</text>
+	</string>
+	<string id="st_prt_i_plastic_descr">
+		<text>Low-density polyethylene film, packaged in small sheets or rolls. This thin, flexible plastic is used for a variety of purposes including isolating areas, wrapping items for protection, or creating temporary barriers. Its light weight and ease of manipulation make it a versatile material in the Zone. However, it is prone to tearing and may require careful handling and frequent replacement. May be repurposed for a number of technical and medical applications.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+	</text>
+	</string>
+	
+	<string id="st_prt_i_glass">
+		<text>Glass Pieces</text>
+	</string>
+	<string id="st_prt_i_glass_descr">
+		<text>Shards of transparent, colorless glass. These pieces vary in size and thickness, typically resulting from broken containers or windows. Glass is fragile and can be dangerous when handled without proper protection. In the Zone, such shards can serve as makeshift cutting tools or reflective signals but are prone to breakage and pose a risk of injury. Handle with care, as even minor mishandling can lead to serious cuts or contamination.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+
+	<string id="st_prt_i_ceramic">
+		<text>Ceramic Base</text>
+	</string>
+	<string id="st_prt_i_ceramic_descr">
+		<text>A rounded base made from high-density ceramic material. This base is often utilized for its insulating properties and resistance to heat, making it suitable for various industrial applications. Though durable, ceramic is brittle and can shatter upon impact. Within the Zone, it can be repurposed for equipment that requires a non-conductive surface. The primary drawback is its susceptibility to breakage under extreme conditions.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+
+	<string id="st_prt_i_leather">
+		<text>Leather Roll</text>
+	</string>
+	<string id="st_prt_i_leather_descr">
+		<text>A tightly wound roll of cured leather. The leather is tough, flexible, and water-resistant, making it an invaluable resource for repairing gear or crafting protective coverings. It can be cut to size for various uses, such as reinforcing clothing or making custom pouches. Despite its durability, prolonged exposure to the elements in the Zone can cause it to degrade over time. Regular maintenance with oils or wax is recommended to extend its lifespan.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+
+	<string id="st_prt_i_rubber">
+		<text>Rubber</text>
+	</string>
+	<string id="st_prt_i_rubber_descr">
+		<text>A piece of industrial-grade rubber. The material is valued for elasticity, water resistance, and insulating properties. It can be used in various repairs and modifications, particularly for sealing or insulating equipment. However, rubber can degrade when exposed to harsh chemicals or extreme temperatures common in the Zone. Its versatility makes it a staple in any scavenger's toolkit, though regular inspection for wear and tear is advised.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		</text>
+	</string>
+
+	<string id="st_prt_i_spring">
+		<text>Spring</text>
+	</string>
+	<string id="st_prt_i_spring_descr">
+		<text>A small spring from either the trigger assembly or inner workings of an unknown firearm. This compact, coiled metal component is vital for the proper function of many mechanical systems, providing tension and force in precision movements. Springs are common in various applications, from weapons to machinery, due to their durability and resilience. However, they can lose tension over time and require replacement. In the Zone, a reliable spring can be the difference between a functioning weapon and a fatal misfire. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		</text>
+	</string>
+
+	<string id="st_prt_i_triggermechanism">
+		<text>Trigger Mechanism</text>
+	</string>
+	<string id="st_prt_i_triggermechanism_descr">
+		<text>The trigger mechanism and assembly from an unknown firearm. This intricate part includes the trigger, sear, and associated components, crucial for the firing operation. While originally specific to a single model, the mechanism can be modified to fit a variety of weapons, demonstrating versatility in field repairs. Despite its adaptability, improper modification can lead to malfunctions, making careful fitting essential. Such a mechanism is invaluable for maintaining weapon reliability in the unpredictable conditions of the Zone. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		</text>
+	</string>
+
+	<string id="st_prt_i_pistolgrip">
+		<text>Pistol Grip</text>
+	</string>
+	<string id="st_prt_i_pistolgrip_descr">
+		<text>A pistol grip from an unknown firearm. These ergonomic handles are designed to provide a comfortable and secure hold, reducing recoil and improving accuracy. Crafted from durable materials, they can withstand harsh conditions and frequent use. Though intended for a specific model, they can be reshaped or modified to fit a wide range of weapons. In the Zone, a reliable pistol grip can enhance a shooter's performance, but improper fitting may result in discomfort or reduced control. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		</text>
+	</string>
+
+</string_table>
