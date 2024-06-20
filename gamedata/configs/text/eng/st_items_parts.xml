@@ -388,4 +388,199 @@
 		%c[d_cyan] • %c[ui_gray_2] firearm component (barrel)\n
 		</text>
 	</string>
+
+
+	<!-- Trigger Mechanisms -->
+
+	<string id="st_trigger_components_1">
+		<text>Single-mode Hammer Type Trigger</text>
+	</string>
+	<string id="st_trigger_components_1_descr">
+		<text>A single-mode hammer type trigger, manufactured from high-strength steel. This trigger operates in single action mode, where pulling the trigger releases a pre-cocked hammer to strike the firing pin. It provides straightforward functionality and dependable firing control.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (trigger)\n
+		</text>
+	</string>
+
+	<string id="st_trigger_components_2">
+		<text>Double-mode Hammer Type Trigger</text>
+	</string>
+	<string id="st_trigger_components_2_descr">
+		<text>A double-mode hammer type trigger, manufactured from hardened steel. This mechanism supports both single and double action modes, with the trigger either cocking and releasing the hammer or just releasing it. It offers greater control over firing.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (trigger)\n
+		</text>
+	</string>
+
+	<string id="st_trigger_components_3">
+		<text>Triple-fire Hammer Type Trigger</text>
+	</string>
+	<string id="st_trigger_components_3_descr">
+		<text>A triple-fire hammer type trigger, manufactured from high-grade steel. This system allows for single, burst, and fully automatic firing modes by varying the hammer's operation. It provides advanced operational flexibility.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (trigger)\n
+		</text>
+	</string>
+
+	<string id="st_trigger_components_4">
+		<text>Single-fire Mode Trigger Mechanism with Firing Pin
+		</text>
+	</string>
+	<string id="st_trigger_components_4_descr">
+		<text>A single-fire mode trigger mechanism with firing pin, manufactured from durable materials. The trigger directly activates the firing pin for single-shot operation. It ensures reliable performance with minimal maintenance.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (trigger)\n
+		</text>
+	</string>
+
+	<string id="st_trigger_components_5">
+		<text>Double-fire Mode Trigger Mechanism with Firing Pin
+		</text>
+	</string>
+	<string id="st_trigger_components_5_descr">
+		<text>A double-fire mode trigger mechanism with firing pin, manufactured from high-quality components. This system supports both single and burst fire modes, with the trigger controlling the firing pin's action. It offers selectable firing modes for different scenarios.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (trigger)\n
+		</text>
+	</string>
+
+	<string id="st_trigger_components_6">
+		<text>Trigger Mechanism with Hammer (R)</text>
+	</string>
+	<string id="st_trigger_components_6_descr">
+		<text>A trigger mechanism with hammer for a double-barrel shotgun, manufactured from hardened steel. This mechanism uses a hammer to strike the firing pin, ensuring reliable ignition. It provides traditional hammer-fired reliability.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (trigger)\n
+		</text>
+	</string>
+
+
+	<!-- Breech Blocks -->
+
+	<string id="st_bolt_carrier_1">
+		<text>Sliding Bolt Carrier with Turning Bolt Lock (R)</text>
+	</string>
+	<string id="st_bolt_carrier_1_descr">
+		<text>A sliding bolt carrier with a turning bolt lock, produced by Eastern manufacturers. Crafted from high-strength steel, this mechanism ensures secure locking and reliable cycling. The turning bolt lock provides a robust and precise engagement with the chamber, enhancing the overall durability and performance of the firearm.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (carrier)\n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_2">
+		<text>Sliding Bolt Carrier with Turning Bolt Lock (R)</text>
+	</string>
+	<string id="st_bolt_carrier_2_descr">
+		<text>A sliding bolt carrier with a turning bolt lock, produced by Eastern manufacturers, from special automatic weapons. Manufactured from premium-grade steel, this component is designed for high-performance automatic firearms. The turning bolt lock mechanism ensures precise and secure chambering, supporting the demanding requirements of specialized military and tactical operations.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (carrier)\n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_3">
+		<text>Sliding Bolt Carrier with Turning Bolt Lock (NATO)</text>
+	</string>
+	<string id="st_bolt_carrier_3_descr">
+		<text>A longitudinally-sliding breech block with lock turn, produced by NATO, from a standard caliber automatic rifle. Constructed from hardened steel, this breech block mechanism facilitates smooth and reliable cycling. The lock turn feature ensures secure chamber engagement, contributing to the consistent and dependable performance expected from NATO-standard rifles.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (carrier)\n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_4">
+		<text>Sliding Bolt Carrier with a Locking Bias</text>
+	</string>
+	<string id="st_bolt_carrier_4_descr">
+		<text>A sliding bolt carrier with a locking bias. Engineered from durable materials, this bolt carrier features a unique locking bias mechanism that enhances the stability and security of the bolt during firing. It provides reliable operation and improved accuracy by maintaining consistent lockup with the chamber.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (carrier)\n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_5">
+		<text>Half-free Sliding Bolt Carrier</text>
+	</string>
+	<string id="st_bolt_carrier_5_descr">
+		<text>A half-free sliding bolt carrier with a roller brake. Manufactured from robust steel, this mechanism incorporates a roller brake system to control the bolt's movement, reducing recoil and improving cycling efficiency. The half-free design balances reliability and performance, making it suitable for various automatic firearms.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (carrier)\n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_6">
+		<text>Sliding Bolt Carrier with Locking Bolt</text>
+	</string>
+	<string id="st_bolt_carrier_6_descr">
+		<text>A sliding bolt carrier with locking bolt. Manufactured from high-strength steel using precision machining techniques, this mechanism ensures secure locking and smooth cycling. The locking bolt provides tight engagement with the chamber, reducing wear and enhancing the firearm's reliability and longevity.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (carrier)\n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_7">
+		<text>Lever-type Bolt Carrier with Locking Wedge</text>
+	</string>
+	<string id="st_bolt_carrier_7_descr">
+		<text>A lever-type bolt carrier with a locking wedge. Manufactured from durable materials and incorporating advanced machining, this mechanism features a lever-operated bolt carrier and a locking wedge for secure chamber engagement. This design minimizes recoil and ensures consistent cycling, making it suitable for high-precision applications.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (carrier)\n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_8">
+		<text>Choke from Double-barrel Shotgun (R)</text>
+	</string>
+	<string id="st_bolt_carrier_8_descr">
+		<text>A choke from a double-barrel shotgun. Manufactured from high-quality steel and precision-engineered, this choke fits securely at the muzzle end to control the spread of shot. It improves accuracy and shot patterning, making it essential for hunting and sport shooting. The careful design and manufacturing process ensure a consistent and tight fit, enhancing overall performance.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (carrier)\n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_9">
+		<text>Choke from Double-barrel Shotgun (R)</text>
+	</string>
+	<string id="st_bolt_carrier_9_descr">
+		<text>A choke from a double-barrel shotgun. Manufactured from hardened steel and produced with exacting tolerances, this choke regulates the dispersion of shot to enhance accuracy and effectiveness. It is designed to fit precisely, ensuring consistent and reliable performance for shooting enthusiasts, with a focus on improving shot consistency and target acquisition.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (carrier)\n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_10">
+		<text>Sliding Bolt Carrier with Turning Bolt Lock (NATO)</text>
+	</string>
+	<string id="st_bolt_carrier_10_descr">
+		<text>A sliding bolt carrier with turning bolt lock, product of NATO countries, for a large-caliber automatic rifle. Engineered from premium-grade steel and utilizing advanced heat treatment processes, this mechanism ensures robust locking and reliable cycling for high-caliber rounds. The turning bolt lock provides secure chamber engagement, reducing stress on components and supporting the rigorous demands of large-caliber automatic rifles.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (carrier)\n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_11">
+		<text>Longitudinal-a Sliding Free Bolt Carrier (PP)</text>
+	</string>
+	<string id="st_bolt_carrier_11_descr">
+		<text>A longitudinally sliding free bolt carrier, from a submachine gun. Constructed from high-strength materials and designed with precision engineering, this free-floating bolt carrier mechanism ensures smooth and efficient cycling. Its design allows for rapid fire and minimal recoil, enhancing the submachine gun's reliability and control in fast-paced engagements.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component (carrier)\n
+		</text>
+	</string>
 </string_table>
