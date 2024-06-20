@@ -149,6 +149,42 @@
 	<string id="ui_inv_cant_buy_item">
         <text>Purchase Unavailable</text>
 	</string>
+	<string id="st_itm_desc_outfit_run">
+		<text>Movement: </text>
+	</string>
+	<string id="st_itm_desc_state_possible">
+		<text>Unrestricted</text>
+	</string>
+	<string id="st_itm_desc_state_not_possible">
+		<text>Restricted (No Sprinting)</text>
+	</string>
+
+	<!-- Magazines -->
+
+	<string id="st_mag_small">
+		<text>Small Magazines: </text>
+	</string>
+	<string id="st_mag_medium">
+		<text>Medium Magazines: </text>
+	</string>
+	<string id="st_mag_large">
+		<text>Large Magazines: </text>
+	</string>
+	<string id="st_mag_loaded">
+		<text>Loaded Magazine: </text>
+	</string>
+	<string id="st_mag_loaded_none">
+		<text>No Magazine Loaded</text>
+	</string>
+	<string id="st_mag_ammo_loaded_count">
+		<text>Loaded Rounds: </text>
+	</string>
+	<string id="st_mag_capacity">
+		<text>Magazine Capacity: </text>
+	</string>
+	<string id="st_mag_ammo_top_round">
+		<text>Top Round: </text>
+	</string>
 
 	<!-- Section Names-->
 
