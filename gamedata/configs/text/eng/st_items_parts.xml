@@ -818,6 +818,141 @@
 		%c[d_cyan] • %c[ui_gray_2] smg component (breech)\n
 		</text>
 	</string>
+
+
+	<!-- Gas Tubes, etc. -->
+
+	<string id="st_gas_tube_1">
+		<text>Gas Tube (K)</text>
+	</string>
+	<string id="st_gas_tube_1_descr">
+		<text>Gas tube from a smoothbore carbine. Manufactured from high-strength steel, this gas tube channels propellant gases from the barrel to the action, ensuring efficient cycling of the firearm. Its precision-engineered design enhances durability and performance, making it a critical component for the reliable operation of smoothbore carbines.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle component (gas tube)\n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_2">
+		<text>Handguard (R)</text>
+	</string>
+	<string id="st_gas_tube_2_descr">
+		<text>Mobile handguard from a pump-action shotgun. Manufactured from durable polymer, this handguard provides a secure grip and smooth operation during reloading. It is designed to withstand the stresses of repeated use, offering enhanced control and reliability in various conditions. The mobile mechanism allows for efficient cycling of the shotgun action.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] shotgun component (gas tube)\n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_3">
+		<text>Gas Tube (V)</text>
+	</string>
+	<string id="st_gas_tube_3_descr">
+		<text>Gas tube from a self-loading rifle. Manufactured from precision-engineered steel, this gas tube plays a vital role in directing propellant gases to cycle the action. It features a robust construction that ensures consistent gas regulation and reliable operation. Its design optimizes the performance of self-loading rifles, contributing to smoother firing cycles and improved durability.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle component (gas tube)\n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_4">
+		<text>Gas Tube (AS/PP)</text>
+	</string>
+	<string id="st_gas_tube_4_descr">
+		<text>Gas tube from a special automatic rifle using a 9mm calibre. Manufactured from high-grade steel, this gas tube is designed to handle the unique demands of 9mm automatic rifles. It effectively channels gases to ensure reliable cycling and reduced recoil. The robust design supports the specialized performance requirements, providing consistent and efficient operation in high-stress environments.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle component (gas tube)\n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_5">
+		<text>Gas Tube [A|V] (R)</text>
+	</string>
+	<string id="st_gas_tube_5_descr">
+		<text>Gas tube from a semi-automatic or automatic rifle of an Eastern European type. Manufactured from high-quality steel, this gas tube efficiently channels propellant gases to cycle the action. It is designed to withstand the high pressures and heat generated during firing, ensuring reliable and consistent operation in Russian-made rifles.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle component (gas tube)\n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_6">
+		<text>Gas Tube [A|V] (NATO)</text>
+	</string>
+	<string id="st_gas_tube_6_descr">
+		<text>Gas tube from a semi-automatic or automatic rifle of a NATO type. Manufactured from premium-grade steel, this gas tube directs gases to the action to ensure smooth cycling. Its robust construction is tailored to meet NATO standards, providing durability and reliability in various conditions.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle component (gas tube)\n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_7">
+		<text>Gas Tube (P)</text>
+	</string>
+	<string id="st_gas_tube_7_descr">
+		<text>Gas tube from a machine gun. Manufactured from hardened steel, this gas tube is designed to handle the high gas pressures and volume typical of machine gun operation. It ensures efficient cycling and sustained fire capability.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] machine gun component (gas tube)\n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_8">
+		<text>Ejector (V)</text>
+	</string>
+	<string id="st_gas_tube_8_descr">
+		<text>Ejector from a rifle with a sliding bolt carrier with locking bolt. Manufactured from high-strength steel, this ejector is engineered to reliably expel spent cartridges from the chamber. It is designed to work seamlessly with the sliding bolt carrier and locking bolt mechanism, ensuring consistent and efficient ejection in high-performance rifles.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle component (gas tube)\n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_9">
+		<text>Ejector from Over-under Double-barrel Shotgun (R)</text>
+	</string>
+	<string id="st_gas_tube_9_descr">
+		<text>Ejector (extractor) from an over-under double barrel shotgun. Manufactured from durable steel, this ejector ensures smooth and reliable extraction of spent shells. It is precisely engineered to fit the over-under double barrel shotgun design, enhancing the firearm's overall performance and ease of use.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] shotgun component (gas tube)\n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_10">
+		<text>Ejector from Over-under Double-barrel Shotgun (R)</text>
+	</string>
+	<string id="st_gas_tube_10_descr">
+		<text>Ejector from an over-under double barrel shotgun. Manufactured from robust steel, this ejector is designed for reliable and efficient extraction of spent cartridges. Its precise fit and durable construction ensure consistent performance.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] shotgun component (gas tube)\n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_11">
+		<text>Gas Tube (PP)</text>
+	</string>
+	<string id="st_gas_tube_11_descr">
+		<text>Gas tube from the MP5 submachine gun with a handle. Manufactured from high-grade steel, this gas tube is designed to handle the pressures and gas flow of the MP5 submachine gun. The integrated handle provides additional control and ease of use during operation.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] smg component (gas tube)\n
+		</text>
+	</string>
 		</text>
 	</string>
 </string_table>
