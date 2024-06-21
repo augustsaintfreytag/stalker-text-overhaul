@@ -1152,5 +1152,59 @@
 		%c[d_cyan] • %c[ui_gray_2] firearm component
 		%c[d_cyan] • %c[ui_gray_2] handgun component (recoil spring)\n</text>
 	</string>
+	
+	<!--
+		OUTFITS
+	-->
+
+	<!-- Fabrics and Hardware -->
+
+	<string id="st_prt_o_fabrics_1">
+		<text>Cloth Sheets</text>
+	</string>
+	<string id="st_prt_o_fabrics_1_descr">
+		<text>A stack of cloth sheets, made from a variety of materials like cotton, polycotton, wool, and leather. These materials provide a reasonable balance of comfort and durability. They are suitable for basic outfit work and repair tasks. Cotton and polycotton offer breathability and softness, while wool provides body heat retention. Leather enhances durability and adds protective qualities, making these sheets versatile for various practical applications.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] outfit component\n
+		</text>
+	</string>
+	
+	<string id="st_prt_o_fabrics_2">
+		<text>Synthetic Cloth Sheets</text>
+	</string>
+	<string id="st_prt_o_fabrics_2_descr">
+		<text>A stack of synthetic cloth sheets, blended with materials such as polyester and lycra. These textiles offer versatility and durability, suitable for constructing or repairing outfits that require flexibility and resilience. Polyester adds strength and resistance to wear and tear, while lycra ensures elasticity. This combination is ideal for situations where both comfort and durability are essential.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] outfit component\n
+		</text>
+	</string>
+	
+	<string id="st_prt_o_fabrics_3">
+		<text>Durable Textiles</text>
+	</string>
+	<string id="st_prt_o_fabrics_3_descr">
+		<text>A stack of durable textiles, made from materials such as polyester, leather, and canvas. These sheets are designed to withstand harsh environmental conditions, offering excellent durability and protection. Polyester provides strength and resistance to elements, leather offers toughness and a degree of water resistance, and canvas adds robustness. These textiles are suitable for heavy-duty repairs and reinforcement of gear.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] outfit component\n
+		</text>
+	</string>
+	
+	<string id="st_prt_o_fabrics_4">
+		<text>Mil-Spec Textiles</text>
+	</string>
+	<string id="st_prt_o_fabrics_4_descr">
+		<text>A stack of mil-spec textiles, made from military-grade materials including rubber and ballistic nylon. These fabrics are valued for their protective qualities, low price, and high versatility. Ballistic nylon offers superior abrasion resistance and durability, while rubber provides flexibility and waterproofing. Joint protections integrated into these textiles enhance their protective capabilities, making them suitable for high-stress and tactical applications.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] outfit component\n
+		</text>
+	</string>
 
 </string_table>
