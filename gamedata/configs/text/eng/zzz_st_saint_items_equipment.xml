@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+
+	<string id="st_bolt">
+		<text>Bolt</text>
+	</string>
+	<string id="st_bolt_descr">
+		<text>A large bolt made from common steel. Bolts and other widely available disposable objects are used as thrown activation devices, provoking environmental reactions from active anomalous fields. Its material provides sufficient weight and durability to ensure reliable triggering of anomalies and allow the user to throw it over short to medium distances. Bolts are an essential tool for safely navigating hazardous spaces used by virtually everyone in the exclusion zone. They provide a much cheaper alternative to sophisticated electronic detection equipment like the Svarog anomalous field detector.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_orange] • %c[ui_gray_2] anomalous field activation\n
+		</text>
+	</string>
+	
+	<string id="st_bolty">
+		<text>Bolt</text>
+	</string>
+	<string id="st_bolty_descr">
+		<text>A large bolt made from common steel. Bolts and other widely available disposable objects are used as thrown activation devices, provoking environmental reactions from active anomalous fields. Its material provides sufficient weight and durability to ensure reliable triggering of anomalies and allow the user to throw it over short to medium distances. Bolts are an essential tool for safely navigating hazardous spaces used by virtually everyone in the exclusion zone. They provide a much cheaper alternative to sophisticated electronic detection equipment like the Svarog anomalous field detector.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_orange] • %c[ui_gray_2] anomalous field activation\n
+		</text>
+	</string>
+	
+	<string id="st_bolt_bullet">
+		<text>Cartridge</text>
+	</string>
+	<string id="st_bolt_bullet_descr">
+		<text>An empty cartridge, made from common brass. Cartridges and other widely available disposable objects are used as thrown activation devices, provoking environmental reactions from active anomalous fields. Its material provides sufficient weight and durability to ensure reliable triggering of anomalies and allow the user to throw it over short to medium distances. Cartridges are an essential tool for safely navigating hazardous spaces, used by virtually everyone in the exclusion zone. They provide a much cheaper alternative to sophisticated electronic detection equipment like the Svarog anomalous field detector.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_orange] • %c[ui_gray_2] anomalous field activation\n
+		</text>
+	</string>
+	
+	<string id="green_bug_name">
+		<text>Green Beetle</text>
+	</string>
+	<string id="green_bug_description">
+		<text>The green beetle is an inseparable companion of every stalker. Not a single person in the Zone has never met it on their way. If spotted only once or twice throughout your lifetime, it should be considered lucky. Your mood falls in direct proportion to each subsequent meeting with the green beetle.\n
+		</text>
+	</string>
+	
+</string_table>
