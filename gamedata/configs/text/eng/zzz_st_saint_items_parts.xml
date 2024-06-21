@@ -250,7 +250,7 @@
 		<text>18.5mm Barrel (R)</text>
 	</string>
 	<string id="st_barrel_1_descr">
-		<text>Barrels from an 18.5mm double-barrel shotgun, manufactured from hardened steel with a blued finish. Each barrel measures 710mm in length and features a smooth bore with a slight constriction towards the muzzle for improved shot patterning. The twin barrels are precisely aligned, allowing for quick follow-up shots. Delivers powerful, close-range stopping power with the right type of ammunition.\n \n
+		<text>Barrels from an 18.5mm double-barrel shotgun, manufactured from hardened steel with a blued finish. Each barrel measures 710mm in length and features a smooth bore with a slight constriction towards the muzzle for improved shot patterning. The twin barrels are precisely aligned, allowing for quick follow-up shots. Delivers powerful, close-range stopping power with the right type of ammunition. Commonly found in Baikal MP-27, IZh-27, and similar model shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -262,7 +262,7 @@
 		<text>18.5mm Barrel (R)</text>
 	</string>
 	<string id="st_barrel_2_descr">
-		<text>Barrels from an 18.5mm cock double-barrel shotgun, manufactured from hardened steel with a blued finish. Each barrel measures 710mm in length and features a smooth bore with a slight constriction towards the muzzle for improved shot patterning. The twin barrels are precisely aligned, allowing for quick follow-up shots. Delivers powerful, close-range stopping power with the right type of ammunition.\n \n
+		<text>Barrels from an 18.5mm cock double-barrel shotgun, manufactured from hardened steel with a blued finish. Each barrel measures 710mm in length and features a smooth bore with a slight constriction towards the muzzle for improved shot patterning. The twin barrels are precisely aligned, allowing for quick follow-up shots. Delivers powerful, close-range stopping power with the right type of ammunition. Commonly found in Baikal MP-27, IZh-27, and similar model shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -274,7 +274,7 @@
 		<text>18.5mm Barrel (K)</text>
 	</string>
 	<string id="st_barrel_3_descr">
-		<text>Barrel from an 18.5mm smooth-bore rifle, manufactured from hardened steel with a blued finish. Each barrel measures 710mm in length and features a smooth bore with a slight constriction towards the muzzle for improved shot patterning. The twin barrels are precisely aligned, allowing for quick follow-up shots. Delivers powerful, close-range stopping power with the right type of ammunition.\n \n
+		<text>Barrel from an 18.5mm smooth-bore rifle, manufactured from hardened steel with a blued finish. Each barrel measures 710mm in length and features a smooth bore with a slight constriction towards the muzzle for improved shot patterning. The twin barrels are precisely aligned, allowing for quick follow-up shots. Delivers powerful, close-range stopping power with the right type of ammunition. Commonly found in Baikal MP-27, IZh-27, and similar model shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -286,7 +286,7 @@
 		<text>7.62mm Barrel (V)</text>
 	</string>
 	<string id="st_barrel_4_descr">
-		<text>Barrel from a 7.62mm rifle, precision-manufactured from chrome-molybdenum steel. Measuring 520mm in length, it features a 1:10 twist rate for optimal bullet stabilization and accuracy. The interior is chrome-lined to enhance durability and resist corrosion, while the exterior is finished with a phosphate coating for additional protection. Designed for robust performance, this barrel ensures reliable operation and consistent accuracy in various conditions.\n \n
+		<text>Barrel from a 7.62mm rifle, precision-manufactured from chrome-molybdenum steel. Measuring 520mm in length, it features a 1:10 twist rate for optimal bullet stabilization and accuracy. The interior is chrome-lined to enhance durability and resist corrosion, while the exterior is finished with a phosphate coating for additional protection. Designed for robust performance, this barrel ensures reliable operation and consistent accuracy in various conditions. Commonly found in AK-47, SVD Dragunov, and similar model rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -298,7 +298,7 @@
 		<text>7.92mm Barrel (V)</text>
 	</string>
 	<string id="st_barrel_5_descr">
-		<text>Barrel from a 7.92mm rifle, manufactured from cold hammer-forged steel. With a length of 600mm and a 1:9.5 twist rate, it provides excellent bullet stability and accuracy. The bore is chrome-lined to resist wear and corrosion, and the exterior is treated with a manganese phosphate finish for enhanced durability. Designed for precision and reliability, this barrel is suited for consistent performance in demanding situations.\n \n
+		<text>Barrel from a 7.92mm rifle, manufactured from cold hammer-forged steel. With a length of 600mm and a 1:9.5 twist rate, it provides excellent bullet stability and accuracy. The bore is chrome-lined to resist wear and corrosion, and the exterior is treated with a manganese phosphate finish for enhanced durability. Designed for precision and reliability, this barrel is suited for consistent performance in demanding situations. Commonly found in Mauser K98k, MG42, and similar model rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -310,7 +310,7 @@
 		<text>9mm Barrel-suppressor (AS/PP)</text>
 	</string>
 	<string id="st_barrel_6_descr">
-		<text>A 9mm barrel-suppressor, integrated into an automatic special-purpose rifle. Manufactured from high-grade stainless steel with a matte black finish, it measures 300mm in length. The internal suppressor features advanced baffle design to minimize muzzle flash and reduce noise signature significantly. The rifling is precision-engineered with a 1:10 twist rate to ensure optimal bullet stabilization and accuracy. This barrel-suppressor combination enhances stealth capabilities while maintaining reliable performance and durability.\n \n
+		<text>A 9mm barrel-suppressor, integrated into an automatic special-purpose rifle. Manufactured from high-grade stainless steel with a matte black finish, it measures 300mm in length. The internal suppressor features advanced baffle design to minimize muzzle flash and reduce noise signature significantly. The rifling is precision-engineered with a 1:10 twist rate to ensure optimal bullet stabilization and accuracy. This barrel-suppressor combination enhances stealth capabilities while maintaining reliable performance and durability. Commonly found in AS Val and VSS Vintorez rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -322,7 +322,7 @@
 		<text>7.62mm Barrel (A|V)</text>
 	</string>
 	<string id="st_barrel_7_descr">
-		<text>A barrel from a semi-automatic or automatic 7.62mm rifle, manufactured from cold hammer-forged steel. Measuring 415mm in length, it features a 1:12 twist rate for stable and accurate projectile flight. The bore is chrome-lined for enhanced durability and corrosion resistance, while the exterior is finished with a phosphate coating for added protection. Engineered for reliability and precision, this barrel is suitable for a variety of tactical and combat applications.\n \n
+		<text>A barrel from a semi-automatic or automatic 7.62mm rifle, manufactured from cold hammer-forged steel. Measuring 415mm in length, it features a 1:12 twist rate for stable and accurate projectile flight. The bore is chrome-lined for enhanced durability and corrosion resistance, while the exterior is finished with a phosphate coating for added protection. Engineered for reliability and precision, this barrel is suitable for a variety of tactical and combat applications. Commonly found in AK-47, SVD Dragunov, and similar model rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -334,7 +334,7 @@
 		<text>5.45mm Barrel (А)</text>
 	</string>
 	<string id="st_barrel_8_descr">
-		<text>A barrel from an automatic 5.45mm rifle, precision-manufactured from chrome-molybdenum steel. With a length of 415mm and a 1:8 twist rate, it ensures superior bullet stabilization and accuracy. The bore is chrome-lined to enhance durability and provide resistance against corrosion, while the exterior features a phosphate coating for added protection. This barrel is designed to deliver consistent performance and reliability in diverse operational conditions. Extended wear or variable quality during manufacturing may affect overall performance.\n \n
+		<text>A barrel from an automatic 5.45mm rifle, precision-manufactured from chrome-molybdenum steel. With a length of 415mm and a 1:8 twist rate, it ensures superior bullet stabilization and accuracy. The bore is chrome-lined to enhance durability and provide resistance against corrosion, while the exterior features a phosphate coating for added protection. This barrel is designed to deliver consistent performance and reliability in diverse operational conditions. Extended wear or variable quality during manufacturing may affect overall performance. Commonly found in AK-74 and RPK-74 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -346,7 +346,7 @@
 		<text>5.56mm Barrel (A)</text>
 	</string>
 	<string id="st_barrel_9_descr">
-		<text>A barrel from an automatic 5.45mm rifle, crafted from high-strength chrome-molybdenum steel. Measuring 415mm in length, it features a 1:8 twist rate for optimal bullet stabilization and accuracy. The bore is chrome-lined to resist wear and corrosion, and the exterior is coated with a protective phosphate finish. Designed for consistent performance and durability, this barrel ensures reliable operation in a variety of conditions. Extended wear or variable quality during manufacturing may affect overall performance.\n \n
+		<text>A barrel from an automatic 5.45mm rifle, crafted from high-strength chrome-molybdenum steel. Measuring 415mm in length, it features a 1:8 twist rate for optimal bullet stabilization and accuracy. The bore is chrome-lined to resist wear and corrosion, and the exterior is coated with a protective phosphate finish. Designed for consistent performance and durability, this barrel ensures reliable operation in a variety of conditions. Extended wear or variable quality during manufacturing may affect overall performance. Commonly found in M16, HK416, and similar model rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -358,7 +358,7 @@
 		<text>7.62mm Barrel (P)</text>
 	</string>
 	<string id="st_barrel_10_descr">
-		<text>A barrel from a 7.62mm rifle with an integrated gas regulator, constructed from chrome-molybdenum steel. Measuring 520mm in length, it features a 1:10 twist rate for precise bullet stabilization. The chrome-lined bore enhances durability and corrosion resistance, while the phosphate-coated exterior provides additional protection. The gas regulator allows for adjustable gas flow, optimizing the rifle’s performance under various conditions and ammunition types. Engineered for reliability and versatility, this barrel ensures consistent accuracy and operational efficiency.\n \n
+		<text>A barrel from a 7.62mm rifle with an integrated gas regulator, constructed from chrome-molybdenum steel. Measuring 520mm in length, it features a 1:10 twist rate for precise bullet stabilization. The chrome-lined bore enhances durability and corrosion resistance, while the phosphate-coated exterior provides additional protection. The gas regulator allows for adjustable gas flow, optimizing the rifle’s performance under various conditions and ammunition types. Engineered for reliability and versatility, this barrel ensures consistent accuracy and operational efficiency. Commonly found in FN FAL, HK G3, and similar model rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -370,7 +370,7 @@
 		<text>9mm Barrel (AS/PP)</text>
 	</string>
 	<string id="st_barrel_11_descr">
-		<text>A barrel from an automatic special-purpose 9mm rifle, constructed from high-strength stainless steel. Measuring 254mm in length, it features a 1:10 twist rate for optimal bullet stabilization and accuracy. The bore is precision-crafted and chrome-lined to resist wear and corrosion, while the exterior is treated with a matte black nitride finish for enhanced durability. Designed for reliable performance in various tactical scenarios, this barrel ensures consistent accuracy and effective operation.\n \n
+		<text>A barrel from an automatic special-purpose 9mm rifle, constructed from high-strength stainless steel. Measuring 254mm in length, it features a 1:10 twist rate for optimal bullet stabilization and accuracy. The bore is precision-crafted and chrome-lined to resist wear and corrosion, while the exterior is treated with a matte black nitride finish for enhanced durability. Designed for reliable performance in various tactical scenarios, this barrel ensures consistent accuracy and effective operation. Commonly found in SIG MPX and CZ Scorpion Evo 3 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -382,7 +382,7 @@
 		<text>7.62mm Barrel (PP)</text>
 	</string>
 	<string id="st_barrel_12_descr">
-		<text>A barrel from the legendary PPSh submachine gun system, manufactured from hardened steel. Measuring 269mm in length, it features a smooth bore with a 1:10 twist rate for effective bullet stabilization. The barrel’s robust construction ensures durability and reliability, while the design accommodates the high rate of fire characteristic of the PPSh. Widely regarded for its performance in close-quarters combat, this barrel has played a crucial role in the historical significance of the PPSh, providing consistent accuracy and rapid fire capability.\n \n
+		<text>A barrel from the legendary PPSh submachine gun system, manufactured from hardened steel. Measuring 269mm in length, it features a smooth bore with a 1:10 twist rate for effective bullet stabilization. The barrel’s robust construction ensures durability and reliability, while the design accommodates the high rate of fire characteristic of the PPSh. Widely regarded for its performance in close-quarters combat, this barrel has played a crucial role in the historical significance of the PPSh, providing consistent accuracy and rapid fire capability. Commonly found in PPSh-41 and PPS-43 submachine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -394,7 +394,7 @@
 		<text>12.7x55mm Barrel (Barrel)</text>
 	</string>
 	<string id="st_barrel_13_descr">
-		<text>A barrel from an automatic 12.7x55mm rifle, constructed from high-grade chrome-molybdenum steel. Measuring 400mm in length, it features a 1:8 twist rate for optimal stabilization of heavy, subsonic bullets. The bore is chrome-lined to enhance durability and resist corrosion, while the exterior is treated with a black nitride finish for additional protection and reduced glare. Designed for robust performance, this barrel ensures reliable operation and accuracy, suitable for high-impact, close-quarters engagements and specialized tactical applications.\n \n
+		<text>A barrel from an automatic 12.7x55mm rifle, constructed from high-grade chrome-molybdenum steel. Measuring 400mm in length, it features a 1:8 twist rate for optimal stabilization of heavy, subsonic bullets. The bore is chrome-lined to enhance durability and resist corrosion, while the exterior is treated with a black nitride finish for additional protection and reduced glare. Designed for robust performance, this barrel ensures reliable operation and accuracy, suitable for high-impact, close-quarters engagements and specialized tactical applications. Commonly found in VKS Vykhlop and ShAK-12 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -409,7 +409,7 @@
 		<text>Single-mode Hammer Type Trigger</text>
 	</string>
 	<string id="st_trigger_components_1_descr">
-		<text>A single-mode hammer type trigger, manufactured from high-strength steel. This trigger operates in single action mode, where pulling the trigger releases a pre-cocked hammer to strike the firing pin. It provides straightforward functionality and dependable firing control.\n \n
+		<text>A single-mode hammer type trigger, manufactured from high-strength steel. This trigger operates in single action mode, where pulling the trigger releases a pre-cocked hammer to strike the firing pin. It provides straightforward functionality and dependable firing control. Commonly found in Colt Single Action Army and Browning Hi-Power pistols.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -421,7 +421,7 @@
 		<text>Double-mode Hammer Type Trigger</text>
 	</string>
 	<string id="st_trigger_components_2_descr">
-		<text>A double-mode hammer type trigger, manufactured from hardened steel. This mechanism supports both single and double action modes, with the trigger either cocking and releasing the hammer or just releasing it. It offers greater control over firing.\n \n
+		<text>A double-mode hammer type trigger, manufactured from hardened steel. This mechanism supports both single and double action modes, with the trigger either cocking and releasing the hammer or just releasing it. It offers greater control over firing. Commonly found in Smith &amp; Wesson Model 10 and SIG Sauer P226 pistols.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -433,7 +433,7 @@
 		<text>Triple-fire Hammer Type Trigger</text>
 	</string>
 	<string id="st_trigger_components_3_descr">
-		<text>A triple-fire hammer type trigger, manufactured from high-grade steel. This system allows for single, burst, and fully automatic firing modes by varying the hammer's operation. It provides advanced operational flexibility.\n \n
+		<text>A triple-fire hammer type trigger, manufactured from high-grade steel. This system allows for single, burst, and fully automatic firing modes by varying the hammer's operation. It provides advanced operational flexibility. Commonly found in M16 and AK-47 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -445,7 +445,7 @@
 		<text>Single-fire Mode Trigger Mechanism with Firing Pin</text>
 	</string>
 	<string id="st_trigger_components_4_descr">
-		<text>A single-fire mode trigger mechanism with firing pin, manufactured from durable materials. The trigger directly activates the firing pin for single-shot operation. It ensures reliable performance with minimal maintenance.\n \n
+		<text>A single-fire mode trigger mechanism with firing pin, manufactured from durable materials. The trigger directly activates the firing pin for single-shot operation. It ensures reliable performance with minimal maintenance. Commonly found in Ruger No. 1 and Remington 700 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -457,7 +457,7 @@
 		<text>Double-fire Mode Trigger Mechanism with Firing Pin</text>
 	</string>
 	<string id="st_trigger_components_5_descr">
-		<text>A double-fire mode trigger mechanism with firing pin, manufactured from high-quality components. This system supports both single and burst fire modes, with the trigger controlling the firing pin's action. It offers selectable firing modes for different scenarios.\n \n
+		<text>A double-fire mode trigger mechanism with firing pin, manufactured from high-quality components. This system supports both single and burst fire modes, with the trigger controlling the firing pin's action. It offers selectable firing modes for different scenarios. Commonly found in HK G3 and FN FAL rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -469,7 +469,7 @@
 		<text>Trigger Mechanism with Hammer (R)</text>
 	</string>
 	<string id="st_trigger_components_6_descr">
-		<text>A trigger mechanism with hammer for a double-barrel shotgun, manufactured from hardened steel. This mechanism uses a hammer to strike the firing pin, ensuring reliable ignition. It provides traditional hammer-fired reliability.\n \n
+		<text>A trigger mechanism with hammer for a double-barrel shotgun, manufactured from hardened steel. This mechanism uses a hammer to strike the firing pin, ensuring reliable ignition. It provides traditional hammer-fired reliability. Commonly found in Baikal MP-27 and IZh-27 shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -484,7 +484,7 @@
 		<text>Sliding Bolt Carrier with Turning Bolt Lock (R)</text>
 	</string>
 	<string id="st_bolt_carrier_1_descr">
-		<text>A sliding bolt carrier with a turning bolt lock, produced by Eastern manufacturers. Crafted from high-strength steel, this mechanism ensures secure locking and reliable cycling. The turning bolt lock provides a robust and precise engagement with the chamber, enhancing the overall durability and performance of the firearm.\n \n
+		<text>A sliding bolt carrier with a turning bolt lock, produced by Eastern manufacturers. Crafted from high-strength steel, this mechanism ensures secure locking and reliable cycling. The turning bolt lock provides a robust and precise engagement with the chamber, enhancing the overall durability and performance of the firearm. Commonly found in AK-47 and SVD Dragunov rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -496,7 +496,7 @@
 		<text>Sliding Bolt Carrier with Turning Bolt Lock (R)</text>
 	</string>
 	<string id="st_bolt_carrier_2_descr">
-		<text>A sliding bolt carrier with a turning bolt lock, produced by Eastern manufacturers, from special automatic weapons. Manufactured from premium-grade steel, this component is designed for high-performance automatic firearms. The turning bolt lock mechanism ensures precise and secure chambering, supporting the demanding requirements of specialized military and tactical operations.\n \n
+		<text>A sliding bolt carrier with a turning bolt lock, produced by Eastern manufacturers, from special automatic weapons. Manufactured from premium-grade steel, this component is designed for high-performance automatic firearms. The turning bolt lock mechanism ensures precise and secure chambering, supporting the demanding requirements of specialized military and tactical operations. Commonly found in AK-74 and AN-94 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -508,7 +508,7 @@
 		<text>Sliding Bolt Carrier with Turning Bolt Lock (NATO)</text>
 	</string>
 	<string id="st_bolt_carrier_3_descr">
-		<text>A longitudinally-sliding breech block with lock turn, produced by NATO, from a standard caliber automatic rifle. Constructed from hardened steel, this breech block mechanism facilitates smooth and reliable cycling. The lock turn feature ensures secure chamber engagement, contributing to the consistent and dependable performance expected from NATO-standard rifles.\n \n
+		<text>A longitudinally-sliding breech block with lock turn, produced by NATO, from a standard caliber automatic rifle. Constructed from hardened steel, this breech block mechanism facilitates smooth and reliable cycling. The lock turn feature ensures secure chamber engagement, contributing to the consistent and dependable performance expected from NATO-standard rifles. Commonly found in M16 and HK416 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -520,7 +520,7 @@
 		<text>Sliding Bolt Carrier with a Locking Bias</text>
 	</string>
 	<string id="st_bolt_carrier_4_descr">
-		<text>A sliding bolt carrier with a locking bias. Engineered from durable materials, this bolt carrier features a unique locking bias mechanism that enhances the stability and security of the bolt during firing. It provides reliable operation and improved accuracy by maintaining consistent lockup with the chamber.\n \n
+		<text>A sliding bolt carrier with a locking bias. Engineered from durable materials, this bolt carrier features a unique locking bias mechanism that enhances the stability and security of the bolt during firing. It provides reliable operation and improved accuracy by maintaining consistent lockup with the chamber. Commonly found in FAMAS and SA80 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -532,7 +532,7 @@
 		<text>Half-free Sliding Bolt Carrier</text>
 	</string>
 	<string id="st_bolt_carrier_5_descr">
-		<text>A half-free sliding bolt carrier with a roller brake. Manufactured from robust steel, this mechanism incorporates a roller brake system to control the bolt's movement, reducing recoil and improving cycling efficiency. The half-free design balances reliability and performance, making it suitable for various automatic firearms.\n \n
+		<text>A half-free sliding bolt carrier with a roller brake. Manufactured from robust steel, this mechanism incorporates a roller brake system to control the bolt's movement, reducing recoil and improving cycling efficiency. The half-free design balances reliability and performance, making it suitable for various automatic firearms. Commonly found in G36 and AUG rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -544,7 +544,7 @@
 		<text>Sliding Bolt Carrier with Locking Bolt</text>
 	</string>
 	<string id="st_bolt_carrier_6_descr">
-		<text>A sliding bolt carrier with locking bolt. Manufactured from high-strength steel using precision machining techniques, this mechanism ensures secure locking and smooth cycling. The locking bolt provides tight engagement with the chamber, reducing wear and enhancing the firearm's reliability and longevity.\n \n
+		<text>A sliding bolt carrier with locking bolt. Manufactured from high-strength steel using precision machining techniques, this mechanism ensures secure locking and smooth cycling. The locking bolt provides tight engagement with the chamber, reducing wear and enhancing the firearm's reliability and longevity. Commonly found in AR-15 and FN SCAR rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -556,7 +556,7 @@
 		<text>Lever-type Bolt Carrier with Locking Wedge</text>
 	</string>
 	<string id="st_bolt_carrier_7_descr">
-		<text>A lever-type bolt carrier with a locking wedge. Manufactured from durable materials and incorporating advanced machining, this mechanism features a lever-operated bolt carrier and a locking wedge for secure chamber engagement. This design minimizes recoil and ensures consistent cycling, making it suitable for high-precision applications.\n \n
+		<text>A lever-type bolt carrier with a locking wedge. Manufactured from durable materials and incorporating advanced machining, this mechanism features a lever-operated bolt carrier and a locking wedge for secure chamber engagement. This design minimizes recoil and ensures consistent cycling, making it suitable for high-precision applications. Commonly found in M1 Garand and SVT-40 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -568,7 +568,7 @@
 		<text>Choke from Double-barrel Shotgun (R)</text>
 	</string>
 	<string id="st_bolt_carrier_8_descr">
-		<text>A choke from a double-barrel shotgun. Manufactured from high-quality steel and precision-engineered, this choke fits securely at the muzzle end to control the spread of shot. It improves accuracy and shot patterning, making it essential for hunting and sport shooting. The careful design and manufacturing process ensure a consistent and tight fit, enhancing overall performance.\n \n
+		<text>A choke from a double-barrel shotgun. Manufactured from high-quality steel and precision-engineered, this choke fits securely at the muzzle end to control the spread of shot. It improves accuracy and shot patterning, making it essential for hunting and sport shooting. The careful design and manufacturing process ensure a consistent and tight fit, enhancing overall performance. Commonly found in Baikal MP-27 and IZh-27 shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -580,7 +580,7 @@
 		<text>Choke from Double-barrel Shotgun (R)</text>
 	</string>
 	<string id="st_bolt_carrier_9_descr">
-		<text>A choke from a double-barrel shotgun. Manufactured from hardened steel and produced with exacting tolerances, this choke regulates the dispersion of shot to enhance accuracy and effectiveness. It is designed to fit precisely, ensuring consistent and reliable performance for shooting enthusiasts, with a focus on improving shot consistency and target acquisition.\n \n
+		<text>A choke from a double-barrel shotgun. Manufactured from hardened steel and produced with exacting tolerances, this choke regulates the dispersion of shot to enhance accuracy and effectiveness. It is designed to fit precisely, ensuring consistent and reliable performance for shooting enthusiasts, with a focus on improving shot consistency and target acquisition. Commonly found in Baikal MP-27 and IZh-27 shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -592,7 +592,7 @@
 		<text>Sliding Bolt Carrier with Turning Bolt Lock (NATO)</text>
 	</string>
 	<string id="st_bolt_carrier_10_descr">
-		<text>A sliding bolt carrier with turning bolt lock, product of NATO countries, for a large-caliber automatic rifle. Engineered from premium-grade steel and utilizing advanced heat treatment processes, this mechanism ensures robust locking and reliable cycling for high-caliber rounds. The turning bolt lock provides secure chamber engagement, reducing stress on components and supporting the rigorous demands of large-caliber automatic rifles.\n \n
+		<text>A sliding bolt carrier with turning bolt lock, product of NATO member countries, for a large-caliber automatic rifle. Engineered from premium-grade steel and utilizing advanced heat treatment processes, this mechanism ensures robust locking and reliable cycling for high-caliber rounds. The turning bolt lock provides secure chamber engagement, reducing stress on components and supporting the rigorous demands of large-caliber automatic rifles. Commonly found in FN MAG and M60 machine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -604,7 +604,7 @@
 		<text>Longitudinal-a Sliding Free Bolt Carrier (PP)</text>
 	</string>
 	<string id="st_bolt_carrier_11_descr">
-		<text>A longitudinally sliding free bolt carrier, from a submachine gun. Constructed from high-strength materials and designed with precision engineering, this free-floating bolt carrier mechanism ensures smooth and efficient cycling. Its design allows for rapid fire and minimal recoil, enhancing the submachine gun's reliability and control in fast-paced engagements.\n \n
+		<text>A longitudinally sliding free bolt carrier, from a submachine gun. Manufactured from high-strength materials and designed with precision engineering, this free-floating bolt carrier mechanism ensures smooth and efficient cycling. Its design allows for rapid fire and minimal recoil, enhancing the submachine gun's reliability and control in fast-paced engagements. Commonly found in MP5 and Uzi submachine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
