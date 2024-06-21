@@ -116,7 +116,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-	</text>
+		</text>
 	</string>
 
 	<string id="st_prt_i_wood">
@@ -127,7 +127,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-	</text>
+		</text>
 	</string>
 
 	<string id="st_prt_i_scrap">
@@ -138,7 +138,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-	</text>
+		</text>
 	</string>
 
 	<string id="st_prt_i_fasteners">
@@ -149,7 +149,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-	</text>
+		</text>
 	</string>
 
 	<string id="st_prt_i_plastic">
@@ -160,7 +160,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-	</text>
+		</text>
 	</string>
 	
 	<string id="st_prt_i_glass">
