@@ -1152,7 +1152,5 @@
 		%c[d_cyan] • %c[ui_gray_2] firearm component
 		%c[d_cyan] • %c[ui_gray_2] handgun component (recoil spring)\n</text>
 	</string>
-	
-		</text>
-	</string>
+
 </string_table>
