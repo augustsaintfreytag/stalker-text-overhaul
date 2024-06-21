@@ -619,7 +619,7 @@
 		<text>Dropping-block Breech (R)</text>
 	</string>
 	<string id="st_bolt_1_descr">
-		<text>A dropping-block breech from a smooth-bore shotgun or rifle with lever locking mechanism. Manufactured from high-strength steel, the ledges of the wedge are in good condition, showing minimal wear. This breech mechanism provides reliable locking and smooth operation, enhancing the firearm's overall durability and performance.\n \n
+		<text>A dropping-block breech from a smooth-bore shotgun or rifle with lever locking mechanism. Manufactured from high-strength steel, the ledges of the wedge are in good condition, showing minimal wear. This breech mechanism provides reliable locking and smooth operation, enhancing the firearm's overall durability and performance. Commonly found in Winchester 1885 and Ruger No.1 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -631,7 +631,7 @@
 		<text>Rotating Locking Head (2 Locks) (P)</text>
 	</string>
 	<string id="st_bolt_2_descr">
-		<text>A rotating locking head with two stops from a machine gun with a longitudinally-sliding breech block with lock turn. Constructed from hardened steel, the locking heads are in good condition with minimal signs of usage. This design ensures secure chamber engagement and reliable cycling, critical for maintaining consistent performance in automatic fire.\n \n
+		<text>A rotating locking head with two stops from a machine gun with a longitudinally-sliding breech block with lock turn. Constructed from hardened steel, the locking heads are in good condition with minimal signs of usage. This design ensures secure chamber engagement and reliable cycling, critical for maintaining consistent performance in automatic fire. Commonly found in PKM and RPD machine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -643,7 +643,7 @@
 		<text>Rotating Locking Head (2 Locks) (K)</text>
 	</string>
 	<string id="st_bolt_3_descr">
-		<text>A rotating locking head with two stops from either an automatic or semi-automatic smoothbore rifle, with a longitudinally-sliding breech block with lock turn. Manufactured with precision from durable materials, this component provides tight and reliable locking. The design enhances the firearm's operational reliability and accuracy.\n \n
+		<text>A rotating locking head with two stops from either an automatic or semi-automatic smoothbore rifle, with a longitudinally-sliding breech block with lock turn. Manufactured with precision from durable materials, this component provides tight and reliable locking. The design enhances the firearm's operational reliability and accuracy. Commonly found in Saiga 12 and Vepr 12 shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -655,7 +655,7 @@
 		<text>Rotating Locking Head (2 Locks) (V)</text>
 	</string>
 	<string id="st_bolt_4_descr">
-		<text>A rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with a locking bias and a longitudinally-sliding shutter with a "bolt" lock. Produced from high-grade steel, this mechanism ensures secure and stable locking. The dual-stop design minimizes wear and enhances the rifle's firing stability and accuracy.\n \n
+		<text>A rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with a locking bias and a longitudinally-sliding shutter with a "bolt" lock. Produced from high-grade steel, this mechanism ensures secure and stable locking. The dual-stop design minimizes wear and enhances the rifle's firing stability and accuracy. Commonly found in AK-47 and SKS rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -667,7 +667,7 @@
 		<text>Rotating Locking Head (3 Locks) (V)</text>
 	</string>
 	<string id="st_bolt_5_descr">
-		<text>A rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with lock turn. Engineered from premium materials, this locking head ensures tight chamber engagement and reliable operation. The design supports consistent performance and longevity of the rifle.\n \n
+		<text>A rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with lock turn. Engineered from premium materials, this locking head ensures tight chamber engagement and reliable operation. The design supports consistent performance and longevity of the rifle. Commonly found in HK G3 and FN FAL rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -679,7 +679,7 @@
 		<text>Rotating Locking Head (2 Locks) (А)</text>
 	</string>
 	<string id="st_bolt_6_descr">
-		<text>A rotating locking head with two stops from a machine gun with a longitudinally-sliding breech block with lock turn. Constructed from robust steel, this component shows minimal signs of wear, ensuring dependable locking and smooth cycling. The design enhances the machine gun's reliability and performance in sustained fire conditions.\n \n
+		<text>A rotating locking head with two stops from a machine gun with a longitudinally-sliding breech block with lock turn. Constructed from robust steel, this component shows minimal signs of wear, ensuring dependable locking and smooth cycling. The design enhances the machine gun's reliability and performance in sustained fire conditions. Commonly found in PKM and RPK machine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -691,7 +691,7 @@
 		<text>Rotating Locking Head (4 Locks) (AS)</text>
 	</string>
 	<string id="st_bolt_7_descr">
-		<text>A rotating locking head with four locks from a special automatic rifle with a longitudinally-sliding breech block with lock turn. Manufactured from high-strength steel, this locking head provides secure and precise chamber engagement. The four-lock design enhances stability and durability, ensuring reliable performance in specialized automatic rifles.\n \n
+		<text>A rotating locking head with four locks from a special automatic rifle with a longitudinally-sliding breech block with lock turn. Manufactured from high-strength steel, this locking head provides secure and precise chamber engagement. The four-lock design enhances stability and durability, ensuring reliable performance in specialized automatic rifles. Commonly found in AS Val and VSS Vintorez rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -703,7 +703,7 @@
 		<text>Rotating Locking Head (6 Locks) (A)</text>
 	</string>
 	<string id="st_bolt_8_descr">
-		<text>A rotating locking head with six locks from a machine gun with a longitudinally-sliding breech block with lock turn. Constructed from robust, hardened steel, this component ensures tight and secure locking. The six-lock configuration maximizes reliability and consistency, crucial for the sustained fire capabilities of machine guns.\n \n
+		<text>A rotating locking head with six locks from a machine gun with a longitudinally-sliding breech block with lock turn. Constructed from robust, hardened steel, this component ensures tight and secure locking. The six-lock configuration maximizes reliability and consistency, crucial for the sustained fire capabilities of machine guns. Commonly found in M60 and FN MAG machine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -715,7 +715,7 @@
 		<text>Rotating Locking Head (7 Locks) (A)</text>
 	</string>
 	<string id="st_bolt_9_descr">
-		<text>A rotating locking head with seven locks from a machine gun with a longitudinally-sliding breech block with lock turn. Made from premium-grade steel, this locking head offers superior chamber engagement and stability. The seven-lock design provides enhanced durability and reliable cycling, supporting high-performance operation in demanding conditions.\n \n
+		<text>A rotating locking head with seven locks from a machine gun with a longitudinally-sliding breech block with lock turn. Made from premium-grade steel, this locking head offers superior chamber engagement and stability. The seven-lock design provides enhanced durability and reliable cycling, supporting high-performance operation in demanding conditions. Commonly found in PKM and NSV machine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -727,7 +727,7 @@
 		<text>Rotating Locking Head (8 Locks) (A)</text>
 	</string>
 	<string id="st_bolt_10_descr">
-		<text>A rotating locking head with eight locks from a machine gun with a longitudinally-sliding breech block with lock turn. Engineered from high-strength materials, this locking head ensures optimal secure locking. The eight-lock configuration delivers maximum stability and reliability, essential for maintaining consistent performance during extended automatic fire.\n \n
+		<text>A rotating locking head with eight locks from a machine gun with a longitudinally-sliding breech block with lock turn. Engineered from high-strength materials, this locking head ensures optimal secure locking. The eight-lock configuration delivers maximum stability and reliability, essential for maintaining consistent performance during extended automatic fire. Commonly found in M240 and M134 Minigun machine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -739,7 +739,7 @@
 		<text>Supercharger with Hammer from a Double-barrel Shotgun (R)</text>
 	</string>
 	<string id="st_bolt_11_descr">
-		<text>Right and left supercharger with hammer from a double-barrel shotgun. Manufactured from high-quality steel, these superchargers ensure smooth and reliable cycling. The integrated hammers provide consistent striking power, enhancing the overall performance and dependability of the double-barrel shotgun.\n \n
+		<text>Right and left supercharger with hammer from a double-barrel shotgun. Manufactured from high-quality steel, these superchargers ensure smooth and reliable cycling. The integrated hammers provide consistent striking power, enhancing the overall performance and dependability of the firearm. Commonly found in Baikal MP-27 and IZh-27 shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -751,7 +751,7 @@
 		<text>Hammers from a Hammer-type Double-barrel Shotgun (R)</text>
 	</string>
 	<string id="st_bolt_12_descr">
-		<text>Right and left hammers from the double-barrelled horizontal shotgun. Manufactured from durable steel, these hammers are precision-engineered for reliable ignition. Their robust design ensures consistent performance and longevity, critical for maintaining the functionality of the double-barrel shotgun.\n \n
+		<text>Right and left hammers from the double-barrelled horizontal shotgun. Manufactured from durable steel, these hammers are precision-engineered for reliable ignition. Their robust design ensures consistent performance and longevity, critical for maintaining the functionality of the firearm. Commonly found in Baikal MP-27 and IZh-27 shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -763,7 +763,7 @@
 		<text>Rotating Locking Head (2 Locks) (A) (NATO)</text>
 	</string>
 	<string id="st_bolt_13_descr">
-		<text>Rotating locking head with two stops from a large-caliber automatic rifle produced by NATO countries, with a sliding bolt carrier with turning bolt lock. Manufactured from premium-grade steel, this locking head provides secure and precise chamber engagement. The two-stop design ensures stable locking and reliable cycling, essential for the high performance of large-caliber automatic rifles.\n \n
+		<text>Rotating locking head with two stops from a large-caliber automatic rifle produced by NATO countries, with a sliding bolt carrier with turning bolt lock. Manufactured from premium-grade steel, this locking head provides secure and precise chamber engagement. The two-stop design ensures stable locking and reliable cycling, essential for the high performance of large-caliber automatic rifles. Commonly found in FN SCAR and HK417 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -775,7 +775,7 @@
 		<text>Rotating Locking Head (А/PP)</text>
 	</string>
 	<string id="st_bolt_14_descr">
-		<text>Rotating locking head from either the PP or an automatic rifle with a longitudinal, half-free sliding bolt carrier. Manufactured from high-strength materials, this component ensures tight chamber engagement and smooth operation. The design supports reliable performance in both personal defense weapons and automatic rifles.\n \n
+		<text>Rotating locking head from either the PP or an automatic rifle with a longitudinal, half-free sliding bolt carrier. Manufactured from high-strength materials, this component ensures tight chamber engagement and smooth operation. The design supports reliable performance in both personal defense weapons and automatic rifles. Commonly found in MP5 and Uzi submachine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -787,7 +787,7 @@
 		<text>Drummer with Mainspring (PP)</text>
 	</string>
 	<string id="st_bolt_15_descr">
-		<text>Drummer with the mainspring from some domestic PP with a longitudinal sliding-free bolt carrier. Manufactured from durable steel, this drummer and mainspring assembly ensures consistent firing pin strikes. It supports the dependable cycling and performance of domestically produced personal defense weapons.\n \n
+		<text>Drummer with the mainspring from some domestic PP with a longitudinal sliding-free bolt carrier. Manufactured from durable steel, this drummer and mainspring assembly ensures consistent firing pin strikes. It supports the dependable cycling and performance of domestically produced personal defense weapons. Commonly found in Vityaz-SN and PP-19 Bizon submachine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -799,7 +799,7 @@
 		<text>Drummer with Mainspring (PP) (NATO)</text>
 	</string>
 	<string id="st_bolt_16_descr">
-		<text>Drummer with the mainspring from some imported PP with a longitudinal, sliding-free bolt carrier. Manufactured from high-quality materials, this drummer and mainspring assembly provides reliable firing pin strikes. It enhances the performance and consistency of imported personal defense weapons.\n \n
+		<text>Drummer with the mainspring from some imported PP with a longitudinal, sliding-free bolt carrier. Manufactured from high-quality materials, this drummer and mainspring assembly provides reliable firing pin strikes. It enhances the performance and consistency of imported personal defense weapons. Commonly found in MP5 and UMP submachine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -811,7 +811,7 @@
 		<text>Drummer with Mainspring (PP) (PPSh)</text>
 	</string>
 	<string id="st_bolt_17_descr">
-		<text>Drummer with the mainspring from some Soviet PP, like the PP of Shpagin's system with a longitudinal, sliding-free bolt carrier. Manufactured from robust steel, this drummer and mainspring assembly ensures reliable ignition and consistent performance. It maintains the historical reliability and functionality of Soviet-designed personal defense weapons.\n \n
+		<text>Drummer with the mainspring from some Soviet PP, like the PP of Shpagin's system with a longitudinal, sliding-free bolt carrier. Manufactured from robust steel, this drummer and mainspring assembly ensures reliable ignition and consistent performance. It maintains the historical reliability and functionality of Soviet-designed personal defense weapons. Commonly found in PPSh-41 and PPS-43 submachine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
