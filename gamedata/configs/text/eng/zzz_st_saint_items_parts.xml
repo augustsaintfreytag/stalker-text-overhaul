@@ -826,7 +826,7 @@
 		<text>Gas Tube (K)</text>
 	</string>
 	<string id="st_gas_tube_1_descr">
-		<text>Gas tube from a smoothbore carbine. Manufactured from high-strength steel, this gas tube channels propellant gases from the barrel to the action, ensuring efficient cycling of the firearm. Its precision-engineered design enhances durability and performance, making it a critical component for the reliable operation of smoothbore carbines.\n \n
+		<text>Gas tube from a smoothbore carbine. Manufactured from high-strength steel, this gas tube channels propellant gases from the barrel to the action, ensuring efficient cycling of the firearm. Its precision-engineered design enhances durability and performance, making it a critical component for the reliable operation of smoothbore carbines. Commonly found in Saiga 12 and Vepr 12 carbines.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -838,11 +838,11 @@
 		<text>Handguard (R)</text>
 	</string>
 	<string id="st_gas_tube_2_descr">
-		<text>Mobile handguard from a pump-action shotgun. Manufactured from durable polymer, this handguard provides a secure grip and smooth operation during reloading. It is designed to withstand the stresses of repeated use, offering enhanced control and reliability in various conditions. The mobile mechanism allows for efficient cycling of the shotgun action.\n \n
+		<text>Mobile handguard from a pump-action shotgun. Manufactured from durable polymer, this handguard provides a secure grip and smooth operation during reloading. It is designed to withstand the stresses of repeated use, offering enhanced control and reliability in various conditions. The mobile mechanism allows for efficient cycling of the shotgun action. Commonly found in Remington 870 and Mossberg 500 shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] shotgun component (gas tube)\n
+		%c[d_cyan] • %c[ui_gray_2] shotgun component (handguard)\n
 		</text>
 	</string>
 
@@ -850,7 +850,7 @@
 		<text>Gas Tube (V)</text>
 	</string>
 	<string id="st_gas_tube_3_descr">
-		<text>Gas tube from a self-loading rifle. Manufactured from precision-engineered steel, this gas tube plays a vital role in directing propellant gases to cycle the action. It features a robust construction that ensures consistent gas regulation and reliable operation. Its design optimizes the performance of self-loading rifles, contributing to smoother firing cycles and improved durability.\n \n
+		<text>Gas tube from a self-loading rifle. Manufactured from precision-engineered steel, this gas tube plays a vital role in directing propellant gases to cycle the action. It features a robust construction that ensures consistent gas regulation and reliable operation. Its design optimizes the performance of self-loading rifles, contributing to smoother firing cycles and improved durability. Commonly found in SKS and AK-47 rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -862,7 +862,7 @@
 		<text>Gas Tube (AS/PP)</text>
 	</string>
 	<string id="st_gas_tube_4_descr">
-		<text>Gas tube from a special automatic rifle using a 9mm calibre. Manufactured from high-grade steel, this gas tube is designed to handle the unique demands of 9mm automatic rifles. It effectively channels gases to ensure reliable cycling and reduced recoil. The robust design supports the specialized performance requirements, providing consistent and efficient operation in high-stress environments.\n \n
+		<text>Gas tube from a special automatic rifle using a 9mm calibre. Manufactured from high-grade steel, this gas tube is designed to handle the unique demands of 9mm automatic rifles. It effectively channels gases to ensure reliable cycling and reduced recoil. The robust design supports the specialized performance requirements, providing consistent and efficient operation in high-stress environments. Commonly found in AS Val and VSS Vintorez rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -871,10 +871,10 @@
 	</string>
 
 	<string id="st_gas_tube_5">
-		<text>Gas Tube [A|V] (R)</text>
+		<text>Gas Tube (A/V) (R)</text>
 	</string>
 	<string id="st_gas_tube_5_descr">
-		<text>Gas tube from a semi-automatic or automatic rifle of an Eastern European type. Manufactured from high-quality steel, this gas tube efficiently channels propellant gases to cycle the action. It is designed to withstand the high pressures and heat generated during firing, ensuring reliable and consistent operation in Russian-made rifles.\n \n
+		<text>Gas tube from a semi-automatic or automatic rifle of an Eastern European type. Manufactured from high-quality steel, this gas tube efficiently channels propellant gases to cycle the action. It is designed to withstand the high pressures and heat generated during firing, ensuring reliable and consistent operation in Russian-made rifles. Commonly found in AK-74 and SVD Dragunov rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -883,10 +883,10 @@
 	</string>
 
 	<string id="st_gas_tube_6">
-		<text>Gas Tube [A|V] (NATO)</text>
+		<text>Gas Tube (A/V) (NATO)</text>
 	</string>
 	<string id="st_gas_tube_6_descr">
-		<text>Gas tube from a semi-automatic or automatic rifle of a NATO type. Manufactured from premium-grade steel, this gas tube directs gases to the action to ensure smooth cycling. Its robust construction is tailored to meet NATO standards, providing durability and reliability in various conditions.\n \n
+		<text>Gas tube from a semi-automatic or automatic rifle of a NATO type. Manufactured from premium-grade steel, this gas tube directs gases to the action to ensure smooth cycling. Its robust construction is tailored to meet NATO standards, providing durability and reliability in various conditions. Commonly found in M16 and FN FAL rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -898,7 +898,7 @@
 		<text>Gas Tube (P)</text>
 	</string>
 	<string id="st_gas_tube_7_descr">
-		<text>Gas tube from a machine gun. Manufactured from hardened steel, this gas tube is designed to handle the high gas pressures and volume typical of machine gun operation. It ensures efficient cycling and sustained fire capability.\n \n
+		<text>Gas tube from a machine gun. Manufactured from hardened steel, this gas tube is designed to handle the high gas pressures and volume typical of machine gun operation. It ensures efficient cycling and sustained fire capability. Commonly found in PKM and RPK machine guns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -910,7 +910,7 @@
 		<text>Ejector (V)</text>
 	</string>
 	<string id="st_gas_tube_8_descr">
-		<text>Ejector from a rifle with a sliding bolt carrier with locking bolt. Manufactured from high-strength steel, this ejector is engineered to reliably expel spent cartridges from the chamber. It is designed to work seamlessly with the sliding bolt carrier and locking bolt mechanism, ensuring consistent and efficient ejection in high-performance rifles.\n \n
+		<text>Ejector from a rifle with a sliding bolt carrier with locking bolt. Manufactured from high-strength steel, this ejector is engineered to reliably expel spent cartridges from the chamber. It is designed to work seamlessly with the sliding bolt carrier and locking bolt mechanism, ensuring consistent and efficient ejection in high-performance rifles. Commonly found in AK-47 and SKS rifles.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -922,11 +922,11 @@
 		<text>Ejector from Over-under Double-barrel Shotgun (R)</text>
 	</string>
 	<string id="st_gas_tube_9_descr">
-		<text>Ejector (extractor) from an over-under double barrel shotgun. Manufactured from durable steel, this ejector ensures smooth and reliable extraction of spent shells. It is precisely engineered to fit the over-under double barrel shotgun design, enhancing the firearm's overall performance and ease of use.\n \n
+		<text>Ejector (extractor) from an over-under double barrel shotgun. Manufactured from durable steel, this ejector ensures smooth and reliable extraction of spent shells. It is precisely engineered to fit the over-under double barrel shotgun design, enhancing the firearm's overall performance and ease of use. Commonly found in Baikal MP-27 and IZh-27 shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] shotgun component (gas tube)\n
+		%c[d_cyan] • %c[ui_gray_2] shotgun component (ejector)\n
 		</text>
 	</string>
 
@@ -934,11 +934,11 @@
 		<text>Ejector from Over-under Double-barrel Shotgun (R)</text>
 	</string>
 	<string id="st_gas_tube_10_descr">
-		<text>Ejector from an over-under double barrel shotgun. Manufactured from robust steel, this ejector is designed for reliable and efficient extraction of spent cartridges. Its precise fit and durable construction ensure consistent performance.\n \n
+		<text>Ejector from an over-under double barrel shotgun. Manufactured from robust steel, this ejector is designed for reliable and efficient extraction of spent cartridges. Its precise fit and durable construction ensure consistent performance. Commonly found in Baikal MP-27 and IZh-27 shotguns.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] shotgun component (gas tube)\n
+		%c[d_cyan] • %c[ui_gray_2] shotgun component (ejector)\n
 		</text>
 	</string>
 
@@ -946,7 +946,7 @@
 		<text>Gas Tube (PP)</text>
 	</string>
 	<string id="st_gas_tube_11_descr">
-		<text>Gas tube from the MP5 submachine gun with a handle. Manufactured from high-grade steel, this gas tube is designed to handle the pressures and gas flow of the MP5 submachine gun. The integrated handle provides additional control and ease of use during operation.\n \n
+		<text>Gas tube from the MP5 submachine gun with a handle. Manufactured from high-grade steel, this gas tube is designed to handle the pressures and gas flow of the MP5 submachine gun. The integrated handle provides additional control and ease of use during operation. Commonly found in various MP5 models, like the MP5A1, MP5 MLI, or the MP5K.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
@@ -987,7 +987,7 @@
 		<text>.45 Barrel (Barrel)</text>
 	</string>
 	<string id="st_prt_w_p_barrel_3_descr">
-		<text>A .45 handgun barrel, manufactured from hardened steel. This barrel features deep rifling for superior bullet stabilization and accuracy. Designed to handle the substantial pressures of the .45 ACP round, it ensures reliable performance and long-term durability. Commonly used in firearms such as the Colt M1911, SIG Sauer P220, and the Heckler & Koch USP45.\n \n
+		<text>A .45 handgun barrel, manufactured from hardened steel. This barrel features deep rifling for superior bullet stabilization and accuracy. Designed to handle the substantial pressures of the .45 ACP round, it ensures reliable performance and long-term durability. Commonly used in firearms such as the Colt M1911, SIG Sauer P220, and the Heckler &amp; Koch USP45.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component
@@ -1031,7 +1031,7 @@
 		<text>.357 Barrel (Barrel)</text>
 	</string>
 	<string id="st_prt_w_p_barrel_7_descr">
-		<text>A .357 revolver barrel, manufactured from robust steel. This barrel is designed with deep rifling to ensure excellent bullet stabilization and accuracy. It is built to withstand the high pressures of the .357 Magnum round, providing reliable performance and durability. Commonly used in revolvers such as the Smith & Wesson Model 686, Ruger GP100, and Colt Python.\n \n
+		<text>A .357 revolver barrel, manufactured from robust steel. This barrel is designed with deep rifling to ensure excellent bullet stabilization and accuracy. It is built to withstand the high pressures of the .357 Magnum round, providing reliable performance and durability. Commonly used in revolvers such as the Smith &amp; Wesson Model 686, Ruger GP100, and Colt Python.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component
@@ -1055,7 +1055,7 @@
 		<text>Double-action Trigger Mechanism</text>
 	</string>
 	<string id="st_prt_w_p_trigger_2_descr">
-		<text>A double-action trigger mechanism, manufactured from durable materials. This mechanism allows the trigger to both cock and release the hammer, providing a heavier but more consistent trigger pull with each shot. Commonly used in revolvers like the Smith & Wesson Model 10 and semi-automatic pistols like the SIG Sauer P226.\n \n
+		<text>A double-action trigger mechanism, manufactured from durable materials. This mechanism allows the trigger to both cock and release the hammer, providing a heavier but more consistent trigger pull with each shot. Commonly used in revolvers like the Smith &amp; Wesson Model 10 and semi-automatic pistols like the SIG Sauer P226.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component
@@ -1066,7 +1066,7 @@
 		<text>Double-action (DA/SA) Trigger Mechanism</text>
 	</string>
 	<string id="st_prt_w_p_trigger_3_descr">
-		<text>A double-action (DA/SA) trigger mechanism, manufactured from high-grade steel. This mechanism offers the flexibility of both double-action and single-action modes, allowing for an initial heavy pull followed by lighter subsequent pulls. Commonly found in firearms such as the Beretta 92FS and the Heckler & Koch USP.\n \n
+		<text>A double-action (DA/SA) trigger mechanism, manufactured from high-grade steel. This mechanism offers the flexibility of both double-action and single-action modes, allowing for an initial heavy pull followed by lighter subsequent pulls. Commonly found in firearms such as the Beretta 92FS and the Heckler &amp; Koch USP.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component
