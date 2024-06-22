@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Sorter -->
+	<string id="ui_st_tab_all">
+		<text>All Items (1)</text>
+	</string>
+	<string id="ui_st_tab_weapons">
+		<text>Weapons and Explosives (2)</text>
+	</string>
+	<string id="ui_st_tab_armor">
+		<text>Armour, Helmets, Backpacks and Attachments (3)</text>
+	</string>
+	<string id="ui_st_tab_ammo">
+		<text>Ammo (4)</text>
+	</string>
+	<string id="ui_st_tab_artefact">
+		<text>Artefacts and Parts (5)</text>
+	</string>
+	<string id="ui_st_tab_tools">
+		<text>Devices, Tools and Repair Items (6)</text>
+	</string>
+	<string id="ui_st_tab_food">
+		<text>Drinks, Food, Cooking and Cigarettes (7)</text>
+	</string>
+	<string id="ui_st_tab_meds">
+		<text>Medicine (8)</text>
+	</string>
+	<string id="ui_st_tab_upgrades">
+		<text>Upgrades (9)</text>
+	</string>
+	<string id="ui_st_tab_misc">
+		<text>Miscellaneous Items (10)</text>
+	</string>
+		
+	<!-- Loot mode -->
+	<string id="ui_st_put_all">
+		<text>MOVE ALL</text>
+	</string>
+	<string id="ui_st_put_all_hint">
+		<text>MOVE ALL ITEMS (SHIFT + P)</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>TAKE ALL</text>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>MOVE ALL ITEMS TO BACKPACK (SHIFT + T)</text>
+	</string>
+	
+	<!-- Trade mode -->
+	<string id="ui_total_price">
+		<text>TOTAL</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>BUY</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>SELL</text>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>Sell selected items</text>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>Buy selected items</text>
+	</string>
+	<string id="not_enough_money_actor">
+		<text>Not enough money</text>
+	</string>
+	<string id="not_enough_money_partner">
+		<text>The character does not have enough money.</text>
+	</string>
+	<string id="st_no_trade_tip_1">
+		<text>The trader isn't interested in items like this.</text>
+	</string>
+	<string id="st_no_trade_tip_2">
+		<text>The item is too damaged to be traded.</text>
+	</string>
+
+	<!-- Upgrade mode -->
+	<string id="ui_st_inv_repair">
+		<text>Repair</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>Repair selected item</text>
+	</string>
+	
+	<!-- Quick use items -->
+	<string id="quick_use_str_1">
+		<text>$$ACTION_QUICK_USE_1$$</text>
+	</string>
+	<string id="quick_use_str_2">
+		<text>$$ACTION_QUICK_USE_2$$</text>
+	</string>
+	<string id="quick_use_str_3">
+		<text>$$ACTION_QUICK_USE_3$$</text>
+	</string>
+	<string id="quick_use_str_4">
+		<text>$$ACTION_QUICK_USE_4$$</text>
+	</string>
+	
+	<!-- Player stats -->
+
+	<string id="st_ui_main_sensor">
+		<text>%c[ui_gray_3]RADIATION\n \n
+
+		%c[ui_gray_1]Exposure to ionising radiation poses an extreme, perhaps even fatal, risk. For this reason, the ability to adequately measure radiation levels is a vital skill. The basic unit in the scale of ionising radiation is millisievert %c[ui_gray_3](mSv)%c[ui_gray_1]. Levels of approximately %c[ui_gray_3]8000 mSv %c[ui_gray_1]are usually lethal without a chance of recovery. Radiation levels above the threshold of 1000 mSv (see below) can be endured for a limited time, but are highly detrimental if left untreated. In case of exposure, it is thus strongly advised to administer anti-radiation drugs of appropriate potency as soon as possible.\n \n
+
+		%c[0,102,255,0]50 - 800 mSv: %c[ui_gray_2]Symptoms mostly unnoticeable, usually limited to mild nausea. Increased hydration and nutritional needs, digestion may be affected. Long term consequences negligible. Treatment recommended as soon as possible.\n \n
+
+		%c[0,255,255,0]800 - 2500 mSv: %c[ui_gray_2]Noticeable moderate to strong sickness, light-headedness, skin stains. Long-term symptoms are mild. Full recovery is possible if treated promptly.\n \n
+
+		%c[0,255,122,0]2500 - 4500 mSv: %c[ui_gray_2]Very strong sickness, confusion and dizziness. Condition may lead to premature death if not treated. Symptoms extend to peeling of skin, hair loss, and diarrhea. High risk of permanent loss of reproduction ability. Restoration of bodily functions is feasible with immediate medical attention.\n \n
+
+		%c[d_red]4500 - 6000 mSv: %c[ui_gray_2]Further intensification of all symptoms. Additionally, permanent damage to central nervous system may occur. Death highly probable if not treated immediately with highly potent radiation-cleansing agents.\n \n
+
+		%c[d_red]6000 mSv and above: %c[ui_gray_2]Rapid loss of consciousness. Death highly probable.
+		</text>
+	</string>
+	<string id="ui_inv_burn_protection">
+		<text>%c[ui_gray_3]FIRE PROTECTION\n \n
+
+		%c[ui_gray_1]Burn Resistance is primarily a measure of your ability to withstand thermal anomalies, as well as survive encounters with pyrokinetic mutants. Thermal anomalies come in several forms: they can manifest as a hemisphere of thermal radiation, slowly cooking anything that steps into them. They can manifest as shimmering waves of air that erupt into powerful jets of flame, and they can even manifest as mobile comets. It is not unusual for two or more of these variants to manifest together: for instance, the bridge tunnel leading to Yantar from Wild Territory consists of both the comet and eruption variants.\n \n
+
+		The eruption variant, colloquially known as a "Burner", is several hundred degrees Celsius, and some forms are powerful enough to instantly roast their hapless victims, regardless of their protection. In the north of the Zone, a Burner variant known as the "Boiler" operates on the same principles, but utilizes superheated gushes of steam instead of flame.\n \n
+
+		It is rumoured that thermal anomalies give birth to some of the more powerful artefacts of the Zone, but the dangers are so great, even with proper protection, that most choose to steer clear of them.\n \n
+
+		%c[d_orange]Advisory\n \n
+		
+		%c[ui_gray_1]Important: The percentage values suggested below refer only to how full the Burn Resistance bar appears, which is determined predominantly by armour. This should not be confused with any percentages shown on belt items or consumables, which do not stack additively.\n \n
+
+		%c[d_cyan] •%c[ui_gray_1] Due to the rarity of pyrokinetic mutants, as well as most stalkers' predisposition to not being roasted alive, the average stalker doesn't bother much with Burn Resistance, choosing to steer clear of thermal anomalies entirely, and might incidentally obtain 15% Burn Resistance when they can afford their first decent suit. \n
+		%c[d_cyan] •%c[ui_gray_1] Commissioned military stalkers, who need to be able to operate in the harshest conditions, typically have at least 40% Burn Resistance, which has let them flank more than a few surprised enemies by approaching them through thermal anomalies.\n
+		%c[d_cyan] •%c[ui_gray_1] Independent, full-time artefact hunters and field researchers struggle to afford suit maintenance for the kind of damage that thermal anomalies can do, and as such avoid them the same way most stalkers would unless fulfilling a special contract.\n
+		%c[d_cyan] •%c[ui_gray_1] Accomplished government scientists, however, do not need to worry much about cost, and elect to wear suits with 75% Burn Resistance so that they can operate with relative safety.</text>
+	</string>
+	<string id="ui_inv_chemical_burn_protection">
+		<text>%c[ui_gray_3]CHEMICAL PROTECTION\n \n
+
+		%c[ui_gray_1]Chemical Resistance is a measure of your armour's ability to withstand toxic, acidic or corrosive materials. In the Zone, these materials are most often found in the form of chemical anomalies, the most common of which being the infamous "Burnt Fuzz", a moss or vine-like entity that releases thousands of sharp, toxic spores at the hapless stalker who runs into it. Other forms of chemical anomalies include gas clouds that cover entire areas, slime puddles that rot whatever steps in them, or even miniature acidic fog banks that react explosively to metal or organic matter.\n \n
+
+		All of these excel at eating exposed skin or devouring exposed respiratory systems. Nonetheless, these anomalies are among the first a junior artefact hunter will investigate, as it is relatively cheap to acquire decent armour and medication for resisting their effects.\n \n
+
+		%c[d_orange]Advisory\n \n
+
+		%c[d_cyan] •%c[ui_gray_1] The average stalker should easily achieve at least 30% Chemical Resistance as soon as they can afford their first full-face gas mask and stalker suit, and many find this to be more than enough. If planning to hunt artefacts, they'll usually supplement this protection with appropriate medication.\n
+		%c[d_cyan] •%c[ui_gray_1] Commissioned military stalkers, who need to be able to operate in the harshest conditions, typically have at least 45% Chemical Resistance, allowing them to hide in gas clouds for a limited time if need be.\n
+		%c[d_cyan] •%c[ui_gray_1] Independent, full-time artefact hunters and field researchers agree that 45% Chemical Resistance is sufficient for most cases.\n
+		%c[d_cyan] •%c[ui_gray_1] Government scientists, however, spare no expense, and will typically opt for 55% Chemical Resistance during their field experiments and investigations.</text>
+	</string>
+	<string id="ui_inv_fire_wound_protection">
+		<text>%c[ui_gray_3]BALLISTIC PROTECTION\n \n
+
+		%c[ui_gray_1]Ballistic resistance indicates the anti-ballistic properties of your body armor (the ability to safely absorb the kinetic energy of small, high-velocity objects such as bullets or shrapnel). For assessment purposes, the internationally recognized, American National Institute of Justice (NIJ) system is used:\n \n
+		%c[d_cyan] • %c[ui_gray_2] ARMOR GRADATION CHART:\n
+		%c[d_cyan] • %c[ui_gray_2] NONE:%c[ui_gray_2] 9x18mm, .45 ACP, 12x70 shot\n
+		%c[d_cyan] • %c[ui_gray_2] CLASS I:%c[ui_gray_2] 9x18mm +P+, 9x19mm FMJ, 9x19mm JHP, grenade shrapnel\n
+		%c[d_cyan] • %c[ui_gray_2] CLASS IIA and II:%c[ui_gray_2] 9x18mm RG028, .45 HS, 5.7x28mm SS195, .357 HP, 12x76 slug\n
+		%c[d_cyan] • %c[ui_gray_2] CLASS IIIA:%c[ui_gray_2] 9x19mm AP, 5.45x39mm FMJ/EP, 5.56x45mm FMJ, 7.62x51mm NATO ball, 9x39mm SP-5, 12x76 dart\n
+		%c[d_cyan] • %c[ui_gray_2] CLASS III:%c[ui_gray_2] 5.56x45mm EP/AP, 7.62x39mm FMJ/AP, 7.62x54mm ZN1/PP, 7.92x57mm Mauser, 9x39mm SP-6, 12.7x55mm STs-130\n
+		%c[d_cyan] • %c[ui_gray_2] CLASS IV:%c[ui_gray_2] 5.45x39mm AP, 7.62x51mm NATO AP, 7.62x54mm AP/7H14, 7.92x57mm SA, .338 Lapua Magnum, 12.7x55mm STs-130 VPS\n
+		%c[d_cyan] • %c[ui_gray_2] CLASS V (exoskeleton):%c[d_red] classified\n
+		%c[ui_gray_3]NOTE:\n
+		%c[ui_gray_2]The above-mentioned protection levels only relate to counter-penetration properties of armour. Bullet impact is still capable of inflicting damage by means of blunt trauma due to pure kinetic energy.\n \n
+		
+		%c[d_orange]Advisory\n \n
+
+		%c[d_cyan] •%c[ui_gray_1] The average stalker knows better than to go looking for a fight, and as such can get by on 10% Ballistic Resistance.\n
+		%c[d_cyan] •%c[ui_gray_1] Professional mercenaries, scouts or hitmen will want 15% Ballistic Resistance at a minimum, and will aim for better as soon as they can afford it.\n
+		%c[d_cyan] •%c[ui_gray_1] Spetsnaz operators, who are often expected to disperse small stalker camps and conduct surgical strikes against entrenched positions, will accept no less than 40% Ballistic Resistance.\n
+		%c[d_cyan] •%c[ui_gray_1] Commissioned military stalkers, who are expected to break meatgrinders and turn the tide of the most vicious firefights, go into battle with a minimum of 60% Ballistic Resistance.\n \n
+		</text>
+	</string>
+	<string id="ui_inv_radiation_protection">
+		<text>%c[ui_gray_3]RADIATION PROTECTION\n \n
+		%c[ui_gray_1]Most radiation in the Zone travels via solid alpha particles, commonly inhaled via dust or moisture. The degree to which you are irradiated by these particles is measured in milisieverts, or mSv. You can check your mSv levels at any time, provided you own a Geiger counter.\n \n
+
+		Radiation Resistance measures your suit or mask's ability to filter the air around you, reducing the rate at which you acquire mSv from irradiated areas. However, Radiation Resistance is preventative, not reductive: it does not reduce the damage done by radiation already accrued. If you decide to run naked through the Nuclear Power Plant and acquire 3000 mSv as a result, putting on a gas mask won't do much to save you at that point. Radiation Resistance also does not reduce the radiation accrued through ingesting Zone meats, nor do they block the radiation emitted by artefacts. In these cases, you'll need to rely on specific types of medication or other consumables to flush your system instead.\n \n
+
+		%c[d_orange]Advisory\n \n
+
+		%c[d_cyan] •%c[ui_gray_1] The average stalker will aim for 40% Radiation Resistance as soon as they can afford it.\n
+		%c[d_cyan] •%c[ui_gray_1] Commissioned military stalkers aim for 65% Radiation Resistance, so that even if their masks are damaged they can still enjoy safety from radioactive particles.\n
+		%c[d_cyan] •%c[ui_gray_1] Independent, full-time artefact hunters and field researchers find that 58% Radiation Resistance is enough for most practical scientific purposes.\n
+		%c[d_cyan] •%c[ui_gray_1] Government scientists, however, also err on the side of caution with 65% Radiation Resistance.\n \n
+		</text>
+	</string>
+	<string id="ui_inv_shock_protection">
+		<text>%c[ui_gray_3]ELECTRIC SHOCK PROTECTION\n \n
+
+		%c[ui_gray_1]While the greater scientific community sees Electro anomalies as a potential source for renewable power, to you these electrical manifestations are unstable and deadly oscillations of energy that must be handled with care.\n \n
+
+		%c[ui_gray_1]To this end, Electrical Resistance measures how well your armour insulates you from electric shock. Electrical anomalies can manifest either as "pools" of electricity on the ground, or as "Tesla" comets floating about in a rhythmic fashion.\n \n
+
+		%c[d_orange]Advisory\n \n
+		
+		%c[ui_gray_1]Important: The percentage values suggested below refer only to how full the Electrical Resistance bar appears, which is determined predominantly by armour. This should not be confused with any percentages shown on belt items or consumables, which do not stack additively.\n \n
+
+		%c[d_cyan] •%c[ui_gray_1] Electrical anomalies vary in strength, but the average stalker finds that 20% Electrical Resistance is enough to help them survive the occasional accident.\n
+		%c[d_cyan] •%c[ui_gray_1] Commissioned military stalkers, who must be reasonably ready for absolutely anything, prefer having at least 40% Electrical Resistance, as they know how strong such anomalies can be in the most dangerous parts of the Zone.\n
+		%c[d_cyan] •%c[ui_gray_1] Independent, full-time artefact hunters and field researchers agree that 40-45% Electrical Resistance is sufficient protection in most cases.\n
+		%c[d_cyan] •%c[ui_gray_1] Government scientists, however, will spring for at least 70% Electrical Resistance whenever they can.
+		</text>
+	</string>
+	<string id="ui_inv_telepatic_protection">
+		<text>%c[ui_gray_3]PSYCHOPHYSICAL PROTECTION\n \n
+
+		%c[ui_gray_1]The Zone is a complex maze, full of deadly and unusual traps, and nowhere is this better illustrated than within the deadly psy-anomaly. The most infamous sources of psychic phenomena include the Brain Scorcher, Miracle Machine, Emissions and Psy-Storms, which are too powerful to be resisted outside of the most esoteric or specialized gear.\n \n
+
+		Psychic fields are generally spherical or hemispherical, and are more potent the closer you are to its center. Damage from psy fields is unusual in that it does not harm you physically, but rather saps your self-control or will to live. Overexposure to psy fields inevitably leads to memory loss, suicidal ideation, or loss of consciousness. Recovery from psy-waves requires specialized medication.\n \n
+
+		%c[d_orange]Advisory\n \n
+
+		%c[d_cyan] •%c[ui_gray_1] The average stalker rarely encounters psy-mutants, or might not even believe they exist. Most aim for no more than 5% Psychic Resistance, although wiser stalkers are sure to carry psy-block, alprazolam or marijuana for emergencies.\n
+		%c[d_cyan] •%c[ui_gray_1] Commissioned military stalkers, who must be ready for absolutely anything, will aim for at least 30% Psychic Resistance. Some of them are all too familiar with what can happen if a Controller gets unrestrained access to your mind. \n
+		%c[d_cyan] •%c[ui_gray_1] Independent, full-time artefact hunters or field researchers will aim for at least 50% Psychic Resistance, allowing them to spend time in more potent psy-anomalies.\n
+		%c[d_cyan] •%c[ui_gray_1] Government scientists will go the extra mile, and aim for 55% Psychic Resistance so that they can push that little bit deeper.
+		</text>
+	</string>
+	<string id="ui_inv_wound_protection">
+		<text>%c[ui_gray_3]RUPTURE PROTECTION\n \n
+
+		%c[ui_gray_1]Rupture resistance represents your armour's ability to absorb and displace the trauma imparted by all sorts of physical blows and impacts. These include - but are not limited to - attempted punches, kicks, stabs, cuts, bites and telekinetically thrown debris. This aspect of your armour not only reduces the initial damage caused by such attacks, but also reduces the degree of bleeding any single strike can give you. Rupture resistance also synergise with your ballistic resistance. This is because even bullets that do not penetrate your ballistic armour can still cause blunt trauma, which rupture resistance reduces.\n \n
+
+		%c[d_orange]Advisory\n \n
+
+		%c[d_cyan] •%c[ui_gray_1] Knowing that mutants cannot be reasoned with, the average stalker will aim for a minimum of 15% Rupture Resistance as soon as they can afford it.\n
+		%c[d_cyan] •%c[ui_gray_1] A professional mercenary will also aim for 15% Rupture Resistance as a minimum, and will obtain better when their budget allows.\n
+		%c[d_cyan] •%c[ui_gray_1] Special operators, who are expected to clear out mutant lairs or assist in lab raids, do not settle for less than 40% Rupture Resistance.\n
+		%c[d_cyan] •%c[ui_gray_1] Commissioned operatives and military stalkers, who are expected to survive alone for long periods in the most dangerous parts of the Zone, surprisingly settle for as little as 25% Rupture Resistance, but will exceed their brethren when the mission requires it.
+		</text>
+	</string>
+	<string id="ui_inv_power_restore">
+		<text>%c[ui_gray_3]STAMINA RECOVERY\n \n
+
+		%c[d_cyan] •%c[ui_gray_1] You are not a pack mule, and making peace with this simple truth is the key to managing your energy.\n
+		%c[d_cyan] •%c[ui_gray_1] High stamina recovery makes it easier to sprint great distances, escape gravitational anomalies, vault over obstacle after obstacle, and even resist some paranormal phenomena, such as telekinesis.\n
+		%c[d_cyan] •%c[ui_gray_1] Poor stamina recovery can make even a light walk a draining exercise. When stamina reserves dip too low, it becomes impossible to initiate a sprint. When they empty, it becomes impossible to walk. Better stamina recovery means you'll empty your reserves slower and fill them faster.\n \n
+
+		%c[ui_gray_1]As you don't want to be out of stamina when a live grenade rolls up next to you, or a pack of dogs decides to chase you down, it's important to keep your stamina recovery high.\n \n
+
+		%c[d_cyan] •%c[ui_gray_1] The most basic way to do this is to always ensure you're well fed, rested and hydrated. These three things can already mean the difference between life and death.\n
+		%c[d_cyan] •%c[ui_gray_1] Next, be mindful of your carry weight. If you're carrying more than 50% of your total weight capacity, you may notice your recovery slow slightly. This effect becomes more noticeable as you approach maximum capacity. If you're carrying above your maximum capacity, all actions that drain stamina - including walking - will begin draining it significantly faster.\n
+		%c[d_cyan] •%c[ui_gray_1] Equip higher quality backpacks, or wear armours that grant more carrying capacity than they take up, to let yourself carry more equipment without impacting your stamina recovery.\n
+		%c[d_cyan] •%c[ui_gray_1] Unless specially modified, most gas masks make breathing a hot and sweaty affair. When you don't need your headgear's protective qualities, take it off for a small stamina recovery boost.\n
+		%c[d_cyan] •%c[ui_gray_1] Many artefacts and belt items can boost your recovery rates even further.\n
+		%c[d_cyan] •%c[ui_gray_1] Consumables that boost carry weight or recovery, such as Hercules or energy drinks, can be invaluable for escaping emergencies.
+		</text>
+	</string>
+	<string id="st_ui_bleeding_sensor">
+		<text>%c[ui_gray_3]BLEEDING\n \n
+
+		%c[ui_gray_1]Bleeding can rapidly drain your health if not treated promptly. Bleeding is most often caused by piercing or slashing attacks that manage to get through your armour and puncture your skin, although excessive blunt trauma can cause bleeding through even the sturdiest suits.\n \n
+
+		%c[ui_gray_1]Bandages, army medkits or tourniquets can effectively stop the bleeding, while coagulating agents such as vinca can be used to reduce the overall rate of bleeding. Note that it is generally faster and cheaper to stop your bleeding outright than it is to try regenerate your health through it. Finally, be aware that bleeding is cumulative: multiple small wounds can lead to just as much blood loss as a single severe one.\n \n
+
+		%c[d_cyan] • %c[0,255,255,255]Mild bleeding can be quickly stopped with bandages, or may even stop on its own given time.\n
+		%c[d_cyan] • %c[0,250,250,0]Moderate bleeding can deal a great amount of damage over time if left unattended, but is usually stopped quickly with proper medical attention. Some injuries heal on their own, but others simply lead to a slow death over the course of minutes.\n
+		%c[d_cyan] • %c[d_orange] Serious blood loss can lead to death in less than a minute if it isn't treated immediately. Without imminent medical attention, there is little chance of survival.\n
+		%c[d_cyan] • %c[d_red] Severe blood loss can kill in seconds, even when in peak physical condition. May require extensive medical supplies to treat while in the field.
+		</text>
+	</string>
+	<string id="st_ui_health_sensor_inv">
+		<text>%c[ui_gray_3]HEALTH\n \n
+		
+		%c[ui_gray_1]Your health represents your body's ability to endure physical illness and trauma. A full bar means you're in peak condition, while a nearly empty one means you're about to go into shock. From there, you're as good as dead, so tread carefully. \n \n
+
+		%c[ui_gray_1]Armour, as well as some medication, can protect you from different kinds of pain, making it easier to endure. Some items, like medkits or stimpacks, alleviate pain entirely, treating your injuries and restoring your health.\n \n
+
+		%c[ui_gray_1]However, even the best protection is still worse than avoiding damage outright, which you can do through employing companions, cover, disguises, darkness and paying attention to your environment. In the Zone, the most direct route isn't always the safest.\n \n
+
+		%c[ui_gray_1]Another important factor in your survival is that you stay hydrated, well-fed and well-rested: in other words, take care of yourself. A body that is well looked-after will have a much easier time coping with pain than one that is malnourished, dessicated or passing out from exhaustion.\n \n
+
+		That said, life in the Zone is never without danger, and can be summed up thus: to return to the outside world with treasure is great! To do so without scars is even better! But to not return at all? That's just fate.
+		</text>
+	</string>
+
+</string_table>
