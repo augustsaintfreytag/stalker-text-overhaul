@@ -74,10 +74,10 @@
 		</text>
 	</string>
 	
-	<string id="st_poxod_rukzak">
+	<string id="st_anombp_name">
 		<text>Anomalous Backpack</text>
 	</string>
-	<string id="st_poxod_rukzak_descr">
+	<string id="st_anombp_desc">
 		<text>A bulky experimental backpack made from reinforced nylon with a water-repelling layer and a number of strange patches sewn on its surface. The pack was developed in an experimental series of storage and transportation technology by unknown Zone researchers. Acquired packs seem to "bond" to the owner and multiple packs of the same model display and allow access to the same inside when placed down for a short time. Anomalous backpacks are usually stable when placed down in hideouts as permanent stashes. However, due to reports of recurring instabilities, vanishing valuables, and the comparably high price, anomalous backpacks are considered more of a novelty than a commonly used practicality. In certain lighting conditions, the pack appears to vibrate slightly and has a faint shimmer around its outer shell. The inside appears abnormally dark and can not be lit up. \n \nOffers seemingly unlimited storage capacity for provisions, gear, tools, firearms, munitions, and storage for collected anomalous objects, but must be placed down before use. Can link to other anomalous packs of the same model. Infrequently employed by experienced stalkers and anomalous object researchers in the Zone.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] storage item\n
