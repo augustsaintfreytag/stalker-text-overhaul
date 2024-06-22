@@ -7,8 +7,9 @@
 	</string>
 	<string id="st_flask_descr">
 		<text>A military-issue flask filled with purified water. It is made from high-grade aluminum, a lightweight and durable material. The flask is fitted with a secure, screw-on cap with a rubber gasket to ensure a tight seal. Its outer surface is coated with a matte, non-reflective finish to prevents glints of sunlight in the field. \n \nDifferent types of reusable water flasks are commonly carried by all kinds of operatives in the Zone.\n \n
-		%c[0,255,255,255]PROPERTIES:\n
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] drink\n
+		%c[d_cyan] • %c[ui_gray_2] clean hydration source\n
 		</text>
 	</string>
 
@@ -18,11 +19,11 @@
 		<text>Slozy Zony vodka</text>
 	</string>
 	<string id="st_bottle_metal_descr">
-		<text>A metal flask containing a particular brand of zone-produced vodka. The smell is extraordinarily pungent, the taste is described as burning with notes of pine, hints of maple syrup, and earthy tones. Popular among some factions as a rite of passage. The origins of its distillation are unknown though there are countless rumours of its production process and used ingredients. The vodka is shipped by masked couriers to traders in regular intervals. Common rumors say the product originates from a hidden distillery in the northern corners of the Zone, lacking explanations on how to supply such a remote set-up. \n \n
+		<text>A metal flask containing a particular brand of zone-produced vodka. The smell is extraordinarily pungent, the taste is described as burning with notes of pine, hints of maple syrup, and earthy tones. Popular among some factions as a rite of passage. The origins of its distillation are unknown though there are countless rumours of its production process and used ingredients. The vodka is shipped by masked couriers to traders in regular intervals. Common rumors say the product originates from a hidden distillery in the northern corners of the Zone, lacking explanations on how to supply such a remote set-up.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] drink\n
+		%c[d_cyan] • %c[ui_gray_2] drink\n
 		%c[d_red] • %c[ui_gray_2] strong alcohol\n
-		%c[d_blue] • %c[ui_gray_2] indeterminate quality\n
+		%c[d_cyan] • %c[ui_gray_2] indeterminate quality\n
 		</text>
 	</string>
 
@@ -32,13 +33,14 @@
 		<text>Energy Drink</text>
 	</string>
 	<string id="st_energy_drink_descr">
-		<text>A strong carbonated energy drink with added sugar in a compact aluminum can. Commonly used by stalkers on long trips due to its alertness-boosting effects. It is a highly refreshing, popular beverage with an overwhelmingly sweet and slightly acidic taste. Besides its positive cognitive effects, it also reduces the effects of alcohol intoxication. Should be consumed in moderation. \n \n
+		<text>An off-brand carbonated energy drink in a 250ml aluminum can, produced in Ukraine. Contains caffeine, taurine, and B-vitamins, providing a temporary boost of alertness and energy. The added sugar contributes to a quick surge of energy, though it may lead to a subsequent crash in energy levels. It is a highly refreshing, popular beverage with an overwhelmingly sweet and slightly acidic taste. Besides its positive cognitive effects, it may also reduce the effects of alcohol intoxication.\n \n
+		Caffeinated drinks are commonly used in the Zone for well-tolerated boosts to reduce fatigue and mildly boost strength and cognitive performance in demanding conditions. The sugar content and artificial additives may cause dehydration and jitteriness, more so in higher doses. Moderation is advised.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] drink\n
-		%c[d_blue] • %c[ui_gray_2] imported item\n
-		%c[d_blue] • %c[ui_gray_2] minor stimulant\n
-		%c[d_blue] • %c[ui_gray_2] potent alcohol sobering effect\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_cyan] • %c[ui_gray_2] drink\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_cyan] • %c[ui_gray_2] potent alcohol sobering effect\n
+		%c[d_cyan] • %c[ui_gray_2] clean nutrition source\n
 		</text>
 	</string>
 
@@ -49,10 +51,12 @@
 	</string>
 
 	<string id="st_ground_coffee_descr">
-		<text>A pack of Ukrainian brand coffee beans in a thick paper bag. Contains a dark roast house blend of part Arabica, part Robusta beans with a piercing aroma, a recognizable smell around many camps in the Zone, perfectly suited for welcoming the day's first radiant beams. Tasting notes: Hints of barley and vanilla with undertones of pine and ash. \n \n
+		<text>A pack of Ukrainian brand coffee beans in a thick paper bag. Contains a dark roast house blend of part Arabica, part Robusta beans with a piercing aroma, a recognizable smell around many camps in the Zone, perfectly suited for welcoming the day's first radiant beams.\n \n
+		Coffee beans contain caffeine, a central nervous system stimulant that blocks adenosine receptors in the brain, reducing drowsiness and promoting wakefulness. The presence of chlorogenic acids contributes to the beverage's antioxidant properties and mild acidity. Upon consumption, caffeine is rapidly absorbed into the bloodstream, peaking within 30-60 minutes and metabolized by the liver into active metabolites such as paraxanthine. These metabolites further enhance cognitive function and physical endurance. While providing a much-needed boost in alertness and concentration, excessive intake can lead to increased heart rate, insomnia, and anxiety, especially in high-stress environments.\n \n
+		Tasting notes: Hints of barley and vanilla with undertones of pine and ash.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] imported item\n
-		%c[d_blue] • %c[ui_gray_2] minor stimulant\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
 		</text>
 	</string>
 
@@ -61,11 +65,14 @@
 	</string>
 	
 	<string id="st_brewed_coffee_descr">
-		<text>A durable thermos flask filled with brewed coffee. The brew appears to be from a dark roast with a piercing aroma. Tasting notes: Hints of barley and vanilla with undertones of pine and ash. \n \n
+		<text>A durable thermos flask filled with brewed coffee. The brew appears to be from a dark roast with a piercing aroma. \n \n
+		Coffee contains caffeine, a central nervous system stimulant that blocks adenosine receptors in the brain, reducing drowsiness and promoting wakefulness. The presence of chlorogenic acids contributes to the beverage's antioxidant properties and mild acidity. Upon consumption, caffeine is rapidly absorbed into the bloodstream, peaking within 30-60 minutes and metabolized by the liver into active metabolites such as paraxanthine. These metabolites further enhance cognitive function and physical endurance. While providing a much-needed boost in alertness and concentration, excessive intake can lead to increased heart rate, insomnia, and anxiety, especially in high-stress environments.\n \n
+		Tasting notes: Hints of barley and vanilla with undertones of pine and ash.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] drink\n
-		%c[d_blue] • %c[ui_gray_2] minor stimulant\n
-		%c[d_blue] • %c[ui_gray_2] potent alcohol sobering effect\n
+		%c[d_cyan] • %c[ui_gray_2] drink\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_cyan] • %c[ui_gray_2] potent alcohol sobering effect\n
+		%c[d_cyan] • %c[ui_gray_2] clean nutrition source\n
 		</text>
 	</string>
 
@@ -74,13 +81,14 @@
 	</string>
 	
 	<string id="st_coffee_drink_descr">
-		<text>An imported can of milk coffee, ready to drink. Brewed from Arabica coffee beans, sweetened, mixed with oat milk, and packed in a can. Generally considered below average in taste for coffee consumed in the Zone, but valued for its long shelf life and ease of consumption compared to self-brewed coffee. \n \n
+		<text>An imported can of milk coffee, ready to drink. Brewed from Arabica coffee beans, sweetened, mixed with oat milk, and packed in a can. Canned variants are valued for long shelf life and ease of consumption compared to home-brew coffee, though commonly traded kinds usually swap caffeine contents for sugar and artificial additives. \n \n
+		Coffee contains caffeine, a central nervous system stimulant that blocks adenosine receptors in the brain, reducing drowsiness and promoting wakefulness. The presence of chlorogenic acids contributes to the beverage's antioxidant properties and mild acidity. Upon consumption, caffeine is rapidly absorbed into the bloodstream, peaking within 30-60 minutes and metabolized by the liver into active metabolites such as paraxanthine. These metabolites further enhance cognitive function and physical endurance. While providing a much-needed boost in alertness and concentration, excessive intake can lead to increased heart rate, insomnia, and anxiety, especially in high-stress environments.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] drink\n
-		%c[d_blue] • %c[ui_gray_2] imported item\n
-		%c[d_blue] • %c[ui_gray_2] minor stimulant\n
-		%c[d_blue] • %c[ui_gray_2] potent alcohol sobering effect\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_cyan] • %c[ui_gray_2] drink\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_cyan] • %c[ui_gray_2] potent alcohol sobering effect\n
+		%c[d_cyan] • %c[ui_gray_2] clean nutrition source\n
 		</text>
 	</string>
 </string_table>
