@@ -186,6 +186,15 @@
 		<text>Top Round: </text>
 	</string>
 
+	<!-- Tooltips -->
+
+	<string id="st_tt_base_cost">
+		<text>Base Cost:</text>
+	</string>
+	<string id="st_tt_af_base_cost">
+		<text>Artifact Base Cost:</text>
+	</string>
+
 	<!-- Section Names-->
 
 	<string id="st_ui_info">
