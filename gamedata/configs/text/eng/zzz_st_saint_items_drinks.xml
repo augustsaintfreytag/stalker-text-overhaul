@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<!-- Water -->
-
-	<string id="st_flask">
-		<text>Flask (Purified Water)</text>
-	</string>
-	<string id="st_flask_descr">
-		<text>A military-issue flask filled with purified water. It is made from high-grade aluminum, a lightweight and durable material. The flask is fitted with a secure, screw-on cap with a rubber gasket to ensure a tight seal. Its outer surface is coated with a matte, non-reflective finish to prevents glints of sunlight in the field. \n \nDifferent types of reusable water flasks are commonly carried by all kinds of operatives in the Zone.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] drink\n
-		%c[d_cyan] • %c[ui_gray_2] clean hydration source\n
-		</text>
-	</string>
 
 	<!-- Vodka -->
+
+	<string id="st_vodka">
+		<text>Nemiroff Vodka</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>Nemiroff is a Ukrainian producer of alcoholic beverages, based in the town of Nemyriv in the Vinnytska oblast. Specializing in vodkas and other spirits, they are considered one of the best vodkas in the world and by extension, in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] strong alcoholic drink\n
+		</text>
+	</string>
+	
+	<string id="st_vodka2">
+		<text>Putinka Vodka</text>
+	</string>
+	<string id="st_vodka2_descr">
+		<text>Triple purification, a smooth texture and a unique taste. Following the tradition of naming vodka brands after Russian leaders, Putinka first went into production after Vladimir Putin was elected president. Produced in Russia from the finest grain and crystal clear water from Siberian springs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] strong alcoholic drink\n
+		</text>
+	</string>
+	
+	<string id="st_vodka_quality">
+		<text>Stolichnaya Vodka</text>
+	</string>
+	<string id="st_vodka_quality_descr">
+		<text>A high quality Russian vodka made of wheat and rye grain. A Russian favorite, "Stoli" is quite popular and widely available within the zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] strong alcoholic drink\n
+		</text>
+	</string>
 
 	<string id="st_bottle_metal">
 		<text>Slozy Zony vodka</text>
@@ -21,9 +45,95 @@
 	<string id="st_bottle_metal_descr">
 		<text>A metal flask containing a particular brand of zone-produced vodka. The smell is extraordinarily pungent, the taste is described as burning with notes of pine, hints of maple syrup, and earthy tones. Popular among some factions as a rite of passage. The origins of its distillation are unknown though there are countless rumours of its production process and used ingredients. The vodka is shipped by masked couriers to traders in regular intervals. Common rumors say the product originates from a hidden distillery in the northern corners of the Zone, lacking explanations on how to supply such a remote set-up.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] drink\n
-		%c[d_red] • %c[ui_gray_2] strong alcohol\n
-		%c[d_cyan] • %c[ui_gray_2] indeterminate quality\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_cyan] • %c[ui_gray_2] strong alcoholic drink\n
+		%c[d_orange] • %c[ui_gray_2] indeterminate quality\n
+		</text>
+	</string>
+
+	<!-- Beer -->
+
+	<string id="st_beer">
+		<text>Ukrainian Beer</text>
+	</string>
+	<string id="st_beer_descr">
+		<text>A Ukrainian beer brewed using traditional methods, imported from a Kyiv-based brewery. This amber-colored lager is crafted from a blend of malted barley, hops, yeast, and water sourced from regional aquifers. The fermentation process yields ethanol and carbon dioxide, creating its distinctive alcohol content and effervescence. The beer exhibits a balanced flavor profile, with mild bitterness from the hops and a slightly sweet, malty undertone. While providing a momentary respite and social comfort, its consumption can impair judgment and coordination, posing risks in the unpredictable conditions of the Zone. Moderation is essential to avoid dehydration and diminished alertness during critical operations.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] clean hydration source\n
+		%c[d_cyan] • %c[ui_gray_2] light alcoholic drink\n
+		</text>
+	</string>
+
+	<!-- Water -->
+
+	<string id="st_flask">
+		<text>Flask (w/ Purified Water)</text>
+	</string>
+	<string id="st_flask_descr">
+		<text>A military-issue flask filled with purified water. It is made from high-grade aluminum, a lightweight and durable material. The flask is fitted with a secure, screw-on cap with a rubber gasket to ensure a tight seal. Its outer surface is coated with a matte, non-reflective finish to prevents glints of sunlight in the field. \n \nDifferent types of reusable water flasks are commonly carried by all kinds of operatives in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] clean hydration source\n
+		%c[d_green] • %c[ui_gray_2] alcohol sobering effect\n
+		</text>
+	</string>
+
+	<string id="st_mineral_water">
+		<text>Mineral Water</text>
+	</string>
+	<string id="st_mineral_water_descr">
+		<text>A bottle of calcium-infused carbonated mineral water, sourced from natural springs in Ukraine. The water is enriched with calcium, promoting bone health and aiding in the proper functioning of nerves and muscles. Its carbonation provides a refreshing and crisp taste.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] clean hydration source\n
+		%c[d_green] • %c[ui_gray_2] alcohol sobering effect\n
+		</text>
+	</string>
+
+	<string id="st_water_drink">
+		<text>Sparkling Water</text>
+	</string>
+	<string id="st_water_drink_descr">
+		<text>A can of sparkling mineral water, sourced from natural springs in Ukraine. The water is naturally carbonated and has a crisp and refreshing taste. It is rich in essential minerals such as magnesium and potassium and supports overall health and well-being.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] clean hydration source\n
+		%c[d_green] • %c[ui_gray_2] alcohol sobering effect\n
+
+		</text>
+	</string>
+
+	<!-- Tea -->
+
+	<string id="st_tea">
+		<text>Beard's Tea</text>
+	</string>
+	<string id="st_tea_descr">
+		<text>A particular type of hot tea, made and sold by Beard. As far as details about its recipe are known, it is made from a mixture of sugar, edible dried mushrooms and boiled decontaminated water. Stalkers who can afford to buy the drink often take it with them on long trips in the Zone. It's a good and healthy way to stay on your toes when you're getting tired or when you're out exploring on cold nights.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_cyan] • %c[ui_gray_2] clean hydration source\n
+		%c[d_green] • %c[ui_gray_2] alcohol sobering effect\n
+		</text>
+	</string>
+	
+	<string id="st_drink_crow">
+		<text>Tea "The Beak"</text>
+	</string>
+	<string id="st_drink_crow_descr">
+		<text>"The Beak" is a powerful mixture of Zone-produced vodka and pulverized beak of a black crow. Not every beak can be used as an ingredient, because only black male crows that have lived in the Zone for more than 15 years have mutated sufficiently. Rumour has it that such beaks contain a form of enriched protein that cleanses moderate amounts of radiation from the body. Some even say that drinking "The Beak" makes you feel like you have wings for a few seconds. On the downside however, its taste is awful.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_cyan] • %c[ui_gray_2] clean hydration source\n
+		%c[d_cyan] • %c[ui_gray_2] light alcoholic drink\n
 		</text>
 	</string>
 
@@ -36,7 +146,7 @@
 		<text>An off-brand carbonated energy drink in a 250ml aluminum can, produced in Ukraine. Contains caffeine, taurine, and B-vitamins, providing a temporary boost of alertness and energy. The added sugar contributes to a quick surge of energy, though it may lead to a subsequent crash in energy levels. It is a highly refreshing, popular beverage with an overwhelmingly sweet and slightly acidic taste. Besides its positive cognitive effects, it may also reduce the effects of alcohol intoxication.\n \n
 		Caffeinated drinks are commonly used in the Zone for well-tolerated boosts to reduce fatigue and mildly boost strength and cognitive performance in demanding conditions. The sugar content and artificial additives may cause dehydration and jitteriness, more so in higher doses. Moderation is advised.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] drink\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
 		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
 		%c[d_cyan] • %c[ui_gray_2] potent alcohol sobering effect\n
@@ -69,7 +179,7 @@
 		Coffee contains caffeine, a central nervous system stimulant that blocks adenosine receptors in the brain, reducing drowsiness and promoting wakefulness. The presence of chlorogenic acids contributes to the beverage's antioxidant properties and mild acidity. Upon consumption, caffeine is rapidly absorbed into the bloodstream, peaking within 30-60 minutes and metabolized by the liver into active metabolites such as paraxanthine. These metabolites further enhance cognitive function and physical endurance. While providing a much-needed boost in alertness and concentration, excessive intake can lead to increased heart rate, insomnia, and anxiety, especially in high-stress environments.\n \n
 		Tasting notes: Hints of barley and vanilla with undertones of pine and ash.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] drink\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
 		%c[d_cyan] • %c[ui_gray_2] potent alcohol sobering effect\n
 		%c[d_cyan] • %c[ui_gray_2] clean nutrition source\n
@@ -84,7 +194,7 @@
 		<text>An imported can of milk coffee, ready to drink. Brewed from Arabica coffee beans, sweetened, mixed with oat milk, and packed in a can. Canned variants are valued for long shelf life and ease of consumption compared to home-brew coffee, though commonly traded kinds usually swap caffeine contents for sugar and artificial additives. \n \n
 		Coffee contains caffeine, a central nervous system stimulant that blocks adenosine receptors in the brain, reducing drowsiness and promoting wakefulness. The presence of chlorogenic acids contributes to the beverage's antioxidant properties and mild acidity. Upon consumption, caffeine is rapidly absorbed into the bloodstream, peaking within 30-60 minutes and metabolized by the liver into active metabolites such as paraxanthine. These metabolites further enhance cognitive function and physical endurance. While providing a much-needed boost in alertness and concentration, excessive intake can lead to increased heart rate, insomnia, and anxiety, especially in high-stress environments.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] drink\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
 		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
 		%c[d_cyan] • %c[ui_gray_2] potent alcohol sobering effect\n
