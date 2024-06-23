@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<!--
+		FOOD
+	-->
+
+	<string id="st_mint">
+		<text>Mints</text>
+	</string>
+	<string id="st_mint_descr">
+		<text>A metal tin containing 50 mints. Each mint is composed of sugar, natural and artificial flavorings, and a small amount of peppermint oil, providing a strong, refreshing burst of flavor. The active ingredient, menthol, stimulates the trigeminal nerve endings in the mouth and nose, creating a cooling sensation and aiding in breath freshening. The sturdy, pocket-sized tin ensures the mints remain intact and protected from moisture. While effective for masking odors and providing a quick sense of refreshment, excessive consumption can cause gastrointestinal discomfort due to the high sugar content and artificial additives. Ideal for quick use in the Zone, especially during prolonged missions with limited access to proper oral hygiene.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		</text>
+	</string>
+
+	<string id="st_beans">
+		<text>Baked Beans</text>
+	</string>
+	<string id="st_beans_descr">
+		<text>A 400g tin of baked beans, containing haricot beans immersed in a rich tomato sauce. The primary ingredients include haricot beans, tomato puree, sugar, modified corn starch, and spices. Beans are an excellent source of protein, dietary fiber, and essential minerals such as iron and magnesium, making them a nutritious addition to any meal. The tomato sauce is fortified with antioxidants, including lycopene, for added health benefits. \n \n
+		The can is durable and features a pull-tab lid for easy opening, though its weight can be a slight disadvantage during extended treks. Despite being a reliable and energy-dense food source, the high sodium content may lead to increased thirst, which can be a critical factor in the resource-scarce environment of the Zone.\n \n May bring back nice memories.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		</text>
+	</string>
+
+	<string id="st_tushonka">
+		<text>Beef Tushonka</text>
+	</string>
+	<string id="st_tushonka_descr">
+		<text>A can of Tushonka beef, a canned, stewed meat produced in the Soviet Union and other Warsaw Pact countries. Typically made from pork, beef, or poultry, the meat is slow-cooked with fat, salt, and spices, resulting in a tender and flavorful product. This method ensures a shelf life of several years, making it a reliable food source for both the civilian population and as a standard-issue Red Army ration. It is valued for its high nutritional value with substantial protein and essential fats.\n \n
+		Despite its utilitarian origins, tushonka is appreciated for its relatively good taste and versatility, often used in a variety of dishes from simple stews to more elaborate recipes. The cans are robust and durable and can survive a lot of rough handling. While the high-fat content can sometimes cause the meat to appear greasy, its lack of refrigeration requirements makes it an essential staple in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		</text>
+	</string>
+
+	<string id="st_bread">
+		<text>Bread Loaf</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>A loaf of rye bread, common in Ukraine and Eastern Europe, with a dense texture and dark crust. The bread appears to have been baked recently, with a fresh aroma and slight warmth still emanating from the loaf. Made from a blend of rye flour, water, yeast, and a pinch of salt, it boasts a robust, slightly sour flavor and firm structure, characteristic of traditional Eastern European baking.\n \n
+		Its exact origins are unknown. The loaf is moderately nutritious, rich in fiber and essential minerals. Despite the uncertainty of its provenance, the bread's freshness and hearty composition offer much-needed sustenance and comfort to those who find it.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_green] • %c[ui_gray_2] high quality food item\n
+		</text>
+	</string>
+
+	<string id="st_conserva">
+		<text>Can of Tuna</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>A small sealed can of Black Sea tuna in oil. The can contains chunks of locally caught tuna in sunflower oil. It is high in protein and essential omega-3 fatty acids, a staple for cardiovascular health and cognitive function.\n \n
+		The oil adds caloric value, making it a dense source of energy. While the tuna provides vital nutrients, the oil can give it a slightly greasy texture. Canned fishes and meats are a practical food source, offering sustenance and convenience in a small form factor.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		</text>
+	</string>
+
+	<string id="st_corn">
+		<text>Canned Corn
+		</text>
+	</string>
+	<string id="st_corn_descr">
+		<text>A small can of sweet corn. The kernels are preserved in a lightly salted brine to maintain their natural sweetness and crisp texture, they have a bright yellow color. Corn is a versatile ingredient and can be eaten straight from the can or used to enhance soups and other dishes with its pleasant flavor and high nutritional value. The can ensures its contents remain intact during transport, making it a reliable source of energy and nutrients for those in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		</text>
+	</string>
+
+	<string id="st_tomato">
+		<text>Canned Tomatoes</text>
+	</string>
+	<string id="st_tomato_descr">
+		<text>A can of sliced and diced tomatoes. The tomatoes are preserved at peak ripeness for a rich and tangy flavor These tomatoes are a staple for various recipes, adding essential vitamins and a robust taste to soups, stews, and sauces. The durable can ensures the tomatoes remain in excellent condition, providing a valuable and versatile ingredient for stalkers in the Zone. The best-before date on the bottom indicates they are still fresh and ready for consumption.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		</text>
+	</string>
+
+	<string id="st_chili">
+		<text>Chili Beans</text>
+	</string>
+	<string id="st_chili_descr">
+		<text>A can of chili beans, preserved in a flavorful chili sauce that enhances their natural taste. They are rich in protein and fiber, they are a nutritious addition to many stalker dishes, offering both sustenance and a satisfying flavor. The can is built to withstand the challenges of transport and rough handling, making it a dependable food source in the Zone. Whether used in stews, mixed with rice, or enjoyed on their own, these chili beans are a valuable asset for any stalker's provisions.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		</text>
+	</string>
+
+	<string id="st_protein">
+		<text>Chocolate Protein Bar</text>
+	</string>
+	<string id="st_protein_descr">
+		<text>A Polish brand chocolate protein bar with a balanced composition of whey protein concentrate, cocoa mass, and sugar, enriched with essential vitamins and minerals. The primary ingredients include milk proteins, soy lecithin as an emulsifier, and natural flavors. This bar offers 20 grams of high-quality protein, which is beneficial for muscle repair and growth, and provides a convenient energy boost with its moderate carbohydrate content. Protein bars are good for quick sustenance in the Zone. Compact size and long shelf life make them a practical addition to any provisions pack.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_green] • %c[ui_gray_2] high quality food item\n
+		</text>
+	</string>
+
+	<string id="st_kolbasa">
+		<text>Doctor's Sausage</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>Originally formulated as a dietary remedy for citizens suffering from malnutrition, Doctor's Sausage is made with a blend of finely ground pork and beef, mixed with eggs, milk, and a modest amount of spices. Known for its mild flavor and soft texture, it became a staple in the USSR due to its affordability and nutritional value. Each wrapped sausage is rich in proteins and fats, providing essential calories and nutrients, but its relatively high sodium content necessitates moderate consumption. It is considered a luxury item in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_green] • %c[ui_gray_2] high quality food item\n
+		</text>
+	</string>
+
+	<string id="st_nuts">
+		<text>Mixed Nuts</text>
+	</string>
+	<string id="st_nuts_descr">
+		<text>A premium blend of assorted peanuts, hazelnuts, cashews, and almonds, imported from South Africa, these mixed nuts offer a dense nutritional profile. Each serving is packed with healthy fats, proteins, and dietary fiber, alongside essential vitamins and minerals like vitamin E, magnesium, and zinc. The nuts are lightly roasted to preserve their natural flavors and nutritional integrity. Mixed nuts are a solid energy-dense snack, a popular choice for longer treks.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		</text>
+	</string>
+	
+	<string id="st_raisins">
+		<text>Raisins</text>
+	</string>
+	<string id="st_raisins_descr">
+		<text>A pack of Polish brand raisins, made from sun-dried seedless grapes. Raisins are a concentrated source of natural sugars, providing quick energy and essential nutrients. They are rich in dietary fiber, iron, and potassium, and aid in digestion and to replenish electrolytes depleted during strenuous activities. Their high antioxidant content also contributes to overall health. Conveniently packaged for easy transport, raisins are a practical snack for the Zone, although their stickiness can make them difficult to handle without also attracting dirt and contaminants.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		</text>
+	</string>
+	
+	<string id="st_chocolate">
+		<text>Chocolate Bar</text>
+	</string>
+	<string id="st_chocolate_descr">
+		<text>A Ukrainian brand dark chocolate bar with a rich and pleasant flavor profile, composed of 70% cocoa solids. The primary ingredients include cocoa mass, cocoa butter, and a small amount of sugar, with no added milk. The chocolate undergoes a meticulous conching process, enhancing its smooth texture and deep flavor. Dark chocolate is known for its high antioxidant content, which supports cardiovascular health and provides a moderate energy boost. Its dense calorie content makes it a valuable treat in the Zone, though its fragility and susceptibility to heat advises careful handling.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_green] • %c[ui_gray_2] high quality food item\n
+		</text>
+	</string>
+	
+    <string id="st_chocolate_p">
+		<text>Chocolate Bar (Half)</text>
+	</string>
+    <string id="st_chocolate_p_descr">
+		<text>A Ukrainian brand dark chocolate bar with a rich and pleasant flavor profile, composed of 70% cocoa solids. The primary ingredients include cocoa mass, cocoa butter, and a small amount of sugar, with no added milk. The chocolate undergoes a meticulous conching process, enhancing its smooth texture and deep flavor. Dark chocolate is known for its high antioxidant content, which supports cardiovascular health and provides a moderate energy boost. Its dense calorie content makes it a valuable treat in the Zone, though its fragility and susceptibility to heat advises careful handling.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_green] • %c[ui_gray_2] high quality food item\n
+		</text>
+	</string>
+	
+	<string id="st_salmon">
+		<text>Smoked Salmon
+		</text>
+	</string>
+	<string id="st_salmon_descr">
+		<text>A pack of smoked salmon, caught in the rich waters of the Black Sea near Ukraine. This brand undergoes a meticulous preparation process. After being carefully filleted, the fish is cured in a brine of salt and brown sugar, then cold-smoked over a blend of hardwoods, imparting a rich, smoky flavor. This method preserves the salmon's delicate texture while enhancing its natural oils and omega-3 fatty acid content. Salmon is considered a highly valued luxury food in the Zone. Comes packed for safe storage.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_green] • %c[ui_gray_2] high quality food item\n
+		</text>
+	</string>
+
+	<string id="st_sausage">
+		<text>Smoked Sausage</text>
+	</string>
+	<string id="st_sausage_descr">
+		<text>Packed smoked sausage imported from Poland, made from a traditional blend of beef and pork, and seasoned with garlic, marjoram, and a hint of pepper. The sausage is encased and then smoked over oak and beechwood, imparting a deep, savory flavor. Vacuum packaging ensures that the sausage remains fresh and edible for extended periods. A popular imported food due to its high protein and fat content.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_green] • %c[ui_gray_2] high quality food item\n
+		</text>
+	</string>
+
+	<string id="st_breadold">
+		<text>Stale Bread Loaf</text>
+	</string>
+	<string id="st_breadold_descr">
+		<text>A dry and hardened loaf of bread, originally baked from simple ingredients such as wheat flour, water, yeast, and salt. Despite its subpar texture and chewiness, stale bread retains its caloric and nutritional value, mainly carbohydrates. In the Zone, even stale foods are valued with imported items being expensive to acquire and hunting remaining a dangerous task. May be revived by wetting and toasting or using it as a thickening agent for soups and stews.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_purple] • %c[ui_gray_2] stale food item\n
+		</text>
+	</string>
+
+	<!--
+		COMBAT RATIONS
+	-->
+
+	<string id="st_mre">
+		<text>USA Military MRE</text>
+	</string>
+	<string id="st_mre_descr">
+		<text>A United States military MRE (Meal, Ready-to-Eat), a self-contained, individual field ration in lightweight packaging, developed for US service members for use in combat or other field conditions where organized food facilities are not available. The packaging of an MRE is designed to withstand rough conditions and exposure to the elements. Contains a main course along with a variety of other foods and snacks. Includes magnesium-based ration heater elements to prepare warm meals.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_cyan] • %c[ui_gray_2] military combat ration\n
+		%c[d_cyan] • %c[ui_gray_2] 3 portions per ration\n
+		</text>
+	</string>
+
+	<string id="st_ration_ru">
+		<text>Russian IRP-B Combat Ration</text>
+	</string>
+	<string id="st_ration_ru_descr">
+		<text>A Russian military MRE (Meal, Ready-to-Eat), a self-contained individual field ration in lightweight packaging, developed for Russian service members for use in combat or other field conditions where organized food facilities are not available. Includes units for breakfast, lunch, and dinner, all in one package. Includes various food items whose function is to provide the body with all minerals and micro-elements essential for your health as well as disposable cooking equipment (small metal frame, fuel tablets, matches, striker) and other items (e.g. napkins, cutlery) facilitating use in field conditions. Comes with a polymeric box that protects the ingredients from hazardous environmental conditions.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_cyan] • %c[ui_gray_2] military combat ration\n
+		%c[d_cyan] • %c[ui_gray_2] 6 portions per ration\n
+		</text>
+	</string>
+	
+	<string id="st_ration_ukr">
+		<text>Ukrainian Combat Ration</text>
+	</string>
+	<string id="st_ration_ukr_descr">
+		<text>A Ukrainian Armed Forces MRE (Meal, Ready-to-Eat), a self-contained individual field ration in lightweight packaging, developed for Ukrainian service members for use in combat or other field conditions where organized food facilities are not available. The pack is comprised of commercially available cans and dried food items packed together in a sectioned box (resembling a takeout tray) made of thin green plastic, along with a number of other items (e.g. napkins, cutlery) facilitating use in field conditions. Contains all that is necessary to provide a healthy adult with all calories and minerals needed during a single day.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_cyan] • %c[ui_gray_2] military combat ration\n
+		%c[d_cyan] • %c[ui_gray_2] 6 portions per ration\n
+		</text>
+	</string>
+	
+	<!--
+		TOBACCO
+	-->
+	
+	<string id="st_cigarettes_lucky">
+		<text>Cigarettes (Lucky Strike)</text>
+	</string>
+	<string id="st_cigarettes_lucky_descr">
+		<text>A pack of Lucky Strike brand cigarettes in its iconic red and white packaging with the red circular logo. The pack contains classically blended cigarettes made from a mix of high-quality American-grown tobacco. Lucky Strike is known for a robust flavor and smooth smoking experience. The tobacco used undergoes a unique toasting process to enhance natural taste and reduce harshness. The pack comes with a typical flip-top box, ensuring the cigarettes remain fresh and protected from environmental factors. Cigarettes and their additives come with a number of significant health risks, including respiratory and cardiovascular diseases.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] tobacco\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_red] • %c[ui_gray_2] adverse health effects\n
+		</text>
+	</string>
+
+	<string id="st_cigarettes">
+		<text>Cigarettes (Marlboro)</text>
+	</string>
+	<string id="st_cigarettes_descr">
+		<text>A pack of Marlboro brand cigarettes in its iconic red and white packaging. The pack contains cigarettes made from a blend of high-quality American and international tobaccos. Marlboro cigarettes are known for a rich, full-bodied flavor, and consistent smoking experience. The blend is selected and processed to maintain a signature taste and aroma. The pack features a flip-top box design, ensuring the cigarettes stay fresh and protected from environmental factors. Cigarettes and their additives come with a number of significant health risks, including respiratory and cardiovascular diseases.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] tobacco\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_red] • %c[ui_gray_2] adverse health effects\n
+		</text>
+	</string>
+
+	<string id="st_cigarettes_russian">
+		<text>Cigarettes (Russian)</text>
+	</string>
+	<string id="st_cigarettes_russian_descr">
+		<text>A pack of budget brand Russian cigarettes, distinguished by a utilitarian design and Cyrillic branding. The pack contains cigarettes made from a blend of domestic and imported tobaccos, chosen for a robust flavor profile. They are known for a strong, intense smoking experience, and a higher nicotine content compared to most Western brands. The tobacco undergoes a traditional curing process to preserve natural characteristics. The pack features a flip-top box or soft packaging, ensuring the cigarettes remain fresh and protected from environmental factors. Cigarettes and their additives come with a number of significant health risks, including respiratory and cardiovascular diseases.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] tobacco\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_red] • %c[ui_gray_2] adverse health effects\n
+		</text>
+	</string>
+	
+	<string id="st_cigar1">
+		<text>Unused?</text>
+	</string>
+	<string id="st_cigar1_descr">
+		<text>A pack of budget, strong cigarettes of average quality. Genuine USSR flavour has been carefully preserved.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] tobacco\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_red] • %c[ui_gray_2] adverse health effects\n
+		</text>
+	</string>
+	
+	<string id="st_cigar2">
+		<text>Unused?</text>
+	</string>
+	<string id="st_cigar2_descr">
+		<text>A pack of budget, strong cigarettes of average quality. Genuine USSR flavour has been carefully preserved.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] tobacco\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_red] • %c[ui_gray_2] adverse health effects\n
+		</text>
+	</string>
+	
+	<string id="st_cigar3">
+		<text>Unused?</text>
+	</string>
+	<string id="st_cigar3_descr">
+		<text>A pack of budget, strong cigarettes of average quality. Genuine USSR flavour has been carefully preserved.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] tobacco\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_red] • %c[ui_gray_2] adverse health effects\n
+		</text>
+	</string>
+
+	<string id="st_cuban_cigar">
+		<text>Cuban Cigar</text>
+	</string>
+	<string id="st_cuban_cigar_descr">
+		<text>This valuable Cuban cigar can bring bliss for a short while, especially when admiring a nice sunset. Cuban cigars are considered the finest in the world. A rare commodity.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] tobacco\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_red] • %c[ui_gray_2] adverse health effects\n
+		</text>
+	</string>
+	
+	<string id="st_hand_rolling_tobacco">
+		<text>Hand-rolling Tobacco (Latvian)</text>
+	</string>
+	<string id="st_hand_rolling_tobacco_descr">
+		<text>A pack of Latvian brand hand-rolling tobacco in a resealable pouch. The tobacco is made from a blend of fine Latvian and imported tobacco leaves, known for a mild yet distinctive flavor profile. It is carefully air-cured and hand-selected to provide a smooth, even burn and an overall pleasant smoking experience. The pouch includes a small booklet of rolling papers and a number of filters. Hand-rolling options are usually less expensive than pre-rolled cigarettes. Tobacco products and their additives come with a number of significant health risks, including respiratory and cardiovascular diseases.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] tobacco\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_red] • %c[ui_gray_2] adverse health effects\n
+		</text>
+	</string>
+	
+	<string id="st_tobacco">
+		<text>Hand-rolling Tobacco (Polish)</text>
+	</string>
+	<string id="st_tobacco_descr">
+		<text>A pack of Polish brand hand-rolling tobacco in a resealable pouch. The tobacco is made from a blend of Polish and imported tobacco leaves, known for an aromatic and slightly sweet flavor profile. It is carefully air-cured and hand-selected to provide a smooth, even burn and an overall pleasant smoking experience. The pouch includes a small booklet of rolling papers and a number of filters. Hand-rolling options are usually less expensive than pre-rolled cigarettes. Tobacco products and their additives come with a number of significant health risks, including respiratory and cardiovascular diseases.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] tobacco\n
+		%c[d_cyan] • %c[ui_gray_2] imported item\n
+		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
+		%c[d_red] • %c[ui_gray_2] adverse health effects\n
+		</text>
+	</string>
+
+</string_table>
