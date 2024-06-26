@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="tagged_patches_belonged">
+		<text>- Belonged to a stalker named </text>
+	</string>
+
+	<string id="tagged_patches_of_rank">
+		<text>of rank</text>
+	</string>
+	
+	<string id="tagged_patches_killedby">
+		<text>- They were killed by </text>
+	</string>
+	
+	<string id="tagged_patches_cause_pre">
+		<text>- They died to </text>
+	</string>
+	
+	<string id="tagged_patches_witha">
+		<text>with a</text>
+	</string>
+	
+	<string id="tagged_patches_range_of">
+		<text>at a range of</text>
+	</string>
+	
+	<string id="tagged_patches_actorpatch">
+		<text>- This patch belongs to </text>
+	</string>
+	
+	<string id="tagged_patches_location">
+		<text>- Location of death: </text>
+	</string>
+
+	<string id="tagged_patches_time">
+		<text>- Time of death: </text>
+	</string>
+	
+	<string id="tagged_patches_wounds">
+		<text>- All wounds</text>
+	</string>
+	
+	<string id="tagged_patches_finalwound">
+		<text>- Died from a final wound to the</text>
+	</string>
+	
+	<string id="tagged_patches_mutantkill">
+		<text>injuries caused by a mutant</text>
+	</string>
+	
+	<string id="tagged_patches_unknown">
+		<text>- Cause of death unknown</text>
+	</string>
+	
+	<string id="tagged_patches_cause_melee">
+		<text>a melee weapon</text>
+	</string>
+	
+	<string id="tagged_patches_cause_explosion">
+		<text>an explosion</text>
+	</string>
+	
+	<string id="tagged_patches_cause_grenade">
+		<text>a grenade or warhead</text>
+	</string>
+	
+	<string id="tagged_patches_cause_weapon">
+		<text>a gunshot</text>
+	</string>
+	
+	<string id="tagged_patches_cause_pistolsmg">
+		<text>a pistol or sub-machine gun caliber gunshot</text>
+	</string>
+	
+	<string id="tagged_patches_cause_shotgun">
+		<text>buckshot from a shotgun</text>
+	</string>
+	
+	<string id="tagged_patches_cause_shotgun_slug">
+		<text>a slug from a shotgun</text>
+	</string>
+	
+	<string id="tagged_patches_cause_rifle">
+		<text>a rifle caliber gunshot</text>
+	</string>
+	
+	<string id="tagged_patches_cause_sniper">
+		<text>a large rifle caliber gunshot</text>
+	</string>
+	
+	<string id="tagged_patches_actor_strike">
+		<text>a melee strike</text>
+	</string>
+	
+	<string id="tagged_patches_mountedgun">
+		<text>a gunshot from a mounted machine gun</text>
+	</string>
+	
+	<string id="tagged_patches_helicopter">
+		<text>a gunshot from a helicopter</text>
+	</string>
+	
+	<string id="tagged_patches_blind_dog">
+		<text>Blind dog</text>
+	</string>
+	<string id="tagged_patches_blind_dog_pre">
+		<text>- They were eaten by a </text>
+	</string>
+	
+	<string id="tagged_patches_bloodsucker">
+		<text>Bloodsucker</text>
+	</string>
+	<string id="tagged_patches_bloodsucker_pre">
+		<text>- They had their blood drained by a </text>
+	</string>
+	
+	<string id="tagged_patches_boar">
+		<text>Boar</text>
+	</string>
+	<string id="tagged_patches_boar_pre">
+		<text>- They were gored by a </text>
+	</string>
+	
+	<string id="tagged_patches_burer">
+		<text>Burer</text>
+	</string>
+	<string id="tagged_patches_burer_pre">
+		<text>- They were killed by a </text>
+	</string>
+	
+	<string id="tagged_patches_cat">
+		<text>Cat</text>
+	</string>
+	<string id="tagged_patches_cat_pre">
+		<text>- They got scratched to death by a </text>
+	</string>
+	
+	<string id="tagged_patches_chimera">
+		<text>Chimera</text>
+	</string>
+	<string id="tagged_patches_chimera_pre">
+		<text>- They were ripped apart by a </text>
+	</string>
+	
+	<string id="tagged_patches_controller">
+		<text>Controller</text>
+	</string>
+	<string id="tagged_patches_controller_pre">
+		<text>- Their brain was fried by a </text>
+	</string>
+	
+	<string id="tagged_patches_flesh">
+		<text>Flesh</text>
+	</string>
+	<string id="tagged_patches_flesh_pre">
+		<text>- They were slashed by a </text>
+	</string>
+	
+	<string id="tagged_patches_fracture">
+		<text>Fracture</text>
+	</string>
+	<string id="tagged_patches_fracture_pre">
+		<text>- They were killed by a </text>
+	</string>
+	
+	<string id="tagged_patches_karlik">
+		<text>Karlik</text>
+	</string>
+	<string id="tagged_patches_karlik_pre">
+		<text>- They were punched in the gut by a </text>
+	</string>
+	
+	<string id="tagged_patches_poltergeist">
+		<text>Poltergeist</text>
+	</string>
+	<string id="tagged_patches_poltergeist_pre">
+		<text>- They were fried by a </text>
+	</string>
+	
+	<string id="tagged_patches_pseudodog">
+		<text>Pseudodog</text>
+	</string>
+	<string id="tagged_patches_pseudodog_pre">
+		<text>- They were eaten by a </text>
+	</string>
+	
+	<string id="tagged_patches_pseudogeist">
+		<text>Pseudogeist</text>
+	</string>
+	<string id="tagged_patches_pseudogeist_pre">
+		<text>- They were killed by a </text>
+	</string>
+	
+	<string id="tagged_patches_pseudogiant">
+		<text>Pseudogiant</text>
+	</string>
+	<string id="tagged_patches_pseudogiant_pre">
+		<text>- They were stomped on by a </text>
+	</string>
+	
+	<string id="tagged_patches_psydog">
+		<text>Psy-dog</text>
+	</string>
+	<string id="tagged_patches_psydog_pre">
+		<text>- They were killed by a </text>
+	</string>
+	
+	<string id="tagged_patches_pyrogeist">
+		<text>Pyrogeist</text>
+	</string>
+	<string id="tagged_patches_pyrogeist_pre">
+		<text>- They were burned alive by a </text>
+	</string>
+	
+	<string id="tagged_patches_snork">
+		<text>Snork</text>
+	</string>
+	<string id="tagged_patches_snork_pre">
+		<text>- They were torn apart by a </text>
+	</string>
+	
+	<string id="tagged_patches_tushkano">
+		<text>Tushkano</text>
+	</string>
+	<string id="tagged_patches_tushkano_pre">
+		<text>- They were bitten to death by a </text>
+	</string>
+	
+	<string id="tagged_patches_zombie">
+		<text>Zombie</text>
+	</string>
+	<string id="tagged_patches_zombie_pre">
+		<text>- They were killed by a </text>
+	</string>
+	
+	<string id="tagged_patches_psysucker">
+		<text>Psysucker</text>
+	</string>
+	<string id="tagged_patches_psysucker_pre">
+		<text>- They had their blood drained by a </text>
+	</string>
+	
+	<string id="tagged_patches_lurker">
+		<text>Lurker</text>
+	</string>
+	<string id="tagged_patches_lurker_pre">
+		<text>- They were clawed to death by a </text>
+	</string>
+	
+	<string id="tagged_patches_bone_whole_body">
+		<text>Whole Body</text>
+	</string>
+	<string id="tagged_patches_bone_pelvis">
+		<text>Pelvis</text>
+	</string>
+	<string id="tagged_patches_bone_left_thigh">
+		<text>Left Thigh</text>
+	</string>
+	<string id="tagged_patches_bone_left_calf">
+		<text>Left Calf</text>
+	</string>
+	<string id="tagged_patches_bone_left_foot">
+		<text>Left Foot</text>
+	</string>
+	<string id="tagged_patches_bone_right_thigh">
+		<text>Right Thigh</text>
+	</string>
+	<string id="tagged_patches_bone_right_calf">
+		<text>Right Calf</text>
+	</string>
+	<string id="tagged_patches_bone_right_foot">
+		<text>Right Foot</text>
+	</string>
+	<string id="tagged_patches_bone_left_foot">
+		<text>Left Foot</text>
+	</string>
+	<string id="tagged_patches_bone_stomach">
+		<text>Stomach</text>
+	</string>
+	<string id="tagged_patches_bone_chest">
+		<text>Chest</text>
+	</string>
+	<string id="tagged_patches_bone_neck">
+		<text>Neck</text>
+	</string>
+	<string id="tagged_patches_bone_head">
+		<text>Head</text>
+	</string>
+	<string id="tagged_patches_bone_left_eye">
+		<text>Left Eye</text>
+	</string>
+	<string id="tagged_patches_bone_right_eye">
+		<text>Right Eye</text>
+	</string>
+	<string id="tagged_patches_bone_jaw">
+		<text>Jaw</text>
+	</string>
+	<string id="tagged_patches_bone_left_shoulder">
+		<text>Left Shoulder</text>
+	</string>
+	<string id="tagged_patches_bone_left_upper_arm">
+		<text>Left Upper Arm</text>
+	</string>
+	<string id="tagged_patches_bone_left_forearm">
+		<text>Left Forearm</text>
+	</string>
+	<string id="tagged_patches_bone_left_hand">
+		<text>Left Hand</text>
+	</string>
+	<string id="tagged_patches_bone_right_shoulder">
+		<text>Right Shoulder</text>
+	</string>
+	<string id="tagged_patches_bone_right_upper_arm">
+		<text>Right Upper Arm</text>
+	</string>
+	<string id="tagged_patches_bone_right_forearm">
+		<text>Right Forearm</text>
+	</string>
+	<string id="tagged_patches_bone_right_hand">
+		<text>Right Hand</text>
+	</string>
+	<string id="tagged_patches_bone_butt">
+		<text>Butt</text>
+	</string>
+	
+</string_table>
