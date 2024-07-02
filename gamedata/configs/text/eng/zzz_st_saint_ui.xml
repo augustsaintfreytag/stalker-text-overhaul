@@ -294,4 +294,16 @@
 	<string id="st_cook_used_for">
         <text>COOKING</text>
     </string>
+
+	<!-- Missions -->
+
+	<string id="st_location">
+		<text>%c[ui_gray_3] • %c[ui_gray_2] Location:</text>
+	</string>
+
+	<!-- Fast Travel -->
+
+	<string id="st_fast_travel_discovered">
+		<text> discovered as a travel destination</text>
+	</string>
 </string_table>
