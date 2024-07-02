@@ -1,0 +1,271 @@
+<string_table>
+
+	<string id="zat_sich_minigame_21_point_dialog_1">
+		<text>Do you play games around here?</text>
+	</string>
+	<string id="zat_sich_minigame_21_point_dialog_2">
+		<text>Sometimes, yes. Have something in mind?</text>
+	</string>
+	<string id="zat_sich_minigame_21_point_dialog_3">
+		<text>How about a few hands of Blackjack?</text>
+	</string>
+	<string id="zat_sich_minigame_21_point_dialog_4">
+		<text>Sure. Get the money ready, and I'll shuffle the cards.</text>
+	</string>
+	<string id="zat_sich_minigame_21_point_dialog_5">
+		<text>Sure. Let's play.</text>
+	</string>
+	<string id="zat_sich_minigame_21_point_dialog_6">
+		<text>Great, I'm ready, let's go.</text>
+	</string>
+	<string id="zat_sich_minigame_21_point_dialog_7">
+		<text>Got some time to kill? How about a game of cards?</text>
+	</string>
+	<string id="zat_sich_minigame_21_point_dialog_8">
+		<text>Sure!</text>
+	</string>
+	<string id="zat_sich_minigame_21_point_dialog_9">
+		<text>I'm ready, let's play.</text>
+	</string>
+	<string id="zat_sich_minigame_21_point_dialog_10">
+		<text>Can't right now, another time.</text>
+	</string>
+	<string id="zat_sich_minigame_21_point_dialog_11">
+		<text>Another time perhaps.</text>
+	</string>
+	<string id="zat_sich_minigame_21_point_dialog_12">
+		<text>Nah, not right now.</text>
+	</string>
+
+
+	<string id="skraga_21_point_dialog_1">
+		<text>Do you play games around here?</text>
+	</string>
+	<string id="skraga_21_point_dialog_2">
+		<text>Yeah?</text>
+	</string>
+	<string id="skraga_21_point_dialog_3">
+		<text>I see you got a deck of cards there. How about a game of Blackjack?</text>
+	</string>
+	<string id="skraga_21_point_dialog_4">
+		<text>Alright, let's play!</text>
+	</string>
+	<string id="skraga_21_point_dialog_5">
+		<text>I'm ready when you are.</text>
+	</string>
+	<string id="skraga_21_point_dialog_6">
+		<text>Yeah, let's play!</text>
+	</string>
+	<string id="skraga_21_point_dialog_7">
+		<text>Right now?</text>
+	</string>
+	<string id="skraga_21_point_dialog_8">
+		<text>Yes!</text>
+	</string>
+    
+	
+	<string id="xolod_21_point_dialog_1">
+		<text>Hey Cold, do you play games around here?</text>
+	</string>
+	<string id="xolod_21_point_dialog_2">
+		<text>What is it?</text>
+	</string>
+	<string id="xolod_21_point_dialog_3">
+		<text>How about a game of cards?</text>
+	</string>
+	<string id="xolod_21_point_dialog_4">
+		<text>Yeah, sounds good. Get your money ready and we'll play.</text>
+	</string>
+	<string id="xolod_21_point_dialog_5">
+		<text>Alright!</text>
+	</string>
+	<string id="xolod_21_point_dialog_6">
+		<text>I'm ready, let's go.</text>
+	</string>
+	<string id="xolod_21_point_dialog_7">
+		<text>Again?</text>
+	</string>
+	<string id="xolod_21_point_dialog_8">
+		<text>Yes!</text>
+	</string>
+
+
+	<string id="lesnik_21_point_dialog_1">
+		<text>[Blackjack] Grandfather, I wanted to ask you something.</text>
+	</string>
+	<string id="lesnik_21_point_dialog_2">
+		<text>What is it Greenhorn? What do you want?</text>
+	</string>
+	<string id="lesnik_21_point_dialog_3">
+		<text>I noticed you have a deck of cards on the table. Wanna play for money?</text>
+	</string>
+	<string id="lesnik_21_point_dialog_4">
+		<text>Okay. Let's play! Get the money ready, and I'll shuffle the cards.</text>
+	</string>
+	<string id="lesnik_21_point_dialog_5">
+		<text>Already prepared.</text>
+	</string>
+	<string id="lesnik_21_point_dialog_6">
+		<text>That's good, I'm ready too.</text>
+	</string>
+
+
+	<string id="cit_killers_21_point_dialog_1">
+		<text>Do you play games around here?</text>
+	</string>
+	<string id="cit_killers_21_point_dialog_2">
+		<text>Sure, sure. Lots of gambling when it gets dark.</text>
+	</string>
+	<string id="cit_killers_21_point_dialog_3">
+		<text>Would you like to play a hand of Blackjack?</text>
+	</string>
+	<string id="cit_killers_21_point_dialog_4">
+		<text>Alright, let's play. Get your money out.</text>
+	</string>
+	<string id="cit_killers_21_point_dialog_5">
+		<text>Uh-huh, go.</text>
+	</string>
+	<string id="cit_killers_21_point_dialog_6">
+		<text>Alright, let's play.</text>
+	</string>
+
+
+	<string id="saxarov_21_point_dialog_1">
+		<text>Do you play games around here, Professor?</text>
+	</string>
+	<string id="saxarov_21_point_dialog_2">
+		<text>Well, even I'll endulge in a game every once in a while.</text>
+	</string>
+	<string id="saxarov_21_point_dialog_3">
+		<text>I was wondering if you fancied a game of Blackjack?</text>
+	</string>
+	<string id="saxarov_21_point_dialog_4">
+		<text>Well I have some things I promised to do... but what the hell, I've got time for one game.</text>
+	</string>
+	<string id="saxarov_21_point_dialog_5">
+		<text>Alright, let's do this.</text>
+	</string>
+	<string id="saxarov_21_point_dialog_6">
+		<text>Let's play.</text>
+	</string>
+
+
+	<string id="zat_sich_minigame_21_point_dialog_1">
+		<text>Do you play games around here?</text>
+	</string>
+	<string id="sich_minigame_21_point_dialog_2">
+		<text>Something you wanted to play?</text>
+	</string>
+	<string id="sich_minigame_21_point_dialog_3">
+		<text>How about a game of Blackjack?</text>
+	</string>
+	<string id="sich_minigame_21_point_dialog_4">
+		<text>Alright then, get out your wallet while I shuffle the cards. I hope you brought a lot to lose.</text>
+	</string>
+	<string id="sich_minigame_21_point_dialog_5">
+		<text>Agreed, I'm ready to play right now.</text>
+	</string>
+	<string id="sich_minigame_21_point_dialog_6">
+		<text>That's good! Let's play!</text>
+	</string>
+	<string id="sich_minigame_21_point_dialog_7">
+		<text>What, again?</text>
+	</string>
+	<string id="sich_minigame_21_point_dialog_8">
+		<text>Yes, again!</text>
+	</string>
+	<string id="sich_minigame_21_point_dialog_9">
+		<text>Sounds good, let's play.</text>
+	</string>
+	<string id="sich_minigame_21_point_dialog_10">
+		<text>I'm busy now. Another time.</text>
+	</string>
+	<string id="sich_minigame_21_point_dialog_11">
+		<text>Another time maybe.</text>
+	</string>
+	<string id="sich_minigame_21_point_dialog_12">
+		<text>No, I don't want to play.</text>
+	</string>
+
+
+	<string id="jup_barmen_minigame_21_point_dialog_1">
+		<text>Do you play games around here?</text>
+	</string>
+	<string id="jup_barmen_minigame_21_point_dialog_2">
+		<text>Quite regularly, yes.</text>
+	</string>
+	<string id="jup_barmen_minigame_21_point_dialog_3">
+		<text>You must have a deck of cards somewhere around here. How about a game?</text>
+	</string>
+	<string id="jup_barmen_minigame_21_point_dialog_4">
+		<text>A point is a point!</text>
+	</string>
+	<string id="jup_barmen_minigame_21_point_dialog_5">
+		<text>Alright, let's go.</text>
+	</string>
+	<string id="jup_barmen_minigame_21_point_dialog_6">
+		<text>Okay, let's play.</text>
+	</string>
+	<string id="jup_barmen_minigame_21_point_dialog_7">
+		<text>How about another game?</text>
+	</string>
+	<string id="jup_barmen_minigame_21_point_dialog_8">
+		<text>Yeah, let's play.</text>
+	</string>
+	<string id="jup_barmen_minigame_21_point_dialog_9">
+		<text>Alright, let's play.</text>
+	</string>
+	<string id="jup_barmen_minigame_21_point_dialog_10">
+		<text>I can't right now. Another time.</text>
+	</string>
+	<string id="jup_barmen_minigame_21_point_dialog_11">
+		<text>Not right now. Later maybe.</text>
+	</string>
+	<string id="jup_barmen_minigame_21_point_dialog_12">
+		<text>Nah, I don't want to play Blackjack right now.</text>
+	</string>
+
+
+	<string id="petrenko_21_point_dialog_1">
+		<text>How about we play a few hands?</text>
+	</string>
+	<string id="petrenko_21_point_dialog_2">
+		<text>Sure why not? I'm not doing anything else right now.</text>
+	</string>
+
+
+	<string id="sidor_21_point_dialog_1">
+		<text>How about a few hands of Blackjack?</text>
+	</string>
+	<string id="sidor_21_point_dialog_2">
+		<text>Yes, come on then. But be warned I bleed your wallet dry.</text>
+	</string>
+	<string id="shustriy_21_point_dialog_1">
+		<text>How about we play a few hands?></text>
+	</string>
+	<string id="shustriy_21_point_dialog_2">
+		<text>Sure, I don't have any orders now. Let's play.</text>
+	</string>
+
+
+	<string id="maslina_21_point_dialog_1">
+		<text>How about we play some cards?</text>
+	</string>
+	<string id="maslina_21_point_dialog_2">
+		<text>Sure, let's play. Nobody's buying anything today anyway.</text>
+	</string>
+
+
+	<string id="military_21_point_dialog_1">
+		<text>Do you have time to play some cards?</text>
+	</string>
+	<string id="military_21_point_dialog_2">
+		<text>Yeah it's dead around here. Let's play.</text>
+	</string>
+
+
+	<string id="propovednik_21_point_dialog_1">
+		<text>How about a few hands of Blackjack?</text>
+	</string>
+
+</string_table>
