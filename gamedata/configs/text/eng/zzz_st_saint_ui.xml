@@ -159,6 +159,24 @@
 		<text>Restricted (No Sprinting)</text>
 	</string>
 
+	<!-- Devices -->
+
+	<string id="st_ui_power_loss">
+		<text>power loss</text>
+	</string>
+	<string id="st_ui_number_of_uses">
+		<text>Uses</text>
+	</string>
+	<string id="st_ui_power">
+		<text>Battery</text>
+	</string>
+	<string id="st_ui_amount">
+		<text>Amount</text>
+	</string>
+	<string id="st_ui_power_consumption">
+		<text>power consumption</text>
+	</string>
+
 	<!-- Magazines -->
 
 	<string id="st_mag_small">
