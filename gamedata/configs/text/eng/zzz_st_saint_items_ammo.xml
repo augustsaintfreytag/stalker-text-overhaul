@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Ammunition
+-->
+
+<string_table>
+
+	<string id="ammo_12.7x55_ap">
+		<text>12.7x55mm STs-130 VPS round</text>
+	</string>
+	<string id="ammo_12.7x55_ap_descr">
+		<text>A 12.7x55mm armour-piercing subsonic cartridge utilized by the VKS bullpup sniper rifle. This cartridge accommodates a projectile weighing between 59 grams (911 grains) and 76 grams (1173 grains), delivering substantial kinetic energy. The subsonic nature minimizes acoustic detection, with a muzzle velocity of approximately 980 feet per second, making it suitable for covert operations. The round's heavy weight ensures deep penetration, but its size and mass limit the amount that can be carried, presenting logistical challenges for operatives in the Zone.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR6 (75)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]73</text>
+	</string>
+	<string id="ammo_12.7x55_ap_s">
+		<text>12.7x55 AP</text>
+	</string>
+
+	<string id="ammo-11.43x23-fmj">
+		<text>.45 ACP FMJ round</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_descr">
+		<text>A .45 calibre ACP (Automatic Colt Pistol) full metal jacket round, known for reliable ballistic performance and an efficient cartridge design. The FMJ construction features a lead core encased in a copper jacket, maintaining its shape upon impact and providing reliable penetration. Weighing typically around 230 grains, it achieves a muzzle velocity of about 850 feet per second. The round's design results in a slower but highly accurate bullet with considerable stopping power, making it preferred for close-quarters engagements and defensive use. However, the FMJ design can lead to over-penetration, posing risks in densely populated or confined environments.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR2 (20)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]27</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45 FMJ</text>
+	</string>
+
+	<string id="ammo-11.43x23-hydro">
+		<text>.45 ACP Hydra-shock HP round</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_descr">
+		<text>An unusual .45 ACP calibre round featuring a jacketed soft point bullet with a hollow steel core. The jacketed soft point design allows for controlled expansion upon impact, enhancing stopping power while minimizing the risk of over-penetration. The hollow steel core improves penetration through barriers such as body armor or light cover. This combination, weighing around 230 grains with a muzzle velocity of approximately 850 feet per second, offers both the expansion benefits of a soft point and the penetration capabilities of a steel core. However, the complexity of its construction may lead to inconsistent performance in varying conditions, and the hollow core may sometimes cause unpredictable fragmentation.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR1 (10)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]69</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>.45 AP</text>
+	</string>
+
+	<string id="ammo-12.7x55-fmj">
+		<text>12.7x55mm STs-130 round</text>
+	</string>
+	<string id="ammo-12.7x55-fmj_descr">
+		<text>A full metal jacket 12.7x55mm subsonic cartridge utilized by the VKS bullpup sniper rifle. This cartridge accommodates a projectile weighing between 59 grams (911 grains) and 76 grams (1173 grains), delivering substantial kinetic energy. The FMJ design ensures optimal penetration and maintains the projectile's integrity upon impact. The subsonic nature, with a muzzle velocity of around 980 feet per second, minimizes acoustic detection, making it suitable for covert operations. However, the substantial weight and size of the cartridge may limit the amount carried by operatives, presenting logistical challenges. Additionally, the reduced muzzle velocity inherent to subsonic rounds can decrease effective range and penetration against hardened targets.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR4 (38)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]73</text>
+	</string>
+	<string id="ammo-12.7x55-fmj_s">
+		<text>12.7x55 FMJ</text>
+	</string>
+
+	<string id="ammo-12x70-buck">
+		<text>12x76 buckshot shells</text>
+	</string>
+	<string id="ammo-12x70-buck_descr">
+		<text>A standard 12 gauge shell filled with 8mm shot designed for smoothbore weapons. This configuration provides a wide spread pattern, making it highly lethal at close range. Typically containing about 1-1/8 ounces of shot, it achieves a muzzle velocity of approximately 1,200 feet per second. The shot's dispersion enhances hit probability in close-quarters scenarios but reduces effectiveness over longer distances.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]None (3 x 9)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]200 (22.2 x 9)
+		\n \n%c[ui_gray_1]SPECIAL:\n \n%c[ui_gray_2] - %c[ui_gray_2] expanding cloud of pellets, short eff. range</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>12x76 buck</text>
+	</string>
+
+	<string id="ammo-12x76-dart">
+		<text>12x76 AP slugs</text>
+	</string>
+	<string id="ammo-12x76-dart_descr">
+		<text>A 12 gauge dart round typically used for hunting large game. This round features a specialized projectile designed to puncture thick hides and even light armor. It weighs around 400 grains and can achieve a muzzle velocity of approximately 1,600 feet per second. The dart's aerodynamic shape and high velocity improve penetration capabilities, making it suitable for specific tactical applications beyond hunting.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR4 (42)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]74</text>
+	</string>
+	<string id="ammo-12x76-dart_s">
+		<text>12x76 AP slugs</text>
+	</string>
+
+	<string id="ammo-12x76-bull">
+		<text>12x76 Bull shells</text>
+	</string>
+	<string id="ammo-12x76-bull_descr">
+		<text>A custom-made 12 gauge slug designed for extreme stopping power against large and resilient targets. The slug consists of a lead core covered in copper, with an internal steel, dart-like insert. This long slug, typically weighing around 600 grains, with a substantial powder load generates significant recoil, potentially causing strain or injury to the shooter. Its design maximizes penetration and damage, with a muzzle velocity of approximately 1,500 feet per second, suitable for taking down exceptionally tough creatures or adversaries.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR2
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]very high</text>
+	</string>
+	<string id="ammo-12x76-bull_s">
+		<text>12x76 Bull</text>
+	</string>
+
+	<string id="ammo-12x76-zhekan">
+		<text>12x76 slug shells</text>
+	</string>
+	<string id="ammo-12x76-zhekan_descr">
+		<text>A heavy 12 gauge slug round typically used for hunting big game. Unlike penetrating projectiles, this hefty slug relies on its mass and kinetic energy to crush through armor and obstacles. Weighing around 438 grains, it achieves a muzzle velocity of approximately 1,300 feet per second. The round's substantial impact force makes it effective for neutralizing heavily armored targets, albeit with significant recoil.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR2 (24)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]147</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76 slug</text>
+	</string>
+
+	<string id="ammo-338-lapua">
+		<text>.338 Lapua Magnum round</text>
+	</string>
+	<string id="ammo-338-lapua_descr">
+		<text>A .338 Lapua Magnum round, a specialized rimless bottlenecked centerfire cartridge developed for military long-range sniper rifles. It gained prominence during the Afghanistan and Iraq Wars, becoming a combat-proven round with substantial ammunition availability. Weighing typically around 250 grains, it achieves a muzzle velocity of approximately 2,900 feet per second. The .338 Lapua is designed for dual-purpose use, serving both anti-personnel and anti-materiel roles, though its anti-materiel effectiveness is somewhat limited by its size and weight. Its flat trajectory and high energy make it ideal for long-range precision engagements.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]Unlimited (140)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]130</text>
+	</string>
+	<string id="ammo-338-lapua_s">
+		<text>.338 Lapua Magnum</text>
+	</string>
+
+	<string id="ammo-357-hp">
+		<text>.357 HP round</text>
+	</string>
+	<string id="ammo-357-hp_descr">
+		<text>A .357 hollow-point round. Weighing around 125 grains, it achieves a muzzle velocity of approximately 1,450 feet per second. This expansion slows the bullet, reducing penetration but causing extensive internal tissue damage. The hollow-point design makes it highly effective for stopping power, ideal for self-defense and law enforcement applications where minimizing over-penetration is crucial.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR2 (19)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG):: %c[ui_gray_1]103</text>
+	</string>
+	<string id="ammo-357-hp_s">
+		<text>.357 HP</text>
+	</string>
+
+	<string id="ammo-5.45x39-ap">
+		<text>5.45x39mm AP round</text>
+	</string>
+	<string id="ammo-5.45x39-ap_descr">
+		<text>A military 5.45x39 calibre 7N22 armour-piercing round designed for automatic rifles of Warsaw Pact countries. The bullet features a hard-alloy armour-piercing penetrator, typically weighing around 53 grains, making it effective against body armour. With a muzzle velocity of approximately 2,900 feet per second, this round enhances the combat effectiveness of standard infantry rifles against protected targets.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR5 (47)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]36</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39 AP</text>
+	</string>
+
+	<string id="ammo-5.45x39-ep">
+		<text>5.45x39mm HP round</text>
+	</string>
+	<string id="ammo-5.45x39-ep_descr">
+		<text>A military 5.45x39 calibre HP round, featuring a hollow point bullet, intended for use in automatic rifles of Warsaw Pact countries. Weighing around 52 grains, it achieves a muzzle velocity of approximately 2,900 feet per second. The hollow point design promotes expansion upon impact, increasing stopping power and causing extensive internal damage. This round is optimized for anti-personnel use where over-penetration is a concern.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR1 (15)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]53</text>
+	</string>
+	<string id="ammo-5.45x39-ep_s">
+		<text>5.45x39 HP</text>
+	</string>
+
+	<string id="ammo-5.45x39-fmj">
+		<text>5.45x39mm FMJ round</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_descr">
+		<text>A military 5.45x39 calibre 7N6 round, the first standard issue for Warsaw Pact automatic rifles utilizing the intermediate cartridge. This round provides better accuracy and reduced recoil compared to the older 7.62 calibre round, with an increased effective range by 100 meters. Typically weighing around 53 grains, it achieves a muzzle velocity of approximately 2,900 feet per second. It offers improved control during automatic fire, making it suitable for modern combat scenarios.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR2 (27)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]38</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39 FMJ</text>
+	</string>
+
+	<string id="ammo-5.56x45-ap">
+		<text>5.56x45mm AP round</text>
+	</string>
+	<string id="ammo-5.56x45-ap_descr">
+		<text>A modern NATO military 5.56x45 calibre enhanced penetration round, designated as M855A1, used by the US armed forces. This round is designed to increase effectiveness against both body armour and soft tissue. Weighing around 62 grains, it achieves a muzzle velocity of approximately 3,100 feet per second. The M855A1 features an improved penetrator, providing superior performance in various combat situations, with a flat trajectory and effective range up to 600 meters.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR5 (52)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]35</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56x45 AP</text>
+	</string>
+
+	<string id="ammo-5.56x45-ss190">
+		<text>5.56x45mm HP round</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_descr">
+		<text>A standard-issue NATO 5.56x45 calibre round with a hollow point tip. Weighing around 55 grains, it achieves a muzzle velocity of approximately 3,250 feet per second. The hollow point design ensures expansion upon impact, maximizing tissue damage while minimizing the risk of over-penetration. This round is ideal for situations requiring precise, controlled fire to neutralize threats quickly.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR1 (15)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]46</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56x45 HP</text>
+	</string>
+
+	<string id="ammo-5.56x45-fmj">
+		<text>5.56x45mm FMJ round</text>
+	</string>
+	<string id="ammo-5.56x45-fmj_descr">
+		<text>A standard-issue NATO 5.56x45 calibre M193 round, designed for accurate automatic fire. Originally based on a hunting round, it provides excellent ballistic characteristics and is well-known for its performance during the Vietnam War. Weighing around 55 grains, it achieves a muzzle velocity of approximately 3,250 feet per second. The M193 round offers good accuracy and effectiveness against tissue, although its penetration capabilities are limited compared to modern armour-piercing rounds.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR3 (27)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]35</text>
+	</string>
+	<string id="ammo-5.56x45-fmj_s">
+		<text>5.56x45 FMJ</text>
+	</string>
+
+	<string id="ammo-5.7x28-ss190">
+		<text>5.7x28 SS190 round</text>
+	</string>
+	<string id="ammo-5.7x28-ss190_descr">
+		<text>An FN 5.7x28mm round, a high-velocity bottlenecked centerfire cartridge, designed and manufactured by FN Herstal. Similar to the .22 Hornet or .22 K-Hornet, this round was developed in conjunction with the FN P90 personal defense weapon (PDW) and FN Five-seven pistol, responding to NATO requests for a replacement for the 9x19mm Parabellum cartridge. Weighing around 40 grains, it achieves a muzzle velocity of approximately 2,350 feet per second. It offers superior penetration and reduced recoil, making it effective against body armour and suitable for personal defense.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR4 (38)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]23</text>
+	</string>
+	<string id="ammo-5.7x28-ss190_s">
+		<text>5.7x28 AP</text>
+	</string>
+
+	<string id="ammo-4.6x30-fmj">
+		<text>4.6x30mm FMJ round</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_descr">
+		<text>A Heckler & Koch 4.6x30mm round, a type of ammunition primarily used in the HK MP7 personal defense weapon (PDW). Designed to minimize weight and recoil while increasing penetration of body armor, it features a bottlenecked case and a pointed, steel-core, brass-jacketed bullet. Weighing around 31 grains, it achieves a muzzle velocity of approximately 2,400 feet per second. This configuration enhances its ability to defeat modern body armor while maintaining manageable recoil for the shooter.\n \n
+		%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR3
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]low - medium</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_s">
+		<text>4.6x30 FMJ</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_bad">
+		<text>4.6x30mm FMJ rounds (old)</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_verybad">
+		<text>4.6x30mm FMJ rounds (damaged)</text>
+	</string>
+
+	<string id="ammo-5.7x28-ss195">
+		<text>5.7x28mm SS195 round</text>
+	</string>
+	<string id="ammo-5.7x28-ss195_descr">
+		<text>An SS195 FN 5.7x28mm round, an expansive bottlenecked centerfire cartridge, designed and manufactured by FN Herstal. Similar to the .22 Hornet or .22 K-Hornet, this round provides high velocity and effective penetration. Weighing around 28 grains, it achieves a muzzle velocity of approximately 2,350 feet per second. Developed alongside the FN P90 PDW and FN Five-seven pistol, it responds to NATO's need for a modern, lightweight cartridge that excels in both personal defense and operational versatility.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR2 (22)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]23</text>
+	</string>
+	<string id="ammo-5.7x28-ss195_s">
+		<text>5.7x28 FMJ</text>
+	</string>
+
+	<string id="ammo-50-bmg">
+		<text>.50 BMG round</text>
+	</string>
+	<string id="ammo-50-bmg_descr">
+		<text>A .50 Browning Machine Gun (12.7x99mm NATO and designated as the 50 Browning by the C.I.P.) cartridge, developed for the Browning .50 caliber machine gun in the late 1910s, entering official service in 1921. Under STANAG 4383, it is a standard cartridge for NATO forces as well as many non-NATO countries. The cartridge itself has been made in many variants: multiple generations of regular ball, tracer, armor-piercing (AP), incendiary, and saboted sub-caliber rounds. Weighing around 660 grains, it achieves a muzzle velocity of approximately 2,900 feet per second. The rounds intended for machine guns are made into a continuous belt using metallic links. The .50 BMG cartridge is also used in long-range target and anti-materiel rifles, as well as other .50-caliber machine guns.
+		\n \n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR6
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]very high</text>
+	</string>
+	<string id="ammo-50-bmg_s">
+		<text>.50 BMG</text>
+	</string>
+	<string id="ammo-50-bmg_bad">
+		<text>.50 BMG rounds (old)</text>
+	</string>
+	<string id="ammo-50-bmg_verybad">
+		<text>.50 BMG rounds (damaged)</text>
+	</string>
+
+	<string id="ammo-7.62x25-p">
+		<text>7.62x25mm LRNPC round</text>
+	</string>
+	<string id="ammo-7.62x25-p_descr">
+		<text>A 7.62x25mm bottle-necked pistol cartridge, a Russian cartridge used in former Soviet satellite states, China, and Pakistan, among other countries. The 7.62x25mm Tokarev cartridge comprises a bullet with lead round nose, polymer-coated (LRNPC) bullet, intended for sport shooting and hunting. Weighing around 85 grains, it achieves a muzzle velocity of approximately 1,450 feet per second. By design, this cartridge provides considerable stopping power and substantial adverse effects on the target after impact, although at the cost of penetration capabilities, even against basic ballistic protection. \n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]None (8)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]30</text>
+	</string>
+	<string id="ammo-7.62x25-p_s">
+		<text>7.62x25 LRNPC</text>
+	</string>
+
+	<string id="ammo-7.62x25-ps">
+		<text>7.62x25mm Pst round</text>
+	</string>
+	<string id="ammo-7.62x25-ps_descr">
+		<text>A steel core 7.62x25mm bottle-necked pistol cartridge, a Russian cartridge used in former Soviet satellite states, China, and Pakistan, among other countries. This 7.62x25mm Tokarev cartridge displays a bullet with steel core (Pst) and a steel sleeve. Weighing around 85 grains, it achieves a muzzle velocity of approximately 1,450 feet per second. It's very effective against medium armored targets, appreciated in the Zone for its enhanced penetration capabilities. \n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR2 (24)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]21</text>
+	</string>
+	<string id="ammo-7.62x25-ps_s">
+		<text>7.62x25 Pst</text>
+	</string>
+
+	<string id="ammo-7.62x39_ap">
+		<text>7.62x39mm M43 round</text>
+	</string>
+	<string id="ammo-7.62x39_ap_descr">
+		<text>A 7.62x39 M43 armour piercing round produced in China, also referred to as "7.62x39 CN". This round features a mild steel core which enhances its penetration capabilities. Typically weighing around 123 grains, it achieves a muzzle velocity of approximately 2,350 feet per second. This Chinese round (as well as all other M43 ammunition) is currently banned for import in the US because US federal law classifies the round as an armour-piercing handgun round. This classification is based on materials and bullet design rather than on empirical ability to penetrate armour.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR5 (55)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]40</text>
+	</string>
+	<string id="ammo-7.62x39_ap_s">
+		<text>7.62x39 AP</text>
+	</string>
+
+	<string id="ammo-7.62x39_fmj">
+		<text>7.62x39mm FMJ round</text>
+	</string>
+	<string id="ammo-7.62x39_fmj_descr">
+		<text>A 7.62x39 full metal jacket round. It has been nicknamed the "Round of the Revolution" due to its favored use by armed activists, but also terrorist, and criminal organizations. It provides substantial power and reliability. The FMJ design features a lead core encased in a copper or steel jacket, maintaining bullet integrity upon impact. Typically weighing around 123 grains, it achieves a muzzle velocity of approximately 2,350 feet per second. The round's ballistic characteristics include a relatively flat trajectory and moderate recoil, with an effective range up to 300 meters. Most military organizations counter its high penetration capability by using additional steel plates, reflecting the round's pervasive presence in combat situations.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR3 (30)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]40</text>
+	</string>
+	<string id="ammo-7.62x39_fmj_s">
+		<text>7.62x39 FMJ</text>
+	</string>
+
+	<string id="ammo-7.62x51_ap">
+		<text>7.62x51mm NATO AP round</text>
+	</string>
+	<string id="ammo-7.62x51_ap_descr">
+		<text>A military 7.62x51 calibre M61 armor-piercing round with a hardened steel core. This round typically weighs around 150 grains and achieves a muzzle velocity of approximately 2,750 feet per second. The hardened steel core significantly improves performance against body armor, retaining high damage while ensuring deep penetration. It exhibits a relatively flat trajectory and manageable recoil, with an effective range up to 800 meters. Its construction ensures that it can defeat modern protective gear, making it a preferred choice for armed forces needing effective anti-armor capabilities.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR6 (62)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]59</text>
+	</string>
+	<string id="ammo-7.62x51_ap_s">
+		<text>7.62x51 AP</text>
+	</string>
+
+	<string id="ammo-7.62x51_fmj">
+		<text>7.62x51mm NATO ball round</text>
+	</string>
+	<string id="ammo-7.62x51_fmj_descr">
+		<text>A 7.62x51 NATO round, a military variant of the .308 round, was standard-issue by NATO forces until the 5.56mm ammunition was introduced during the Vietnam War. This round typically weighs between 147 and 150 grains and achieves a muzzle velocity of approximately 2,800 feet per second. It remains widely used by private military contractors globally. This versatile calibre is common in machine guns and can be employed in battle or sniper rifles, offering a flat trajectory, good range, and substantial stopping power with an effective range up to 800 meters.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR3 (34)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]59</text>
+	</string>
+	<string id="ammo-7.62x51_fmj_s">
+		<text>7.62x51 FMJ</text>
+	</string>
+
+	<string id="ammo-7.62x54_7n14">
+		<text>7.62x54mm 7N14 round</text>
+	</string>
+	<string id="ammo-7.62x54_7n14_descr">
+		<text>A 7.62x54 calibre 7N14 armour-piercing cartridge designed for military use. The bullet features a steel core to penetrate body armour or light barriers and a boat-tail base to increase accuracy. This round typically weighs around 151 grains and achieves a muzzle velocity of approximately 2,700 feet per second. Its enhanced penetration capabilities, combined with a relatively flat trajectory and effective range up to 800 meters, make it suitable for engaging well-protected targets in various combat scenarios.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR4 (45)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]62</text>
+	</string>
+	<string id="ammo-7.62x54_7n14_s">
+		<text>7.62x54 7N14</text>
+	</string>
+
+	<string id="ammo-7.62x54-7n1">
+		<text>7.62x54mm 7N1 round</text>
+	</string>
+	<string id="ammo-7.62x54-7n1_descr">
+		<text>A 7.62x54 calibre sniper round with a steel penetrator specifically designed for the SVD sniper rifle. The steel core is intended to pierce light armor, making it effective against protected targets. This round generally weighs around 148 grains and achieves a muzzle velocity of approximately 2,700 feet per second. Common in the Zone, these bullets are relatively inexpensive, making them a practical choice for many combatants. The round offers a flat trajectory and effective range up to 800 meters.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR3 (30)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]62</text>
+	</string>
+	<string id="ammo-7.62x54-7n1_s">
+		<text>7.62x54 7N1</text>
+	</string>
+
+	<string id="ammo-7.62x54-ap">
+		<text>7.62x54mm AP round</text>
+	</string>
+	<string id="ammo-7.62x54-ap_descr">
+		<text>A 7.62x54mm calibre 7N13 armor-piercing machine gun round known for its high-powered performance. The hard steel core provides excellent penetrative capabilities, making it effective against fortified positions and armored targets. Typically weighing around 150 grains, it achieves a muzzle velocity of approximately 2,700 feet per second. The round maintains a flat trajectory and an effective range up to 800 meters, widely used in machine guns and other heavy weaponry.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR6 (80)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]62</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62x54 AP</text>
+	</string>
+
+	<string id="ammo-7.62x54-r">
+		<text>7.62x54mm PP round</text>
+	</string>
+	<string id="ammo-7.62x54-r_descr">
+		<text>A 7.62x54 PP round, a historical rifle calibre introduced in the Soviet Empire at the turn of the 19th century, remained in use by the USSR post-World War II. Originally designed for the Mosin-Nagant standard-issue infantry rifle, it is common in the Zone due to the rifle's popularity. This round typically weighs around 148 grains and achieves a muzzle velocity of approximately 2,800 feet per second. The round is relatively inexpensive and offers surprisingly good penetrative capabilities, even compared to more modern ammunition. It features a flat trajectory and effective range up to 800 meters, also employed as a cost-effective solution in the PKM machine gun.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR3 (37)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]62</text>
+	</string>
+	<string id="ammo-7.62x54-r_s">
+		<text>7.62x54 PP</text>
+	</string>
+
+	<string id="ammo-7.92x33_ap">
+		<text>7.92x57mm AP round</text>
+	</string>
+	<string id="ammo-7.92x33_ap_descr">
+		<text>A 7.92x57 SA round, used by the British military against armored targets. It features a hardened steel core, enhancing its piercing capabilities. This round generally weighs around 198 grains and achieves a muzzle velocity of approximately 2,600 feet per second. Primarily used for long-range shots, the high grain quality of this round provides superior accuracy and performance. Supported by several sniper rifles, it is favored for its effectiveness in defeating armored threats at distance, with an effective range up to 1,000 meters.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR4 (39)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]69</text>
+	</string>
+	<string id="ammo-7.92x33_ap_s">
+		<text>7.92x57 AP</text>
+	</string>
+
+
+
+
+	<string id="ammo-7.92x33_fmj">
+		<text>7.92x57mm FMJ round</text>
+	</string>
+	<string id="ammo-7.92x33_fmj_descr">
+		<text>A 7.92x57 Mauser round, adopted by the German Empire and later the Third Reich, was one of the most popular cartridges during the two World Wars. The full metal jacket design features a lead core encased in a copper jacket, maintaining bullet integrity upon impact. Typically weighing around 198 grains, it achieves a muzzle velocity of approximately 2,600 feet per second. Known for its reliable penetration and stopping power, it has a relatively flat trajectory and moderate recoil with an effective range of up to 800 meters. Nowadays, this round is primarily used for hunting and sports due to its historical significance and ballistic performance.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR3 (27)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]69</text>
+	</string>
+	<string id="ammo-7.92x33_fmj_s">
+		<text>7.92x57 FMJ</text>
+	</string>
+
+	<string id="ammo-9x18-ap">
+		<text>9x18mm AP round</text>
+	</string>
+	<string id="ammo-9x18-ap_descr">
+		<text>A 9x18mm Makarov round, loaded with a hardened steel core for enhanced armour penetration. Typically weighing around 93 grains, it achieves a muzzle velocity of approximately 1,000 feet per second. The steel core improves its impact against body armour compared to standard 9x18mm rounds. However, it offers only a marginal improvement over typical rounds, providing a stronger impact but not significantly better penetration.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR3 (27)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]18</text>
+	</string>
+	<string id="ammo-9x18-ap_s">
+		<text>9x18 AP</text>
+	</string>
+
+	<string id="ammo-9x18-fmj">
+		<text>9x18mm FMJ round</text>
+	</string>
+	<string id="ammo-9x18-fmj_descr">
+		<text>A 9x18mm Makarov full metal jacket round with a steel penetrator and a lead core under a metal jacket. This construction provides good stopping power but is ineffective against body armour. Typically weighing around 124 grains, it achieves a muzzle velocity of approximately 1,200 feet per second. The round's design ensures reliable penetration of soft targets while maintaining structural integrity.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR1 (15)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]18</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18 FMJ</text>
+	</string>
+
+	<string id="ammo-9x18-pmm">
+		<text>9x18mm HP round</text>
+	</string>
+	<string id="ammo-9x18-pmm_descr">
+		<text>A 9x18mm Makarov hollow point round with enhanced stopping power. Typically weighing around 115 grains, it achieves a muzzle velocity of approximately 1,200 feet per second. The hollow point design causes the bullet to expand upon impact, maximizing tissue damage while being ineffective against body armour.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]none (10)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]33</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9x18 HP</text>
+	</string>
+
+	<string id="ammo-9x19-ap">
+		<text>9x19mm AP round</text>
+	</string>
+	<string id="ammo-9x19-ap_descr">
+		<text>A 9x19mm round with a hard steel core and increased pressure, designed to enhance the armour-penetrating capabilities of small arms and submachine guns. Typically weighing around 124 grains, it achieves a muzzle velocity of approximately 1,300 feet per second. The increased pressure and steel core provide improved penetration against body armour compared to standard rounds.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR3 (34)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]21</text>
+	</string>
+	<string id="ammo-9x19-ap_s">
+		<text>9x19 AP</text>
+	</string>
+
+	<string id="ammo-9x19-fmj">
+		<text>9x19mm FMJ round</text>
+	</string>
+	<string id="ammo-9x19-fmj_descr">
+		<text>A 9x19mm full metal jacket round with a jacketed bullet that has good characteristics while being simple to produce. Typically weighing around 124 grains, it achieves a muzzle velocity of approximately 1,200 feet per second. The round's design ensures reliable penetration and accuracy, making it popular due to international conventions prohibiting the use of expanding ammunition in combat. It is ineffective against body armour.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR1 (17)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]21</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9x19 FMJ</text>
+	</string>
+
+	<string id="ammo-9x19-pbp">
+		<text>9x19mm HP round</text>
+	</string>
+	<string id="ammo-9x19-pbp_descr">
+		<text>A 9x19mm calibre jacketed hollow-point bullet with an expanding hollow, providing high stopping power and low ricochet propensity. Typically weighing around 115 grains, it achieves a muzzle velocity of approximately 1,200 feet per second. Used by police and for self-defense, the hollow point design ensures maximum tissue damage while minimizing over-penetration. The round is generally ineffective against body armour, but reasonably effective for hunting purposes in the Zone.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]none (10)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]40</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 HP</text>
+	</string>
+
+	<string id="ammo-9x39-ap">
+		<text>9x39mm SP-6 round</text>
+	</string>
+	<string id="ammo-9x39-ap_descr">
+		<text>A 9x39mm SP-6 subsonic armour-piercing round with a jacketed soft point bullet and a hard steel core that protrudes from the casing. Typically weighing around 255 grains, it achieves a muzzle velocity of approximately 1,000 feet per second. This round is effective against light body armour and requires a suppressor for stealth firing. It is used by special services of Warsaw Pact countries.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR5 (55)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]43
+		\n \n%c[ui_gray_1]SPECIAL:\n \n%c[d_red] - %c[ui_gray_2] sub-sonic ammunition\n%c[ui_gray_2] - %c[ui_gray_2] greatly increased projectile drop with distance</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+
+	<string id="ammo-9x39-pab9">
+		<text>9x39mm SP-5 round</text>
+	</string>
+	<string id="ammo-9x39-pab9_descr">
+		<text>A 9x39mm SP-5 subsonic rifle round with a bimetallic casing. The round contains a steel core with a gap behind it filled with lead. Typically weighing around 245 grains, it achieves a muzzle velocity of approximately 1,000 feet per second. Designed for stealth operations, it requires a suppressor and is used by special services of Warsaw Pact countries. The combination of materials ensures reliable penetration and accuracy at subsonic speeds.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]BR3 (34)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]43
+		\n \n%c[ui_gray_1]SPECIAL:\n \n%c[d_red] - %c[ui_gray_2] sub-sonic ammunition\n%c[ui_gray_2] - %c[ui_gray_2] greatly increased projectile drop with distance</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9x39 SP-5</text>
+	</string>
+
+
+
+
+
+	<string id="ammo-gauss">
+		<text>Gauss Charge Pack</text>
+	</string>
+	<string id="ammo-gauss_descr">
+		<text>An experimental charge pack compatible with the prototype Gauss rifle. The encapsulated "Flash" artefact fragment generates a substantial electrical output, channeled through a series of graphene-based conductors designed to handle the immense energy flow required to charge the rifle in less than a second. A hybrid composition of lithium-ion cells reinforced with high-density superconductors act as a capacitor to balance and direct the energy generated by the artefact fragment for reliable use. The battery casing is composed of a titanium-aluminium alloy for durability and heat resistance. Developed alongside the Gauss rifle prototype by unknown researchers in Zone laboratories.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]UNKNOWN
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]UNKNOWN
+		</text>
+	</string>
+
+	<string id="ammo-gauss_cardan">
+		<text>Home-Made Gauss Charge Pack</text>
+	</string>
+	<string id="ammo-gauss_cardan_descr">
+		<text>A home-made charge pack compatible with the prototype Gauss rifle, crafted in the Zone from depleted charge packs. The core utilizes an encapsulated "Flash" artefact fragment to generate substantial electrical output, channeled through a series of graphene-based conductors designed to handle the immense energy flow required to charge the rifle in less than a second. The charge pack's hybrid composition includes repurposed lithium-ion cells. The casing shows signs of wear and is significantly less durable than lab-assembled charge packs.\n
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]UNKNOWN
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]UNKNOWN
+		</text>
+	</string>
+
+	<string id="ammo-m209">
+		<text>M203 grenade</text>
+	</string>
+	<string id="ammo-m209_descr">
+		<text>A 40mm grenade for the M203 underbarrel grenade launcher. This round features a high-explosive fragmentation warhead with an average 3.5-metre kill zone, designed for maximum lethality against infantry. The grenade weighs approximately 230 grams and has a muzzle velocity of 76 meters per second. Its effective range is up to 400 meters, depending on the launching platform used. May be used in a number of compatible systems, including the FN F2000 integrated grenade launcher. 40mm rounds are intended for both offensive and defensive operations, providing users with the ability to clear enemy positions and suppress threats at medium ranges.\n \n
+		%c[ui_gray_2] - %c[ui_gray_2] Blast power: %c[ui_gray_1]medium\n
+		%c[ui_gray_2] - %c[ui_gray_2] Blast radius: %c[ui_gray_1]4.1 m\n
+		%c[ui_gray_2] - %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]28 m\n
+		%c[ui_gray_2] - %c[ui_gray_2] Av. number of fragments: %c[ui_gray_1]95 (small shrapnels)\n
+		%c[ui_gray_2] - %c[ui_gray_2] Explosion delay: %c[ui_gray_1]none (explodes on impact)</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M203</text>
+	</string>
+
+	<string id="ammo-og-7b">
+		<text>OG-7V warhead</text>
+	</string>
+	<string id="ammo-og-7b_descr">
+		<text>A fragmentation warhead for anti-personnel warfare used with the RPG-7 grenade launcher. This warhead typically contains 600 grams of high explosive, with a fragmentation radius of approximately 10 meters. The warhead's main purpose is to neutralize enemies in cover outside the effective range of hand grenades, providing a tactical advantage in urban and fortified environments. With an effective range of up to 500 meters, it delivers reliable performance against entrenched personnel, making it a crucial component for infantry operations where indirect fire support is needed.\n \n
+		%c[ui_gray_2] - %c[ui_gray_2] Blast power: %c[ui_gray_1]high\n
+		%c[ui_gray_2] - %c[ui_gray_2] Blast radius: %c[ui_gray_1]5.6 m\n
+		%c[ui_gray_2] - %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]41 m\n
+		%c[ui_gray_2] - %c[ui_gray_2] Av. number of fragments: %c[ui_gray_1]153 (small shrapnels)\n
+		%c[ui_gray_2] - %c[ui_gray_2] Explosion delay: %c[ui_gray_1]none (explodes on impact)</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+
+	<string id="ammo-vog-25">
+		<text>VOG-25 grenade</text>
+	</string>
+	<string id="ammo-vog-25_descr">
+		<text>A fragmentation grenade for the GP-25 Kostyor underbarrel grenade launcher. The VOG-25 round weighs about 250 grams and features a high-explosive fragmentation warhead with an average 2.5-metre kill zone. It has a muzzle velocity of 76 meters per second and an effective range of up to 400 meters. The grenade is also compatible with the OC-14 Groza complex and the RG6 / 6G30 revolver-type grenade launcher. Designed for close to medium-range engagements, it provides infantry units with an effective means to engage enemy personnel in open or lightly fortified positions, enhancing their ability to conduct both offensive and defensive operations.\n \n
+		%c[ui_gray_2] - %c[ui_gray_2] Blast power: %c[ui_gray_1]medium\n
+		%c[ui_gray_2] - %c[ui_gray_2] Blast radius: %c[ui_gray_1]3.6 m\n
+		%c[ui_gray_2] - %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]20 m\n
+		%c[ui_gray_2] - %c[ui_gray_2] Av. number of fragments: %c[ui_gray_1]81 (small shrapnels)\n
+		%c[ui_gray_2] - %c[ui_gray_2] Explosion delay: %c[ui_gray_1]none (explodes on impact)</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+
+	<!-- Custom Ammo Addon-->
+
+	<string id="ammo-12x70-buck_self">
+		<text>Home-made 12x70 shot shells</text>
+	</string>
+	<string id="ammo-12x70-buck_self_descr">
+		<text>Home-made 12 gauge shell filled with small pieces of metal junk, including used or damaged bullets or even shrapnel. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n \n
+		%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]none\n
+		%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]medium - high\n
+		%c[ui_gray_2] - %c[ui_gray_2] Expanding cloud of pellets, short effective range</text>
+	</string>
+
+	<string id="ammo_flw">
+		<text>Flamethrower fuel</text>
+	</string>
+	<string id="ammo_flw_descr">
+		<text>Boiled animal fat, diesel and bits of melted rubber. Makes for a sticky, napalm-like substance when lit.</text>
+	</string>
+
+	<string id="ammo_23x75_shrapnel">
+		<text>"Shrapnel-25" 23x75mm</text>
+	</string>
+	<string id="ammo_23x75_shrapnel_descr">
+		<text>Cartridge with buckshot charge. Application range up to 25 meters. It is used for firing from the KS-23 carbine. Due to the fact that the barrel has rifling in the KS-23 carbine, the buckshot flies over a large area, which allows you to shoot offhand, practically without aiming.\n</text>
+	</string>
+
+	<string id="ammo_23x75_barrikada">
+		<text>"Barrikada" 23x75</text>
+	</string>
+	<string id="ammo_23x75_barrikada_descr">
+		<text>A cartridge with a steel pointed bullet. It is used to forcibly stop vehicles by damaging them. Application range up to 100 meters. It is used for firing from the KS-23 carbine.\n</text>
+	</string>
+
+	<string id="ammo_9x21_sp10">
+		<text>9x21mm SP10</text>
+	</string>
+	<string id="ammo_9x21_sp10_descr">
+		<text>Pistol cartridge with a bullet of increased penetration. Designed to destroy manpower protected by personal protective equipment. The nose part of the heat-strengthened steel core protrudes from the shell, due to which a high penetration effect of the bullet is achieved.\n</text>
+	</string>
+
+	<string id="ammo_20x70_buck">
+		<text>20x70 buckshot round</text>
+	</string>
+	<string id="ammo_20x70_buck_descr">
+		<text>Standard 20-calibre round filled with 6mm buckshot. Highly lethal at close range. Only suitable for use with smoothbore weapons\n \n
+		
+		%c[ui_gray_2] - %c[ui_gray_2] Highest pierced armour class: %c[ui_gray_1]none\n
+		%c[ui_gray_2] - %c[ui_gray_2] Tissue damage rating: %c[ui_gray_1]medium - high\n
+		%c[ui_gray_2] - %c[ui_gray_2] Expanding cloud of pellets, short effective range</text>
+	</string>
+	<string id="ammo_20x70_buck_s">
+		<text>20x70 shot</text>
+	</string>
+
+	<string id="ammo_23_eco">
+		<text>Ecolog-23 cartridge</text>
+	</string>
+	<string id="ammo_23_eco_descr">
+		<text>A special cartridge designed for the needs of the scientific staff located in the Zone. Depending on the task, it is filled with different types of solutions. Requires very careful handling. How to use: very slowly put into the weapon.\n \n
+		
+		%c[ui_gray_2] - %c[ui_gray_2] Highest pierced armour class: %c[ui_gray_1]none\n
+		%c[ui_gray_2] - %c[ui_gray_2] Tissue damage rating: %c[ui_gray_1]none\n 
+		%c[ui_gray_2] - %c[ui_gray_2] Pierces thick skin with a thin wolfram needle to inject solution</text>
+	</string>
+	<string id="ammo_23_eco_s">
+		<text>Ecolog-23</text>
+	</string>
+	
+</string_table>
