@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="trenchcoat_outfit_name">
+		<text>Overcoat</text>
+	</string>
+	<string id="trenchcoat_outfit_description">
+		<text>A long, heavy overcoat in a brown and dark beige color. The outer layer is made from a durable, water-resistant fabric that shields the wearer from rain and moisture. The interior is lined with a coarse, synthetic material, providing minimal insulation against cold weather. While the overcoat offers basic protection against precipitation, it lacks ballistic protection and also does not have adequate defenses against the numerous environmental hazards prevalent in the Zone, such as radiation, chemical exposure, and extreme temperatures. The coat is moderately worn, with visible signs of wear on the edges and seams, indicating its extensive use in harsh conditions.\n \n
+		</text>
+	</string>
+
+</string_table>
