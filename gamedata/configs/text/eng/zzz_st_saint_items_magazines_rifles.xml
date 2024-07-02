@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<!-- 5.45 -->
+
+	<string id="st_mag_ak74_5.45x39">
+		<text>5.45x39 AK-74 Magazine</text>
+	</string>
+	<string id="st_mag_ak74_5.45x39_descr">
+		<text>A standard AK-74 magazine chambered in 5.45x39mm designed for the AK-74 rifle. It is constructed from high-strength polymer, providing reliable feeding and lightweight construction. The double-stack design offers optimal capacity but can be affected by dirt and debris. The magazine includes textured sides for improved handling. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_ak74_5.45x39_extended">
+		<text>5.45x39 AK-74 Magazine</text>
+	</string>
+	<string id="st_mag_ak74_5.45x39_extended_descr">
+		<text>An extended AK-74 magazine chambered in 5.45x39mm. It is made from high-strength polymer, ensuring reliable feeding and lightweight construction. The extended design increases bulk, making it less suitable for maneuverability in tight spaces. Textured sides enhance handling and rapid reloading. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_ak74m_5.45x39">
+		<text>5.45x39 AK-74M Magazine</text>
+	</string>
+	<string id="st_mag_ak74m_5.45x39_descr">
+		<text>A standard AK-74M magazine chambered in 5.45x39mm designed for the AK-74M rifle. It is constructed from durable polymer with steel reinforcements, providing reliable feeding and robust construction. The double-stack design offers optimal capacity but can be prone to dirt and debris. The magazine features ergonomic base plates for better handling. Manufactured by Kalashnikov Concern in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_ak74_fast_5.45x39">
+		<text>Fast-loading 5.45x39 AK-74M Magazine</text>
+	</string>
+	<string id="st_mag_ak74_fast_5.45x39_descr">
+		<text>A fast-loading AK-74M magazine chambered in 5.45x39mm. It is made from durable polymer with steel reinforcements, ensuring reliable feeding and robust construction. The fast-loading mechanism allows for quicker reloads but can be more complex to maintain. The magazine includes textured sides and ergonomic base plates for improved handling. Manufactured by Kalashnikov Concern in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_rpk74_5.45x39">
+		<text>5.45x39 RPK-74 Magazine</text>
+	</string>
+	<string id="st_mag_rpk74_5.45x39_descr">
+		<text>A standard RPK-74 magazine chambered in 5.45x39mm designed for the RPK-74 light machine gun. It is constructed from steel, providing reliable feeding and durability. The high-capacity design offers extended firing duration but adds significant weight. The magazine features ergonomic base plates for better handling. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_rpk74_5.56x45">
+		<text>Modified 5.56x45 RPK-74 Magazine</text>
+	</string>
+	<string id="st_mag_rpk74_5.56x45_descr">
+		<text>A modified RPK-74 magazine chambered in 5.56x45mm. It is made from steel, ensuring reliable feeding and durability. The modification changes ammunition compatibility and can reduce feeding reliability. The high-capacity design adds weight and bulk, impacting maneuverability. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_ak_7.62x39">
+		<text>7.62x39 AKM Magazine</text>
+	</string>
+	<string id="st_mag_ak_7.62x39_descr">
+		<text>A standard AKM magazine chambered in 7.62x39mm designed for the AKM rifle. It is constructed from steel, providing reliable feeding and robust construction. The double-stack design offers optimal capacity but can be affected by dirt and debris. The magazine includes textured sides for improved handling. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_ak103_7.62x39">
+		<text>7.62x39 AK-103 Magazine</text>
+	</string>
+	<string id="st_mag_ak103_7.62x39_descr">
+		<text>A standard AK-103 magazine chambered in 7.62x39mm designed for the AK-103 rifle. It is made from high-strength polymer with steel reinforcements, ensuring reliable feeding and lightweight construction. The double-stack design balances capacity with a manageable profile but can be prone to wear under heavy use. The magazine features ergonomic base plates for better handling. Manufactured by Kalashnikov Concern in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_ak103_fast_7.62x39">
+		<text>Fast-loading 7.62x39 AK-103 Magazine</text>
+	</string>
+	<string id="st_mag_ak103_fast_7.62x39_descr">
+		<text>A fast-loading AK-103 magazine chambered in 7.62x39mm. It is constructed from high-strength polymer with steel reinforcements, providing reliable feeding and lightweight construction. The fast-loading mechanism allows for quicker reloads but can be more complex to maintain. Ergonomic base plates and textured sides enhance handling. Manufactured by Kalashnikov Concern in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_rpd_7.62x39">
+		<text>7.62x39 RPD Drum</text>
+	</string>
+	<string id="st_mag_rpd_7.62x39_descr">
+		<text>A standard RPD drum magazine chambered in 7.62x39mm designed for the RPD light machine gun. It is made from steel, providing reliable feeding and robust construction. The drum design offers high capacity but adds significant weight and bulk, making it less suitable for rapid movement. The magazine features a winding mechanism for proper operation. Manufactured by various Soviet arsenals.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_rpk_7.62x39">
+		<text>7.62x39 RPK Magazine</text>
+	</string>
+	<string id="st_mag_rpk_7.62x39_descr">
+		<text>A standard RPK magazine chambered in 7.62x39mm designed for the RPK light machine gun. It is constructed from steel, ensuring reliable feeding and durability. The high-capacity design offers extended firing duration but adds considerable weight. The magazine includes ergonomic base plates for better handling. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_rpk_7.62x39_drum">
+		<text>7.62x39 RPK Drum Magazine</text>
+	</string>
+	<string id="st_mag_rpk_7.62x39_drum_descr">
+		<text>A drum magazine for the RPK chambered in 7.62x39mm designed for extended engagements. It is made from steel, providing reliable feeding and robust construction. The drum design offers high capacity but significantly increases weight and bulk, impacting maneuverability. The magazine features a winding mechanism for consistent operation. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+
+
+
+
+	<!-- 5.56 -->
+
+	<string id="st_mag_ace21_5.56x45">
+		<text>5.56x45 Galil ACE-21 Magazine</text>
+	</string>
+	<string id="st_mag_ace21_5.56x45_descr">
+		<text>A standard Galil ACE-21 magazine chambered in 5.56x45mm designed for the Galil ACE-21 rifle. It is constructed from high-strength polymer, providing reliable feeding and lightweight construction. The double-stack design offers optimal capacity but can be affected by dirt and debris. The magazine includes textured sides for improved handling. Manufactured by Israel Weapon Industries (IWI) in Israel.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_ak101_5.56x45">
+		<text>5.56x45 AK-101 Magazine</text>
+	</string>
+	<string id="st_mag_ak101_5.56x45_descr">
+		<text>A standard AK-101 magazine chambered in 5.56x45mm designed for the AK-101 rifle. It is made from high-strength polymer with steel reinforcements, ensuring reliable feeding and robust construction. The double-stack design balances capacity with a manageable profile but can be prone to wear under heavy use. The magazine features ergonomic base plates for better handling. Manufactured by Kalashnikov Concern in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_aug_5.56x45">
+		<text>5.56x45 AUG Magazine</text>
+	</string>
+	<string id="st_mag_aug_5.56x45_descr">
+		<text>A standard AUG magazine chambered in 5.56x45mm designed for the Steyr AUG rifle. It is constructed from durable polymer, providing reliable feeding and lightweight construction. The double-stack design offers high capacity but can be susceptible to damage under heavy use. The magazine features transparent sections for easy ammunition count and ergonomic base plates for improved handling. Manufactured by Steyr Mannlicher in Austria.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_g36_5.56x45">
+		<text>5.56x45 G36 Magazine</text>
+	</string>
+	<string id="st_mag_g36_5.56x45_descr">
+		<text>A standard G36 magazine chambered in 5.56x45mm designed for the G36 rifle. It is made from high-strength polymer, ensuring reliable feeding and lightweight construction. The double-stack design offers optimal capacity but can be affected by dirt and debris. The magazine features coupling studs for connecting multiple magazines and ergonomic base plates for better handling. Manufactured by Heckler & Koch in Germany.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_stanag">
+		<text>5.56x45 STANAG Magazine</text>
+	</string>
+	<string id="st_mag_stanag_descr">
+		<text>A standard STANAG magazine chambered in 5.56x45mm designed for various NATO-compatible rifles. It is constructed from aluminum or steel, providing reliable feeding and durability. The double-stack design offers high capacity but can be prone to wear under heavy use. The magazine includes a ribbed surface for improved handling. Manufactured by various NATO member companies.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_nato_5.45x39">
+		<text>Modified 5.45x39 STANAG Magazine</text>
+	</string>
+	<string id="st_mag_nato_5.45x39_descr">
+		<text>A modified STANAG magazine chambered in 5.45x39mm. It is made from aluminum or steel, ensuring reliable feeding and robustness. The modification changes ammunition compatibility and can reduce feeding reliability. The double-stack design is prone to debris but offers high capacity. Manufactured by various NATO member companies.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_nato_5.56x45_fast">
+		<text>Fast-loading 5.56x45 STANAG Magazine</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_fast_descr">
+		<text>A fast-loading STANAG magazine chambered in 5.56x45mm. It is constructed from aluminum or steel, providing reliable feeding and durability. The fast-loading mechanism allows for quicker reloads but can be more complex to maintain. The magazine includes a ribbed surface for improved handling. Manufactured by various NATO member companies.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_nato_5.56x45_extended">
+		<text>Extended 5.56x45 STANAG Magazine</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_extended_descr">
+		<text>An extended STANAG magazine chambered in 5.56x45mm. It is made from aluminum or steel, ensuring reliable feeding and robustness. The extended design increases bulk, making it less suitable for maneuverability in tight spaces. The magazine features a ribbed surface for improved handling. Manufactured by various NATO member companies.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_nato_5.56x45_casket">
+		<text>5.56x45 STANAG Magazine</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_casket_descr">
+		<text>A casket-style STANAG magazine chambered in 5.56x45mm. It is constructed from aluminum or steel, providing reliable feeding and high capacity. The casket design offers increased ammunition storage but adds significant bulk and weight. The magazine includes a ribbed surface for improved handling. Manufactured by various NATO member companies.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_sig550_5.56x45">
+		<text>5.56x45 SG550 Magazine</text>
+	</string>
+	<string id="st_mag_sig550_5.56x45_descr">
+		<text>A standard SG550 magazine chambered in 5.56x45mm designed for the SG550 rifle. It is made from high-strength polymer, ensuring reliable feeding and lightweight construction. The double-stack design offers optimal capacity but can be prone to wear under heavy use. The magazine features transparent sections for easy ammunition count and ergonomic base plates for better handling. Manufactured by SIG Sauer in Switzerland.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_sig550_sniper_5.56x45">
+		<text>5.56x45 SG550-1 Magazine</text>
+	</string>
+	<string id="st_mag_sig550_sniper_5.56x45_descr">
+		<text>A standard SG550-1 magazine chambered in 5.56x45mm designed for the SG550-1 rifle. It is constructed from high-strength polymer, providing reliable feeding and lightweight construction. The double-stack design offers optimal capacity but can be affected by dirt and debris. The magazine includes transparent sections for easy ammunition count and ergonomic base plates for improved handling. Manufactured by SIG Sauer in Switzerland.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_m249_5.56x45">
+		<text>5.56x45 M249 Box</text>
+	</string>
+	<string id="st_mag_m249_5.56x45_descr">
+		<text>An ammunition box for the M249 chambered in 5.56x45mm designed for the M249 light machine gun. It is made from high-strength polymer, providing reliable feeding and lightweight construction. The box design offers high capacity but adds significant bulk and weight, making it less suitable for rapid movement. The ammunition box includes a belt feed mechanism for continuous operation. Manufactured by FN Herstal in Belgium.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_xm8_5.56x45">
+		<text>5.56x45 XM8 Magazine</text>
+	</string>
+	<string id="st_mag_xm8_5.56x45_descr">
+		<text>A standard XM8 magazine chambered in 5.56x45mm designed for the XM8 rifle. It is constructed from durable polymer, ensuring reliable feeding and lightweight construction. The double-stack design offers high capacity but can be susceptible to damage under heavy use. The magazine features transparent sections for easy ammunition count and ergonomic base plates for improved handling. Manufactured by Heckler & Koch in Germany.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_type63_7.62x39">
+		<text>7.62x39 Type 63 Magazine</text>
+	</string>
+	<string id="st_mag_type63_7.62x39_descr">
+		<text>A standard Type 63 magazine chambered in 7.62x39mm designed for the Type 63 rifle. It is made from steel, providing reliable feeding and robust construction. The double-stack design offers optimal capacity but can be affected by dirt and debris. The magazine includes textured sides for improved handling. Manufactured by Norinco in China.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_type63_7.62x54">
+		<text>Modified 7.62x54 Type 63 Magazine</text>
+	</string>
+	<string id="st_mag_type63_7.62x54_descr">
+		<text>A modified Type 63 magazine chambered in 7.62x54mm. It is constructed from steel, ensuring reliable feeding and robust construction. The modification changes ammunition compatibility and can reduce feeding reliability. The double-stack design offers high capacity but can be prone to debris. Manufactured by Norinco in China.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<!-- 9x39 -->
+
+	<string id="st_mag_val_9x39_pab9">
+		<text>9x39 AS VAL Magazine</text>
+	</string>
+	<string id="st_mag_val_9x39_pab9_descr">
+		<text>A standard AS VAL magazine chambered in 9x39mm designed for the AS VAL rifle. It is constructed from steel, ensuring reliable feeding and robust construction. The double-stack design offers high capacity but can be prone to dirt and debris. The magazine features a ribbed surface for improved handling. Manufactured by Tula Arms Plant in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_vihr_9x39_pab9">
+		<text>9x39 SR-3M Magazine</text>
+	</string>
+	<string id="st_mag_vihr_9x39_pab9_descr">
+		<text>A standard SR-3M magazine chambered in 9x39mm designed for the SR-3M rifle. It is made from high-strength polymer with steel reinforcements, providing reliable feeding and lightweight construction. The double-stack design offers optimal capacity but can be affected by dirt and debris. The magazine includes ergonomic base plates for better handling. Manufactured by TsNIITochMash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_vintorez_9x39_pab9">
+		<text>9x39 VSS Magazine</text>
+	</string>
+	<string id="st_mag_vintorez_9x39_pab9_descr">
+		<text>A standard VSS magazine chambered in 9x39mm designed for the VSS Vintorez sniper rifle. It is constructed from steel, ensuring reliable feeding and durability. The double-stack design provides high capacity but can be susceptible to dirt and debris. The magazine features textured sides for improved handling. Manufactured by Tula Arms Plant in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_vsk94_9x39_pab9">
+		<text>9x39 Box Magazine</text>
+	</string>
+	<string id="st_mag_vsk94_9x39_pab9_descr">
+		<text>A box magazine chambered in 9x39mm designed for use with various rifles and submachine guns. It is made from high-strength polymer with steel reinforcements, providing reliable feeding and lightweight construction. The box design offers high capacity but adds significant bulk, making it less suitable for rapid movement. The magazine includes textured surfaces for better handling. Manufactured by various factories in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_groza_9x39_pab9">
+		<text>9x39 Groza Magazine</text>
+	</string>
+	<string id="st_mag_groza_9x39_pab9_descr">
+		<text>A standard Groza magazine chambered in 9x39mm designed for the OTs-14 Groza rifle. It is constructed from steel, ensuring reliable feeding and robust construction. The double-stack design offers optimal capacity but can be prone to wear under heavy use. The magazine features ergonomic base plates for better handling. Manufactured by TsKIB SOO in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+
+	<!-- sniper rifles / full size rifles -->
+
+
+	<string id="st_mag_g43_7.92x33">
+		<text>7.92x57 G43 Magazine</text>
+	</string>
+	<string id="st_mag_g43_7.92x33_descr">
+		<text>A standard G43 magazine chambered in 7.92x57mm designed for the G43 rifle. It is constructed from steel, ensuring reliable feeding and robust construction. The double-stack design offers optimal capacity but can be prone to dirt and debris. The magazine features a ribbed surface for improved handling. Manufactured by various German arsenals during World War II.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_galil_7.62x51">
+		<text>7.62x51 Galil Magazine</text>
+	</string>
+	<string id="st_mag_galil_7.62x51_descr">
+		<text>A standard Galil magazine chambered in 7.62x51mm designed for the Galil rifle. It is made from high-strength steel, providing reliable feeding and durable construction. The double-stack design balances capacity with a manageable profile but can be affected by dirt and debris. The magazine includes textured sides for better handling. Manufactured by Israel Weapon Industries (IWI) in Israel.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_stanag_7.62x51">
+		<text>7.62x51 STANAG Magazine</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_descr">
+		<text>A standard STANAG magazine chambered in 7.62x51mm designed for various NATO-compatible rifles. It is constructed from aluminum or steel, ensuring reliable feeding and durability. The double-stack design offers high capacity but can be prone to wear under heavy use. The magazine features a ribbed surface for improved handling. Manufactured by various NATO member companies.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_stanag_7.62x51_ext">
+		<text>Extended 7.62x51 STANAG Magazine</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_ext_descr">
+		<text>An extended STANAG magazine chambered in 7.62x51mm. It is made from aluminum or steel, providing reliable feeding and robustness. The extended design increases bulk, making it less suitable for maneuverability in tight spaces. The magazine includes a ribbed surface for better handling. Manufactured by various NATO member companies.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_stanag_fast_7.62x51">
+		<text>Fast-loading 7.62x51 STANAG Magazine</text>
+	</string>
+	<string id="st_mag_stanag_fast_7.62x51_descr">
+		<text>A fast-loading STANAG magazine chambered in 7.62x51mm. It is constructed from aluminum or steel, ensuring reliable feeding and durability. The fast-loading mechanism allows for quicker reloads but can be more complex to maintain. The magazine features a ribbed surface for improved handling. Manufactured by various NATO member companies.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_stanag_7.62x51_short">
+		<text>7.62x51 STANAG Magazine</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_short_descr">
+		<text>A short STANAG magazine chambered in 7.62x51mm. It is made from aluminum or steel, ensuring reliable feeding and robust construction. The compact design offers reduced capacity but is suitable for improved maneuverability and weight reduction. The magazine features a ribbed surface for better handling. Manufactured by various NATO member companies.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_hinge_7.62x51">
+		<text>7.62x51 Magazine</text>
+	</string>
+	<string id="st_mag_hinge_7.62x51_descr">
+		<text>A standard magazine chambered in 7.62x51mm designed for various rifles. It is constructed from high-strength steel, providing reliable feeding and durable construction. The double-stack design offers optimal capacity but can be prone to dirt and debris. The magazine includes textured sides for improved handling. Manufactured by various arms manufacturers.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_hinge_ext_7.62x51">
+		<text>Extended 7.62x51 Magazine</text>
+	</string>
+	<string id="st_mag_hinge_ext_7.62x51_descr">
+		<text>An extended magazine chambered in 7.62x51mm designed for various rifles. It is made from high-strength steel, ensuring reliable feeding and durable construction. The extended design increases bulk, affecting maneuverability in tight spaces. The magazine features textured sides for better handling. Manufactured by various arms manufacturers.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_l96a1_7.62x51">
+		<text>7.62x51 L96A1 Magazine</text>
+	</string>
+	<string id="st_mag_l96a1_7.62x51_descr">
+		<text>A standard L96A1 magazine chambered in 7.62x51mm designed for the L96A1 sniper rifle. It is constructed from high-strength steel, providing reliable feeding and durable construction. The single-stack design maintains a slim profile but limits ammunition capacity. The magazine includes a polished surface for smooth operation. Manufactured by Accuracy International in the United Kingdom.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_remington700_7.62x51">
+		<text>7.62x51 Remington 700 Magazine</text>
+	</string>
+	<string id="st_mag_remington700_7.62x51_descr">
+		<text>A standard Remington 700 magazine chambered in 7.62x51mm designed for the Remington 700 rifle. It is made from high-strength steel, ensuring reliable feeding and robust construction. The single-stack design maintains a slim profile but limits ammunition capacity. The magazine features a polished surface for smooth operation. Manufactured by Remington Arms in the USA.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_wa2000_7.62x51">
+		<text>7.62x51 Walther WA 2000 Magazine</text>
+	</string>
+	<string id="st_mag_wa2000_7.62x51_descr">
+		<text>A standard Walther WA 2000 magazine chambered in 7.62x51mm designed for the Walther WA 2000 sniper rifle. It is constructed from high-strength steel, providing reliable feeding and durable construction. The single-stack design maintains a slim profile but limits ammunition capacity. The magazine includes a polished surface for smooth operation. Manufactured by Carl Walther GmbH in Germany.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_pkm_pkm">
+		<text>7.62x54 PKM Box</text>
+	</string>
+	<string id="st_mag_pkm_pkm_descr">
+		<text>A standard PKM box magazine chambered in 7.62x54mm designed for the PKM machine gun. It is made from steel, ensuring reliable feeding and robust construction. The box design offers high
+
+	capacity but adds significant bulk and weight, impacting maneuverability. The magazine features a belt feed mechanism for continuous operation. Manufactured by various Soviet arsenals.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_l96a1_pkm">
+		<text>Modified 7.62x54 L96A1 Magazine</text>
+	</string>
+	<string id="st_mag_l96a1_pkm_descr">
+		<text>A modified L96A1 magazine chambered in 7.62x54mm. It is constructed from high-strength steel, ensuring reliable feeding and durability. The modification changes ammunition compatibility and can reduce feeding reliability. The single-stack design maintains a slim profile but limits capacity. Manufactured by Accuracy International in the United Kingdom.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_sv98_7.62x54">
+		<text>7.62x54 SV98 Magazine</text>
+	</string>
+	<string id="st_mag_sv98_7.62x54_descr">
+		<text>A standard SV98 magazine chambered in 7.62x54mm designed for the SV98 sniper rifle. It is constructed from steel, providing reliable feeding and robust construction. The single-stack design maintains a slim profile but limits ammunition capacity. The magazine features a polished surface for smooth operation. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_svd_7.62x54">
+		<text>7.62x54 SVD Magazine</text>
+	</string>
+	<string id="st_mag_svd_7.62x54_descr">
+		<text>A standard SVD magazine chambered in 7.62x54mm designed for the SVD sniper rifle. It is made from high-strength steel, ensuring reliable feeding and durability. The double-stack design offers optimal capacity but can be prone to dirt and debris. The magazine includes a ribbed surface for improved handling. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_svd_7.62x54_extended">
+		<text>7.62x54 SVD Magazine</text>
+	</string>
+	<string id="st_mag_svd_7.62x54_extended_descr">
+		<text>An extended SVD magazine chambered in 7.62x54mm designed for the SVD sniper rifle. It is constructed from high-strength steel, providing reliable feeding and robust construction. The extended design increases bulk, making it less suitable for rapid movement. The magazine features a ribbed surface for better handling. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_svt40_7.62x54">
+		<text>7.62x54 SVT-40 Magazine</text>
+	</string>
+	<string id="st_mag_svt40_7.62x54_descr">
+		<text>A standard SVT-40 magazine chambered in 7.62x54mm designed for the SVT-40 rifle. It is made from steel, providing reliable feeding and robust construction. The double-stack design offers optimal capacity but can be affected by dirt and debris. The magazine includes a ribbed surface for improved handling. Manufactured by various Soviet arsenals during World War II.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_svt40_pkm">
+		<text>7.62x54 SVT-40 Magazine</text>
+	</string>
+	<string id="st_mag_svt40_pkm_descr">
+		<text>A modified SVT-40 magazine adapted for use with the PKM, chambered in 7.62x54mm. It is constructed from steel, ensuring reliable feeding and robust construction. The modification can reduce feeding reliability and compatibility with the original SVT-40. The magazine features a ribbed surface for better handling. Manufactured by various Soviet arsenals.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_svt40_7.62x39">
+		<text>Modified 7.62x39 SVT-40 Magazine</text>
+	</string>
+	<string id="st_mag_svt40_7.62x39_descr">
+		<text>A modified SVT-40 magazine chambered in 7.62x39mm. It is made from steel, providing reliable feeding and robust construction. The modification changes ammunition compatibility and can reduce feeding reliability. The double-stack design is prone to debris but offers good capacity. Manufactured by various Soviet arsenals.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_trg_magnum_300">
+		<text>.338 LM Magazine</text>
+	</string>
+	<string id="st_mag_trg_magnum_300_descr">
+		<text>A standard magazine chambered in .338 Lapua Magnum designed for various rifles. It is constructed from high-strength steel, ensuring reliable feeding and durability. The single-stack design maintains a slim profile but limits ammunition capacity. The magazine features a polished surface for smooth operation. Manufactured by various arms manufacturers.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_l96a1m_magnum_300">
+		<text>.338 LM L96A1 Magazine</text>
+	</string>
+	<string id="st_mag_l96a1m_magnum_300_descr">
+		<text>A standard L96A1 magazine chambered in .338 Lapua Magnum designed for the L96A1 sniper rifle. It is made from high-strength steel, providing reliable feeding and durable construction. The single-stack design maintains a slim profile but limits ammunition capacity. The magazine features a polished surface for smooth operation. Manufactured by Accuracy International in the United Kingdom.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_m98b_magnum_300">
+		<text>.338 LM M98B Magazine</text>
+	</string>
+	<string id="st_mag_m98b_magnum_300_descr">
+		<text>A standard M98B magazine chambered in .338 Lapua Magnum designed for the Barrett M98B rifle. It is constructed from high-strength steel, ensuring reliable feeding and durability. The single-stack design maintains a slim profile but limits ammunition capacity. The magazine includes a polished surface for smooth operation. Manufactured by Barrett Firearms Manufacturing in the USA.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_vssk_12.7x55">
+		<text>12.7x55 VSSK Magazine</text>
+	</string>
+	<string id="st_mag_vssk_12.7x55_descr">
+		<text>A standard VSSK magazine chambered in 12.7x55mm designed for the VSSK Vykhlop sniper rifle. It is made from high-strength polymer with steel reinforcements, providing reliable feeding and lightweight construction. The double-stack design offers high capacity but can be prone to wear under heavy use. The magazine features textured sides for improved handling. Manufactured by TsKIB SOO in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_ash12_12.7x55">
+		<text>12.7x55 ASh-12 Magazine</text>
+	</string>
+	<string id="st_mag_ash12_12.7x55_descr">
+		<text>A standard ASh-12 magazine chambered in 12.7x55mm designed for the ASh-12 assault rifle. It is constructed from high-strength polymer, ensuring reliable feeding and lightweight construction. The double-stack design offers high capacity but can be affected by dirt and debris. The magazine includes ergonomic base plates for better handling. Manufactured by TsKIB SOO in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_ash12_ext_12.7x55">
+		<text>Extended 12.7x55 ASh-12 Magazine</text>
+	</string>
+	<string id="st_mag_ash12_ext_12.7x55_descr">
+		<text>An extended ASh-12 magazine chambered in 12.7x55mm. It is made from high-strength polymer, providing reliable feeding and lightweight construction. The extended design increases bulk, making it less suitable for rapid movement. The magazine features ergonomic base plates for improved handling. Manufactured by TsKIB SOO in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_m82_12.7x55">
+		<text>12.7x55 M82 Magazine</text>
+	</string>
+	<string id="st_mag_m82_12.7x55_descr">
+		<text>A standard M82 magazine chambered in 12.7x55mm designed for the Barrett M82 rifle. It is constructed from high-strength steel, ensuring reliable feeding and robust construction. The double-stack design offers high capacity but can be prone to dirt and debris. The magazine includes a ribbed surface for better handling. Manufactured by Barrett Firearms Manufacturing in the USA.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_saiga12s_12x70">
+		<text>12x70 Saiga-12S Magazine</text>
+	</string>
+	<string id="st_mag_saiga12s_12x70_descr">
+		<text>A standard Saiga-12S magazine chambered in 12-gauge designed for the Saiga-12S shotgun. It is made from high-strength polymer, providing reliable feeding and lightweight construction. The box design offers high capacity but can be prone to wear under heavy use. The magazine features ergonomic base plates for improved handling. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_saiga12s_ext_12x70">
+		<text>Extended 12x70 Saiga-12S Magazine</text>
+	</string>
+	<string id="st_mag_saiga12s_ext_12x70_descr">
+		<text>An extended Saiga-12S magazine chambered in 12-gauge. It is constructed from high-strength polymer, ensuring reliable feeding and lightweight construction. The extended design increases bulk, making it less suitable for maneuverability. The magazine includes ergonomic base plates for better handling. Manufactured by Izhmash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_usas12_12x70">
+		<text>12x70 USAS-12 Drum</text>
+	</string>
+	<string id="st_mag_usas12_12x70_descr">
+		<text>A drum magazine for the USAS-12 chambered in 12-gauge designed for extended engagements. It is made from high-strength polymer, providing reliable feeding and high capacity. The drum design offers increased ammunition storage but adds significant bulk and weight, impacting maneuverability. The magazine features a winding mechanism for consistent operation. Manufactured by Daewoo Precision Industries in South Korea.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_vepr_12x70">
+		<text>12x70 Vepr-12 Magazine</text>
+	</string>
+	<string id="st_mag_vepr_12x70_descr">
+		<text>A standard Vepr-12 magazine chambered in 12-gauge designed for the Vepr-12 shotgun. It is constructed from high-strength polymer, ensuring reliable feeding and lightweight construction. The box design offers high capacity but can be prone to wear under heavy use. The magazine features ergonomic base plates for improved handling. Manufactured by Molot-Oruzhie Ltd. in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+	<string id="st_mag_vepr_compact_12x70">
+		<text>Compact 12x70 Vepr-12 Magazine</text>
+	</string>
+	<string id="st_mag_vepr_compact_12x70_descr">
+		<text>A compact Vepr-12 magazine chambered in 12-gauge designed for the Vepr-12 shotgun. It is made from high-strength polymer, providing reliable feeding and lightweight construction. The compact design reduces capacity but improves maneuverability and ease of use in tight spaces. The magazine includes ergonomic base plates for better handling. Manufactured by Molot-Oruzhie Ltd. in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine
+		</text>
+	</string>
+
+
+</string_table>

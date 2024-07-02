@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_mag_sr1m_9x21">
+		<text>9x21 SR1M Magazine</text>
+	</string>
+	<string id="st_mag_sr1m_9x21_descr">
+		<text>A standard SR1M magazine chambered in 9x21mm designed for the SR1M pistol. It is made from durable polymer and reinforced with steel inserts, providing reliable feeding in high-stress situations. The single-stack design allows for a slim profile but can be hampered by dirt and debris in the field. Textured grip panels on the sides aid in quick magazine changes even under adverse conditions. Manufactured by TsNIITochMash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+	
+	<string id="st_mag_sr1m_9x21ext">
+		<text>Extended 9x21 SR1M Magazine</text>
+	</string>
+	<string id="st_mag_sr1m_9x21ext_descr">
+		<text>An extended SR1M magazine chambered in 9x21mm designed for the SR1M pistol. It is made from durable polymer and reinforced with steel inserts and provides reliable feeding during prolonged engagements. The extended design adds bulk, making it less suitable for concealed carry. Textured grip panels on the sides facilitate quick magazine changes even under adverse conditions. Manufactured by TsNIITochMash in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+	
+	<string id="st_mag_pl15_9x19_fmj">
+		<text>9x19 PL15 Magazine</text>
+	</string>
+	<string id="st_mag_pl15_9x19_fmj_descr">
+		<text>A standard PL15 magazine chambered in 9x19mm designed for the PL15 pistol. It is constructed from high-strength polymer and features steel reinforcements for durability and reliable feeding. The double-stack design ensures a balanced profile but can be affected by exposure to extreme environmental conditions. Ergonomic base plates and textured sides enhance handling and rapid reloading. Manufactured by Kalashnikov Concern in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+	
+		<string id="st_mag_pl15_9x19_fmjext">
+		<text>Extended 9x19 PL15 Magazine</text>
+	</string>
+	<string id="st_mag_pl15_9x19_fmjext_descr">
+		<text>An extended PL15 magazine chambered in 9x19mm. It is crafted from high-strength polymer with steel reinforcements, providing reliable feeding during extended engagements. The extended design increases capacity but adds bulk, reducing its suitability for concealed carry. Ergonomic base plates and textured sides ensure improved handling and rapid reloading. Manufactured by Kalashnikov Concern in Russia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+	
+	<string id="st_mag_sigp220_11.43x23_fmj">
+		<text>.45 SigP220 Magazine</text>
+	</string>
+	<string id="st_mag_sigp220_11.43x23_fmj_descr">
+		<text>A standard SigP220 magazine chambered in .45 ACP. It is made from stainless steel, offering robust construction and reliable feeding. The single-stack design maintains a slim profile, ideal for concealed carry and precision shooting. The model's limited capacity requires frequent reloads during extended use. Manufactured by SIG Sauer in Switzerland.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+	
+	<string id="st_mag_sigp220_11.43x23_fmjext">
+		<text>Extended .45 SigP220 Magazine</text>
+	</string>
+	<string id="st_mag_sigp220_11.43x23_fmjext_descr">
+		<text>An extended SigP220 magazine chambered in .45 ACP. It is constructed from stainless steel for durability and consistent feeding. The extended design increases ammunition capacity but adds bulk, impacting concealability. The polished surface and anti-tilt follower ensure smooth operation and easy reloading. Manufactured by SIG Sauer in Switzerland.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+		
+	<string id="st_mag_sig226_9x19_fmj">
+		<text>9x19 SigP226 Magazine</text>
+	</string>
+	<string id="st_mag_sig226_9x19_fmj_descr">
+		<text>A standard SigP226 magazine chambered in 9x19mm designed for the SigP226 pistol. It is made from stainless steel, ensuring reliable feeding and robust construction. The double-stack design balances capacity with a manageable profile but can be susceptible to dirt and debris. Textured grip panels and an ergonomic base plate enhance handling and facilitate rapid reloading. Manufactured by SIG Sauer in Switzerland.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+
+	<string id="st_mag_sig226_9x19_fmjext">
+		<text>Extended 9x19 SigP226 Magazine</text>
+	</string>
+	<string id="st_mag_sig226_9x19_fmjext_descr">
+		<text>An extended SigP226 magazine chambered in 9x19mm. It is constructed from stainless steel, providing reliable feeding during extended engagements. The extended design increases bulk, affecting concealability. Textured grip panels and an ergonomic base plate enhance handling and rapid reloading. Manufactured by SIG Sauer in Switzerland.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+
+	<string id="st_mag_usptac_9x19_fmj">
+		<text>9x19 USP Magazine</text>
+	</string>
+	<string id="st_mag_usptac_9x19_fmj_descr">
+		<text>A standard USP magazine chambered in 9x19mm designed for the USP pistol. It is made from high-strength polymer with steel reinforcements, ensuring reliable feeding. The double-stack design offers optimal ammunition capacity but can be affected by dirt and debris. The magazine features ergonomic base plates and textured sides for improved handling. Manufactured by Heckler & Koch in Germany.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+
+	<string id="st_mag_usptac_9x19_fmjext">
+		<text>Extended 9x19 USP Magazine</text>
+	</string>
+	<string id="st_mag_usptac_9x19_fmjext_descr">
+		<text>An extended USP magazine chambered in 9x19mm. It is constructed from high-strength polymer with steel reinforcements, providing reliable feeding during prolonged use. The extended design adds bulk, reducing its suitability for concealed carry. The magazine includes ergonomic base plates and textured sides for better handling. Manufactured by Heckler & Koch in Germany.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+
+	<string id="st_mag_wp99_9x19_fmj">
+		<text>9x19 Walther P99 Magazine</text>
+	</string>
+	<string id="st_mag_wp99_9x19_fmj_descr">
+		<text>A standard P99 magazine chambered in 9x19mm designed for the P99 pistol. It is made from durable polymer with steel reinforcements, ensuring reliable feeding. The double-stack design balances capacity with a slightly bulkier profile. Ergonomic base plates and textured sides aid in quick magazine changes. Manufactured by Carl Walther GmbH in Germany.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+
+	<string id="st_mag_wp99_9x19_fmjext">
+		<text>Extended 9x19 Walther P99 Magazine</text>
+	</string>
+	<string id="st_mag_wp99_9x19_fmjext_descr">
+		<text>An extended P99 magazine chambered in 9x19mm. It is constructed from durable polymer with steel reinforcements, providing reliable feeding during extended engagements. The extended design increases bulk, affecting concealability. Ergonomic base plates and textured sides enhance handling and rapid reloading. Manufactured by Carl Walther GmbH in Germany.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+
+	<string id="st_mag_p220_9x19_u2p2bas">
+		<text>9x19 P220 Custom Nine Magazine</text>
+	</string>
+	<string id="st_mag_p220_9x19_u2p2bas_descr">
+		<text>A standard P220 Custom Nine magazine chambered in 9x19mm. It is made from stainless steel, offering reliable feeding and robust construction. The single-stack design maintains a slim profile but limits ammunition capacity. Polished surfaces and an anti-tilt follower ensure smooth operation and easy reloading. Manufactured by SIG Sauer in Switzerland.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		</text>
+	</string>
+
+</string_table>
