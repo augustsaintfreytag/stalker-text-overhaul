@@ -6,10 +6,13 @@
 	KITS/TOOLS
 -->
 
-	<string id="st_item">
+	<string id="st_itm_repairkit_tier_1_name">
 		<text>Basic Tools</text>
 	</string>
-	<string id="st_item_descr">
+	<string id="st_itm_basickit_name">
+		<text>Basic Tools</text>
+	</string>
+	<string id="st_itm_basickit_descr">
 		<text>A basic repair toolkit comprising various pliers, screws, adhesives, and assorted fasteners. This kit is designed for fundamental repair tasks but lacks the precision tools required for advanced maintenance. With sufficient knowledge and experience, it can be employed in the creation of enhanced equipment. The components show signs of light use.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
@@ -17,10 +20,13 @@
 		</text>
 	</string>
 
-	<string id="st_item">
+	<string id="st_itm_repairkit_tier_2_name">
 		<text>Advanced Tools</text>
 	</string>
-	<string id="st_item_descr">
+	<string id="st_itm_advancedkit_name">
+		<text>Advanced Tools</text>
+	</string>
+	<string id="st_itm_advancedkit_descr">
 		<text>An advanced set of tools including small pliers, tipped tweezers, and a probe and pick set. This kit is well-suited for more intricate repair and crafting tasks. Despite its capability, the user must possess considerable skill to fully utilize its potential. The tools are in a moderately used condition.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
@@ -28,10 +34,13 @@
 		</text>
 	</string>
 
-	<string id="st_item">
+	<string id="st_itm_repairkit_tier_3_name">
 		<text>Expert Tools</text>
 	</string>
-	<string id="st_item_descr">
+	<string id="st_itm_expertkit_name">
+		<text>Expert Tools</text>
+	</string>
+	<string id="st_itm_expertkit_descr">
 		<text>A professional set of high-quality tools designed for fine-tuning and detailed repair work. Contains a drill bit set, precision tweezers, soldering iron, 4mm screwdriver bits, and a multimeter. These tools are essential for advanced equipment creation and modification, demanding a high level of expertise from the user. The set shows signs of heavy use but remains functional.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
@@ -39,10 +48,10 @@
 		</text>
 	</string>
 
-	<string id="st_item">
+	<string id="st_itm_drugkit">
 		<text>Drug-Making Kit</text>
 	</string>
-	<string id="st_item_descr">
+	<string id="st_itm_drugkit_descr">
 		<text>A compact case containing plastic packages, tablets, and ampoules for drug production and management. It includes the basic components necessary for crafting medicinal and chemical solutions. The effectiveness of this kit depends on the user's medical knowledge and access to suitable materials. The kit has been lightly used, with some components nearing expiration.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
@@ -50,10 +59,10 @@
 		</text>
 	</string>
 
-	<string id="st_item">
+	<string id="st_itm_ammokit">
 		<text>Gunsmithing Tools</text>
 	</string>
-	<string id="st_item_descr">
+	<string id="st_itm_ammokit_descr">
 		<text>A comprehensive set of gunsmithing tools, including a pin punch set, wheeler hammer, press tool, and a black powder measure kit. This kit allows for the recycling of damaged ammunition and the creation of custom rounds. To achieve optimal results, significant gunsmithing knowledge and experience are required. The tools show moderate wear and tear from extensive use.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
@@ -65,10 +74,10 @@
 	UTILITY
 -->
 
-	<string id="st_item">
+	<string id="st_binocular_name">
 		<text>Binoculars</text>
 	</string>
-	<string id="st_item_descr">
+	<string id="st_binocular_descr">
 		<text>A pair of standard issue military binoculars. The model is designed for reconnaissance missions, offering exceptional clarity and durability. The rubberized coating ensures a firm grip even in harsh weather conditions. The lenses are multi-coated to reduce glare and enhance image quality. They are built with a variable zoom functionality to allow for comfortable observation from a safe distance.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] equipment item\n
@@ -76,10 +85,10 @@
 		</text>
 	</string>
 
-	<string id="st_item">
+	<string id="st_grooming">
 		<text>Grooming Kit</text>
 	</string>
-	<string id="st_item_descr">
+	<string id="st_grooming_descr">
 		<text>A compact nylon travel case containing essential grooming tools. This kit includes a beard and moustache comb, facial scissors with ultra-sharp stainless steel blades, and a precision trimming tip. The scissors' design ensures precise cuts, while the comb helps maintain a neat appearance even in the rugged conditions of the Zone. While primarily for personal care, the tools can also serve as makeshift disassembling tools in a pinch.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
@@ -87,20 +96,20 @@
 		</text>
 	</string>
 
-	<string id="st_item">
+	<string id="st_bolts_pack">
 		<text>Pack of Throwables</text>
 	</string>
-	<string id="st_item_descr">
+	<string id="st_bolts_pack_descr">
 		<text>A small pack holding a selection of bolts and spent bullet casings. These items are commonly used by stalkers as a cost-effective method for navigating and triggering anomalies safely. The pack includes 20 to 30 pieces, providing ample supply for prolonged expeditions. Despite their simple design, these throwables are crucial for maintaining safety in the unpredictable environments of the Zone.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
 		</text>
 	</string>
 
-	<string id="st_item">
+	<string id="st_swiss">
 		<text>Swiss Knife</text>
 	</string>
-	<string id="st_item_descr">
+	<string id="st_swiss_descr">
 		<text>A versatile and elegant Swiss knife, widely used for its utility and reliability. This multi-tool is equipped with a number of blades and implements that may be be used for weapon and outfit repairs. Its compact design allows for easy carrying and accessibility. The stainless steel construction ensures longevity and resistance to corrosion, making it a valuable asset in the Zone. Even though highly portable, its small size limits its effectiveness for larger scale tasks and proper workshop tools are recommended for disassembly and c crafting tasks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
