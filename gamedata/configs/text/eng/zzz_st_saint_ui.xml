@@ -313,12 +313,6 @@
         <text>COOKING</text>
     </string>
 
-	<!-- Missions -->
-
-	<string id="st_location">
-		<text>%c[ui_gray_3] • %c[ui_gray_2] Location:</text>
-	</string>
-
 	<!-- Fast Travel -->
 
 	<string id="st_fast_travel_discovered">
