@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_placeable_radio">
+		<text>Radio</text>
+	</string>
+	<string id="st_placeable_radio_descr">
+		<text>A used VEF-206 radio in working condition. The model has a durable plastic housing with a prominent analog frequency dial and a series of buttons for band selection. The VEF-206 gives solid reception across multiple bands, including AM, FM, and several shortwave frequencies. It has a telescopic antenna and a built-in ferrite rod for improved signal strength. Although radio communications are severely hindered in the Zone, relayed radio broadcasts may still be picked up in many places.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		</text>
+	</string>
+
+	<string id="st_placeable_workshop">
+		<text>Portable Workshop</text>
+	</string>
+	<string id="st_placeable_workshop_descr">
+		<text>A custom-built portable deployable workshop consisting of a working table, an assortment of workshop tools, and compartments that allow for organized storage of materials, parts, and smaller containers. The portable workshop is sold as a kit, usually to permanent zone inhabitants, and allows for advanced crafting and repairs virtually anywhere in the field. Many now permanent camps have started with a single workshop set up in a makeshift shelter. It is very heavy and does not replace smaller toolkits usually preferred for ad-hoc work on the go.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] high capacity (integrated)\n
+		%c[d_orange] • %c[ui_gray_2] crafting and repairs\n</text>
+	</string>
+
+    <string id="st_placeable_gas_lamp">
+		<text>Gas Lamp</text>
+	</string>
+	<string id="st_placeable_gas_lamp_descr">
+		<text>Generates light by igniting a wick doused in kerosene. Lanterns are an uncommon light source amongst stalkers as the fuel takes up weight and space in the backpacks that could otherwise be used for ammunition or priceless artefacts. Experienced stalkers that regularly travel along the path less troden make use of these lamps for their hideouts. This one has seen considerable wear over the years and appears to have lost its glass lampshade.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] low fuel consumption\n
+		%c[d_cyan] • %c[ui_gray_2] fuel: kerosene\n</text>
+	</string>
+
+	<string id="st_placeable_metal_torch">
+		<text>Battery-Powered Light</text>
+	</string>
+	<string id="st_placeable_metal_torch_descr">
+		<text>A crude handheld flashlight in a durable but heavyweight metal casing. This type is particularly popular for makeshift camps and semi-permanent hideouts in the Zone, primarily due to its robust construction and comparatively low power consumption. The bulky shape and high weight make it impractible for use when carried, other handheld or head-mounted lamps are recommended for personal use instead. A variant of it can be assembled from scrap materials in the field.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] low electric power consumption\n
+		%c[d_cyan] • %c[ui_gray_2] power supply: batteries\n</text>
+	</string>
+
+	<string id="st_placeable_light_altar">
+		<text>Psy-Light</text>
+	</string>
+	<string id="st_placeable_light_altar_descr">
+		<text>A strange artifact-powered light-emitting device. Originally, this strange object emitted lethal levels of unfiltered psy-waves, found to be the cause of death to many unsuspecting stalkers who braved the northern areas. The containment on the inside was modified and reinforced. It now holds a captured Moonlight artefact that provides significant light output when supplied with a low and constant charge.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] low electric power consumption\n
+		%c[d_cyan] • %c[ui_gray_2] power supply: gauss batteries\n</text>
+	</string>
+
+	<string id="st_placeable_sumka6">
+		<text>Small Backpack</text>
+	</string>
+	<string id="st_placeable_sumka6_descr">
+		<text>A small sack crafted from cloth sheets sewn together, this item is both simple and functional. The fabric appears to be repurposed from surplus military uniforms and canvas, sufficient to survive the environmental factors of the Zone. While it can not be comfortably carried for extended periods of time, it is well suited as a concealed stash or for entry-level storage in personal hideouts.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_blue] • %c[ui_gray_2] placeable item\n
+			%c[d_cyan] • %c[ui_gray_2] storage item\n
+			%c[d_cyan] • %c[ui_gray_2] low storage capacity\n
+			%c[d_orange] • %c[ui_gray_2] usable as stash\n</text>
+	</string>
+
+	<string id="st_placeable_case">
+		<text>Gun Case</text>
+	</string>
+	<string id="st_placeable_case_descr">
+		<text>A second-hand case for the safe storage of firearms. It has a dual-locking system with reinforced steel hinges for added security. The interior is lined with pre-cut foam, customizable to fit various gun models and accessories and providing shock absorption. The case is waterproof and dustproof if not damaged, a popular choice for use in personal camp accommodations and hideouts. It can be secured under bunks or in lockers, keeping firearms safe and accessible. Some wear and scuff marks indicate it has been extensively used before it was resold.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_blue] • %c[ui_gray_2] placeable item\n
+			%c[d_cyan] • %c[ui_gray_2] storage item\n
+			%c[d_cyan] • %c[ui_gray_2] moderate storage capacity\n
+			%c[d_orange] • %c[ui_gray_2] usable as stash\n</text>
+	</string>
+
+	<string id="st_placeable_blue_box">
+		<text>Metal Box</text>
+	</string>
+	<string id="st_placeable_blue_box_descr">
+		<text>A metal storage box painted blue on the exterior. The box features a reinforced lid with a secure latch mechanism, providing robust protection for personal items. Its compact size allows for easy placement in hideouts, fitting under beds or in small storage compartments. Despite some surface scratches and minor dents from prior use, it remains structurally sound and reliable for safeguarding belongings in the Zone. It is too bulky to carry around for long periods of time.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] placeable item\n
+			%c[d_cyan] • %c[ui_gray_2] storage item\n
+			%c[d_cyan] • %c[ui_gray_2] high storage capacity\n
+			%c[d_orange] • %c[ui_gray_2] usable as stash\n</text>
+	</string>
+
+	<string id="st_placeable_exo_kit">
+		<text>Empty Exoskeleton Repair Kit</text>
+	</string>
+	<string id="st_placeable_exo_kit_descr">
+		<text>An empty case that previously stored tools and spare parts for exoskeleton armour. Empty kit cases are often discarded, though their rugged exterior, internal compartments, and overall capacity make them well suited for general storage. The case is somewhat heavy and can not be worn to use it as a portable storage option, though it may be just right as a permanent stash in a personal hideout or in an off-camp workshop.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_blue] • %c[ui_gray_2] placeable item\n
+			%c[d_cyan] • %c[ui_gray_2] storage item\n
+			%c[d_cyan] • %c[ui_gray_2] moderate storage capacity\n
+			%c[d_orange] • %c[ui_gray_2] usable as stash\n</text>
+	</string>
+
+	<string id="st_placeable_piano">
+		<text>Portable Keyboard</text>
+	</string>
+	<string id="st_placeable_piano_descr">
+		<text>A 1990s model Roland E-70 electronic piano, a popular model in Eastern Europe in its time. Features a full 61-key touch-sensitive keyboard with a range of built-in sounds and rhythms, including orchestral, jazz, and pop tones. The E-70's advanced MIDI capabilities allow for integration with other electronic instruments and recording equipment. While guitars and smaller instruments are common findings in the Zone, full-size pianos are considered a true luxury. Although it shows some wear with a few scratches and slightly worn keys, it remains in good working order. The built-in memory appears to have a few tracks stored. Loud sounds may attract unwanted guests.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		</text>
+	</string>
+
+</string_table>
