@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="st_windows-1251"?>
+
+<string_table>
+
+	<string id="st_casing_pistol">
+		<text>Handgun Casing</text>
+	</string>
+	<string id="st_casing_pistol_desc">
+		<text>Small brass casings with primers for handgun ammunition. These casings are typically designed for calibers ranging from .22 to .45 ACP. The brass construction ensures durability and reliable performance under various conditions. Essential for reloading spent rounds, these casings are a staple for any shooter looking to economize on ammunition costs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_casing_shotgun">
+		<text>Shotgun Casing</text>
+	</string>
+	<string id="st_casing_shotgun_desc">
+		<text>Plastic shells with brass primers used to make shotgun ammunition. These casings are compatible with a range of shotgun gauges, predominantly 12 and 20 gauge. The combination of plastic and brass materials provides a balance of flexibility and robustness. Ideal for frequent users of shotguns, like big game hunters. Reloading these shells can significantly reduce ammunition expenses.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_casing_r5">
+		<text>Small Rifle Casing</text>
+	</string>
+	<string id="st_casing_r5_desc">
+		<text>Medium-sized brass casings with primers for rifle ammunition. Typically used for calibers like 5.56mm or .223 Remington, these casings offer reliability and consistency in performance. The brass material allows for multiple reloads. Suitable for both semi-automatic and bolt-action rifles.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_casing_r7">
+		<text>Large Rifle Casing</text>
+	</string>
+	<string id="st_casing_r7_desc">
+		<text>Large brass casings with primers for full-sized rifle ammunition. Ideal for high-powered rounds such as .308 Winchester and 7.62mm NATO. These casings are engineered to tolerate high pressures and offer excellent reloadability. Favored by snipers and long-range shooters.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_powder_pistol">
+		<text>Pistol/Shotgun Casing Propellant</text>
+	</string>
+	<string id="st_powder_pistol_desc">
+		<text>Fast burning, double-base propellant for use in shotguns and small handgun rounds. This variant of smokeless powder produces less overall energy than slower powders but burns more cleanly and quickly. Suitable for reloading 9mm, .45 ACP, and various shotgun shells, it ensures a reliable and consistent ignition. Its clean burn reduces residue buildup, making weapon maintenance easier.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_powder_rifle">
+		<text>Small Rifle Casing Propellant</text>
+	</string>
+	<string id="st_powder_rifle_desc">
+		<text>IMR propellant for light rifle cartridges and some heavy handgun cartridges. This powder burns at a medium rate and produces a good amount of energy. Cannot be used in blowback handguns and shotguns as insufficient pressures will lead to incomplete burning, causing fouling. Ideal for calibers such as .223 Remington and .44 Magnum, the propellant ensures consistent performance in semi-automatic and bolt-action rifles.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_powder_mag">
+		<text>Rifle Casing Propellant</text>
+	</string>
+	<string id="st_powder_mag_desc">
+		<text>High-yield, slow burning ball propellant for large rifle rounds. This powder yields the most energy and burns the slowest, thus it is only suitable for use in large caliber rifle ammunition fired from long-barrel weapons. An essential component for creating rounds intended for precision shooting and long-range engagements, high quality propellant maximizes the ballistic performance of heavy rounds.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_handgun_rounds">
+		<text>Handgun Bullet Casing</text>
+	</string>
+	<string id="st_handgun_rounds_desc">
+		<text>An assortment of variously sized handgun rounds, salvaged from spent ammunition. The casings, made from brass and nickel-plated brass, are suitable for reloading into calibers such as 9mm, .40 S&W, and .45 ACP. Brass casings are known for their durability and ease of reloading, while nickel-plated brass provides enhanced corrosion resistance. Can be used with other components to craft new rounds.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_handgun_ap_rounds">
+		<text>Armor Piercing Handgun Bullet Casing</text>
+	</string>
+	<string id="st_handgun_ap_rounds_desc">
+		<text>An assortment of variously sized handgun casings, salvaged from spent ammunition. The casings, made from brass and steel, have alloy penetrators embedded in the bullet. The brass offers reliability and reusability, while the steel adds strength. Designed to penetrate body armor, they are ideal for crafting high-performance self-defense or tactical rounds.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_shotgun_rounds">
+		<text>Lead Shot Casing</text>
+	</string>
+	<string id="st_shotgun_rounds_desc">
+		<text>An assortment of small lead buckshot pellets, used in hunting shotguns. The pellets are made from high-density lead, ensuring consistent weight and reliable performance. Can be repurposed and recycled or even melted down and cast into larger slugs. Useful for crafting a variety of shotgun loads, from birdshot to heavy slugs for different hunting needs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_shotgun_ap_rounds">
+		<text>Saboted Dart Casing</text>
+	</string>
+	<string id="st_shotgun_ap_rounds_desc">
+		<text>An assortment of hardened steel dart rounds, encased in a sabot. Though originallz designed to be fired out of police shotguns to disable engine blocks, they also perform decently well against body armor. The steel dart provides high penetration, and the sabot ensures stability and accuracy in flight. These rounds offer a specialized option for reloading powerful, armor-piercing shotgun ammunition.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_rifle5_rounds">
+		<text>Small-bore Rifle Bullet Casing</text>
+	</string>
+	<string id="st_rifle5_rounds_desc">
+		<text>An assortment of variously sized small-bore rifle bullets, used in assault rifles. Military-manufactured and covered in a full metal jacket, they are optimized for accuracy. These bullets are suitable for calibers such as 5.56mm NATO and .223 Remington, ensuring reliable performance for reloading tactical rounds. The full metal jacket minimizes barrel fouling and improves feeding reliability, making them ideal for sustained use in high-stress situations.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_rifle5_ap_rounds">
+		<text>Small-bore Rifle Bullet, Armor Piercing Casing</text>
+	</string>
+	<string id="st_rifle5_ap_rounds_desc">
+		<text>An assortment of variously sized small-bore rifle bullets with alloy penetrators, used in assault rifles. These special-issue rounds are designed to defeat armor at standard engagement ranges, though they are less effective against flesh. The bullets are suitable for calibers such as 5.56mm NATO and 7.62mm, providing flexibility for various platforms. Ideal for reloading high-penetration ammunition for tactical purposes.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_rifle7_rounds">
+		<text>Rifle Bullet Casing</text>
+	</string>
+	<string id="st_rifle7_rounds_desc">
+		<text>An assortment of full-size rifle bullets, covered in a metal jacket. These are commonly used to load cartridges for hunting and military sniping use. Suitable for calibers like .308 Winchester and 7.62mm NATO, they provide a reliable option for crafting high-power rounds.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+	<string id="st_rifle7_ap_rounds">
+		<text>Armor Piercing Rifle Bullet Casing</text>
+	</string>
+	<string id="st_rifle7_ap_rounds_desc">
+		<text>An assortment of full-size rifle bullets with embedded alloy penetrators found in special-issue cartridges. Commonly used by military and special forces to defeat body armor from long range. These casings are optimal for reloading high-penetration sniper and tactical rounds.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] reloading component\n
+	</text>
+	</string>
+
+</string_table>
