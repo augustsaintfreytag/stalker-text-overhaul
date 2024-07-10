@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<!-- 
+		PROPS
+	-->
+
+	<string id="st_prop_dish2">
+		<text>Ceramic Bowl</text>
+	</string>
+	<string id="st_prop_dish2_descr">
+		<text>A ceramic bowl made from durable stoneware, commonly found in Eastern European households. The bowl features a simple, glazed design, suitable for serving soups, stews, or salads. It shows minor chipping along the rim, indicating prior use.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_green] • %c[ui_gray_2] decorative item\n
+	</text>
+	</string>
+
+	<string id="st_prop_dish1">
+		<text>Ceramic Plate</text>
+	</string>
+	<string id="st_prop_dish1_descr">
+		<text>A ceramic plate made from robust stoneware, typical of the non-combat variety. This plate is ideal for serving main courses or appetizers and features a minimalist design with a glazed finish. Surface scratches and slight discoloration indicate extensive use, yet it remains a dependable piece of dishware. Perfect for use in camps or hideouts within the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_green] • %c[ui_gray_2] decorative item\n
+	</text>
+	</string>
+
+	<string id="st_prop_bong">
+		<text>Hookah</text>
+	</string>
+	<string id="st_prop_bong_descr">
+		<text>A traditional hookah, also known as a waterpipe or arghile, used for smoking Shisha tobacco. The smoke is cooled by water contained within its glass base, offering a smoother smoking experience. This model features intricate metalwork and a sturdy hose, though it shows signs of wear such as tarnish and slight dents. Commonly used in social gatherings, it serves as a source of relaxation in the harsh realities of the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_green] • %c[ui_gray_2] decorative item\n
+	</text>
+	</string>
+
+	<string id="st_prop_keyboard">
+		<text>Keyboard</text>
+	</string>
+	<string id="st_prop_keyboard_descr">
+		<text>A full-side computer keyboard that has developed a faint yellow tint due to the passage of time. The keys have a tactile response, though some are slightly worn from frequent use. Can still be used wired over USB with any set-up.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n	
+		%c[d_cyan] • %c[ui_gray_2] technological item\n	
+		</text>
+	</string>
+
+	<string id="st_prop_laptop_item">
+		<text>Laptop</text>
+	</string>
+	<string id="st_prop_laptop_item_descr">
+		<text>A rugged laptop with somewhat dated specs and design. For reasons unknown, this model seems particularly resilient against the abundant electrical interference of the Zone. Features a dual-core processor and 4GB of RAM (a high end upgrade option at the time it was released). The screen is a matte TFT in good condition. The battery has been recently swapped but its charge still depletes unusualyl rapidly, likely because of anomalous effects that are observable with many other electronics. Using the laptop on a charger with an active power supply is recommended. \n \nCommonly used for organizational, writing, and research analysis tasks where the compute power of PDA models is not sufficient. May be just powerful enough to run legacy versions of editing software and prepare shorter videos.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		</text>
+	</string>
+
+	<string id="st_prop_monitor">
+		<text>Monitor</text>
+	</string>
+	<string id="st_prop_monitor_descr">
+		<text>A used CRT monitor in decent condition, with a screen size of 17 inches. The display shows some signs of burn-in from prolonged use, and the casing has a few scratches, especially on the protruding rear end. Monitors like it are notably bulky and can easily weight 15kg or more. For non-portable set-ups they are occasionally used in the Zone as a reliable alternative to more modern flat screens that are usually more prone to image signal interference.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		</text>
+	</string>
+
+	<string id="st_prop_mice">
+		<text>Mouse</text>
+	</string>
+	<string id="st_prop_mice_descr">
+		<text>A basic computer mouse with a ball mechanism inside for desktop use, very characteristic of late 90s technology. The cable is worn, and the buttons are slightly faded but remain operational. It connects via USB, like most other peripherals available.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		</text>
+	</string>
+
+	<string id="st_prop_mice_pad">
+		<text>Mouse with Mouse Pad</text>
+	</string>
+	<string id="st_prop_mice_pad_descr">
+		<text>A basic computer mouse with a ball mechanism for desktop use, accompanied by a worn mouse pad. Both items show signs of extensive use, the mouse pad's surface is slightly frayed and appears to have some spots of an unknown liquid spilt on it. The mouse connects via USB, like most other peripherals available.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		</text>
+	</string>
+
+	<string id="st_prop_mug">
+		<text>Mug</text>
+	</string>
+	<string id="st_prop_mug_descr">
+		<text>A ceramic mug, ideal for holding hot beverages. It has a plain exterior with minor scratches along the sides but no apparent chips or cracks on the glaze. Despite some minor imperfections and signs of prior history, it adds a home-like touch to even the most uninviting underground hideout.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n	
+		%c[d_green] • %c[ui_gray_2] decorative item\n
+		</text>
+	</string>
+
+	<string id="st_prop_couch_1">
+		<text>Sofa</text>
+	</string>
+	<string id="st_prop_couch_1_descr">
+		<text>A used sofa with a durable fabric cover and reinforced wooden frame. The cushioning is moderately compressed from extensive use but remains intact and is surprisingly comfortable. Suitable for seating arrangements in more spacious personal hideouts. The handiwork on the frame indicates that it was either entirely custom-built or repaired by hand numerous times.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] furniture item\n
+		</text>
+	</string>
+
+	<string id="st_prop_case">
+		<text>Computer Tower</text>
+	</string>
+	<string id="st_prop_case_descr">
+		<text>A dated ATX computer case made from steel with a plastic front panel. Inside, it houses early 2000s hardware including an ASUS P4P800 motherboard, an NVIDIA GeForce FX 5200 graphics card, and an 80GB Seagate Barracuda IDE hard drive. The power supply unit is a 350W generic model, with some of the cables in worrying condition. The case shows moderate signs of wear and has a few dents in the metal, though it still works to protect its insides. May also be salvaged for valuable technological scrap.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		</text>
+	</string>
+
+	<string id="st_prop_poster_vertical_item">
+		<text>Poster</text>
+	</string>
+	<string id="st_prop_poster_vertical_item_descr">
+		<text>A simple, vertical poster printed on glossy paper. The edges are slightly curled, and there are minor tears from previous handling. Similar types of posters are traded with different motifs and formats. Designed for wall mounting to personalize spaces within the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n	
+		%c[d_green] • %c[ui_gray_2] decorative item\n
+		</text>
+	</string>
+
+	<string id="st_prop_fan">
+		<text>Small Fan</text>
+	</string>
+	<string id="st_prop_fan_descr">
+		<text>A small, functional fan with a plastic casing and metal blades. Provides moderate airflow in tight spaces, most commonly used on top of desks. Although the overall climate inside the exclusion zone is rather mild and can even get quite cold at times, a desk fan can take the edge off unusually hot days or when working near thermal anomalies, e.g. during expeditions.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n	
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		</text>
+	</string>
+
+	<string id="st_prop_bed_3">
+		<text>Wooden Bed</text>
+	</string>
+	<string id="st_prop_bed_3_descr">
+		<text>A sturdy wooden bed frame constructed from quality oak wood. The mattress is medium-firm and covered with a washable fabric. Includes a double set of blankets designed for insulation during cold nights. A personal bed is among the true luxury items of the Zone, as most short- and long-term visitors have only bunk beds, sleeping bags, or leaf piles available to them. Adds an inviting element to a personal hideout.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n	
+		%c[d_cyan] • %c[ui_gray_2] usable for sleeping\n
+		</text>
+	</string>
+
+	<string id="st_prop_chair">
+		<text>Wooden Chair</text>
+	</string>
+	<string id="st_prop_chair_descr">
+		<text>A simple and sturdy wooden chair made from pine wood with a soft, upholstered seat. The chair's joints are reinforced with metal brackets for additional stability. Suitable for various seating needs within hideouts. The model can be easily disassembled for transport.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] furniture item\n
+		</text>
+	</string>
+
+	<string id="st_prop_counter_1">
+		<text>Wooden Counter</text>
+	</string>
+	<string id="st_prop_counter_1_descr">
+		<text>A simple wooden counter constructed from laminated particleboard. The surface shows minor scuffs and scratches but its overall condition appears to be solid. Provides a functional workspace for organizing items or preparing food.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] furniture item\n
+		</text>
+	</string>
+
+	<string id="st_prop_table_1">
+		<text>Wooden Desk</text>
+	</string>
+	<string id="st_prop_table_1_descr">
+		<text>A sturdy wooden desk constructed from oak, with a smooth, polished surface. The desk includes multiple drawers for storage and shows minimal signs of wear. The bottoms of the table legs have adjustable feet that allow it to be placed on uneven surfaces, a common issue when setting up in repurposed abandoned structures. It is in good overall condition and provides a reliable workspace. The model can be easily disassembled for transport.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] furniture item\n
+	</text>
+	</string>
+
+	<string id="st_prop_shelf_1">
+		<text>Wooden Shelf</text>
+	</string>
+	<string id="st_prop_shelf_1_descr">
+		<text>A simple shelf made of pine wood, featuring three levels of storage. The shelves are sturdy and can hold a significant amount of weight. It has a plain finish and shows minor scuffs from previous use. Can be easily disassembled for transport.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] furniture item\n
+	</text>
+	</string>
+
+	<string id="st_prop_shelf_2">
+		<text>Wooden Shelf (Large)</text>
+	</string>
+	<string id="st_prop_shelf_2_descr">
+		<text>A sturdy wooden shelf made of oak wood, featuring a few levels of storage for books, boxes, or tools. Each shelf is has some added reinforcement for extra strength and the wood has been treated to give it extra moisture-resistance. The unit shows some signs of wear but the overall condition is good. Can be easily disassembled for transport.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] furniture item\n
+	</text>
+	</string>
+
+	<string id="st_prop_table_2">
+		<text>Wooden Table</text>
+	</string>
+	<string id="st_prop_table_2_descr">
+		<text>A sturdy wooden table constructed from pine wood, with a varnished surface. The table legs have some reinforcement for stability, ensuring durability. The bottoms of the table legs have adjustable feet that allow it to be placed on uneven surfaces which are common when repurposing abandoned structures as personal spaces. It is in good shape, can be easily disassembled, and is suitable for various uses within a hideout.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n	
+		%c[d_cyan] • %c[ui_gray_2] furniture item\n
+	</text>
+	</string>
+
+	<string id="st_prop_board_map">
+		<text>Zone Map</text>
+	</string>
+	<string id="st_prop_board_map_descr">
+		<text>A topographic map of the Zone printed on durable paper, attached to a board made of pine wood. The map details key locations, hazards, and safe routes. It is essential for navigation and planning within the Zone. The board appears to have been previously owned and used by the Ukrainian military.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n	
+		%c[d_green] • %c[ui_gray_2] decorative item\n
+	</text>
+	</string>
+
+	<!--
+		FUNCTIONAL PROPS
+	-->
+
+	<string id="st_placeable item_ammo_box">
+		<text>Ammo Box</text>
+	</string>
+	<string id="st_placeable item_ammo_box_descr">
+		<text>A spacious wooden box for ammunition storage, previously likely used by the military. The box is reinforced with metal brackets and has a secure latch system that can be used to prevent unauthorized access. It is internally divided into multiple compartments for ease of organization.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n	
+		%c[d_cyan] • %c[ui_gray_2] storage item\n
+		%c[d_cyan] • %c[ui_gray_2] usable as stash\n
+		%c[d_red] • %c[ui_gray_2] ammunition storage only\n
+		</text>
+	</string>
+
+	<string id="st_prop_cans_tuna">
+		<text>Food Crate</text>
+	</string>
+	<string id="st_prop_cans_tuna_descr">
+		<text>A wooden crate commonly used by merchants to display their wares in stalls or farmer's markets. The crate is reinforced at the corners to handle heavy loads and includes handholds for easy transport. It shows significant signs of wear and has likely seen years of use in the Zone. Makes for an improvised pantry in a personal hideout.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n	
+		%c[d_cyan] • %c[ui_gray_2] storage item\n
+		%c[d_cyan] • %c[ui_gray_2] usable as stash\n
+		%c[d_red] • %c[ui_gray_2] canned food storage only\n
+		</text>
+	</string>
+
+	<string id="st_prop_lamp1">
+		<text>Desk Lamp</text>
+	</string>
+	<string id="st_prop_lamp1_descr">
+		<text>A small desk lamp to provide light within a living space. It features an adjustable neck for directing light where needed and a sturdy base for stability. It is powered by batteries and accepts most types commonly used with other equipment. As most repurposed spaces in the Zone do not have electricity, battery-powered light sources are a popular choice.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[ui_yellow] • %c[ui_gray_2] power supply: %c[ui_gray_2]batteries\n		
+		</text>
+	</string>
+
+	<string id="st_prop_lamp2">
+		<text>Desk Lamp (Large)</text>
+	</string>
+	<string id="st_prop_lamp2_descr">
+		<text>A large desk lamp to provide light within a living space. It has an extended neck for greater reach and a heavy base to prevent tipping. This lamp is also battery-powered and accepts most types commonly used with other equipment. As most repurposed spaces in the Zone do not have electricity, battery-powered light sources are a popular choice.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[ui_yellow] • %c[ui_gray_2] power supply: %c[ui_gray_2]batteries\n		
+		</text>
+	</string>
+
+	<string id="st_prop_prop_clock_1">
+		<text>Digital Clock</text>
+	</string>
+	<string id="st_prop_prop_clock_1_descr">
+		<text>A modern digital alarm clock, most commonly for bed-side placement. It features a clear LED display and multiple alarm settings. This device is quite a rare sight with the abundance of PDAs but some might prefer it as a decorative item in personal hideouts.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_green] • %c[ui_gray_2] decorative item\n
+		%c[d_cyan] • %c[ui_gray_2] accurate time display\n
+		</text>
+	</string>
+
+	<string id="st_prop_med_case_1">
+		<text>Medical Case</text>
+	</string>
+	<string id="st_prop_med_case_1_descr">
+		<text>A sturdy plastic case, intended to store medical items. It comes with multiple compartments to organize supplies such as bandages, antiseptics, and syringes. The case is designed to be easily transportable, ensuring medical necessities are readily accessible. Its heavy shell makes it more suited to be kept in camps and personal hideouts than to be carried around.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n	
+		%c[d_cyan] • %c[ui_gray_2] storage item\n
+		%c[d_cyan] • %c[ui_gray_2] usable as stash\n
+		%c[d_red] • %c[ui_gray_2] medical storage item only\n
+		</text>
+	</string>
+
+	<string id="st_prop_bed_2">
+		<text>Metal Bed</text>
+	</string>
+	<string id="st_prop_bed_2_descr">
+		<text>A metal bed with a basic mattress, a removeable and washable sheet, as well as a comfortable blanket. The frame is constructed from tubular steel for good durability. The mattress is medium-firm and provides minimal comfort compared to modern standards, though still far more than most sleeping begs or rough camping alternatives. It is easy to assemble and disassemble.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n	
+		%c[d_cyan] • %c[ui_gray_2] furniture item\n
+		%c[d_cyan] • %c[ui_gray_2] usable for sleep\n			
+		</text>
+	</string>
+
+	<string id="st_prop_fridge">
+		<text>Fridge</text>
+	</string>
+	<string id="st_prop_fridge_descr">
+		<text>A heavy fridge with moderate space for perishable foods and drinks. May be used to preserve meats and certain medical compounds that require low temperature storage. It has a single swing-open door with a simple latch mechanism. The inside has a number of shelves to organize items. The model is significantly outdated and its power consumption is high.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] storage item\n
+		%c[d_cyan] • %c[ui_gray_2] usable as stash\n
+		%c[d_red] • %c[ui_gray_2] meat refrigeration\n
+		</text>
+	</string>
+
+	<string id="st_prop_bed_1">
+		<text>Mattress and Blanket</text>
+	</string>
+	<string id="st_prop_bed_1_descr">
+		<text>A basic rollable mattress and blanket, usable as a makeshift, semi-permanent bed. The combo is lightweight and reasonably portable, making it the most popular entry-level item for setting up camps or personal hideouts when more permanent options are not yet feasible. When set up in a safe space, it offers a convenient sleeping solution in various environments. It is advised to upgrade to a proper bedframe and mattress combination to prevent contact to the ground, exposing the user to moisture and cold temperature.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] furniture item\n
+		%c[d_cyan] • %c[ui_gray_2] usable for sleeping\n		
+		</text>
+	</string>
+
+	<string id="st_prop_stove2">
+		<text>Stove (Large)</text>
+	</string>
+	<string id="st_prop_stove2_descr">
+		<text>A large, functional stove that has been refitted to work with all fuels. It features multiple burners and an oven compartment, making it versatile for cooking various meals. This stove is robust and essential for preparing food in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] usable for cooking\n
+		</text>
+	</string>
+
+	<string id="st_prop_stove1">
+		<text>Stove (Small)</text>
+	</string>
+	<string id="st_prop_stove1_descr">
+		<text>A small, functional stove that has been refitted to work with a number of liquid fuels. It features two burners and plastic dials in a compact form factor, making it a viable option when space is limited. This stove is reasonably fuel efficient and allows for reliable and high temperature cooking. Its weight and bulkiness make it unsuited for use in the field but a solid option for deployment in semi-permanent camps and personal hideouts.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] usable for cooking\n
+		</text>
+	</string>
+
+	<string id="st_prop_tv">
+		<text>TV</text>
+	</string>
+	<string id="st_prop_tv_descr">
+		<text>A dated CRT television that is permanently tuned into a broadcast channel received within the Zone. Regular analogue broadcast frequencies are generally impossible to pick up inside the perimeter but a number of rogue signals may occasionally still be received. The case shows significant signs of use with scratches in the plastic and some on the glass.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] placeable item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_green] • %c[ui_gray_2] decorative item\n
+		</text>
+	</string>
+
+</string_table>
