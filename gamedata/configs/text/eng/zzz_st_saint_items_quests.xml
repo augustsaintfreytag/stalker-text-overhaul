@@ -377,10 +377,12 @@
 		<text>X-8 Documents</text>
 	</string>
 	<string id="item_doc_x8_ll_desc">
-		<text>These documents briefly touch on the results of extensive experiments in psy-research conducted by an unknown group. Most notably, the results seem to confirm the existence of a non-contact field of psychic energy which envelops the Earth and a brief description of the sophisticated machinery that could potentially influence the field.\n
-		However, The bulk of these documents are a long list of human test subjects who were exposed to psy-emissions of various frequencies and intensities. Many were noted to have seemingly developed superhuman endurance, intellect or telepathic abilities during the testing. Some are recorded to have later died, others were transferred, and many were left completely unaccounted for, as if they disappeared or escaped.\n
-		Scribbled along one of the margins is a cryptic note: "Already we have perverted the human form far beyond recognition for the sake of our vision! How much longer will it be before our hubris and sin catches up to us?".\n
-		Strelok will definitely be interested in this.\n \n
+		<text>
+		These documents briefly touch on the results of extensive experiments in psy-research conducted by an unknown group. Most notably, the results seem to confirm the existence of a non-contact field of psychic energy which envelops the Earth and a brief description of the sophisticated machinery that could potentially influence the field.\n
+		However, 
+		</text>
+		<text>These documents summarize extensive psy-research experiments conducted by an unknown group. They confirm the existence of a global psychic energy field and describe machinery capable of influencing it. The bulk of these documents are a long list of human test subjects who were exposed to psy-emissions of various frequencies and intensities. Many were noted to have seemingly developed superhuman endurance, intellect or telepathic abilities during the testing. Some are recorded to have later died, others were transferred, and many were left completely unaccounted for, as if they disappeared or escaped.\n \n
+		Scribbled along one of the margins is a cryptic note: "Already we have perverted the human form far beyond recognition for the sake of our vision! How much longer will it be before our hubris and sin catches up to us?"\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
