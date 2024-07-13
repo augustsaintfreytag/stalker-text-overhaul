@@ -49,7 +49,7 @@
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] weapon part maintenance item\n
 		%c[d_red] • %c[ui_gray_2] weapon parts must be removed before cleaning\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All weapons\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All weapons\n
 		</text>
 	</string>
 
@@ -91,7 +91,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] weapon cleaning item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All weapons\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All weapons\n
 		</text>
 	</string>
 
@@ -103,7 +103,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] weapon cleaning item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All weapons\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All weapons\n
 		</text>
 	</string>
 
@@ -115,7 +115,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] weapon cleaning item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All weapons\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All weapons\n
 		</text>
 	</string>
 
@@ -127,7 +127,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] weapon cleaning item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All weapons\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All weapons\n
 		</text>
 	</string>
 
@@ -143,7 +143,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] outfit repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
 		</text>
 	</string>
 
@@ -155,7 +155,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] outfit repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
 		</text>
 	</string>
 
@@ -167,7 +167,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] outfit repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
 		</text>
 	</string>
 
@@ -179,7 +179,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] outfit repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
 		</text>
 	</string>
 
@@ -191,7 +191,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] outfit repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All outfits and headgear sets\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All outfits and headgear sets\n
 		</text>
 	</string>
 
@@ -203,7 +203,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] outfit repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
 		</text>
 	</string>
 
@@ -215,7 +215,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] light outfit repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]Light armor\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]Light armor\n
 		</text>
 	</string>
 
@@ -227,7 +227,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] medium outfit repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]Medium armor\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]Medium armor\n
 		</text>
 	</string>
 
@@ -239,7 +239,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] heavy outfit repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]Heavy armor\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]Heavy armor\n
 		</text>
 	</string>
 
@@ -251,7 +251,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] exoskeleton repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]Exoskeletons\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]Exoskeletons\n
 		</text>
 	</string>
 
@@ -263,7 +263,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] headgear repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]Medium and heavy headgear sets\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]Medium and heavy headgear sets\n
 		</text>
 	</string>
 
@@ -275,7 +275,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_orange] • %c[ui_gray_2] outfit repair item\n
-		%c[d_orange] • %c[0,255,255,255] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
+		%c[d_orange] • %c[ui_gray_3] Compatibility: %c[ui_gray_2]All outfits and light headgear sets\n
 		</text>
 	</string>
 
@@ -291,7 +291,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] toolkit\n \n
-		%c[0,255,255,255]Compatibility: %c[ui_gray_2]Knives and blades\n
+		%c[ui_gray_3]Compatibility: %c[ui_gray_2]Knives and blades\n
 		</text>
 	</string>
 
