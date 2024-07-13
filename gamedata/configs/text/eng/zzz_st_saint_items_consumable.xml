@@ -301,7 +301,7 @@
 	</string>
 
 	<string id="st_cigarettes_russian">
-		<text>Cigarettes (Russian)</text>
+		<text>Cigarettes (Russian Brand)</text>
 	</string>
 	<string id="st_cigarettes_russian_descr">
 		<text>A pack of budget brand Russian cigarettes, distinguished by a utilitarian design and Cyrillic branding. The pack contains cigarettes made from a blend of domestic and imported tobaccos, chosen for a robust flavor profile. They are known for a strong, intense smoking experience, and a higher nicotine content compared to most Western brands. The tobacco undergoes a traditional curing process to preserve natural characteristics. The pack features a flip-top box or soft packaging, ensuring the cigarettes remain fresh and protected from environmental factors. Cigarettes and their additives come with a number of significant health risks, including respiratory and cardiovascular diseases.\n \n
@@ -314,10 +314,10 @@
 	</string>
 	
 	<string id="st_cigar1">
-		<text>Unused?</text>
+		<text>Cigarettes (Slovenian Brand)</text>
 	</string>
 	<string id="st_cigar1_descr">
-		<text>A pack of budget, strong cigarettes of average quality. Genuine USSR flavour has been carefully preserved.\n \n
+		<text>A rare pack of Slovenian cigarettes in minimalist packaging. The pack contains cigarettes made from a blend of local Slovenian and imported Eastern European tobaccos. These cigarettes are known for a moderate and oak-like flavor, offering a balanced smoking experience. The tobacco blend is air-cured to maintain a smooth draw and reduce bitterness. The pack has a flip-top design to keep the cigarettes fresh and protected. The flavour makes you want to become a critical philosopher. Cigarettes and their additives come with significant health risks, including respiratory and cardiovascular diseases.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] tobacco\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
@@ -327,10 +327,10 @@
 	</string>
 	
 	<string id="st_cigar2">
-		<text>Unused?</text>
+		<text>Cigarettes (Ukrainian Brand)</text>
 	</string>
 	<string id="st_cigar2_descr">
-		<text>A pack of budget, strong cigarettes of average quality. Genuine USSR flavour has been carefully preserved.\n \n
+		<text>A rare pack of Ukrainian cigarettes in decorated packaging. The pack contains cigarettes made from a blend of quality imported European tobaccos. These cigarettes are known for a strong, yet sweet flavor, offering a balanced smoking experience. The tobacco blend is air-cured to maintain a smooth draw and reduce bitterness. The pack has a flip-top design to keep the cigarettes fresh and protected. Cigarettes and their additives come with significant health risks, including respiratory and cardiovascular diseases.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] tobacco\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
@@ -340,10 +340,10 @@
 	</string>
 	
 	<string id="st_cigar3">
-		<text>Unused?</text>
+		<text>Cigarettes (Polish Brand)</text>
 	</string>
 	<string id="st_cigar3_descr">
-		<text>A pack of budget, strong cigarettes of average quality. Genuine USSR flavour has been carefully preserved.\n \n
+		<text>A rare pack of quality Polish cigarettes in minimalist colored packaging. The pack contains cigarettes made from a blend of domestic and imported European tobaccos, known for their mild flavor. The tobacco is air-cured to provide a smooth draw and minimize harshness. The pack features a simple flip-top design to keep the cigarettes fresh and protected. Cigarettes and their additives come with significant health risks, including respiratory and cardiovascular diseases.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] tobacco\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
@@ -353,10 +353,10 @@
 	</string>
 
 	<string id="st_cuban_cigar">
-		<text>Cuban Cigar</text>
+		<text>Cigar (Cuban)</text>
 	</string>
 	<string id="st_cuban_cigar_descr">
-		<text>This valuable Cuban cigar can bring bliss for a short while, especially when admiring a nice sunset. Cuban cigars are considered the finest in the world. A rare commodity.\n \n
+		<text>A well-preserved Cuban cigar, internationally known for their exceptional quality and rich history. They are hand-rolled using premium tobacco grown in the Vuelta Abajo region and offer a complex flavor profile with hints of earthy, spicy, and woody notes. The tobacco leaves undergo a meticulous fermentation process to enhance depth and overall smoothness. Each cigar is wrapped in an oily wrapper that gives it an even burn. Cigars and their additives come with significant health risks, including respiratory and cardiovascular diseases.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] tobacco\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
@@ -366,7 +366,7 @@
 	</string>
 	
 	<string id="st_hand_rolling_tobacco">
-		<text>Hand-rolling Tobacco (Latvian)</text>
+		<text>Hand-Rolling Tobacco (Latvian Brand)</text>
 	</string>
 	<string id="st_hand_rolling_tobacco_descr">
 		<text>A pack of Latvian brand hand-rolling tobacco in a resealable pouch. The tobacco is made from a blend of fine Latvian and imported tobacco leaves, known for a mild yet distinctive flavor profile. It is carefully air-cured and hand-selected to provide a smooth, even burn and an overall pleasant smoking experience. The pouch includes a small booklet of rolling papers and a number of filters. Hand-rolling options are usually less expensive than pre-rolled cigarettes. Tobacco products and their additives come with a number of significant health risks, including respiratory and cardiovascular diseases.\n \n
@@ -379,7 +379,7 @@
 	</string>
 	
 	<string id="st_tobacco">
-		<text>Hand-rolling Tobacco (Polish)</text>
+		<text>Hand-Rolling Tobacco (Polish Brand)</text>
 	</string>
 	<string id="st_tobacco_descr">
 		<text>A pack of Polish brand hand-rolling tobacco in a resealable pouch. The tobacco is made from a blend of Polish and imported tobacco leaves, known for an aromatic and slightly sweet flavor profile. It is carefully air-cured and hand-selected to provide a smooth, even burn and an overall pleasant smoking experience. The pouch includes a small booklet of rolling papers and a number of filters. Hand-rolling options are usually less expensive than pre-rolled cigarettes. Tobacco products and their additives come with a number of significant health risks, including respiratory and cardiovascular diseases.\n \n
