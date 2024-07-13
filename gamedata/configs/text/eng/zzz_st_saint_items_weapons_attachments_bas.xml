@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_addon_scope">
+		<text>PSO-1M Scope</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>A PSO-1M scope designed for precision shooting. This optic offers a magnification of 4.0x, allowing for accurate target acquisition at medium to long ranges. The scope features a rangefinder reticle and an illuminated red chevron, enhancing visibility in low-light conditions. Constructed from durable aluminum alloy, it is both lightweight and rugged. Manufactured by NPZ Optics State Plant in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics State Plant\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1p29">
+		<text>1P29 Tulip Scope</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>A 1P29 Tulip scope designed for the AK family of rifles. This optic provides a 4.0x magnification, allowing for improved target identification and engagement at range. It features a unique bullet drop compensator and a wide field of view, enhancing accuracy and situational awareness. Made from rugged materials, it withstands harsh conditions. Originally manufactured in the Soviet Union. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Soviet Union\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Soviet Union\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_ac10632">
+		<text>Barska Electro Sight</text>
+	</string>
+	<string id="st_addon_scope_ac10632_descr">
+		<text>A Barska Electro Sight designed for rapid target acquisition. This red dot optic offers a 1.0x magnification, providing an unlimited field of view and parallax-free aiming. The illuminated reticle can be adjusted for brightness, enhancing visibility in various lighting conditions. Constructed from high-quality aluminum, it is lightweight and durable. Manufactured by Barska in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Barska\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_acog">
+		<text>ACOG 4.0x Scope</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>An ACOG scope with 4.0x magnification, designed for tactical shooting. This optic provides clear, fixed magnification with an illuminated reticle that enhances target acquisition in low-light environments. The rugged design ensures durability under combat conditions. Made from aircraft-grade aluminum, it is both lightweight and strong. Manufactured by Trijicon in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_eotech">
+		<text>EOTech 553 Sight</text>
+	</string>
+	<string id="st_addon_scope_eotech_descr">
+		<text>An EOTech 553 holographic sight, designed for quick target acquisition. It offers a 1.0x magnification with a large field of view, allowing for rapid aiming and tracking. The sight features multiple brightness settings for the reticle, suitable for various lighting conditions. Constructed from durable materials, it is both shockproof and waterproof. Manufactured by EOTech in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] holographic optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: EOTech\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kobra">
+		<text>Kobra EKP 1S-03 Sight</text>
+	</string>
+	<string id="st_addon_scope_kobra_descr">
+		<text>A Kobra EKP 1S-03 red dot sight designed for rapid target acquisition. This optic offers a 1.0x magnification with an adjustable reticle brightness for various lighting conditions. It features a lightweight and durable construction with a quick-detach mount for easy installation. Manufactured by Axion in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Axion\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>PSO-1M2-1 Scope</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>A PSO-1M2-1 scope designed for precision marksmen. This optic provides a 4.0x magnification, ideal for long-range engagements. The illuminated reticle features a rangefinder for accurate distance estimation. Constructed from high-strength aluminum, it is both lightweight and durable. Manufactured by NPZ Optics State Plant in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics State Plant\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_cmore">
+		<text>C-MORE Tactical Sight</text>
+	</string>
+	<string id="st_addon_scope_cmore_descr">
+		<text>A C-MORE tactical sight designed for rapid target acquisition. This red dot optic provides a clear, parallax-free reticle with adjustable brightness settings. Constructed from high-quality materials, it is lightweight and durable, suitable for various tactical applications. Manufactured by C-More Systems in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: C-More Systems\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_57">
+		<text>5.7x28 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_57_descr">
+		<text>A 5.7x28 suppressor designed for reducing muzzle flash and sound. Constructed from high-grade materials, it provides durability and effective sound suppression. The compact design allows for easy attachment and maneuverability. Manufactured in Belgium, this suppressor is ideal for tactical applications. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Belgium\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.7mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_9mm">
+		<text>9mm Suppressor</text>
+	</string>
+	<string id="st_addon_sil_9mm_descr">
+		<text>A versatile 9mm suppress
+
+	or designed to reduce muzzle flash and sound signature. Constructed from high-grade aluminum and steel, it offers durability and effective noise reduction. The suppressor is compatible with various 9mm firearms. Manufactured in multiple countries. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Varies\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 9mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_atg">
+		<text>ATG Suppressor</text>
+	</string>
+	<string id="st_addon_sil_atg_descr">
+		<text>An ATG suppressor designed for versatility, compatible with both 5.56mm and 7.62mm firearms. Made from high-grade steel, it offers effective sound suppression and durability. The suppressor is easy to attach and detach, making it suitable for various tactical scenarios. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.56mm, 7.62mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_gemtech">
+		<text>Gemtech Suppressor</text>
+	</string>
+	<string id="st_addon_sil_gemtech_descr">
+		<text>A Gemtech suppressor designed for both 9mm and .45 ACP firearms. This suppressor reduces muzzle flash and sound signature, enhancing stealth capabilities. Made from high-strength aluminum and stainless steel, it ensures durability and corrosion resistance. Manufactured by Gemtech in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 9mm, .45\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_kzrzp">
+		<text>KZRZP Suppressor</text>
+	</string>
+	<string id="st_addon_sil_kzrzp_descr">
+		<text>A KZRZP suppressor designed to reduce the sound and muzzle flash of 7.62mm firearms. Made from durable steel, it provides effective sound suppression and long-lasting performance. Ideal for tactical operations requiring stealth. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_nato">
+		<text>NATO Suppressor</text>
+	</string>
+	<string id="st_addon_sil_nato_descr">
+		<text>A NATO suppressor designed for compatibility with .45 ACP, 5.56mm, and 7.62mm firearms. Made from high-quality materials, it offers effective sound suppression and durability. This suppressor is ideal for various tactical scenarios requiring stealth. Manufactured in Belgium. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Belgium\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: .45, 5.56mm, 7.62mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_pbs1">
+		<text>PBS-1 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pbs1_descr">
+		<text>A PBS-1 suppressor designed for the AK-47 and AKM rifles, reducing muzzle flash and sound signature. Constructed from high-strength steel, it provides effective sound suppression and durability. This suppressor is optimized for 7.62mm ammunition, enhancing stealth capabilities. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_pbs4">
+		<text>PBS-4 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pbs4_descr">
+		<text>A PBS-4 suppressor designed for 5.45mm rifles, reducing muzzle flash and sound. Made from durable steel, it offers effective sound suppression and long-lasting performance. This suppressor is easy to attach and detach, making it suitable for various tactical scenarios. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.45mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_tgp-a">
+		<text>TGP-A Suppressor</text>
+	</string>
+	<string id="st_addon_sil_tgp-a_descr">
+		<text>A TGP-A suppressor designed for 5.45mm rifles, effectively reducing muzzle flash and sound signature. Constructed from high-strength steel, it offers durability and long-lasting performance. The suppressor is easy to mount and dismount, suitable for various tactical operations. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.45mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_vihr">
+		<text>SR-3M Suppressor</text>
+	</string>
+	<string id="st_addon_sil_vihr_descr">
+		<text>An SR-3M suppressor designed to reduce muzzle flash and sound signature for 9x39mm ammunition. Constructed from high-grade steel, it ensures durability and effective sound suppression. This suppressor is ideal for covert and tactical operations. Manufactured in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 9x39mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_silencer">
+		<text>US Army Smallbore Rifle Suppressor</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>A smallbore rifle suppressor designed for 5.56x45mm firearms, reducing muzzle flash and sound. Made from high-grade aluminum and steel, it offers effective sound suppression and durability. This suppressor is easy to attach and ideal for tactical operations. Manufactured in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.56x45mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_silencer_svu">
+		<text>SVU Suppressor</text>
+
+
+	</string>
+	<string id="st_addon_silencer_svu_descr">
+		<text>An SVU suppressor designed to reduce muzzle flash and noise for SVU rifles. Made from high-grade steel, it offers durability and effective sound suppression. This suppressor is ideal for sniper operations requiring stealth. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: SVU rifles\n
+		</text>
+	</string>
+
+	<string id="st_addon_trijicon_acog">
+		<text>ACOG 2.0x Scope</text>
+	</string>
+	<string id="st_addon_trijicon_acog_descr">
+		<text>An ACOG scope with 2.0x magnification, designed for close to medium-range engagements. This optic provides clear, fixed magnification with an illuminated reticle for enhanced target acquisition. The rugged design ensures durability under combat conditions. Manufactured by Trijicon in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (2x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_okp-7">
+		<text>OKP-7 Sight</text>
+	</string>
+	<string id="st_addon_scope_okp-7_descr">
+		<text>An OKP-7 sight designed for rapid target acquisition. This optic offers a 1.0x magnification, providing a wide field of view and parallax-free aiming. Constructed from high-grade aluminum, it is lightweight and durable. Manufactured by various manufacturers in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Various Manufacturers\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_rmr">
+		<text>RMR Red Dot Sight</text>
+	</string>
+	<string id="st_addon_scope_rmr_descr">
+		<text>An RMR red dot sight designed for rapid target acquisition. This optic offers a 1.0x magnification, providing an unlimited field of view and parallax-free aiming. The illuminated reticle can be adjusted for brightness, enhancing visibility in various lighting conditions. Constructed from high-quality aluminum, it is lightweight and durable. Manufactured by Trijicon in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_aimpoint">
+		<text>Aimpoint Red Dot Sight</text>
+	</string>
+	<string id="st_addon_scope_aimpoint_descr">
+		<text>An Aimpoint red dot sight designed for rapid target acquisition. This optic offers a 1.0x magnification, providing an unlimited field of view and parallax-free aiming. The illuminated reticle can be adjusted for brightness, enhancing visibility in various lighting conditions. Constructed from high-quality materials, it is lightweight and durable. Manufactured by Aimpoint in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Aimpoint\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_ekp8_02">
+		<text>Kobra EKP 8-02 Red Dot Sight</text>
+	</string>
+	<string id="st_addon_scope_ekp8_02_descr">
+		<text>A Kobra EKP 8-02 red dot sight designed for rapid target acquisition. This optic offers a 1.0x magnification with an adjustable reticle brightness for various lighting conditions. It features a lightweight and durable construction with a quick-detach mount for easy installation. Manufactured by Kobra-Axion in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Kobra-Axion\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_specterDR">
+		<text>ELCAN SpecterDR Scope</text>
+	</string>
+	<string id="st_addon_scope_specterDR_descr">
+		<text>An ELCAN SpecterDR scope designed for versatile shooting scenarios. This optic offers variable magnification from 1.0x to 4.0x, providing both close-quarters and medium-range targeting capabilities. The sight features an illuminated reticle with adjustable brightness settings, suitable for various lighting conditions. Constructed from high-quality materials, it is both lightweight and durable. Manufactured by Raytheon ELCAN in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (1-4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Raytheon ELCAN\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pso2">
+		<text>PSO-1I Scope</text>
+	</string>
+	<string id="st_addon_scope_pso2_descr">
+		<text>A PSO-1I scope designed for precision shooting. This optic offers a magnification of 4.0x, allowing for accurate target acquisition at medium to long ranges. The scope features a rangefinder reticle and an illuminated red chevron, enhancing visibility in low-light conditions. Constructed from durable aluminum alloy, it is both lightweight and rugged. Manufactured by NPZ Optics State Plant in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics State Plant\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_0kp2">
+		<text>OKP-7 Sight</text>
+	</string>
+	<string id="st_addon_scope_0kp2_descr">
+		<text>An OKP-7 sight designed for rapid target acquisition. This optic offers a 1.0x magnification, providing a wide field of view and parallax-free aiming. Constructed from high-grade aluminum, it is lightweight and durable. Manufactured by various manufacturers in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Various Manufacturers\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_d0cter">
+		<text>Docter Sight III</text>
+	</string>
+	<string id="st_addon_scope_d0cter_descr">
+		<text>A Docter Sight III designed for rapid target acquisition. This optic offers a 1.0x magnification with an adjustable reticle brightness for various lighting conditions. The sight is constructed from high-quality materials, ensuring durability and lightweight performance. Manufactured by NOBLEX E-Optics in Germany. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Germany\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NOBLEX E-Optics\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1p59">
+		<text>1P59 Giperon Scope</text>
+	</string>
+	<string id="st_addon_scope_1p59_descr">
+		<text>A 1P59 Giperon scope designed for versatile shooting scenarios. This optic offers variable magnification from 1.0x to 8.0x, providing both close-quarters and long-range targeting capabilities. The sight features an illuminated reticle with adjustable brightness settings, suitable for various lighting conditions. Constructed from high-quality materials, it is both lightweight and durable. Manufactured by various manufacturers in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Various Manufacturers\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1pn93">
+		<text>1PN93-4 Night Sight</text>
+	</string>
+	<string id="st_addon_scope_1pn93_descr">
+		<text>A 1PN93-4 night sight designed for low-light and nighttime shooting. This optic offers a 3.7x magnification, providing enhanced target identification in dark conditions. The sight features an illuminated reticle and is built from durable materials to withstand harsh environments. Manufactured by NPZ Optics in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] night optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_leupold">
+		<text>Leupold Mark 8 Scope</text>
+	</string>
+	<string id="st_addon_scope_leupold_descr">
+		<text>A Leupold Mark 8 scope designed for precision shooting. This optic offers variable magnification from 1.0x to 8.0x, providing both close-quarters and long-range targeting capabilities. The sight features an illuminated reticle with adjustable brightness settings, suitable for various lighting conditions. Constructed from high-quality materials, it is both lightweight and durable. Manufactured by Leupold in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Leupold\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_mepro">
+		<text>Meprolight M21 Sight</text>
+	</string>
+	<string id="st_addon_scope_mepro_descr">
+		<text>A Meprolight M21 sight designed for rapid target acquisition. This optic offers a 1.0x magnification with an adjustable reticle brightness for various lighting conditions. The sight is constructed from high-quality materials, ensuring durability and lightweight performance. Manufactured by Meprolight in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Meprolight\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_aim_low">
+		<text>Micro T1 Red Dot Sight</text>
+	</string>
+	<string id="st_addon_scope_aim_low_descr">
+		<text>A Micro T1 red dot sight designed for rapid target acquisition. This optic offers a 1.0x magnification, providing an unlimited field of view and parallax-free aiming. The illuminated reticle can be adjusted for brightness, enhancing visibility in various lighting conditions. Constructed from high-quality materials, it is lightweight and durable. Manufactured by Aimpoint in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Aimpoint\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_aimpoint_pro">
+		<text>Aimpoint PRO Sight</text>
+	</string>
+	<string id="st_addon_scope_aimpoint_pro_descr">
+		<text>An Aimpoint PRO sight designed for rapid target acquisition. This optic offers a 1.0x magnification, providing an unlimited field of view and parallax-free aiming. The illuminated reticle can be adjusted for brightness, enhancing visibility in various lighting conditions. Constructed from high-quality materials, it is lightweight and durable. Manufactured by Aimpoint in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Aimpoint\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1p76">
+		<text>1P76 Rakurs-A Sight</text>
+	</string>
+	<string id="st_addon_scope_1p76_descr">
+		<text>A 1P76 Rakurs-A sight designed for rapid target acquisition. This optic offers a 1.0x magnification, providing a wide field of view and parallax-free aiming. Constructed from high-grade aluminum, it is lightweight and durable. Manufactured by NPZ Optics in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pka">
+		<text>PK-A Red Dot Sight</text>
+	</string>
+	<string id="st_addon_scope_pka_descr">
+		<text>A PK-A red dot sight designed for rapid target acquisition. This optic offers a 1.0x magnification, providing an unlimited field of view and parallax-free aiming. The illuminated reticle can be adjusted for brightness, enhancing visibility in various lighting conditions. Constructed from high-quality materials, it is lightweight and durable. Manufactured by BelOMO in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: BelOMO\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_ekp8_18">
+		<text>EKP 8-18 Red Dot Sight</text>
+	</string>
+	<string id="st_addon_scope_ekp8_18_descr">
+		<text>An EKP 8-18 red dot sight designed for rapid target acquisition. This optic offers a 1.0x magnification with an adjustable reticle brightness for various lighting conditions. It features a lightweight and durable construction with a quick-detach mount for easy installation. Manufactured by Kobra in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d
+
+	_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Kobra\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_salvo">
+		<text>Salvo 12 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_salvo_descr">
+		<text>A Salvo 12 suppressor designed for shotguns, reducing muzzle flash and sound signature. Made from high-grade aluminum and stainless steel, it ensures durability and effective sound suppression. The suppressor is easy to attach and detach, suitable for various tactical operations. Manufactured by SilencerCo in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 12 gauge\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_deltapoint">
+		<text>Deltapoint PRO Red Dot Sight</text>
+	</string>
+	<string id="st_addon_scope_deltapoint_descr">
+		<text>A Deltapoint PRO red dot sight designed for rapid target acquisition. This optic offers a 1.0x magnification with an adjustable reticle brightness for various lighting conditions. The sight is constructed from high-quality materials, ensuring durability and lightweight performance. Manufactured by Leupold in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Leupold\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_e0t2">
+		<text>EOTech XPS3-0 Sight</text>
+	</string>
+	<string id="st_addon_scope_e0t2_descr">
+		<text>An EOTech XPS3-0 holographic sight designed for rapid target acquisition. This optic offers a 1.0x magnification with a large field of view, allowing for quick aiming and tracking. The sight features multiple brightness settings for the reticle, suitable for various lighting conditions. Constructed from durable materials, it is both shockproof and waterproof. Manufactured by EOTech in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] holographic optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: EOTech\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pn23">
+		<text>PN-23 Night Sight</text>
+	</string>
+	<string id="st_addon_scope_pn23_descr">
+		<text>A PN-23 night sight designed for low-light and nighttime shooting. This optic offers a 3.0x magnification, providing enhanced target identification in dark conditions. The sight features an illuminated reticle and is built from durable materials to withstand harsh environments. Manufactured by KULA in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] night optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: KULA\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_gauss_sight">
+		<text>EOTS-62 Sight</text>
+	</string>
+	<string id="st_addon_scope_gauss_sight_descr">
+		<text>An EOTS-62 sight designed for versatile shooting scenarios. This optic offers variable magnification from 1.0x to 8.0x, providing both close-quarters and long-range targeting capabilities. The sight features an illuminated reticle with adjustable brightness settings, suitable for various lighting conditions. Constructed from high-quality materials, it is both lightweight and durable. Manufactured in Ukraine. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Ukraine\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: REDACTED\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_hexagon">
+		<text>Hexagon SKS 7.62x39 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_hexagon_descr">
+		<text>A Hexagon suppressor designed to reduce muzzle flash and sound for 7.62x39mm SKS rifles. Made from durable materials, it provides effective sound suppression and long-lasting performance. This suppressor is ideal for tactical operations requiring stealth. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_marchf">
+		<text>March Tactical 3-24x42 FFP Scope</text>
+	</string>
+	<string id="st_addon_scope_marchf_descr">
+		<text>A March Tactical 3-24x42 FFP scope designed for precision shooting. This optic offers variable magnification from 3.0x to 24.0x, providing both medium and long-range targeting capabilities. The first focal plane reticle ensures accurate holdovers at any magnification. Constructed from high-quality materials, it is both lightweight and durable. Manufactured by DEON Optical Design in Japan. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (3-24x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Japan\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: DEON Optical Design\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pgo7gs">
+		<text>PGO-7 Scope</text>
+	</string>
+	<string id="st_addon_scope_pgo7gs_descr">
+		<text>A PGO-7 scope designed for use with RPG-7 launchers. This optic provides a 2.7x magnification, allowing for improved target identification and engagement at range. It features a simple reticle and is built to withstand the recoil and environmental conditions associated with rocket launchers. Manufactured in the Soviet Union. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (2.7x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Soviet Union\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Soviet Union\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_rakurs">
+		<text>1P76 Rakurs-A Scope</text>
+	</string>
+	<string id="st_addon_scope_rakurs_descr">
+		<text>A 1P76 Rakurs-A scope designed for rapid target acquisition. This optic offers a 1.0x magnification, providing a wide field of view and parallax-free aiming. Constructed from high-grade aluminum, it is lightweight and durable. Manufactured by NPZ Factory in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Factory\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_compm4s">
+		<text>Aimpoint CompM4s Sight</text>
+	</string>
+	<string id="st_addon_scope_compm4s_descr">
+		<text>An Aimpoint CompM4s sight designed for rapid target acquisition. This optic offers a 1.0x magnification, providing an unlimited field of view and parallax-free aiming. The illuminated reticle can be adjusted for brightness, enhancing visibility in various lighting conditions. Constructed from high-quality materials, it is lightweight and durable. Manufactured by Aimpoint in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Aimpoint\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_susat">
+		<text>SUSAT Scope</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>A SUSAT scope designed for precision shooting. This optic offers a 4.0x magnification, providing improved target identification and engagement at range. The sight features a simple reticle and robust construction, ensuring durability under combat conditions. Manufactured by Avimo in the United Kingdom. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United Kingdom\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Avimo\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1p78gs">
+		<text>1P78 Kashtan Scope</text>
+	</string>
+	<string id="st_addon_scope_1p78gs_descr">
+		<text>A 1P78 Kashtan scope designed for rapid target acquisition. This optic offers a 2.8x magnification, providing a balance between close-quarters and medium-range engagements. The sight features a simple reticle and robust construction, ensuring durability under various conditions. Manufactured by NPZ Factory in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (2.8x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Factory\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1pn93n2_1gs">
+		<text>1PN93-1 Night Sight</text>
+	</string>
+	<string id="st_addon_scope_1pn93n2_1gs_descr">
+		<text>A 1PN93-1 night sight designed for low-light and nighttime shooting. This optic offers a 4.0x magnification, providing enhanced target identification in dark conditions. The sight features an illuminated reticle and is built from durable materials to withstand harsh environments. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] night optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kemper">
+		<text>Kemper XL-M Sight</text>
+	</string>
+	<string id="st_addon_scope_kemper_descr">
+		<text>A Kemper XL-M sight designed for rapid target acquisition. This optic offers a 1.0x magnification, providing a wide field of view and parallax-free aiming. Constructed from high-grade materials, it is lightweight and durable. Manufactured by Firefield in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Firefield\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_usp1">
+		<text>1P29 Tulpan Scope</text>
+	</string>
+	<string id="st_addon_scope_usp1_descr">
+		<text>A 1P29 Tulpan scope designed for the AK family of rifles. This optic provides a 4.0x magnification, allowing for improved target identification and engagement at range. It features a unique bullet drop compensator and a wide field of view, enhancing accuracy and situational awareness. Made from rugged materials, it withstands harsh conditions. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_rotor">
+		<text>Rotor 43 7.62x54 Muzzle Brake</text>
+	</string>
+	<string id="st_addon_sil_rotor_descr">
+		<text>A Rotor 43 muzzle brake designed to reduce recoil and muzzle rise for 7.62x54mm firearms. Made from durable materials, it ensures long-lasting performance and improved shooting stability. The muzzle brake is easy to attach and detach, suitable for various tactical operations. Manufactured in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle brake\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_trijicon_rmr">
+		<text>Trijicon Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_trijicon_rmr_descr">
+		<text>A Trijicon sight kit including the ACOG BAC 5.56 BDC sight and the Trijicon RMR sight. The ACOG provides fixed 4x magnification, ideal for medium-range engagements, while the RMR offers a red dot sight for rapid target acquisition. Both optics are made from high-quality materials, ensuring durability and performance. Manufactured by Trijicon in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_mark8_rmr">
+		<text>Leupold RMR Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_mark8_rmr_descr">
+		<text>A Leupold sight kit including the Mark 8 CQBSS sight and the Trijicon RMR sight. The Mark 8 provides variable magnification from 1.1x to 8x, suitable for various engagement distances, while the RMR offers a red dot sight for rapid target acquisition. Both optics are robust and reliable. Manufactured by Leupold and Trijicon in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (1.1-8x)\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Leupold, Trijicon\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_spec_alt">
+		<text>SpecterDR-RMR Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_spec_alt_descr">
+		<text>An Elcan sight kit including the SpecterDR DFOV14-C2 sight and the Trijicon RMR sight. The SpecterDR provides variable magnification from 1x to 4x, suitable for close to medium-range engagements, while the RMR offers a red dot sight for rapid target acquisition. Both optics are durable and versatile. Manufactured by Elcan and Trijicon in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (1-4x)\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Elcan, Trijicon\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kashtan_rmr">
+		<text>Kashtan RMR Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_kashtan_rmr_descr">
+		<text>A Tochpribor sight kit including the 1P78 Kashtan sight and the Trijicon RMR sight. The 1P78 provides fixed 2.8x magnification, ideal for medium-range engagements, while the RMR offers a red dot sight for rapid target acquisition. Both optics are robust and reliable. Manufactured by Tochpribor and Trijicon in Russia and the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (2.8x)\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia, United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Tochpribor, Trijicon\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_psicho_rmr">
+		<text>PSO RMR S Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_psicho_rmr_descr">
+		<text>A BelOMO sight kit including the PSO-1I2-1 sight and the Trijicon RMR sight. The PSO-1I2-1 provides fixed 4x magnification, ideal for long-range engagements, while the RMR offers a red dot sight for rapid target acquisition. Both optics are durable and high-performing. Manufactured by BelOMO in Russia and Trijicon in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia, United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: BelOMO, Trijicon\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_hex23">
+		<text>Swine-23 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_hex23_descr">
+		<text>A Swine-23 suppressor designed to reduce muzzle flash and sound signature. Constructed from high-grade materials, it ensures durability and effective sound suppression. Compatible with 23mm firearms. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 23mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_aac762">
+		<text>AAC 7.62 SDN-6 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_aac762_descr">
+		<text>An AAC 7.62 SDN-6 suppressor designed to reduce muzzle flash and sound signature for 7.62mm firearms. Made from durable materials, it ensures long-lasting performance and effective sound suppression. Manufactured by Advanced Armament Corporation in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_tgpv">
+		<text>TGP-V Suppressor</text>
+	</string>
+	<string id="st_addon_sil_tgpv_descr">
+		<text>A TGP-V suppressor designed to reduce muzzle flash and sound signature for 7.62mm firearms. Constructed from high-strength steel, it provides durability and effective sound suppression. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_osp9">
+		<text>Osprey-9 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_osp9_descr">
+		<text>An Osprey-9 suppressor designed to reduce muzzle flash and sound signature for 9mm firearms. Constructed from high-grade aluminum, it ensures durability and effective sound suppression. Manufactured by SilencerCo in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+
+
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 9mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_pmm">
+		<text>PMM Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pmm_descr">
+		<text>A PMM suppressor designed to reduce muzzle flash and sound signature for 9mm firearms. Made from durable steel, it offers effective sound suppression and long-lasting performance. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 9mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_geks545">
+		<text>Hexagon Suppressor</text>
+	</string>
+	<string id="st_addon_sil_geks545_descr">
+		<text>A Hexagon suppressor designed to reduce muzzle flash and sound signature for 5.45mm and 7.62mm firearms. Made from high-grade materials, it provides durability and effective sound suppression. Manufactured in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.45mm, 7.62mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_kek12">
+		<text>Hexagon 12K Suppressor</text>
+	</string>
+	<string id="st_addon_sil_kek12_descr">
+		<text>A Hexagon 12K suppressor designed to reduce muzzle flash and sound signature for 12 gauge shotguns. Made from high-grade materials, it offers durability and effective sound suppression. Manufactured in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 12 gauge\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_black_box">
+		<text>AAC Black Box Suppressor</text>
+	</string>
+	<string id="st_addon_sil_black_box_descr">
+		<text>An AAC Black Box suppressor designed to reduce muzzle flash and sound signature for 9mm and .45 caliber firearms. Constructed from high-quality materials, it provides effective sound suppression and durability. Manufactured by Advanced Armament Corporation in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 9mm, .45\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_23_up">
+		<text>510mm KS-23 Barrel</text>
+	</string>
+	<string id="st_addon_scope_23_up_descr">
+		<text>A 510mm KS-23 barrel designed for enhanced accuracy and range. Constructed from durable steel, it ensures long-lasting performance. Compatible with KS-23 shotguns. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] barrel\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: KS-23\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_daniel">
+		<text>Daniel Defence Wave QD Suppressor</text>
+	</string>
+	<string id="st_addon_sil_daniel_descr">
+		<text>A Daniel Defence Wave QD suppressor designed to reduce muzzle flash and sound signature for Remington M700 rifles. Made from high-strength materials, it offers durability and effective sound suppression. Manufactured by Daniel Defence in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: Remington M700\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_sr1m">
+		<text>SR1M Gyurza Suppressor</text>
+	</string>
+	<string id="st_addon_sil_sr1m_descr">
+		<text>An SR1M Gyurza suppressor designed to reduce muzzle flash and sound signature for Serdyukov SR1M Gyurza pistols. Made from high-grade steel, it provides durability and effective sound suppression. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: Serdyukov SR1M Gyurza\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_silen98">
+		<text>Suppressor Adapter</text>
+	</string>
+	<string id="st_addon_scope_silen98_descr">
+		<text>A suppressor adapter kit including an adapter or muzzle device for use with a suppressor. This kit is designed to be compatible with the Mauser 98k Forester. Made from high-quality materials, it ensures proper fit and reliable performance. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] adapter kit\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: Mauser 98k Forester\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_forester">
+		<text>98k Suppressor</text>
+	</string>
+	<string id="st_addon_sil_forester_descr">
+		<text>A 98k suppressor designed to reduce muzzle flash and sound signature for Mauser 98k Forester rifles. Made from durable materials, it provides effective sound suppression and long-lasting performance. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: Mauser 98k Forester\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_lazup_pl15">
+		<text>LAM Sight</text>
+	</string>
+	<string id="st_addon_scope_lazup_pl15_descr">
+		<text>A LAM sight designed for rapid target acquisition with the Lebedev PL-15. This optic offers a 1.0x magnification, providing a wide field of view and parallax-free aiming. Constructed from high-quality materials, it ensures durability and reliability. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n
+		%c
+
+	[d_cyan] • %c[ui_gray_2] compatibility: Lebedev PL-15\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_lapu7">
+		<text>"Deer Hunter" Suppressor</text>
+	</string>
+	<string id="st_addon_sil_lapu7_descr">
+		<text>A "Deer Hunter" suppressor designed to reduce muzzle flash and sound signature for Remington M700 rifles. Made from high-grade materials, it ensures durability and effective sound suppression. Manufactured in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: Remington M700 "Deer Hunter"\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_pl15">
+		<text>PL-15 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pl15_descr">
+		<text>A PL-15 suppressor designed to reduce muzzle flash and sound signature for Lebedev PL-15 pistols. Made from durable materials, it offers effective sound suppression and long-lasting performance. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: Lebedev PL-15\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_spec_isg">
+		<text>Rifle Dynamics ISG Suppressor</text>
+	</string>
+	<string id="st_addon_sil_spec_isg_descr">
+		<text>A Rifle Dynamics ISG suppressor designed to reduce muzzle flash and sound signature for 5.45mm and 7.62mm firearms. Made from high-grade materials, it provides durability and effective sound suppression. Manufactured by Rifle Dynamics in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.45mm, 7.62mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_apb">
+		<text>APS Suppressor</text>
+	</string>
+	<string id="st_addon_sil_apb_descr">
+		<text>An APS suppressor designed to reduce muzzle flash and sound signature for APS Stechkin pistols. Made from durable materials, it provides effective sound suppression and long-lasting performance. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: APS Stechkin\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kp_sr2">
+		<text>KP-SR2 Reflex Sight</text>
+	</string>
+	<string id="st_addon_scope_kp_sr2_descr">
+		<text>A KP-SR2 reflex sight designed for rapid target acquisition with the SR-2M Veresk. This optic offers a 1.0x magnification, providing a wide field of view and parallax-free aiming. Constructed from high-quality materials, it ensures durability and reliability. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] reflex sight\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: SR-2M Veresk\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_veresk">
+		<text>GZV-SR2 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_veresk_descr">
+		<text>A GZV-SR2 suppressor designed to reduce muzzle flash and sound signature for SR-2M Veresk firearms. Made from durable materials, it offers effective sound suppression and long-lasting performance. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: SR-2M Veresk\n
+		</text>
+	</string>
+
+	<string id="st_grenade_launcher_monolit">
+		<text>"Guard" 30mm Grenade Launcher</text>
+	</string>
+	<string id="st_grenade_launcher_monolit_descr">
+		<text>A "Guard" 30mm grenade launcher designed for use with the AK-12 "Monolith's Light". This launcher provides effective explosive firepower, enhancing the combat capabilities of the rifle. Made from robust materials, it ensures reliability and durability. Manufactured in Russia. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] grenade launcher\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: AK-12 "Monolith's Light"\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_auga">
+		<text>Steyr UMS Suppressor</text>
+	</string>
+	<string id="st_addon_sil_auga_descr">
+		<text>A Steyr UMS suppressor designed to reduce muzzle flash and sound signature for Steyr AUG rifles. Made from high-quality materials, it ensures durability and effective sound suppression. Manufactured by Steyr Arms in Austria. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Austria\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: Steyr AUG\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_m42k">
+		<text>AAC M4-2000 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_m42k_descr">
+		<text>An AAC M4-2000 suppressor designed to reduce muzzle flash and sound signature for M4A1 RAS and L85A2 rifles. Made from durable materials, it provides effective sound suppression and long-lasting performance. Manufactured by Advanced Armament Corporation in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: M4A1 RAS, L85A2\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_susatov">
+		<text>SUSAT 4.0x Sight</text>
+	</string>
+	<string id="st_addon_scope_susatov_descr">
+		<text>A SUSAT 4.0x sight designed for precision shooting with the L85A2. This optic provides fixed 4x magnification, ideal for medium to long-range engagements. Constructed from high-quality materials, it ensures durability and reliability. Manufactured by Royal Armament Research Development in the United Kingdom. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United Kingdom\n
+		%c[d_c
+
+	yan] • %c[ui_gray_2] manufacturer: Royal Armament Research Development\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: L85A2\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_surfire">
+		<text>Surefire SOCOM556-MONSTER Suppressor</text>
+	</string>
+	<string id="st_addon_sil_surfire_descr">
+		<text>A Surefire SOCOM556-MONSTER suppressor designed to reduce muzzle flash and sound signature for the M4A1 "Protector". Made from high-grade materials, it ensures durability and effective sound suppression. Manufactured by Surefire in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: M4A1 "Protector"\n
+		</text>
+	</string>
+
+	<string id="st_grenade_launcher_scar">
+		<text>FN40GL 40mm Grenade Launcher</text>
+	</string>
+	<string id="st_grenade_launcher_scar_descr">
+		<text>An FN40GL 40mm grenade launcher designed for use with the FN SCAR-H. This launcher provides effective explosive firepower, enhancing the combat capabilities of the rifle. Made from robust materials, it ensures reliability and durability. Manufactured by FN Herstal in Belgium. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] grenade launcher\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Belgium\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: FN SCAR-H\n
+		</text>
+	</string>
+
+	<string id="st_grenade_launcher_l85">
+		<text>M320 40mm Grenade Launcher</text>
+	</string>
+	<string id="st_grenade_launcher_l85_descr">
+		<text>An M320 40mm grenade launcher designed for use with the L85A2. This launcher provides effective explosive firepower, enhancing the combat capabilities of the rifle. Made from robust materials, it ensures reliability and durability. Manufactured by Heckler & Koch in Germany. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] grenade launcher\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Germany\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: L85A2\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_kac4">
+		<text>KAC QDSS NT-4 5.56x45 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_kac4_descr">
+		<text>A KAC QDSS NT-4 suppressor designed to reduce muzzle flash and sound signature for 5.56x45mm firearms. Made from durable materials, it ensures effective sound suppression and long-lasting performance. Manufactured by Knight's Armament Company in the United States. \n \n
+		%c[ui_gray_3]properties:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.56x45mm\n
+		</text>
+	</string>
+
+</string_table>
