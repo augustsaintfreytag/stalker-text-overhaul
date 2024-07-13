@@ -77,7 +77,7 @@
 		<text>Duct Tape</text>
 	</string>
 	<string id="st_duct_tape_descr">
-		<text>A roll of black duct tape, crafted from heavy cotton cloth with a pressure-sensitive adhesive backing, can be ripped by hand without the need for additional tools. Renowned for its strength and versatility, this tape adheres securely to a variety of surfaces, providing a reliable seal in both indoor and outdoor conditions. The cloth weave enhances durability, allowing it to withstand wear, moisture, and temperature fluctuations. Commonly used for repairs, sealing, and reinforcing equipment, it is a staple in any repair kit. In the Zone, its practical utility is unmatched, enabling a reliable option to patch torn gear, secure loose items, and sometimes even providing makeshift insulation from environmental hazards. \n \n
+		<text>A roll of black duct tape, made from heavy cotton cloth with a pressure-sensitive adhesive backing. It can be ripped by hand without the need for additional tools. Commonly chosen for its strength and versatility. The cloth weave enhances durability, allowing it to withstand wear, moisture, and temperature fluctuations. Commonly used for repairs, sealing, and reinforcing equipment. A staple of any repair kit. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
 		</text>
@@ -183,7 +183,7 @@
 		<text>Broken Radio Transciever</text>
 	</string>
 	<string id="st_walkie_descr">
-		<text>A broken hand-held radio transmitter and receiver, previously used for short-range communication, now inoperative due to prolonged exposure to harsh environmental conditions. The plastic casing exhibits signs of significant wear and water damage, with rusted metal components and deteriorated seals failing to protect the internal circuitry. When powered on with an external power source, the device emits a strange, persistent hissing sound. Although not usable as radio equipment, it may be scrapped for valuable electronic parts. \n \n
+		<text>A broken hand-held radio transmitter and receiver, previously used for short-range communication, now inoperative due to prolonged exposure to harsh environmental conditions. The plastic casing shows signs of significant wear and water damage, with rusted metal components and deteriorated seals failing to protect the internal circuitry. When powered on with an external power source, the device emits a strange, persistent hissing sound. Although not usable as radio equipment, it may be scrapped for valuable electronic parts. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] technological item\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
