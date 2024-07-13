@@ -30,7 +30,7 @@
 		<text>5.45x39 AK-74M Magazine</text>
 	</string>
 	<string id="st_mag_ak74m_5.45x39_descr">
-		<text>A standard AK-74M magazine chambered in 5.45x39mm designed for the AK-74M rifle. It is constructed from durable polymer with steel reinforcements, providing reliable feeding and robust construction. The double-stack design offers optimal capacity but can be prone to dirt and debris. The magazine features ergonomic base plates for better handling. Manufactured by Kalashnikov Concern in Russia.\n \n
+		<text>A standard AK-74M magazine chambered in 5.45x39mm designed for the AK-74M rifle. It is constructed from durable polymer with steel reinforcements, providing reliable feeding and durability. The double-stack design offers optimal capacity but can be prone to dirt and debris. The magazine features ergonomic base plates for better handling. Manufactured by Kalashnikov Concern in Russia.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] rifle magazine
@@ -41,7 +41,7 @@
 		<text>Fast-loading 5.45x39 AK-74M Magazine</text>
 	</string>
 	<string id="st_mag_ak74_fast_5.45x39_descr">
-		<text>A fast-loading AK-74M magazine chambered in 5.45x39mm. It is made from durable polymer with steel reinforcements, ensuring reliable feeding and robust construction. The fast-loading mechanism allows for quicker reloads but can be more complex to maintain. The magazine includes textured sides and ergonomic base plates for improved handling. Manufactured by Kalashnikov Concern in Russia.\n \n
+		<text>A fast-loading AK-74M magazine chambered in 5.45x39mm. It is made from durable polymer with steel reinforcements, ensuring reliable feeding and durability. The fast-loading mechanism allows for quicker reloads but can be more complex to maintain. The magazine includes textured sides and ergonomic base plates for improved handling. Manufactured by Kalashnikov Concern in Russia.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] rifle magazine
