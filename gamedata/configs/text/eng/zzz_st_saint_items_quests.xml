@@ -332,7 +332,7 @@
 		<text>Sidorovich's Supplies</text>
 	</string>
 	<string id="st_rioc_sid_desc">
-		<text>A sealed container found on a dead stalker. It must be the shipment Sidorovich was talking about.\n \n
+		<text>A sealed container with a few scratched up labels and tape on the exterior, likely a lost shipment belonging to Sidorovich. The container is battered but intact, showing signs of having been carried through rough terrain. The contents are unknown but presumed valuable, likely consisting of supplies or equipment. This shipment is essential for completing a trade or delivery mission.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -342,29 +342,30 @@
 		<text>Fallen Duty PDA</text>
 	</string>
 	<string id="st_rioc_duty_desc">
-		<text>This PDA confirms Petrenko's missing soldier is dead.\n \n
+		<text>A functional PDA model, holding information that appears to confirm that a missing Duty soldier was killed in action. The device is worn and slightly damaged. The data within includes the last known coordinates and logs of the soldier's final movements. It may offer clues for further investigation or closure for Petrenko. Essential for completing a mission related to the Duty faction.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
 	</string>
 
 	<string id="st_rioc_ecolog">
-		<text>Prototype Detector</text>
+		<text>Prototype Detector Laptop</text>
 	</string>
 	<string id="st_rioc_ecolog_desc">
-		<text>A computer encased in a reinforced container. According to the scientists, this is a brand new detector prototype destined to change the world of artefact hunting.\n \n
+		<text>A rugged laptop with experimental hardware components for anomalous field analysis. According to ecologists, this is a brand new detector prototype destined to change the world of artefact hunting. The casing is durable and built to withstand environmental hazards. Early testing suggests it has advanced sensitivity and range compared to existing models.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
 	</string>
 
+	
 	<!-- Lost Zone HB -->
 
 	<string id="st_hb_isg_dushman_intel_name">
 		<text>Dushman's Intelligence</text>
 	</string>
 	<string id="st_hb_isg_dushman_intel_desc">
-		<text>If Dushman has kept his word, this case contains drawn up maps and notes that'll be invaluable to UNISG and should drastically reduce the risk that future UNISG missions will entail.\n \n
+		<text>A case containing maps and notes provided by Dushman. These documents are intended to aid UNISG in reducing the risks of future missions. The contents include strategic maps, marked points of interest, and detailed observations about enemy movements and safe routes. The information, if accurate, will be invaluable for planning and executing operations in the Zone.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n		
 		</text>
@@ -389,7 +390,7 @@
 		<text>Strelok's Notebook</text>
 	</string>
 	<string id="strelok_notes_desc">
-		<text>This notebook used to belong to Strelok. A quick read reveals many rather disjointed and cryptic notes. It seems the stalker had a crisis about an important decision he had made a few years ago, and wanted to quickly resupply at Rostok before pushing north to verify his choices.\n \n
+		<text>This notebook belonged to Strelok and contains disjointed and cryptic notes. It reveals his crisis about a major decision made years ago and his plans to resupply at Rostok before heading north. The entries reflect a troubled mind, with scattered thoughts and plans scribbled throughout the pages.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -399,7 +400,7 @@
 		<text>Strelok's Flash Drive</text>
 	</string>
 	<string id="st_strelok_pendrive_descr">
-		<text>An encrypted flash drive containing a backup copy of Strelok's many findings throughout the years. It is an invaluable piece of evidence regarding the top secret experiments that allegedly created the Zone.\n \n
+		<text>An encrypted flash drive containing backups of Strelok's findings over the years. It holds crucial evidence regarding top secret experiments believed to have created the Zone. The data within could provide insights into the Zone's origins and the experiments conducted there.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -411,7 +412,7 @@
 		<text>Drekavac's Notes</text>
 	</string>
 	<string id="drekavac_notes_desc">
-		<text>"Finally, after several years of arduous preparation, we can continue the Masters' plan. It's regrettable that so many people don't believe us, but sometimes words aren't enough. They're blinded by base human desires. If they insist on continuing their violent ways, we'll treat them with violence. Maybe then they will understand. The seed of Vyraj is budding, and I'm here to spread the paradise further and further beyond. I am the tip of the spear."\n \n
+		<text>A collection of hand-written notes, reading: "Finally, after several years of arduous preparation, we can continue the Masters' plan. It's regrettable that so many people don't believe us, but sometimes words aren't enough. They're blinded by base human desires. If they insist on continuing their violent ways, we'll treat them with violence. Maybe then they will understand. The seed of Vyraj is budding, and I'm here to spread the paradise further and further beyond. I am the tip of the spear."\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -421,7 +422,7 @@
 		<text>Chernobog's Notes</text>
 	</string>
 	<string id="chernobog_notes_desc">
-		<text>"The Zone is a miracle. The Masters cleansed us. Soon, we thought, the Zone would cleanse the world. But no. Our small paradise was soon trespassed upon by the flawed people of a sinful world. And, in an act of unthinkable atrocity, the beast named Strelok crippled the valiant Monolith, and entered the Masters' chambers to slay their mortal forms. However, I shall not despair. I cannot let this miracle be consumed by the vice and filth of the unworthy. So we, Sin, must embark upon a quest to fulfil the Masters' wish. We shall wage war upon the violent to bring about eternal peace."\n \n
+		<text>A collection of hand-written notes, reading: "The Zone is a miracle. The Masters cleansed us. Soon, we thought, the Zone would cleanse the world. But no. Our small paradise was soon trespassed upon by the flawed people of a sinful world. And, in an act of unthinkable atrocity, the beast named Strelok crippled the valiant Monolith, and entered the Masters' chambers to slay their mortal forms. However, I shall not despair. I cannot let this miracle be consumed by the vice and filth of the unworthy. So we, Sin, must embark upon a quest to fulfil the Masters' wish. We shall wage war upon the violent to bring about eternal peace."\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -431,7 +432,7 @@
 		<text>Sin Leader's PDA</text>
 	</string>
 	<string id="attackers_pda_desc">
-		<text>This PDA used to belong to the squad leader of Sin. It contains a map of the Red Forest with a set of marked locations with an unchecked one among them. It seems the squad was pursuing someone and they were very close to finding them. There is also a lot of additional encrypted data that could be valuable.\n \n
+		<text>A functional PDA that appears to have belonged to the squad leader of a member of a faction called "Sin". It contains a map of the Red Forest with several marked locations, one of which remains unchecked. The data suggests the squad was pursuing someone and was close to finding them. Additionally, the PDA holds encrypted information that could be valuable for further analysis.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -441,7 +442,7 @@
 		<text>Scout Leader's PDA</text>
 	</string>
 	<string id="contact_lost_pda_desc">
-		<text>This PDA used to belong to the leader of the scout team. He had managed to record some information about the enemy forces before his untimely demise.\n \n
+		<text>A functional PDA that appears to have belonged to the leader of a scout team. It includes recorded information about enemy forces before the scout's untimely demise. The data might be of value to someone investigating the team and their fate.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -451,7 +452,7 @@
 		<text>Vodnik's Notes</text>
 	</string>
 	<string id="vodnik_notes_desc">
-		<text>"Many have joined our cause, whether they understood the magnificence of the Zone from the beginning, or required some explanation. I envy the Founders. They were created by the Masters themselves. They could witness the birth of Vyraj! But they cleansed us, judging us worthy, and they'll cleanse our new brothers. Together, we'll spread the word across the whole world."\n \n
+		<text>A collection of hand-written notes, reading: "Many have joined our cause, whether they understood the magnificence of the Zone from the beginning, or required some explanation. I envy the Founders. They were created by the Masters themselves. They could witness the birth of Vyraj! But they cleansed us, judging us worthy, and they'll cleanse our new brothers. Together, we'll spread the word across the whole world."\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -463,7 +464,7 @@
 		<text>Sealed Case</text>
 	</string>
 	<string id="special_delivery_case_desc">
-		<text>A sealed case that contains undisclosed contents. It's rather heavy.\n \n
+		<text>A sealed case containing undisclosed contents. It is rather heavy and appears to be in good overall condition, suggesting it holds important or valuable items. Judging by some labels on the bottom of the case, it seems to be related to a special delivery mission.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -473,7 +474,7 @@
 		<text>Undercover Agent's Flash Drive</text>
 	</string>
 	<string id="st_army_isg_spy_pendrive_descr">
-		<text>An encrypted flash drive with information on the goals and movements of UNISG, as well as evidence that could place legal or political pressure on the UN troops to leave the Zone.\n \n
+		<text>An encrypted flash drive from a UNISG operative, most likely containing critical information on the group's goals, movements, or espionage conducted around the work of other factions. It might include evidence that could exert legal or political pressure to force UN troops out of the Zone. The data within is vital for those looking to undermine UNISG's presence and influence in the area.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -483,7 +484,7 @@
 		<text>Jupiter Factory Documents</text>
 	</string>
 	<string id="jupiter_documents_desc">
-		<text>Presumably the last documents which contain secret information left in the factory. Better not let them fall into the hands of foreign agents.\n \n
+		<text>A binder of what appear to be confidential documents from the Jupiter factory. They likely detail operations, experimental processes, or security protocols relevant to the factory. These papers are labelled all over that they must not leave a circle of trustees. May be of value to information brokers in the Zone.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -493,7 +494,7 @@
 		<text>Military Radio</text>
 	</string>
 	<string id="decryption_radio_desc">
-		<text>This unassuming military-grade radio can intercept and decrypt nearby transmissions.\n \n
+		<text>A military-grade radio designed to intercept and decrypt nearby transmissions. Its robust construction ensures durability in the field, and its advanced encryption-breaking capabilities make it a highly valuable tool for gathering intelligence. The device is sure to be valuable to someone in the Zone.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
@@ -505,102 +506,102 @@
 		<text>Brain Wave Scanner</text>
 	</string>
 	<string id="chimera_scan_device_desc">
-		<text>A device designed to record nearby electromagnetic waves. This one has been specifically tuned to isolate the neural oscillations of a specific Chimera specimen.\n \n
+		<text>An advanced scanner device designed to record nearby electromagnetic waves, specifically tuned to isolate the neural oscillations of a chimera specimen. It features precise sensors and advanced filtering technology to capture detailed brain wave patterns. Essential for scientific studies on the behavioral and neurological characteristics of chimeras.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
 	</string>
 
 	<!-- AH AH -->
-	
+
 	<string id="cs_deshefrator_name">
-        <text>Decoder</text>
-    </string>
-    <string id="cs_deshefrator_desc">
-        <text>A device used by the Monolith outcasts to listen in on the fanatics' conversations.\n \n
+		<text>Decoder</text>
+	</string>
+	<string id="cs_deshefrator_desc">
+		<text>An advanced decoding device sometimes used by Monolith outcasts to eavesdrop on private Monolith conversations that can not be read and recorded with conventional means. It is compact and portable, with the ability to decode encrypted transmissions. A valuable tool for someone looking to gather intelligence in the northern-most parts of the Zone.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
-    </string>
+	</string>
 
-    <string id="st_wpn_bm16_ohotnik">
-        <text>Hunter's BM-16 Shotgun</text>
-    </string>
-    <string id="st_wpn_bm16_ohotnik_descr">
-        <text>An old shotgun with a couple markings on it belonging to Hunter.\n \n
+	<string id="st_wpn_bm16_ohotnik">
+		<text>Hunter's BM-16 Shotgun</text>
+	</string>
+	<string id="st_wpn_bm16_ohotnik_descr">
+		<text>An old BM-16 shotgun marked with Hunter's personal insignia. It is a reliable double-barrel shotgun, favored for its simplicity and stopping power. The weapon shows signs of extensive use but seems to be functional.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
-    </string>
+	</string>
 
-    <string id="pda_dragun_name">
-        <text>Scar's PDA</text>
-    </string>
-    <string id="pda_dragun_desc">
-        <text>Among the many entries, there is one that stands out: "Strider has assembled a new group to fight the Monolith. Rumor has it that among his men are former members of Lebedev's strike team."\n \n
+	<string id="pda_dragun_name">
+		<text>Scar's PDA</text>
+	</string>
+	<string id="pda_dragun_desc">
+		<text>A functional PDA with low battery. It has severe scratches on the plastic exterior and on the screen. There are a number of entries stored. One of those seems to stand out: "Strider has assembled a new group to fight the Monolith. Rumor has it that among his men are former members of Lebedev's strike team." This device contains valuable insights into Scar's movements and plans, crucial for those tracking Monolith's activities.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
-    </string>
+	</string>
 
-    <string id="bar_case_name">
-        <text>Heavy Briefcase</text>
-    </string>
-    <string id="bar_case_desc">
-        <text>A special case with loot for the Bartender.\n \n
+	<string id="bar_case_name">
+		<text>Heavy Briefcase</text>
+	</string>
+	<string id="bar_case_desc">
+		<text>A heavy hardcover case with moderate scratches and dents on its exterior. It has a reinforced shell to protect its contents. The case likely contains items of value to Rostok's barman. Delivering this case is crucial for completing a high-priority trade or barter agreement.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
-    </string>
+	</string>
 
 	<string id="cs_anom_pribor_name">
-        <text>Anomalous Activity Scanner</text>
-    </string>
-    <string id="cs_anom_pribor_desc">
-        <text>Special device for studying anomalous fields. Belongs to the Clear Sky faction.\n \n
+		<text>Anomalous Activity Scanner</text>
+	</string>
+	<string id="cs_anom_pribor_desc">
+		<text>An advanced scanner device for studying fields of interest to researchers in the Zone. The device uses a number of experimental components to scan anomalous formations. It can record raw data to an internal drive or transmit it to a preconfigured destination over short distances via radio. Models like it are most commonly used by members of Clear Sky.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
-    </string>
+	</string>
 
-    <string id="cs_informer_pda_name">
-        <text>Crutch's PDA</text>
-    </string>
-    <string id="cs_informer_pda_desc">
-        <text>Encrypted information related to the Clear Sky faction is stored on this PDA.\n \n
+	<string id="cs_informer_pda_name">
+		<text>Crutch's PDA</text>
+	</string>
+	<string id="cs_informer_pda_desc">
+		<text>A functional PDA in good condition, with some smudges of dirt on the plastic case. It appears to contain encrypted information related to the Clear Sky faction. The data presumably holds value to certain parties looking to gain insight on communications or strategic plans of Clear Sky.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
-    </string>
+	</string>
 
-    <string id="crazy_stalker_flash_name">
-        <text>Madman's Flash Drive</text>
-    </string>
-    <string id="crazy_stalker_flash_desc">
-        <text>The information is encrypted.\n \n
+	<string id="crazy_stalker_flash_name">
+		<text>Madman's Flash Drive</text>
+	</string>
+	<string id="crazy_stalker_flash_desc">
+		<text>A common flash drive holding encrypted information, likely owned by a stalker called "Madman". It has some scratches and signs of use on the plastic case and contacts. The nature of its contents are unknown but may be of value to interested parties.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
-    </string>
+	</string>
 
-    <string id="escape_docs_name">
-        <text>Roadblock Documents</text>
-    </string>
-    <string id="escape_docs_desc">
-        <text>Military expedition report from North of the Zone.\n \n
+	<string id="escape_docs_name">
+		<text>Roadblock Documents</text>
+	</string>
+	<string id="escape_docs_desc">
+		<text>A binder of what appears to be a military expedition report from the northern part of the Zone. It details troop movements, encounters with anomalies, and strategic positions. These documents may be valuable to certain parties looking into military activities or planning counter-operations. The folder has some light smudges and water damage on the outside but the papers inside are in good condition.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
-    </string>
+	</string>
 
-    <string id="st_voen_scaner">
-        <text>Anomalous Activity Scanner</text>
-    </string>
-    <string id="st_voen_scaner_desc">
-        <text>The newest and convenient model for measurements, created especially for military stalkers and scientific groups. For the traders, it is of no special value because each scanner only works when the code specific to each device is entered.\n \n
+	<string id="st_voen_scaner">
+		<text>Anomalous Activity Scanner</text>
+	</string>
+	<string id="st_voen_scaner_desc">
+		<text>An advanced device for the measurement of anomalous activity, originally designed for military personnel and members of scientific research groups for field work. Each scanner is protected by a unique code that encrypts all recorded data, limiting its use to authorized personnel. It contains a number of components for scanning and analysis of anomalous fields and formations found in the exclusion zone. This device is highly advanced but of little value to traders due to its security measures.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
-    </string>
+	</string>
 
 </string_table>
