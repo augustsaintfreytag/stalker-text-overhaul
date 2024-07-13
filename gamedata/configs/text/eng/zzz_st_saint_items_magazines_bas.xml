@@ -2,6 +2,10 @@
 
 <string_table>
 
+	<!--
+		Handguns 1
+	-->
+
 	<string id="st_mag_sr1m_9x21">
 		<text>9x21 SR1M Magazine</text>
 	</string>
@@ -143,6 +147,374 @@
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
 		</text>
+	</string>
+
+	<!--
+		Handguns 2
+	-->
+
+	<string id="st_mag_ppp_1911_357_fmj">
+		<text>Coonan .357 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_1911_357_fmj_descr">
+		<text>A Coonan magazine chambered in .357 Magnum. Made from stainless steel, it provides reliable feeding and robust construction. The single-stack design maintains a slim profile but limits ammunition capacity. Ideal for powerful, accurate shots. Manufactured by Coonan Inc. in the USA. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_mag_ppp_svi_45">
+		<text>Strayer-Voight Magazine</text>
+	</string>
+	<string id="st_mag_ppp_svi_45_descr">
+		<text>A Strayer-Voight magazine chambered in .45 ACP. Constructed from high-grade stainless steel, it ensures reliable feeding and durability. The double-stack design offers increased capacity but adds to the magazine's bulk. Ideal for competitive shooting and tactical use. Manufactured by Strayer-Voigt Inc. in the USA. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_mag_ppp_px4_9x19_fmj">
+		<text>9x19 PX4 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_px4_9x19_fmj_descr">
+		<text>A Beretta PX4 magazine chambered in 9x19mm. Made from durable steel with a corrosion-resistant finish, it provides reliable feeding. The double-stack design offers a good balance between capacity and size. Potential drawbacks include its slightly increased weight. Manufactured by Beretta in Italy. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_mag_ppp_px4_45">
+		<text>.45 PX4 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_px4_45_descr">
+		<text>A Beretta PX4 magazine chambered in .45 ACP. Constructed from high-strength steel, it ensures reliable feeding and longevity. The single-stack design keeps the magazine slim but reduces its capacity. Ideal for powerful, accurate shots in a compact format. Manufactured by Beretta in Italy. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_mag_ppp_sig_9x19_fmj">
+		<text>9x19 SIG P229 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_sig_9x19_fmj_descr">
+		<text>A SIG P229 magazine chambered in 9x19mm. Made from high-quality steel, it offers reliable feeding and robust construction. The double-stack design balances capacity and compactness. The magazine's weight can be a minor drawback. Manufactured by SIG Sauer in Germany. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_mag_ppp_signimble_9x19_fmj">
+		<text>9x19 SIG P320 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_signimble_9x19_fmj_descr">
+		<text>A SIG P320 magazine chambered in 9x19mm. Constructed from durable steel, it ensures reliable feeding and longevity. The double-stack design provides a good balance between capacity and size. The magazine's weight may affect carry comfort. Manufactured by SIG Sauer in Germany. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_mag_ppp_signimble_45_fmj">
+		<text>.45 SIG P320 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_signimble_45_fmj_descr">
+		<text>A SIG P320 magazine chambered in .45 ACP. Made from high-quality steel, it provides reliable feeding and durability. The single-stack design keeps the magazine slim but limits capacity. Ideal for powerful shots with a compact form factor. Manufactured by SIG Sauer in Germany. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_mag_ppp_mk23_45">
+		<text>.45 Mark 23 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_mk23_45_descr">
+		<text>A Mark 23 magazine chambered in .45 ACP. Constructed from stainless steel, it ensures reliable feeding and robust performance. The double-stack design increases capacity but adds bulk. Ideal for tactical applications requiring higher round counts. Manufactured by Heckler & Koch in Germany. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_ppp_colt1911_762x25_fmj">
+		<text>Modified 7.62x25 Colt Magazine</text>
+	</string>
+	<string id="st_ppp_colt1911_762x25_fmj_descr">
+		<text>A modified Colt 1911 magazine chambered in 7.62x25mm. Made from durable steel, it ensures reliable feeding and long-lasting performance. The single-stack design maintains a slim profile but limits capacity. Ideal for those who prefer classic firearms with a modern twist. Manufactured by Colt's Manufacturing Company in the USA. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_ppp_sw_45_fmj">
+		<text>.45 S&W Magazine</text>
+	</string>
+	<string id="st_ppp_sw_45_fmj_descr">
+		<text>An S&W magazine chambered in .45 ACP. Constructed from high-strength steel, it provides reliable feeding and durability. The single-stack design keeps the magazine slim but limits its capacity. Ideal for powerful shots with a compact form factor. Manufactured by Smith & Wesson in the USA. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_ppp_sw_919_fmj">
+		<text>9x19 S&W Magazine</text>
+	</string>
+	<string id="st_ppp_sw_919_fmj_descr">
+		<text>An S&W magazine chambered in 9x19mm. Made from high-quality steel, it ensures reliable feeding and robust construction. The double-stack design balances capacity and size, making it suitable for various applications. The magazine's weight can be a minor drawback. Manufactured by Smith & Wesson in the USA. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_ppp_xd9_9x19_fmj">
+		<text>9x19 XD9 Magazine</text>
+	</string>
+	<string id="st_ppp_xd9_9x19_fmj_descr">
+		<text>An XD9 magazine chambered in 9x19mm. Made from stainless steel, it provides reliable feeding and durability. The double-stack design balances capacity and profile, making it suitable for various uses. The magazine's weight may slightly affect carry comfort. Manufactured by Springfield Armory in the USA. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<string id="st_ppp_glock_45_fmj">
+		<text>.45 Glock 21 Magazine</text>
+	</string>
+	<string id="st_ppp_glock_45_fmj_descr">
+		<text>A Glock 21 magazine chambered in .45 ACP. Constructed from high-strength polymer, it ensures reliable feeding and lightweight durability. The double-stack design provides increased capacity while maintaining a manageable profile. Ideal for tactical and self-defense applications. Manufactured by Glock in Austria. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n</text>
+	</string>
+
+	<!--
+		Shotguns & Rifles
+	-->
+
+	<string id="st_mag_sks_7.62x39">
+		<text>7.62x39 SKS Magazine</text>
+	</string>
+	<string id="st_mag_sks_7.62x39_descr">
+		<text>A standard SKS magazine chambered in 7.62x39mm. It is constructed from stamped steel, offering durability and reliable feeding. The magazine has a double-stack design, providing a balance between capacity and compactness. A potential drawback is its weight compared to polymer alternatives. Manufactured by Tula Arms Plant in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_toz106_20x70_fmj">
+		<text>20x70 TOZ 106 Magazine</text>
+	</string>
+	<string id="st_mag_toz106_20x70_descr">
+		<text>A standard TOZ 106 magazine chambered in 20x70mm. Made from high-strength polymer, it is lightweight and corrosion-resistant. The magazine's single-stack design limits capacity but ensures a slim profile. The polymer construction may be less durable under heavy use. Manufactured by Tulsky Oruzheiny Zavod in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] shotgun magazine\n</text>
+	</string>
+
+	<string id="st_mag_etoz106_20x70_fmj">
+		<text>Extended 20x70 TOZ 106 Magazine</text>
+	</string>
+	<string id="st_mag_etoz106_20x70_descr">
+		<text>An extended TOZ 106 magazine chambered in 20x70mm. Constructed from high-strength polymer, it offers increased capacity while maintaining a lightweight design. The extended length can make handling more cumbersome, especially in confined spaces. Ideal for prolonged engagements requiring more ammunition. Manufactured by Tulsky Oruzheiny Zavod in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] shotgun magazine\n</text>
+	</string>
+
+	<string id="st_mag_toz106_20x70_zhekan_fmj">
+		<text>20x70 TOZ 106 Magazine</text>
+	</string>
+	<string id="st_mag_toz106_20x70_zhekan_descr">
+		<text>A TOZ 106 magazine chambered in 20x70mm, suitable for Zhekan ammunition. Made from high-strength polymer, it is both lightweight and resistant to corrosion. The single-stack design ensures a slim profile but limits ammunition capacity. This magazine is ideal for hunters and sports shooters. Manufactured by Tulsky Oruzheiny Zavod in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] shotgun magazine\n</text>
+	</string>
+
+	<string id="st_mag_etoz106_20x70_zhekan_fmj">
+		<text>Extended 20x70 TOZ 106 Magazine</text>
+	</string>
+	<string id="st_mag_etoz106_20x70_zhekan_descr">
+		<text>An extended TOZ 106 magazine chambered in 20x70mm for Zhekan ammunition. Constructed from durable polymer, it offers a higher capacity than standard magazines. The extended length may affect maneuverability in tight spaces. Ideal for situations requiring sustained fire. Manufactured by Tulsky Oruzheiny Zavod in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] shotgun magazine\n</text>
+	</string>
+
+	<string id="st_mag_dvl_7.62x51">
+		<text>7.62x51 DVL10 Magazine</text>
+	</string>
+	<string id="st_mag_dvl_7.62x51_descr">
+		<text>A standard DVL10 magazine chambered in 7.62x51mm. It is made from high-grade aluminum with steel reinforcements, providing strength and reliability. The double-stack design allows for a good balance between capacity and size. Potential drawbacks include its susceptibility to dents under extreme conditions. Manufactured by Lobaev Arms in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_basremington700_7.62x51">
+		<text>Extended 7.62x51 Remington 700 Magazine</text>
+	</string>
+	<string id="st_mag_basremington700_7.62x51_descr">
+		<text>An extended magazine for the Remington 700, chambered in 7.62x51mm. Made from stainless steel, it ensures reliable feeding and robust construction. The extended design increases ammunition capacity but adds bulk and weight. Polished surfaces and an anti-tilt follower enhance smooth operation. Manufactured by Remington Arms in the USA. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_remingtonarchangel_7.62x51">
+		<text>Extended 7.62x51 Remington Archangel Kit Magazine</text>
+	</string>
+	<string id="st_mag_remingtonarchangel_7.62x51_descr">
+		<text>An extended magazine for the Remington Archangel kit, chambered in 7.62x51mm. Constructed from reinforced polymer, it offers increased capacity while remaining lightweight. The extended design may affect balance and handling of the firearm. Ideal for tactical applications requiring higher round counts. Manufactured by Archangel Manufacturing in the USA. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_remingtonla_300">
+		<text>.300 Remington 700 Magazine</text>
+	</string>
+	<string id="st_mag_remingtonla_300_descr">
+		<text>A standard magazine for the Remington 700, chambered in .300 Winchester Magnum. Made from stainless steel, it provides reliable feeding and durability. The single-stack design maintains a slim profile but limits ammunition capacity. Polished surfaces and an anti-tilt follower ensure smooth operation. Manufactured by Remington Arms in the USA. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_k98_7.92x33">
+		<text>7.92x33 Kar 98 Magazine</text>
+	</string>
+	<string id="st_mag_k98_7.92x33_descr">
+		<text>A standard magazine for the Kar 98, chambered in 7.92x33mm. Made from stamped steel, it offers durability and reliable feeding. The single-stack design limits capacity but ensures a slim profile. Ideal for maintaining the historical accuracy of the rifle. Manufactured by Mauser in Germany. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_valbas_9x39_pab9">
+		<text>Extended 9x39 AS VAL Magazine</text>
+	</string>
+	<string id="st_mag_valbas_9x39_pab9_descr">
+		<text>An extended AS VAL magazine chambered in 9x39mm. Constructed from high-strength polymer with steel reinforcements, it offers increased capacity and reliable feeding. The extended length can make the weapon more cumbersome in confined spaces. Ideal for extended engagements requiring more ammunition. Manufactured by TsNIITochMash in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_basvintorez_9x39_pab9">
+		<text>Extended 9x39 VSS Magazine</text>
+	</string>
+	<string id="st_mag_basvintorez_9x39_pab9_descr">
+		<text>An extended VSS magazine chambered in 9x39mm. Made from high-strength polymer with steel reinforcements, it provides increased capacity and reliable feeding. The extended design adds weight and bulk, affecting the weapon's handling. Ideal for scenarios where additional ammunition is crucial. Manufactured by TsNIITochMash in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_basextvintorez_9x39_pab9">
+		<text>Extended 9x39 VSS Magazine</text>
+	</string>
+	<string id="st_mag_basextvintorez_9x39_pab9_descr">
+		<text>An extended VSS magazine chambered in 9x39mm. Constructed from durable polymer and reinforced with steel, it offers a higher capacity for prolonged engagements. The increased length and weight can impact maneuverability in tight spaces. Ideal for tactical operations. Manufactured by TsNIITochMash in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_svd_5.56">
+		<text>5.56x45 SVD Magazine</text>
+	</string>
+	<string id="st_mag_svd_5.56_descr">
+		<text>A standard SVD magazine chambered in 5.56x45mm. Made from high-strength polymer with steel reinforcements, it ensures reliable feeding and robust construction. The magazine's design balances capacity with a manageable profile. It may be prone to wear under heavy use. Manufactured by Izhmash in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_svd_5.56_extended">
+		<text>Extended 5.56x45 SVD Magazine</text>
+	</string>
+	<string id="st_mag_svd_5.56_extended_descr">
+		<text>An extended SVD magazine chambered in 5.56x45mm. Constructed from high-strength polymer with steel reinforcements, it offers increased capacity for sustained fire. The extended design can affect balance and handling. Ideal for extended missions where additional ammunition is needed. Manufactured by Izhmash in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_sksext_7.62x39">
+		<text>Extended 7.62x39 SKS Magazine</text>
+	</string>
+	<string id="st_mag_sksext_7.62x39_descr">
+		<text>An extended SKS magazine chambered in 7.62x39mm. Made from stamped steel, it offers increased capacity while maintaining reliability. The extended length adds weight and bulk, which may affect handling. Ideal for prolonged engagements requiring more ammunition. Manufactured by Tula Arms Plant in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_sks_7.62x54ext">
+		<text>Extended 7.62x54 SKS Magazine</text>
+	</string>
+	<string id="st_mag_sks_7.62x54ext_descr">
+		<text>An extended SKS magazine chambered in 7.62x54mm. Constructed from durable polymer and reinforced with steel, it offers a higher capacity for sustained fire. The increased size can impact the firearm's handling and balance. Suitable for tactical situations requiring more ammunition. Manufactured by Tula Arms Plant in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_sks_7.62x54">
+		<text>7.62x54 SKS Magazine</text>
+	</string>
+	<string id="st_mag_sks_7.62x54_descr">
+		<text>A standard SKS magazine chambered in 7.62x54mm. Made from stamped steel, it ensures durability and reliable feeding. The single-stack design limits capacity but maintains a slim profile. Ideal for traditionalists and historical reenactors. Manufactured by Tula Arms Plant in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_dvl_338">
+		<text>.338 Federal DVL10 Magazine</text>
+	</string>
+	<string id="st_mag_dvl_338fed_descr">
+		<text>A standard DVL10 magazine chambered in .338 Federal. Made from high-grade aluminum with steel reinforcements, it provides reliable feeding and strength. The double-stack design allows for a balance between capacity and size. Potential drawbacks include susceptibility to dents under extreme conditions. Manufactured by Lobaev Arms in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_akalfa_7.62x39_bas">
+		<text>7.62x39 AK Alfa Magazine</text>
+	</string>
+	<string id="st_mag_akalfa_7.62x39_bas_descr">
+		<text>A standard AK Alfa magazine chambered in 7.62x39mm. Constructed from reinforced polymer, it is lightweight and durable. The double-stack design balances capacity with a compact profile but can be prone to wear under heavy use. Features ergonomic base plates for improved handling. Manufactured by Kalashnikov Concern in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_akalfa_5.56x45_bas">
+		<text>5.56x45 AK Alfa Magazine</text>
+	</string>
+	<string id="st_mag_akalfa_5.56x45_bas_descr">
+		<text>A standard AK Alfa magazine chambered in 5.56x45mm. Made from reinforced polymer, it offers lightweight durability and reliable feeding. The double-stack design balances capacity and profile but may wear under heavy use. Ergonomic base plates enhance handling. Manufactured by Kalashnikov Concern in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_sr2m_9x21_veresk">
+		<text>9x21 SR-2M Veresk Magazine</text>
+	</string>
+	<string id="st_mag_sr2m_9x21_veresk_descr">
+		<text>A standard SR-2M Veresk magazine chambered in 9x21mm. Constructed from high-strength polymer, it provides lightweight and reliable feeding. The single-stack design maintains a slim profile but limits ammunition capacity. Ideal for close-quarter engagements. Manufactured by TsNIITochMash in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
+	</string>
+
+	<string id="st_mag_sr2m_9x18_veresk">
+		<text>9x18 SR-2M Veresk Magazine</text>
+	</string>
+	<string id="st_mag_sr2m_9x18_veresk_descr">
+		<text>A standard SR-2M Veresk magazine chambered in 9x18mm. Made from high-strength polymer, it ensures reliable feeding and lightweight construction. The single-stack design limits capacity but keeps the profile slim. Suitable for close-quarter combat and tactical operations. Manufactured by TsNIITochMash in Russia. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] rifle magazine\n</text>
 	</string>
 
 </string_table>
