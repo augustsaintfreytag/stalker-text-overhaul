@@ -7,25 +7,26 @@
 	-->
 
 	<string id="mutant_boar_chop">
-		<text>Boar Chop</text>
+		<text>Boar Meat</text>
 	</string>
 	<string id="mutant_boar_chop_description">
-		<text>The most popular meat in the Zone. Nutritious and hardly contaminated.\n
-		%c[d_red]Warning: %c[ui_gray_2]Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		<text>A cut of meat from a mutant boar, resembling wild boar or feral pig in texture and overall flavor. This type of meat is commonly traded and consumed for its robust taste and dense protein content. It has a good balance of nutritional content to residue contamination, especially when thoroughly cooked with other quality ingredients. Suitable for open-flame campfire grilling, smoking over charcoal, and high temperature cooking. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] cookable item\n
+		%c[d_cyan] • %c[ui_gray_2] common mutant meat\n
 		%c[d_cyan] • %c[ui_gray_2] low-tier mutant meat\n
-		%c[d_cyan] • %c[ui_gray_2] cookable\n
 		</text>
 	</string>
 
-	<string id="mutant_krovosos_meat">
+	<string id="mutant_bloodsucker_meat">
 		<text>Bloodsucker Meat</text>
 	</string>
-	<string id="mutant_krovosos_meat_description">
-		<text>Bloodsucker meat is stringy and thus not suited for eating. Due to its limited use, the sell value is low.\n
-		%c[d_red]Warning: %c[ui_gray_2]Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+	<string id="mutant_bloodsucker_meat_description">
+		<text>A cut of meat from a bloodsucker mutant, with a stringy texture and peculiar sour taste. Bloodsucker meat is not as popular as other more common meats like boar or flesh, but it is valued by some as an acquired taste and is sometimes used as an addition to stews and soups for its unique flavor profile. It is generally more contaminated than other game found in the Zone. Similar to snork flesh, there are discussions around the exact nature of the meat and if its consumption can be classified as cannibalism. Best suited for slow cooking methods like braising or stewing to tenderize the tough fibers. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] cookable item\n
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant meat\n
 		%c[d_cyan] • %c[ui_gray_2] high-tier mutant meat\n
-		%c[d_cyan] • %c[ui_gray_2] cookable\n
 		</text>
 	</string>
 
@@ -33,35 +34,37 @@
 		<text>Chimera Meat</text>
 	</string>
 	<string id="mutant_chimera_meat_description">
-		<text>A heavy chunk of Chimera meat. Since Chimeras are considered one of the most dangerous creatures, their meat is highly valued by veteran stalkers.\n
-		%c[d_red]Warning: %c[ui_gray_2]Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		<text>A heavy chunk of meat from a chimera, similar to large wild predators like wolves or bears in texture and flavor. This high-tier mutant meat is highly valued by veteran stalkers due to the rarity and danger associated with hunting chimeras. The meat is dense and rich, with a robust taste that works well as a standalone roast and stands out when used with other quality ingredients in hearty dishes. It has an excellent balance in contamination to nutritional value. Requires thorough cooking to ensure safe consumption. Well suited for roasting or slow-cooking methods to fully develop its deep flavors. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] cookable item\n
+		%c[d_cyan] • %c[ui_gray_2] rare mutant meat\n
 		%c[d_cyan] • %c[ui_gray_2] high-tier mutant meat\n
-		%c[d_cyan] • %c[ui_gray_2] cookable\n
 		</text>
 	</string>
+
 
 	<string id="mutant_dog_meat">
 		<text>Dog Meat</text>
 	</string>
 	<string id="mutant_dog_meat_description">
-		<text>Meat of mutated dogs is used as a cheap alternative to the more popular boar meat.\n
-		%c[d_red]Warning: %c[ui_gray_2]Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		<text>A cut of meat from a dog, with a gamey texture and a light flavor. Dog meat is commonly chosen as a less expensive and more widely available alternative to boar meat. The meat is leaner and contains less fats than cuts from a flesh. Often used as ingredients in stews or soups but also grilled over an open flame. In contrast to bigger and more dangerous mutants, dogs are found all over the Zone, including in the southern parts where radiation levels are lower. A versatile option for those looking for a readily accessible and less contaminated protein source. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] cookable item\n
+		%c[d_cyan] • %c[ui_gray_2] common mutant meat\n
 		%c[d_cyan] • %c[ui_gray_2] low-tier mutant meat\n
-		%c[d_cyan] • %c[ui_gray_2] cookable\n
 		</text>
 	</string>
+
 
 	<string id="mutant_flesh_meat">
 		<text>Flesh Meat</text>
 	</string>
 	<string id="mutant_flesh_meat_description">
-		<text>A popular choice in the Zone. Flesh meat has a good taste and high nutritional value.\n
-		%c[d_red]Warning: %c[ui_gray_2]Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		<text>A cut of meat from a flesh, a mutated wild pig, characterized by its thick layers of muscle and fat. This meat is very commonly traded and consumed due to its availability and the relative ease of hunting Flesh. The meat has a rich, pork-like flavor with a slightly gamey undertone, making it suitable for various cooking methods. It is balanced in contamination against its high nutritional value. Best prepared by roasting or slow-cooking to break down the tough fibers and enhance its natural flavors. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] cookable item\n
+		%c[d_cyan] • %c[ui_gray_2] common mutant meat\n
 		%c[d_cyan] • %c[ui_gray_2] low-tier mutant meat\n
-		%c[d_cyan] • %c[ui_gray_2] cookable\n
 		</text>
 	</string>
 
@@ -69,23 +72,23 @@
 		<text>Lurker Meat</text>
 	</string>
 	<string id="mutant_lurker_meat_description">
-		<text>A chunk of Lurker meat. Nutritious and hardly contaminated.\n
-		%c[d_red]Warning: %c[ui_gray_2]Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		<text>A hefty cut of meat from a lurker, with a rough texture similar to big game meat like bear and a notably sharp and somewhat bitter flavor profile. This meat is generally dense and rich, offering a robust taste that is both gamey and slightly earthy. Lurker meat is valued and provides an average balance in residue radiation vs. nutritional content but the mutants are not widely found in the Zone. Best prepared through slow-cooking methods such as braising or roasting to break down the tough fibers and unlock its full flavor potential. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] cookable item\n
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant meat\n
 		%c[d_cyan] • %c[ui_gray_2] high-tier mutant meat\n
-		%c[d_cyan] • %c[ui_gray_2] cookable\n
 		</text>
 	</string>
 
-	<string id="mutant_psevdodog_meat">
+	<string id="mutant_pseudodog_meat">
 		<text>Pseudodog Meat</text>
 	</string>
-	<string id="mutant_psevdodog_meat_description">
-		<text>Pseudodog meat is a common dietary component in the Zone. Tasty, with a high nutritional value.\n
-		%c[d_red]Warning: %c[ui_gray_2]Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+	<string id="mutant_pseudodog_meat_description">
+		<text>A cut of meat from a mutant pseudodog, comparable to wolf meat in texture and flavor. Pseudodog meat has a dense, lean composition with a gamey taste and a hint of the wild, setting it apart from regular dog meat. This meat is slightly less common but also provides a better balance of nutritional content to residue contamination compared to common dog meat. Commonly roasted over an open flame but also slow roasted or cooked into a stew. Slower processes tenderize the meat and bring out some of the deeper flavors. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] cookable item\n
+		%c[d_cyan] • %c[ui_gray_2] common mutant meat\n
 		%c[d_cyan] • %c[ui_gray_2] low-tier mutant meat\n
-		%c[d_cyan] • %c[ui_gray_2] cookable\n
 		</text>
 	</string>
 	
@@ -93,36 +96,40 @@
 		<text>Psysucker Meat</text>
 	</string>
 	<string id="mutant_psysucker_meat_description">
-		<text>Similar to bloodsuckers, Psysucker meat is stringy and thus not suited for eating. Due to its limited use, the sell value is low.\n
-		%c[d_red]Warning: %c[ui_gray_2]Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		<text>A slim cut of meat from a psysucker mutant, known for its lean and sinewy texture. Psysucker meat is far less fatty and muscular compared to other mutants, with a distinctive, mildly sour and metallic taste. This meat is not as popular as bloodsucker and far less popular than boar or flesh. Few stalkers value it for its strange flavor profile. It is generally more contaminated than other game found in the Zone and the balance to its nutritional content is subpar. Like with bloodsucker meat, there are discussions around the exact nature of the meat and if its consumption can be classified as cannibalism. Best suited for slow cooking methods like braising or stewing to tenderize the tough fibers. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] cookable item\n
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant meat\n
 		%c[d_cyan] • %c[ui_gray_2] high-tier mutant meat\n
-		%c[d_cyan] • %c[ui_gray_2] cookable\n
 		</text>
 	</string>
 
+
 	<string id="mutant_tushkano_meat">
-		<text>Rodent Meat</text>
+		<text>Tushkano Meat</text>
 	</string>
 	<string id="mutant_tushkano_meat_description">
-		<text>A small portion of Rodent meat. A cheap and commonly found food.\n
-		%c[d_red]Warning: %c[ui_gray_2]Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		<text>A cut of meat from a tushkano, lean and slightly gamey, with a texture similar to rabbit or guinea pig. Though not a primary food source due to its small size, tushkano meat can be a valued addition to stews or roasted for a quick meal. The meat is generally less contaminated compared to larger mutants, but it still requires thorough cooking. Best suited for grilling or slow-cooking methods to ensure safety and enhance its natural flavors. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] cookable item\n
+		%c[d_cyan] • %c[ui_gray_2] common mutant meat\n
 		%c[d_cyan] • %c[ui_gray_2] low-tier mutant meat\n
-		%c[d_cyan] • %c[ui_gray_2] cookable\n
 		</text>
 	</string>
+
 
 	<string id="mutant_snork_hand">
 		<text>Snork Hand</text>
 	</string>
 	<string id="mutant_snork_hand_description">
-		<text>Most stalkers consider eating Snork meat to be cannibalistic and immoral. However, certain factions, such as bandits and mercenaries, include it in their meals to show their superiority over other groups.\n
-		%c[d_red]Warning: %c[ui_gray_2]Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		<text>A severed hand from a snork mutant, with a tough and sinewy texture. Consumption of snork meat is controversial, often considered cannibalistic and immoral by most stalkers, even more so than meats from other humanoid creatures, like bloodsuckers. Certain factions like bandits and some mercenaries include it in their meals to show off superiority and ruthlessness. The meat has a gamey, somewhat unsettling flavor and is naturally salty. It requires thorough cooking to be edible and remove the comparably high levels of residue contamination. Best prepared through slow-cooking methods like stewing to tenderize the tough muscle fibers and mask the strong taste. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] cookable item\n
+		%c[d_cyan] • %c[ui_gray_2] questionable mutant meat\n
 		%c[d_cyan] • %c[ui_gray_2] low-tier mutant meat\n
-		%c[d_cyan] • %c[ui_gray_2] cookable\n
 		</text>
 	</string>
+
 
 	<!--
 		MUTANT MEALS
@@ -132,19 +139,23 @@
 		<text>Bloodsucker Goulash</text>
 	</string>
 	<string id="st_meat_bloodsucker_descr">
-		<text>A small hot meal made from Bloodsucker meat, spiced with various herbs and mushrooms.\n \n
+		<text>A hearty meal made from bloodsucker meat, with a stringy texture and a peculiar sour taste. This goulash is spiced with a variety of herbs and includes mushrooms to enhance its unique flavor profile. Bloodsucker meat is not commonly preferred, but those with an acquired taste for it find this dish particularly satisfying. Slow-cooked to tenderize the tough fibers, it offers a complex and robust taste.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
 		%c[d_cyan] • %c[ui_gray_2] high-tier cooked meal\n
 		</text>
 	</string>
-	
+
 	<string id="st_meat_boar">
 		<text>Boar Chops</text>
 	</string>
 	<string id="st_meat_boar_descr">
-		<text>A small portion of boar meat, grilled and seasoned with salt and various herbs. The most popular warm meal among stalkers.\n \n
+		<text>A small portion of boar meat, grilled to perfection and seasoned with salt and various herbs. This is the most popular warm meal among stalkers, prized for its robust taste and dense protein content. The chops are best enjoyed when cooked over an open flame or smoked over charcoal, providing a savory and satisfying experience.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] cooked meal\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_cyan] • %c[ui_gray_2] low-tier cooked meal\n
 		</text>
 	</string>
 
@@ -152,9 +163,11 @@
 		<text>Dog Chops</text>
 	</string>
 	<string id="st_meat_dog_descr">
-		<text>A small hot meal of grilled dog chops mixed with various herbs. A cheap alternative to the more popular boar beef.\n \n
+		<text>A small hot meal of grilled dog chops, mixed with various herbs. Dog meat is a cheap alternative to the more popular boar meat, providing a leaner and more widely available protein source. The chops are often grilled over an open flame, delivering a gamey texture and light flavor. This meal is a practical choice for those seeking an accessible and nutritious option.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] cooked meal\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_cyan] • %c[ui_gray_2] low-tier cooked meal\n
 		</text>
 	</string>
 
@@ -162,9 +175,11 @@
 		<text>Flesh Bacon</text>
 	</string>
 	<string id="st_meat_flesh_descr">
-		<text>Slices of greasy, fat bacon cut from the mutated pigs in the zone, commonly referred to as 'Flesh'.\n \n
+		<text>Slices of greasy, fat bacon cut from the mutated pigs in the Zone, commonly referred to as 'Flesh'. This bacon is rich and flavorful, with a slightly gamey undertone that enhances its pork-like taste. Often enjoyed as a breakfast item or added to other dishes for extra flavor, it provides a hearty and satisfying meal.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] cooked meal\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_cyan] • %c[ui_gray_2] low-tier cooked meal\n
 		</text>
 	</string>
 
@@ -172,28 +187,35 @@
 		<text>Grilled Snork Hand</text>
 	</string>
 	<string id="st_meat_snork_descr">
-		<text>Grilled Snork hand, ready to be eaten. Most stalkers consider eating Snork meat to be cannibalistic and immoral. However, certain factions, such as bandits and mercenaries, include it in their meals to show their superiority over other groups.\n \n
+		<text>Grilled snork hand, ready to be eaten. Most stalkers consider eating snork meat to be cannibalistic and immoral. However, certain factions, such as bandits and mercenaries, include it in their meals to show their superiority over other groups. The meat has a gamey, somewhat unsettling flavor and requires thorough cooking to remove high levels of contamination. Best suited for slow-cooking methods like stewing to tenderize the tough muscle fibers.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] cooked meal\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_cyan] • %c[ui_gray_2] low-tier cooked meal\n
 		</text>
 	</string>
-	
+
 	<string id="st_meat_lurker">
 		<text>Lurker Chops</text>
 	</string>
 	<string id="st_meat_lurker_descr">
-		<text>A small portion of Lurker meat, grilled and seasoned with salt and various herbs. Good nutritional value due to the mutant's thick muscles.\n \n
+		<text>A small portion of lurker meat, grilled and seasoned with salt and various herbs. Known for its thick muscles, lurker meat provides good nutritional value and a robust, gamey flavor. This dish is valued for its richness and dense texture, making it a hearty meal for those seeking substantial nourishment. Best enjoyed when slow-cooked or roasted to break down the tough fibers and unlock its full flavor potential.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
 		%c[d_cyan] • %c[ui_gray_2] high-tier cooked meal\n
 		</text>
 	</string>
 
 	<string id="st_meat_chimera">
-		<text>Masculine Meal</text>
+		<text>Chimera Filets</text>
 	</string>
 	<string id="st_meat_chimera_descr">
-		<text>A portion of grilled Chimera meat, served with mushrooms and various spices. An expensive meal, eaten most commonly by veteran stalkers to celebrate the accomplishment of difficult missions.\n \n
+		<text>A portion of grilled chimera meat, served with mushrooms and various spices. This expensive meal is most commonly eaten by veteran stalkers to celebrate the accomplishment of difficult missions. The meat is dense and rich, with a robust taste that stands out in hearty dishes. It offers an excellent balance of nutritional content and minimal contamination. Thorough cooking is required to ensure safe consumption.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_cyan] • %c[ui_gray_2] high quality meal\n
 		%c[d_cyan] • %c[ui_gray_2] high-tier cooked meal\n
 		</text>
 	</string>
@@ -202,9 +224,11 @@
 		<text>Pseudodog Chops</text>
 	</string>
 	<string id="st_meat_pseudodog_descr">
-		<text>Portion of grilled Pseudodog meat chops. Good nutritional value due to the creature's thick muscles.\n \n
+		<text>Portion of grilled pseudodog meat chops, known for their good nutritional value due to the creature's thick muscles. The meat has a dense, lean composition with a gamey taste, making it a flavorful and satisfying meal. These chops are commonly roasted over an open flame or slow-cooked to bring out the deeper flavors and tenderize the meat.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] cooked meal\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_cyan] • %c[ui_gray_2] low-tier cooked meal\n
 		</text>
 	</string>
 
@@ -212,8 +236,10 @@
 		<text>Psysucker Goulash</text>
 	</string>
 	<string id="st_meat_psysucker_descr">
-		<text>A small hot meal made from Psysucker meat, spiced with various herbs and mushrooms.\n \n
+		<text>A small hot meal made from psysucker meat, spiced with various herbs and mushrooms. Psysucker meat is lean and sinewy, with a distinctive, mildly sour and metallic taste. This goulash is slow-cooked to tenderize the tough fibers and enhance its unique flavor profile, making it a hearty and warming meal.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
 		%c[d_cyan] • %c[ui_gray_2] high-tier cooked meal\n
 		</text>
 	</string>
@@ -222,11 +248,14 @@
 		<text>Rat Skewers</text>
 	</string>
 	<string id="st_meat_tushkano_descr">
-		<text>Small skewered Tushkanos, grilled and seasoned with salt and various herbs. The cheapest hot meal available in the Zone.\n \n
+		<text>Small skewered tushkanos, grilled and seasoned with salt and various herbs. This is the cheapest hot meal available in the Zone, providing a lean and slightly gamey flavor. The meat is generally less contaminated compared to larger mutants, but it still requires thorough cooking. These skewers are best enjoyed grilled over an open flame for a quick and accessible meal.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] cooked meal\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_cyan] • %c[ui_gray_2] low-tier cooked meal\n
 		</text>
 	</string>
+
 
 	<!--
 		SCIENTIFIC SPECIMENS
@@ -236,311 +265,344 @@
 		<text>Boar Leg</text>
 	</string>
 	<string id="mutant_boar_leg_description">
-		<text>The leg of a Boar. The hoofs of boars found in the zone have been used to produce various drugs.\n \n
+		<text>A severed leg from a mutant boar, featuring a sturdy hoof and thick musculature. The hoofs of boars found in the Zone have been studied extensively and used in the production of various drugs, due to unique biochemical properties attributed to their mutation. This specimen provides valuable material for scientific research, particularly in the fields of pharmacology and mutant physiology.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
 		</text>
 	</string>
+
 
 	<string id="mutant_heart_bloodsucker">
 		<text>Bloodsucker Heart</text>
 	</string>
 	<string id="mutant_heart_bloodsucker_description">
-		<text>Bloodsucker's hearts secrete special enzymes which halt the coagulation process caused by incompatible blood types. Scientific study of the enzyme could solve the problem of blood donor issues for patients with rare blood types.\n \n
+		<text>A heart from a bloodsucker mutant, known for secreting special enzymes that halt the coagulation process caused by incompatible blood types. Scientific study of this enzyme could solve the problem of blood donor issues for patients with rare blood types. The heart's unique properties make it a valuable specimen for research in medical science.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_krovosos_jaw">
 		<text>Bloodsucker Jaw</text>
 	</string>
 	<string id="mutant_krovosos_jaw_description">
-		<text>Bloodsucker tentacles contain a special gland which produces an enzyme capable of dissolving the skin and simultaneously preventing blood from clotting. Discovering the enzyme's composition could be the cornerstone of a whole series of great medical advances. Some stalkers use bloodsucker teeth to make necklaces and charms.\n \n
+		<text>A jaw from a bloodsucker mutant, containing tentacles equipped with a special gland that produces an enzyme capable of dissolving skin and preventing blood from clotting. Discovering the enzyme's composition could lead to significant medical advances. Some stalkers use bloodsucker teeth to make necklaces and charms, though their scientific value lies primarily in the gland's properties.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_tusk_boar">
 		<text>Boar Fang</text>
 	</string>
 	<string id="mutant_tusk_boar_description">
-		<text>Posing a considerable threat to anything caught in its way, the fangs of mutant boars in the exclusion zone spans an average length of 30 centimeters, though it is of no particular interest to scientists due to its lackluster composition and strength. The fang is commonly used as a trophy among stalkers and has become a collector's item outside of the Zone.\n \n
+		<text>A large fang from a mutant boar, typically spanning an average length of 30 centimeters. While it poses a considerable threat to anything caught in its way, its lackluster composition and strength make it of little interest to scientists. However, the fang is commonly used as a trophy among stalkers and has become a collector's item outside the Zone.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_brain_burer">
 		<text>Burer Brain</text>
 	</string>
 	<string id="mutant_brain_burer_description">
-		<text>Burers have telepathic skills yet to be understood by the science community. The brain's mass is 1.5 to 2.5 times bigger than a human brain. Though because of its size and structure, the brain can be easily damaged during extraction. These are highly sought-after by scientists.\n \n
+		<text>A brain from a burer mutant, known for its telepathic skills that are yet to be understood by the scientific community. The brain's mass is 1.5 to 2.5 times larger than a human brain, but its size and structure make it easily damaged during extraction. This specimen is highly sought-after by scientists aiming to uncover the secrets of its telepathic abilities.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] rare mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_burer_hand">
 		<text>Burer Hand</text>
 	</string>
 	<string id="mutant_burer_hand_description">
-		<text>The hand of a Burer. These seem to play a vital role in the creature's use of their telekinetic powers. Scientists will gladly examine it in hope of finding the source of mutation.\n \n
+		<text>A hand from a burer mutant, playing a vital role in the creature's use of telekinetic powers. Scientists are eager to examine this hand to uncover the source of its mutation and understand how these powers are controlled and executed. The study of such a specimen could lead to groundbreaking discoveries in mutant physiology.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_cat_claw">
 		<text>Cat Claw</text>
 	</string>
 	<string id="mutant_cat_claw_description">
-		<text>Cat's claws have an unknown molecular structure but are known to be very sharp. Scientists and military believe that a thorough study will help in the creation of new, highly durable materials and armor.\n \n
+		<text>A claw from a mutant cat, known for its unknown molecular structure and exceptional sharpness. Scientists and the military believe that a thorough study of these claws could aid in the creation of new, highly durable materials and advanced armor. The unique properties of the claws make them a valuable specimen for research and development.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_cat_tail">
 		<text>Cat Tail</text>
 	</string>
 	<string id="mutant_cat_tail_description">
-		<text>Cats in the Zone are bigger than their pet cousins and are very dangerous predators, capable of moving swiftly and without sound. Within the stalker community, a cat's tail is a symbol of awareness and competency.\n \n
+		<text>A tail from a mutant cat, which is larger and more dangerous than its domestic cousins. The cat's tail is a symbol of awareness and competency within the stalker community. Scientists are interested in studying the tail to understand the mutations that have enhanced the cat's agility and predatory abilities.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_cat_thyroid">
 		<text>Cat Thyroid</text>
 	</string>
 	<string id="mutant_cat_thyroid_description">
-		<text>The thyroid of a mutated cat. This gland has multiplied in size due to a sustained occupancy within the exclusion zone. This resulted in the need for increased food intake, increased activity, behaviour changes and hair loss. These traits have allowed the creatures to quickly displace their healthy relatives and occupy a higher position in the food chain.\n \n
+		<text>A thyroid gland from a mutant cat, significantly enlarged due to prolonged exposure within the exclusion zone. This enlargement has resulted in increased food intake, heightened activity, behavioral changes, and hair loss. These traits have allowed the creatures to quickly outcompete their healthy relatives and occupy a higher position in the food chain. The thyroid is of great interest to scientists studying the effects of radiation on endocrine systems.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_chimera_claw">
 		<text>Chimera Claw</text>
 	</string>
 	<string id="mutant_chimera_claw_description">
-		<text>The claw of a Chimera. Its exact molecular composition is unknown, but it is as durable and sharp as a diamond.\n \n
+		<text>A claw from a chimera mutant, with an unknown molecular composition but as durable and sharp as a diamond. This claw is highly valued for its potential applications in creating extremely hard and durable materials. The unique properties of the chimera claw make it a rare and valuable specimen for scientific research.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] rare mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_heart_chimera">
 		<text>Chimera Heart</text>
 	</string>
 	<string id="mutant_heart_chimera_description">
-		<text>The heart of a Chimera. It has grown into a double-organ that can function as a reserve blood supply and regenerate tissue damage. This allows the Chimera to withstand heavy injuries without backing out of a fight. It is sought after to aid in the study of Siamese twin death rates.\n \n
+		<text>The heart of a chimera mutant, grown into a double-organ that functions as a reserve blood supply and can regenerate tissue damage. This allows the chimera to withstand heavy injuries without retreating. The heart is sought after to aid in the study of regenerative medicine and the mechanisms behind tissue regeneration. Scientists believe this specimen could provide insights into reducing Siamese twin death rates.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] rare mutant part\n
+	</text>
 	</string>
-	
+
 	<string id="mutant_chimera_cogot">
 		<text>Chimera Horn</text>
 	</string>
 	<string id="mutant_chimera_cogot_description">
-		<text>The horn of a Chimera. Its exact molecular composition is unknown, but the tip is as durable and sharp as a diamond. This item is in high demand as it is visibly similar to a rhino horn.\n \n
+		<text>The horn of a chimera mutant, with an unknown molecular composition but as durable and sharp as a diamond. This item is in high demand due to its durability and its resemblance to a rhino horn, making it both a valuable scientific specimen and a collector's item. The horn's properties are of particular interest for developing new materials.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] rare mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_part_controller_brain_tissue">
 		<text>Controller Brain Tissue</text>
 	</string>
 	<string id="mutant_part_controller_brain_tissue_description">
-		<text>Controllers have potent mental powers that originate from the brain. Scientific studies have found that every mutant possessing abilities related to psy-waves have a brain of similar structure. The scientists will pay handsomely for this tissue.\n \n
+		<text>Brain tissue from a controller mutant, known for its potent mental powers originating from the brain. Scientific studies have found that every mutant with psy-wave abilities has a brain of similar structure. This tissue is highly valuable for research, as it could unlock the secrets behind these mental powers and lead to advancements in neuroscience and psy-related technologies.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] rare mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_controller_hand">
 		<text>Controller Hand</text>
 	</string>
 	<string id="mutant_controller_hand_description">
-		<text>The hand of a Controller. The scientists will gladly examine it in the hope of finding the source of mutation responsible for its psy-related powers.\n \n
+		<text>The hand of a controller mutant. Scientists are eager to examine this specimen in the hope of finding the source of the mutation responsible for its psy-related powers. Understanding the mechanics behind these abilities could lead to significant breakthroughs in the field of mutant physiology and psy-related research.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_dog_heart">
 		<text>Dog Heart</text>
 	</string>
 	<string id="mutant_dog_heart_description">
-		<text>While in pursuit, a mutated dog's heart can reach up to 250 beats per minute, which is unthinkable for non-atherogenic, healthy individuals of the same weight category. This endurance makes their heart an interesting subject for study.\n \n
+		<text>A heart from a mutated dog, capable of reaching up to 250 beats per minute while in pursuit, which is unthinkable for non-atherogenic, healthy individuals of the same weight category. This endurance makes their heart an interesting subject for study, particularly in understanding the cardiovascular adaptations in mutants.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_dog_liver">
 		<text>Dog Liver</text>
 	</string>
 	<string id="mutant_dog_liver_description">
-		<text>The liver of a dog. Having undergone severe changes due to a toxic diet and a lack of clean drinking water in the Zone, the liver is of particular interest to scientists due to its potential in aiding research in medicine for liver diseases.\n \n
+		<text>The liver of a mutated dog, significantly altered due to a toxic diet and lack of clean drinking water in the Zone. This organ is of particular interest to scientists for its potential in aiding research on liver diseases and understanding how mutants cope with extreme environmental conditions.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_dog_tail">
 		<text>Dog Tail</text>
 	</string>
 	<string id="mutant_dog_tail_description">
-		<text>Resistance of mutant dog skin to electricity and chemical agents has been the object of scientific interest for a long time. Due to the absence of fat tissue, the tail is especially suited for lab tests.\n \n
+		<text>A tail from a mutated dog, known for its resistance to electricity and chemical agents. The absence of fat tissue makes the tail especially suited for lab tests. Scientists are interested in studying the tail's properties to develop new materials and protective gear.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_flesh_eye">
 		<text>Flesh Eye</text>
 	</string>
 	<string id="mutant_flesh_eye_description">
-		<text>The mutated, swollen eye of a Flesh which has the miraculous ability of regeneration. The discovery of the mechanism this feat would most certainly revolutionize modern medicine.\n \n
+		<text>A mutated, swollen eye from a flesh mutant, known for its miraculous ability to regenerate. Discovering the mechanism behind this feat could revolutionize modern medicine and provide new insights into regenerative therapies. The eye's unique properties make it a highly valuable specimen for scientific research.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_fracture_hand">
 		<text>Fracture Hand</text>
 	</string>
 	<string id="mutant_fracture_hand_description">
-		<text>The severed hand of a Fracture. It is certain that these creatures used to be humans and are the direct result of the second Chernobyl incident.\n \n
+		<text>The severed hand of a fracture mutant, believed to be the direct result of the second Chernobyl incident. These creatures were once humans, and their transformation into mutants is of great interest to scientists studying the long-term effects of radiation exposure and mutation. The hand is a valuable specimen for understanding the origins and progression of such mutations.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_lurker_eye">
 		<text>Lurker Eye</text>
 	</string>
 	<string id="mutant_lurker_eye_description">
-		<text>The mutated eye of a Lurker. The glow surrounding the pupil made the Lurker's eye a matter of interest among local hunters.\n \n
+		<text>A mutated eye from a lurker mutant, characterized by a glow surrounding the pupil. This eye has piqued the interest of local hunters and scientists alike. Studying its unique properties could lead to a better understanding of the lurker's vision and other sensory adaptations.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
-	
+
 	<string id="mutant_lurker_tail">
 		<text>Lurker Tail</text>
 	</string>
 	<string id="mutant_lurker_tail_description">
-		<text>The tail of a Lurker. Scientific studies suggest that the characteristics of a Lurker tail are proof that their are a mutant species of Tushkano.\n \n
+		<text>A tail from a lurker mutant. Scientific studies suggest that the characteristics of a lurker tail provide evidence of its evolution from the tushkano. The tail's structure and composition are of interest to researchers studying the evolutionary pathways and adaptations of mutant species in the Zone.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="st_mutant_part_crow_beak">
 		<text>Mutated Crow Beak</text>
 	</string>
 	<string id="st_mutant_part_crow_beak_description">
-		<text>While many stalkers consider crows no more than pests, more insightful individuals pulverize the beaks to be used in creating special mixtures.\n \n
+		<text>A beak from a mutated crow. While many stalkers consider crows to be no more than pests, more insightful individuals pulverize the beaks to create special mixtures. The beak's unique properties make it a valuable specimen for scientific research and alchemical purposes.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_fang_psevdodog">
 		<text>Pseudodog Fang</text>
 	</string>
 	<string id="mutant_fang_psevdodog_description">
-		<text>Pseudodog fangs are not particularly strong and are routinely replaced throughout life. Scientists are not particularly interested in them.\n \n
+		<text>A fang from a pseudodog, which is not particularly strong and is routinely replaced throughout its life. Scientists are not particularly interested in these fangs due to their lack of unique properties. However, they are sometimes collected by stalkers as curiosities or trophies.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_psevdodog_tail">
 		<text>Pseudodog Tail</text>
 	</string>
 	<string id="mutant_psevdodog_tail_description">
-		<text>The tail of a Pseudodog. The fur is reportedly incredibly soft and could provide warmth even in the most vicious of snowstorms. For these reasons, Pseudodog tails are in high demand.\n \n
+		<text>A tail from a pseudodog, known for its incredibly soft fur that provides warmth even in the harshest of snowstorms. The tail is in high demand for its potential applications in creating warm clothing and other protective gear. Scientists are also interested in studying the fur's insulating properties.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_pseudogigant_eye">
 		<text>Pseudogiant Eye</text>
 	</string>
 	<string id="mutant_pseudogigant_eye_description">
-		<text>The eye of a Pseudogiant. It has the appearance of a human eye with a multi-coloured iris and exceptionally well-developed tear glands.\n \n
+		<text>An eye from a pseudogiant mutant, resembling a human eye with a multi-colored iris and exceptionally well-developed tear glands. The eye's unique structure and properties make it a valuable specimen for scientific research, particularly in the study of mutant vision and sensory adaptations.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] rare mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_pseudogigant_hand">
 		<text>Pseudogiant Hand</text>
 	</string>
 	<string id="mutant_pseudogigant_hand_description">
-		<text>The hand of a Pseudogiant. Due to the inhumane physical powers of these dangerous behemoths, it is understandable that a specimen like this is rare to come by.\n \n
+		<text>The hand of a pseudogiant mutant, known for its immense physical strength and durability. Due to the inhumane physical powers of these dangerous behemoths, obtaining a specimen like this is rare and valuable. Scientists are keen to study the hand to understand the muscular and skeletal adaptations that grant pseudogiants their formidable strength.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] rare mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_psysucker_hand">
 		<text>Psysucker Hand</text>
 	</string>
 	<string id="mutant_psysucker_hand_description">
-		<text>The hand of a Psysuckers. The scientists will gladly examine it in the hope of finding the source responsible for its psy-related powers.\n \n
+		<text>A hand from a psysucker mutant. Scientists are eager to examine this specimen in the hope of finding the source responsible for its psy-related powers. Understanding the mechanisms behind these abilities could lead to significant breakthroughs in the field of mutant physiology and psy-related research.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_snork_leg">
 		<text>Snork Leg</text>
 	</string>
 	<string id="mutant_snork_leg_description">
-		<text>Snork feet and legs contain a huge number of highly elastic tendons, explaining the beast's ability to perform its characteristically long leaps.\n \n
+		<text>A leg from a snork mutant, containing a large number of highly elastic tendons. These tendons explain the creature's ability to perform its characteristically long leaps. The leg is of great interest to scientists studying the biomechanics of mutant movement and the adaptations that allow such agility.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_snork_mask">
 		<text>Snork Mask</text>
 	</string>
 	<string id="mutant_snork_mask_description">
-		<text>Masks worn by Snorks are apparently a version of the GP-5, a Soviet gas mask commonly used by soldiers as well as research and utility crews operating in the Zone when the second Chernobyl disaster occurred. The mask, although broken beyond use, is still in demand by the scientific community.\n \n
+		<text>A mask worn by a snork, apparently a version of the GP-5, a Soviet gas mask commonly used by soldiers as well as research and utility crews operating in the Zone during the second Chernobyl disaster. Although broken beyond use, the mask is still in demand by the scientific community for its historical and research value.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_tushkano_head">
 		<text>Tushkano Head</text>
 	</string>
 	<string id="mutant_tushkano_head_description">
-		<text>The head of a Tushkano. The scientists would like to study it to identify which creature or creatures Tushkanos originate from.\n \n
+		<text>The head of a tushkano mutant. Scientists are interested in studying this specimen to identify the creature's origins and understand which species or species the tushkanos have evolved from. The head's structure could provide valuable insights into the evolutionary pathways of Zone mutants.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+	</text>
 	</string>
 
 	<string id="mutant_zombi_hand">
 		<text>Zombie Hand</text>
 	</string>
 	<string id="mutant_zombi_hand_description">
-		<text>The hand of a former human who lived or worked in the Exclusion Zone and were subjected to extreme amounts of radiation and psy-influence when the second Chernobyl incident occurred.\n \n
+		<text>A humanoid hand, cut off from a zombified creature, most likely a former stalker subjected to extreme amounts of radiation and the influence of strong psy fields. It is unknown if the creatures commonly referred to as "zombies" in the Zone have properly died and were reanimated by unknown means ("walking corpse thesis") or if their former selves are still alive in a delirious state ("delirium thesis"). The specimen is valuable for studying the effects of radiation and prolonged psy field exposure on human biology and understanding the process of zombification.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
-		</text>
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+	</text>
 	</string>
+
 
 	<!--
 		UNUSED
