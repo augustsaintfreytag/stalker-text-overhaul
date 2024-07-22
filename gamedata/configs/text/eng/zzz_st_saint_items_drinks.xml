@@ -7,7 +7,7 @@
 		<text>Nemiroff Vodka</text>
 	</string>
 	<string id="st_vodka_descr">
-		<text>Nemiroff is a Ukrainian producer of alcoholic beverages, based in the town of Nemyriv in the Vinnytska oblast. Specializing in vodkas and other spirits, they are considered one of the best vodkas in the world and by extension, in the Zone.\n \n
+		<text>A glass bottle of Nemiroff vodka, produced in the town of Nemyriv in the Vinnytska oblast of Ukraine. It is made using traditional distillation methods and fine, quality grains in its production process, including select barley and rye. Nemiroff is known for its high quality and smooth taste. The bottle and label have some minor scratches, likely from transport. It is favored for its potency and clean finish, a sought-after item for trading and personal enjoyment.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
@@ -19,7 +19,7 @@
 		<text>Putinka Vodka</text>
 	</string>
 	<string id="st_vodka2_descr">
-		<text>Triple purification, a smooth texture and a unique taste. Following the tradition of naming vodka brands after Russian leaders, Putinka first went into production after Vladimir Putin was elected president. Produced in Russia from the finest grain and crystal clear water from Siberian springs.\n \n
+		<text>A glass bottle of Putinka vodka, produced in Russia from fine grain and crystal-clear water from Siberian springs. This vodka undergoes triple purification, resulting in a smooth texture and unique taste. Named after Vladimir Putin, Putinka first went into production following his election as president. The bottle and label show minor signs of wear, likely from transport. The brand is favored for its exceptional quality and clean finish. It is a sought-after item for trading and personal enjoyment.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
@@ -31,7 +31,7 @@
 		<text>Stolichnaya Vodka</text>
 	</string>
 	<string id="st_vodka_quality_descr">
-		<text>A high quality Russian vodka made of wheat and rye grain. A Russian favorite, "Stoli" is quite popular and widely available within the zone.\n \n
+		<text>A glass bottle of Stolichnaya vodka, a high-quality Russian vodka made from wheat and rye grain. Known affectionately as "Stoli," this vodka has a long-standing reputation for its smoothness and balanced flavor. It was first produced in the Soviet Union but has since become a favorite in Russia and other parts of Europe, as well as the Zone. The bottle and label show some minor scratches, probably due to handling and transport. A popular choice for trading and personal enjoyment in the Zone.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
@@ -43,7 +43,7 @@
 		<text>Slozy Zony vodka</text>
 	</string>
 	<string id="st_bottle_metal_descr">
-		<text>A metal flask containing a particular brand of zone-produced vodka. The smell is extraordinarily pungent, the taste is described as burning with notes of pine, hints of maple syrup, and earthy tones. Popular among some factions as a rite of passage. The origins of its distillation are unknown though there are countless rumours of its production process and used ingredients. The vodka is shipped by masked couriers to traders in regular intervals. Common rumors say the product originates from a hidden distillery in the northern corners of the Zone, lacking explanations on how to supply such a remote set-up.\n \n
+		<text>A metal flask containing a type of zone-produced vodka. The smell is extraordinarily pungent, the taste is described as burning with notes of pine, hints of maple syrup, and earthy tones. Popular among some factions as a rite of passage. The origins of its distillation are unknown though there are countless rumours of its production process and used ingredients. The vodka is shipped by masked couriers to traders in regular intervals. Common rumors say the product originates from a hidden distillery in the northern corners of the Zone, lacking explanations on how to supply such a remote set-up.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
@@ -98,7 +98,7 @@
 		<text>Sparkling Water</text>
 	</string>
 	<string id="st_water_drink_descr">
-		<text>A can of sparkling mineral water, sourced from natural springs in Ukraine. The water is naturally carbonated and has a crisp and refreshing taste. It is rich in essential minerals such as magnesium and potassium and supports overall health and well-being.\n \n
+		<text>A can of sparkling mineral water, sourced from natural springs in Ukraine. The water is naturally carbonated and has a crisp and refreshing taste. It is rich in essential minerals such as magnesium and potassium and supports overall health and well-being. The can shows minor scratches, likely due to prior handling and transport.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
@@ -161,9 +161,7 @@
 	</string>
 
 	<string id="st_ground_coffee_descr">
-		<text>A pack of Ukrainian brand coffee beans in a thick paper bag. Contains a dark roast house blend of part Arabica, part Robusta beans with a piercing aroma, a recognizable smell around many camps in the Zone, perfectly suited for welcoming the day's first radiant beams.\n \n
-		Coffee beans contain caffeine, a central nervous system stimulant that blocks adenosine receptors in the brain, reducing drowsiness and promoting wakefulness. The presence of chlorogenic acids contributes to the beverage's antioxidant properties and mild acidity. Upon consumption, caffeine is rapidly absorbed into the bloodstream, peaking within 30-60 minutes and metabolized by the liver into active metabolites such as paraxanthine. These metabolites further enhance cognitive function and physical endurance. While providing a much-needed boost in alertness and concentration, excessive intake can lead to increased heart rate, insomnia, and anxiety, especially in high-stress environments.\n \n
-		Tasting notes: Hints of barley and vanilla with undertones of pine and ash.\n \n
+		<text>A pack of Ukrainian brand coffee beans in a thick paper bag. Contains a dark roast house blend of part Arabica, part Robusta beans with a piercing aroma and hints of barley and vanilla with undertones of pine and ash. Contains caffeine, a central nervous system stimulant that blocks adenosine receptors in the brain. It provides a short-term reduction in drowsiness, and minor boosts to cognitive function and physical endurance. Excessive intake can lead to increased heart rate, insomnia, and anxiety, especially in high-stress environments.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
 		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
@@ -175,9 +173,7 @@
 	</string>
 	
 	<string id="st_brewed_coffee_descr">
-		<text>A durable thermos flask filled with brewed coffee. The brew appears to be from a dark roast with a piercing aroma. \n \n
-		Coffee contains caffeine, a central nervous system stimulant that blocks adenosine receptors in the brain, reducing drowsiness and promoting wakefulness. The presence of chlorogenic acids contributes to the beverage's antioxidant properties and mild acidity. Upon consumption, caffeine is rapidly absorbed into the bloodstream, peaking within 30-60 minutes and metabolized by the liver into active metabolites such as paraxanthine. These metabolites further enhance cognitive function and physical endurance. While providing a much-needed boost in alertness and concentration, excessive intake can lead to increased heart rate, insomnia, and anxiety, especially in high-stress environments.\n \n
-		Tasting notes: Hints of barley and vanilla with undertones of pine and ash.\n \n
+		<text>A durable thermos flask filled with home-brew coffee, made from a dark roast. It has a pleasant but piercing aroma and a recognizable, strong taste with hints of barley and vanilla with undertones of pine and ash. Contains caffeine, a central nervous system stimulant that blocks adenosine receptors in the brain. It provides a short-term reduction in drowsiness, and minor boosts to cognitive function and physical endurance. Excessive intake can lead to increased heart rate, insomnia, and anxiety, especially in high-stress environments.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] minor stimulant\n
@@ -191,8 +187,7 @@
 	</string>
 	
 	<string id="st_coffee_drink_descr">
-		<text>An imported can of milk coffee, ready to drink. Brewed from Arabica coffee beans, sweetened, mixed with oat milk, and packed in a can. Canned variants are valued for long shelf life and ease of consumption compared to home-brew coffee, though commonly traded kinds usually swap caffeine contents for sugar and artificial additives. \n \n
-		Coffee contains caffeine, a central nervous system stimulant that blocks adenosine receptors in the brain, reducing drowsiness and promoting wakefulness. The presence of chlorogenic acids contributes to the beverage's antioxidant properties and mild acidity. Upon consumption, caffeine is rapidly absorbed into the bloodstream, peaking within 30-60 minutes and metabolized by the liver into active metabolites such as paraxanthine. These metabolites further enhance cognitive function and physical endurance. While providing a much-needed boost in alertness and concentration, excessive intake can lead to increased heart rate, insomnia, and anxiety, especially in high-stress environments.\n \n
+		<text>An imported can of milk coffee, ready to drink. Brewed from Arabica coffee beans, sweetened, mixed with oat milk, and packed in a can. Canned variants are valued for long shelf life and ease of consumption compared to home-brew coffee, though commonly traded kinds usually swap caffeine contents for sugar and artificial additives. Contains caffeine, a central nervous system stimulant that blocks adenosine receptors in the brain. It provides a short-term reduction in drowsiness, and minor boosts to cognitive function and physical endurance. Excessive intake can lead to increased heart rate, insomnia, and anxiety, especially in high-stress environments.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] imported item\n
