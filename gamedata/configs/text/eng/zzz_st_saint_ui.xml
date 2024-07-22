@@ -1,5 +1,114 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
+	<!-- Menu -->
+
+	<string id="Btn_Cancel">
+		<text>Cancel</text>
+	</string>
+	<string id="Btn_No">
+		<text>No</text>
+	</string>
+	<string id="Btn_OK">
+		<text>OK</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Yes</text>
+	</string>
+	<string id="ui_mm_loot_all">
+		<text>Loot All (Enter/Space)</text>
+	</string>
+
+	<!-- Notifications -->
+
+	<string id="general_complete_task">
+		<text>Mission completed:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>Mission failed:</text>
+	</string>
+	<string id="general_in_item">
+		<text>Item received:</text>
+	</string>
+	<string id="general_in_money">
+		<text>Currency received:</text>
+	</string>
+	<string id="general_new_task">
+		<text>Mission accepted:</text>
+	</string>
+	<string id="general_out_item">
+		<text>Item lost:</text>
+	</string>
+	<string id="general_out_money">
+		<text>Currency lost:</text>
+	</string>
+	<string id="general_reverse_task">
+		<text>Mission cancelled:</text>
+	</string>
+	<string id="general_update_task">
+		<text>Mission updated:</text>
+	</string>
+
+	<!-- Fast Travel -->
+
+	<string id="st_pda_backpack_travel_to">
+		<text>Backpack Travel to</text>
+	</string>
+	<string id="st_fftd_mapspot_guideto">
+		<text>Hire Guide to</text>
+	</string>
+	<string id="st_fftd_guides_far">
+		<text>No guides in responding distance</text>
+	</string>
+	<string id="st_fftd_enemy_guides">
+		<text>No allied guides available</text>
+	</string>
+	<string id="st_fftd_guides_none">
+		<text>No guides available</text>
+	</string>
+	<string id="st_fft_travel_zoneblocked_1">
+		<text>%s only available in allied faction bases</text>
+	</string>
+	<string id="st_fft_travel_zoneblocked_2">
+		<text>%s only available in owned faction bases</text>
+	</string>
+
+	<!-- Settings -->
+
+	<string id="kb_reload">
+		<text>Reload/Focus PDA</text>
+	</string>
+
+	<!-- Context Menu -->
+
+	<string id="st_awr_r_detail">
+		<text>restore part (!)</text>
+	</string>
+	<string id="st_awr_disassembly_weapon">
+		<text>salvage weapon (!)</text>
+	</string>
+	<string id="st_awr_disassembly_outfit">
+		<text>salvage outfit (!)</text>
+	</string>
+	<string id="st_awr_disassembly_helmet">
+		<text>salvage headgear (!)</text>
+	</string>
+	<string id="st_awr_disassembly_cloth">
+		<text>salvage (!)</text>
+	</string>
+	<string id="st_batch_breakdown">
+		<text>salvage all (!)</text>
+	</string>
+
+	<string id="st_item_use_empower">
+		<text>empower artefacts</text>
+	</string>
+	<string id="st_item_use_fuse">
+		<text>fuse artefacts</text>
+	</string>
+	<string id="st_item_use_craft">
+		<text>craft</text>
+	</string>	
+
 	<!-- Inventory Stats -->
 
     <string id="ui_ammo_count">
@@ -180,28 +289,45 @@
 	<!-- Magazines -->
 
 	<string id="st_mag_small">
-		<text>Small Magazines: </text>
+		<text>Small magazines: </text>
 	</string>
 	<string id="st_mag_medium">
-		<text>Medium Magazines: </text>
+		<text>Medium magazines: </text>
 	</string>
 	<string id="st_mag_large">
-		<text>Large Magazines: </text>
+		<text>Large magazines: </text>
 	</string>
+	
+	<string id="st_mag_size">
+		<text>Loadout slot</text>
+	</string>
+	<string id="st_mag_size_small">
+		<text>small</text>
+	</string>
+	<string id="st_mag_size_medium">
+		<text>medium</text>
+	</string>
+	<string id="st_mag_size_large">
+		<text>large</text>
+	</string>
+	
 	<string id="st_mag_loaded">
-		<text>Loaded: </text>
+		<text>Loaded</text>
 	</string>
 	<string id="st_mag_loaded_none">
 		<text>No magazine loaded</text>
 	</string>
+	<string id="st_mag_ammo_loaded_heading">
+		<text>AMMUNITION:</text>
+	</string>
 	<string id="st_mag_ammo_loaded_count">
-		<text>Loaded: </text>
+		<text>Round capacity</text>
 	</string>
 	<string id="st_mag_capacity">
-		<text>Magazine Capacity: </text>
+		<text>Round capacity</text>
 	</string>
 	<string id="st_mag_ammo_top_round">
-		<text>Top round: </text>
+		<text>Top round</text>
 	</string>
 
 	<!-- Firearm Parts -->
@@ -219,13 +345,13 @@
 		<text>slightly damaged</text>
 	</string>
 	<string id="st_damage_3">
-		<text>moderately worn</text>
-	</string>
-	<string id="st_damage_4">
 		<text>slightly worn</text>
 	</string>
+	<string id="st_damage_4">
+		<text>slightly used</text>
+	</string>
 	<string id="st_damage_5">
-		<text>pristine</text>
+		<text>factory new</text>
 	</string>
 
 	<string id="st_name_trigger">
@@ -260,6 +386,27 @@
 	</string>
 	<string id="st_name_chock">
 		<text>chock</text>
+	</string>
+
+	<!-- Crafting -->
+
+	<string id="st_cap_menu">
+		<text>Category</text>
+	</string>
+	<string id="st_cap_recipes">
+		<text>Recipes and Guides</text>
+	</string>
+	<string id="st_cap_craftables">
+		<text>Craftable Items</text>
+	</string>
+	<string id="st_cap_replace_parts">
+		<text>Replacement Parts</text>
+	</string>
+	<string id="st_ui_craft_repair">
+		<text>Repair Toolkits</text>
+	</string>
+	<string id="st_ui_craft_upgrades">
+		<text>Upgrade Parts</text>
 	</string>
 
 	<!-- Tooltips -->
