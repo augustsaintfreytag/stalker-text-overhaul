@@ -2,9 +2,9 @@
 
 <string_table>
 
-<!--
-	KITS/TOOLS
--->
+	<!--
+		KITS/TOOLS
+	-->
 
 	<string id="st_itm_repairkit_tier_1_name">
 		<text>Basic Tools</text>
@@ -70,9 +70,9 @@
 		</text>
 	</string>
 
-<!--
-	UTILITY
--->
+	<!--
+		UTILITY
+	-->
 
 	<string id="st_binocular_name">
 		<text>Binoculars</text>
@@ -117,53 +117,53 @@
 		</text>
 	</string>
 	
-<!--
-	ARTEFACT HANDLING
--->
+	<!--
+		ARTEFACT HANDLING
+	-->
 	
-```
-<string id="st_lead_box_name">
-	<text>Lead-lined Metal Container</text>
-</string>
-<string id="st_lead_box_descr">
-	<text>The LLMC is a robust metal containment device with thick lead-lined walls and foam inserts, designed to transport anomalous formations safely within the Zone. It features a heavy, pressure-sealing lid that ensures a secure closure, preventing any radiation leakage. The lead lining is crucial as it effectively blocks all forms of radiation, safeguarding the user from potential exposure to hazardous materials. This is particularly important in the Zone where artefacts can emit harmful levels of radiation, posing serious health risks.\n \n
-	Its design takes cues from similar containers used in the storage and transport of radioactive materials outside the Zone. Lead is a preferred material for radiation shielding due to its high density. It is commonly used in the construction of containers for radioactive waste and medical isotopes, ensuring that radiation is contained and does not pose a threat to handlers. However, an LLMC cannot be attached to a belt, meaning users cannot benefit from any potential positive properties of artefacts while they are stored within. \n \n
-	The LLMC is an extremely common choice for basic storage and transport and provides high shielding for its weight profile. Artefacts must be removed from the container prior to use or sale.\n \n
-	%c[ui_gray_3]PROPERTIES:\n
-	%c[d_cyan] • %c[ui_gray_2] artefact storage container\n
-	%c[d_cyan] • %c[ui_gray_2] shielding capability: 50+ mSv/sec\n
-	</text>
-</string>
 
-<string id="st_lead_box_half_name">
-	<text>Lead-lined Metal Container (Half-filled)</text>
-</string>
-<string id="st_lead_box_half_descr">
-	<text>The LLMC is a robust metal containment device with thick lead-lined walls and foam inserts, designed to transport anomalous formations safely within the Zone. It features a heavy, pressure-sealing lid that ensures a secure closure, preventing any radiation leakage. The lead lining is crucial as it effectively blocks all forms of radiation, safeguarding the user from potential exposure to hazardous materials. This is particularly important in the Zone where artefacts can emit harmful levels of radiation, posing serious health risks.\n \n
-	Its design takes cues from similar containers used in the storage and transport of radioactive materials outside the Zone. Lead is a preferred material for radiation shielding due to its high density. It is commonly used in the construction of containers for radioactive waste and medical isotopes, ensuring that radiation is contained and does not pose a threat to handlers. However, an LLMC cannot be attached to a belt, meaning users cannot benefit from any potential positive properties of artefacts while they are stored within. \n \n
-	The LLMC is an extremely common choice for basic storage and transport and provides high shielding for its weight profile. Artefacts must be removed from the container prior to use or sale.\n \n
-	%c[ui_gray_3]PROPERTIES:\n
-	%c[d_cyan] • %c[ui_gray_2] artefact storage container\n
-	%c[d_cyan] • %c[ui_gray_2] shielding capability: 50+ mSv/sec\n
-	</text>
-</string>
+	<string id="st_lead_box_name">
+		<text>Lead-lined Metal Container</text>
+	</string>
+	<string id="st_lead_box_descr">
+		<text>The LLMC is a robust metal containment device with thick lead-lined walls and foam inserts, designed to transport anomalous formations safely within the Zone. It features a heavy, pressure-sealing lid that ensures a secure closure, preventing any radiation leakage. The lead lining is crucial as it effectively blocks all forms of radiation, safeguarding the user from potential exposure to hazardous materials. This is particularly important in the Zone where artefacts can emit harmful levels of radiation, posing serious health risks.\n \n
+		Its design takes cues from similar containers used in the storage and transport of radioactive materials outside the Zone. Lead is a preferred material for radiation shielding due to its high density. It is commonly used in the construction of containers for radioactive waste and medical isotopes, ensuring that radiation is contained and does not pose a threat to handlers. However, an LLMC cannot be attached to a belt, meaning users cannot benefit from any potential positive properties of artefacts while they are stored within. \n \n
+		The LLMC is an extremely common choice for basic storage and transport and provides high shielding for its weight profile. Artefacts must be removed from the container prior to use or sale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] artefact storage container\n
+		%c[d_cyan] • %c[ui_gray_2] shielding capability: 50+ mSv/sec\n
+		</text>
+	</string>
 
-<string id="st_lead_box_closed_name">
-	<text>Lead-lined Metal Container (Full)</text>
-</string>
-<string id="st_lead_box_closed_descr">
-	<text>The LLMC is a robust metal containment device with thick lead-lined walls and foam inserts, designed to transport anomalous formations safely within the Zone. It features a heavy, pressure-sealing lid that ensures a secure closure, preventing any radiation leakage. The lead lining is crucial as it effectively blocks all forms of radiation, safeguarding the user from potential exposure to hazardous materials. This is particularly important in the Zone where artefacts can emit harmful levels of radiation, posing serious health risks.\n \n
-	Its design takes cues from similar containers used in the storage and transport of radioactive materials outside the Zone. Lead is a preferred material for radiation shielding due to its high density. It is commonly used in the construction of containers for radioactive waste and medical isotopes, ensuring that radiation is contained and does not pose a threat to handlers. However, an LLMC cannot be attached to a belt, meaning users cannot benefit from any potential positive properties of artefacts while they are stored within. \n \n
-	The LLMC is an extremely common choice for basic storage and transport and provides high shielding for its weight profile. Artefacts must be removed from the container prior to use or sale.\n \n
-	%c[ui_gray_3]PROPERTIES:\n
-	%c[d_cyan] • %c[ui_gray_2] artefact storage container\n
-	%c[d_cyan] • %c[ui_gray_2] shielding capability: 50+ mSv/sec\n
-	</text>
-</string>
+	<string id="st_lead_box_half_name">
+		<text>Lead-lined Metal Container (Half-filled)</text>
+	</string>
+	<string id="st_lead_box_half_descr">
+		<text>The LLMC is a robust metal containment device with thick lead-lined walls and foam inserts, designed to transport anomalous formations safely within the Zone. It features a heavy, pressure-sealing lid that ensures a secure closure, preventing any radiation leakage. The lead lining is crucial as it effectively blocks all forms of radiation, safeguarding the user from potential exposure to hazardous materials. This is particularly important in the Zone where artefacts can emit harmful levels of radiation, posing serious health risks.\n \n
+		Its design takes cues from similar containers used in the storage and transport of radioactive materials outside the Zone. Lead is a preferred material for radiation shielding due to its high density. It is commonly used in the construction of containers for radioactive waste and medical isotopes, ensuring that radiation is contained and does not pose a threat to handlers. However, an LLMC cannot be attached to a belt, meaning users cannot benefit from any potential positive properties of artefacts while they are stored within. \n \n
+		The LLMC is an extremely common choice for basic storage and transport and provides high shielding for its weight profile. Artefacts must be removed from the container prior to use or sale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] artefact storage container\n
+		%c[d_cyan] • %c[ui_gray_2] shielding capability: 50+ mSv/sec\n
+		</text>
+	</string>
 
-<!--
-	SLEEPING
--->
+	<string id="st_lead_box_closed_name">
+		<text>Lead-lined Metal Container (Full)</text>
+	</string>
+	<string id="st_lead_box_closed_descr">
+		<text>The LLMC is a robust metal containment device with thick lead-lined walls and foam inserts, designed to transport anomalous formations safely within the Zone. It features a heavy, pressure-sealing lid that ensures a secure closure, preventing any radiation leakage. The lead lining is crucial as it effectively blocks all forms of radiation, safeguarding the user from potential exposure to hazardous materials. This is particularly important in the Zone where artefacts can emit harmful levels of radiation, posing serious health risks.\n \n
+		Its design takes cues from similar containers used in the storage and transport of radioactive materials outside the Zone. Lead is a preferred material for radiation shielding due to its high density. It is commonly used in the construction of containers for radioactive waste and medical isotopes, ensuring that radiation is contained and does not pose a threat to handlers. However, an LLMC cannot be attached to a belt, meaning users cannot benefit from any potential positive properties of artefacts while they are stored within. \n \n
+		The LLMC is an extremely common choice for basic storage and transport and provides high shielding for its weight profile. Artefacts must be removed from the container prior to use or sale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] artefact storage container\n
+		%c[d_cyan] • %c[ui_gray_2] shielding capability: 50+ mSv/sec\n
+		</text>
+	</string>
+
+	<!--
+		SLEEPING
+	-->
 
 	<string id="st_itm_sleepbag_name">
 		<text>Sleeping Bag</text>
@@ -226,5 +226,7 @@
 		<text>A large printed map of sections of the exclusion zone with markings for concentrated fields of anomalous effects. Attached to it are a number of personal notes, some printed and annotated, some written by hand. The map and some of its attached sheets have marked locations and brief descriptions.\n \n
 		</text>
 	</string>
+
+	
 
 </string_table>
