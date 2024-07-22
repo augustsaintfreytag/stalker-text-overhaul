@@ -215,9 +215,20 @@
 		</text>
 	</string>
 
-<!--
-	OTHER
--->
+	<!--
+		OTHER
+	-->
+
+	<string id="st_itms_campfire_name">
+		<text>Firewood</text>
+	</string>
+	<string id="st_itms_campfire_descr">
+		<text>A bundle of firewood, consisting of assorted hardwood and softwood pieces. The wood is pre-cut into manageable lengths, approximately 12 to 16 inches each, and dried to ensure easy ignition and efficient burning. The mix of hardwood, such as oak and maple, provides long-lasting heat, while the softwood, like pine, ignites quickly to start the fire. Can be used for cooking with a mess kit or to provide warmth.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_orange] • %c[ui_gray_2] used for setting up a campfire\n
+		</text>
+	</string>
 
 	<string id="st_itm_mapkit">
 		<text>Anomaly Map</text>
