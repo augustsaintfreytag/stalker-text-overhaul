@@ -409,6 +409,18 @@
 		<text>Upgrade Parts</text>
 	</string>
 
+	<!-- Cooking -->
+
+	<string id="st_cap_meal_1">
+		<text>(Cooked)</text>
+	</string>
+	<string id="st_cap_meal_2">
+		<text>(Stewed)</text>
+	</string>
+	<string id="st_cap_meal_3">
+		<text>(Purified)</text>
+	</string>
+
 	<!-- Tooltips -->
 
 	<string id="st_tt_base_cost">
