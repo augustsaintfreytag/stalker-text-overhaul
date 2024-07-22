@@ -374,7 +374,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] smg/rifle component (barrel)\n
+		%c[d_cyan] • %c[ui_gray_2] rifle component (barrel)\n
 		</text>
 	</string>
 
@@ -608,7 +608,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] smg component (carrier)\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun component (carrier)\n
 		</text>
 	</string>
 
@@ -791,7 +791,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] smg component (breech)\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun component (breech)\n
 		</text>
 	</string>
 
@@ -815,7 +815,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] smg component (breech)\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun component (breech)\n
 		</text>
 	</string>
 
@@ -950,7 +950,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] smg component (gas tube)\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun component (gas tube)\n
 		</text>
 	</string>
 
@@ -968,7 +968,7 @@
 		<text>A 9x18mm handgun barrel, manufactured from high-strength steel. This barrel features precise rifling to ensure optimal bullet stabilization and accuracy. It is designed to handle the pressures of the 9x18mm round, providing reliable performance and durability. Commonly found in firearms such as the Makarov PM and the P-83 Wanad.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (barrel)\n</text>
 	</string>
 
@@ -979,7 +979,7 @@
 		<text>A 9x19mm handgun barrel, manufactured from high-grade steel. This barrel is engineered with precision rifling to enhance accuracy and consistency. It is built to withstand the higher pressures of the 9x19mm round, ensuring reliable performance. This barrel type is widely used in pistols like the Glock 17, SIG Sauer P226, and Beretta 92FS.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (barrel)\n</text>
 	</string>
 
@@ -990,7 +990,7 @@
 		<text>A .45 handgun barrel, manufactured from hardened steel. This barrel features deep rifling for superior bullet stabilization and accuracy. Designed to handle the substantial pressures of the .45 ACP round, it ensures reliable performance and long-term durability. Commonly used in firearms such as the Colt M1911, SIG Sauer P220, and the Heckler &amp; Koch USP45.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (barrel)\n</text>
 	</string>
 
@@ -1001,7 +1001,7 @@
 		<text>A 5.7mm handgun barrel, manufactured from premium steel. This barrel includes precise rifling to optimize accuracy and performance. It is designed to manage the unique pressures of the 5.7x28mm round, providing consistent reliability. This barrel is typically found in pistols like the FN Five-seven and the Ruger-57.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (barrel)\n</text>
 	</string>
 
@@ -1012,7 +1012,7 @@
 		<text>A 7.62mm handgun barrel, manufactured from high-strength steel. This barrel features meticulously engineered rifling for enhanced accuracy. It is built to handle the pressures of the 7.62mm round, ensuring dependable performance. Commonly used in firearms such as the Tokarev TT-33 and the CZ 52.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (barrel)\n</text>
 	</string>
 
@@ -1023,7 +1023,7 @@
 		<text>An enclosed 9x18mm handgun barrel, manufactured from durable steel. This enclosed barrel design features precise rifling for improved accuracy and stabilization. It is optimized for the 9x18mm round, providing reliable operation within the firearm's enclosed system. Typically found in compact and concealed carry pistols like the P-64 and the P-83 Wanad.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (barrel)\n</text>
 	</string>
 
@@ -1034,7 +1034,7 @@
 		<text>A .357 revolver barrel, manufactured from robust steel. This barrel is designed with deep rifling to ensure excellent bullet stabilization and accuracy. It is built to withstand the high pressures of the .357 Magnum round, providing reliable performance and durability. Commonly used in revolvers such as the Smith &amp; Wesson Model 686, Ruger GP100, and Colt Python.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (barrel)\n</text>
 	</string>
 
@@ -1047,7 +1047,7 @@
 		<text>A single-action trigger mechanism, manufactured from high-strength steel. This mechanism requires the hammer to be manually cocked before each shot, providing a lighter and more consistent trigger pull. Commonly found in firearms such as the Colt Single Action Army and Browning Hi-Power.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (trigger)\n</text>
 	</string>
 	
@@ -1058,7 +1058,7 @@
 		<text>A double-action trigger mechanism, manufactured from durable materials. This mechanism allows the trigger to both cock and release the hammer, providing a heavier but more consistent trigger pull with each shot. Commonly used in revolvers like the Smith &amp; Wesson Model 10 and semi-automatic pistols like the SIG Sauer P226.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (trigger)\n</text>
 	</string>
 	
@@ -1069,7 +1069,7 @@
 		<text>A double-action (DA/SA) trigger mechanism, manufactured from high-grade steel. This mechanism offers the flexibility of both double-action and single-action modes, allowing for an initial heavy pull followed by lighter subsequent pulls. Commonly found in firearms such as the Beretta 92FS and the Heckler &amp; Koch USP.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (trigger)\n</text>
 	</string>
 	
@@ -1080,7 +1080,7 @@
 		<text>An "MP412" double-action trigger mechanism, manufactured from robust steel. This mechanism features a double-action operation, allowing the trigger to both cock and release the hammer, ensuring a consistent trigger pull. Specifically designed for the MP412 REX revolver, enhancing its reliability and performance.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (trigger)\n</text>
 	</string>
 	
@@ -1094,7 +1094,7 @@
 		<text>A Soviet 9mm recoil spring assembly, manufactured from high-tensile steel. This assembly is designed to absorb and mitigate the recoil forces generated during firing, ensuring smoother cycling and improved control. Commonly used in Soviet-era pistols such as the Makarov PM and Stechkin APS.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (recoil spring)\n</text>
 	</string>
 	
@@ -1105,7 +1105,7 @@
 		<text>A Russian 9mm recoil spring assembly, manufactured from durable steel. This assembly effectively manages recoil, enhancing the reliability and longevity of the firearm. It is typically found in modern Russian handguns like the Yarygin PYa and the MP-443 Grach.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (recoil spring)\n</text>
 	</string>
 	
@@ -1116,7 +1116,7 @@
 		<text>A .45 recoil spring assembly, manufactured from high-grade steel. This assembly is engineered to handle the substantial recoil forces of the .45 ACP round, ensuring consistent performance and reducing wear on the firearm. Commonly found in pistols such as the Colt M1911 and the SIG Sauer P220.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (recoil spring)\n</text>
 	</string>
 	
@@ -1127,7 +1127,7 @@
 		<text>A Western 9mm recoil spring assembly, manufactured from premium materials. This assembly is designed to efficiently manage recoil, ensuring reliable operation and longevity. It is commonly used in popular Western handguns like the Glock 19, SIG Sauer P226, and Beretta 92FS.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (recoil spring)\n</text>
 	</string>
 	
@@ -1138,7 +1138,7 @@
 		<text>A 7.62mm recoil spring assembly, manufactured from high-strength steel. This assembly is built to handle the recoil forces of the 7.62mm round, providing smooth cycling and enhancing firearm durability. Commonly used in firearms such as the Tokarev TT-33 and the CZ 52.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (recoil spring)\n</text>
 	</string>
 	
@@ -1149,7 +1149,7 @@
 		<text>A recoil spring assembly for the R1 DE 6", manufactured from robust materials. This assembly is designed to manage the substantial recoil generated by large caliber rounds, ensuring reliable operation and reducing wear. Specifically designed for the Desert Eagle, enhancing its performance and longevity.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun component (recoil spring)\n</text>
 	</string>
 	

@@ -7,9 +7,9 @@
 	</string>
 	<string id="st_mag_aps_9x18_fmj_descr">
 		<text>\n \nA standard APS magazine chambered in 9x18mm designed for the APS machine pistol. It is constructed from steel with a blued finish, providing reliable feeding and durability. The single-stack design allows for a slim profile but may be prone to wear under heavy use. The magazine features an ergonomic base plate for better handling. Manufactured by TsNIITochMash in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
 
@@ -18,9 +18,9 @@
 	</string>
 	<string id="st_mag_aps_9x19_fmj_descr">
 		<text>\n \nA modified APS magazine chambered in 9x19mm. It is made from steel with a blued finish, offering reliable feeding and robustness. The modification increases ammunition capacity but can result in compatibility issues with other firearms. Ergonomic base plates enhance handling and rapid reloading. Manufactured by TsNIITochMash in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
 
@@ -29,9 +29,9 @@
 	</string>
 	<string id="st_mag_beretta_9x19_fmj_descr">
 		<text>\n \nA standard Beretta 92F magazine chambered in 9x19mm designed for the Beretta 92F pistol. It is constructed from stainless steel, ensuring reliable feeding and durability. The double-stack design provides optimal capacity but can be affected by debris. The magazine features an ergonomic base plate and textured sides for improved handling. Manufactured by Beretta in Italy.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
 
@@ -40,9 +40,9 @@
 	</string>
 	<string id="st_mag_beretta_9x18_fmj_descr">
 		<text>\n \nA modified Beretta 92F magazine chambered in 9x18mm. It is made from stainless steel, ensuring reliable feeding and robustness. The modification changes ammunition compatibility but can reduce feeding reliability. The magazine includes an ergonomic base plate and textured sides for better handling. Manufactured by Beretta in Italy.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
 
@@ -51,9 +51,9 @@
 	</string>
 	<string id="st_mag_colt1911_11.43x23_fmj_descr">
 		<text>\n \nA standard Colt 1911 magazine chambered in .45 ACP designed for the Colt 1911 pistol. It is constructed from stainless steel, providing reliable feeding and robust construction. The single-stack design maintains a slim profile but limits ammunition capacity. The polished surface and anti-tilt follower ensure smooth operation. Manufactured by Colt's Manufacturing Company in the USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
-		%c[d_cyan] • %c[ui_gray_2] handgun magazine\n
+		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
 
@@ -62,8 +62,8 @@
 	</string>
 	<string id="st_mag_colt_kimber_11.43x23_fmj_descr">
 		<text>\n \nA Colt Kimber magazine chambered in .45 ACP designed for 1911-style pistols. It is made from stainless steel, ensuring reliable feeding and durability. The single-stack design keeps a slim profile but offers limited capacity. The magazine features polished surfaces and an anti-tilt follower for smooth operation. Manufactured by Kimber Manufacturing in the USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -73,8 +73,8 @@
 	</string>
 	<string id="st_mag_cz52_7.62x25_p_descr">
 		<text>\n \nA standard CZ-52 magazine chambered in 7.62x25mm designed for the CZ-52 pistol. It is made from steel, providing reliable feeding and robust construction. The single-stack design allows for a slim profile but can be prone to wear over time. The magazine features an ergonomic base plate for better handling. Manufactured by ?esk? Zbrojovka in Czechoslovakia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -84,8 +84,8 @@
 	</string>
 	<string id="st_mag_cz75_9x19_fmj_descr">
 		<text>\n \nA standard CZ-75 magazine chambered in 9x19mm designed for the CZ-75 pistol. It is constructed from high-strength steel, ensuring reliable feeding and durability. The double-stack design offers optimal capacity but can be affected by debris. The magazine features an ergonomic base plate and textured sides for improved handling. Manufactured by ?esk? Zbrojovka in the Czech Republic.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -95,8 +95,8 @@
 	</string>
 	<string id="st_mag_cz75_9x18_fmj_descr">
 		<text>\n \nA modified CZ-75 magazine chambered in 9x18mm. It is made from high-strength steel, providing reliable feeding and robustness. The modification changes ammunition compatibility and can reduce feeding reliability. The magazine includes an ergonomic base plate and textured sides for better handling. Manufactured by ?esk? Zbrojovka in the Czech Republic.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -106,8 +106,8 @@
 	</string>
 	<string id="st_mag_desert_eagle_357_hp_descr">
 		<text>\n \nA standard Desert Eagle magazine chambered in .357 Magnum designed for the Desert Eagle pistol. It is constructed from stainless steel, ensuring reliable feeding and robust construction. The single-stack design maintains a slim profile but limits ammunition capacity. The polished surface and anti-tilt follower ensure smooth operation. Manufactured by Magnum Research in the USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -117,8 +117,8 @@
 	</string>
 	<string id="st_mag_fn57_5.7x28_ss190_descr">
 		<text>\n \nA standard Five-seveN magazine chambered in 5.7x28mm designed for the FN Five-seveN pistol. It is made from durable polymer, providing reliable feeding and lightweight construction. The double-stack design offers high capacity but can be susceptible to damage under heavy use. The magazine features ergonomic base plates for improved handling. Manufactured by FN Herstal in Belgium.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -128,8 +128,8 @@
 	</string>
 	<string id="st_mag_fnp45_11.43x23_fmj_descr">
 		<text>\n \nA standard FNP-45 magazine chambered in .45 ACP designed for the FNP-45 pistol. It is constructed from stainless steel, ensuring reliable feeding and robust construction. The double-stack design balances capacity with a manageable profile but can be affected by dirt and debris. The magazine includes ergonomic base plates for better handling. Manufactured by FN Herstal in Belgium.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -139,8 +139,8 @@
 	</string>
 	<string id="st_mag_fnx45_11.43x23_fmj_descr">
 		<text>\n \nA standard FNX-45 magazine chambered in .45 ACP designed for the FNX-45 pistol. It is made from stainless steel, providing reliable feeding and durability. The double-stack design ensures a balanced profile but can be prone to debris. The magazine features an ergonomic base plate and polished surfaces for smooth operation. Manufactured by FN Herstal in Belgium.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -150,8 +150,8 @@
 	</string>
 	<string id="st_mag_fort_9x18_fmj_descr">
 		<text>\n \nA standard Fort-17 magazine chambered in 9x18mm designed for the Fort-17 pistol. It is made from high-strength polymer, providing reliable feeding and lightweight construction. The double-stack design offers optimal capacity but can wear down under heavy use. The magazine includes textured sides for better handling. Manufactured by RPC Fort in Ukraine.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -161,8 +161,8 @@
 	</string>
 	<string id="st_mag_fort_9x19_fmj_descr">
 		<text>\n \nA modified Fort-17 magazine chambered in 9x19mm. It is constructed from high-strength polymer, providing reliable feeding and lightweight construction. The modification alters ammunition compatibility and can reduce feeding reliability. Textured sides enhance handling and rapid reloading. Manufactured by RPC Fort in Ukraine.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -172,8 +172,8 @@
 	</string>
 	<string id="st_mag_glock_9x19_fmj_descr">
 		<text>\n \nA standard Glock magazine chambered in 9x19mm designed for Glock pistols. It is made from durable polymer with steel reinforcements, ensuring reliable feeding and robust construction. The double-stack design offers high capacity but can be affected by dirt and debris. The magazine features textured sides for improved handling. Manufactured by Glock Ges.m.b.H. in Austria.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -183,8 +183,8 @@
 	</string>
 	<string id="st_mag_glock_9x18_fmj_descr">
 		<text>\n \nA modified Glock magazine chambered in 9x18mm. It is constructed from durable polymer with steel reinforcements, providing reliable feeding and robustness. The modification alters ammunition compatibility and can reduce feeding reliability. The magazine includes textured sides for better handling. Manufactured by Glock Ges.m.b.H. in Austria.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -194,8 +194,8 @@
 	</string>
 	<string id="st_mag_gsh18_9x19_fmj_descr">
 		<text>\n \nA standard Gsh-18 magazine chambered in 9x19mm designed for the Gsh-18 pistol. It is made from high-strength polymer, ensuring reliable feeding and lightweight construction. The double-stack design offers high capacity but can be prone to dirt and debris. The magazine features ergonomic base plates for improved handling. Manufactured by KBP Instrument Design Bureau in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -205,8 +205,8 @@
 	</string>
 	<string id="st_mag_hpsa_9x19_fmj_descr">
 		<text>\n \nA standard Browning Hi-Power magazine chambered in 9x19mm designed for the Browning Hi-Power pistol. It is made from steel, providing reliable feeding and robust construction. The double-stack design balances capacity with a manageable profile but can be affected by debris. The magazine features ergonomic base plates for better handling. Manufactured by FN Herstal in Belgium.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -216,8 +216,8 @@
 	</string>
 	<string id="st_mag_hpsa_9x18_fmj_descr">
 		<text>\n \nA modified Browning Hi-Power magazine chambered in 9x18mm. It is constructed from steel, ensuring reliable feeding and robust construction. The modification alters ammunition compatibility and can reduce feeding reliability. Ergonomic base plates enhance handling and rapid reloading. Manufactured by FN Herstal in Belgium.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -227,8 +227,8 @@
 	</string>
 	<string id="st_mag_mp443_9x19_fmj_descr">
 		<text>\n \nA standard MP-443 magazine chambered in 9x19mm designed for the MP-443 Grach pistol. It is made from high-strength steel, providing reliable feeding and durability. The double-stack design offers optimal capacity but can be affected by dirt and debris. The magazine features textured sides for improved handling. Manufactured by Izhevsk Mechanical Plant in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -238,8 +238,8 @@
 	</string>
 	<string id="st_mag_mp443_9x18_fmj_descr">
 		<text>\n \nA modified MP-443 magazine chambered in 9x18mm. It is constructed from high-strength steel, ensuring reliable feeding and durability. The modification alters ammunition compatibility and can reduce feeding reliability. The magazine includes textured sides for better handling. Manufactured by Izhevsk Mechanical Plant in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -249,8 +249,8 @@
 	</string>
 	<string id="st_mag_oc33_9x18_fmj_descr">
 		<text>\n \nA standard OTs-33 Pernach magazine chambered in 9x18mm designed for the OTs-33 Pernach pistol. It is made from steel, providing reliable feeding and robust construction. The double-stack design offers high capacity but can be susceptible to wear. The magazine features ergonomic base plates for improved handling. Manufactured by TsKIB SOO in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -260,8 +260,8 @@
 	</string>
 	<string id="st_mag_oc33_9x19_fmj_descr">
 		<text>\n \nA modified OTs-33 Pernach magazine chambered in 9x19mm. It is constructed from steel, ensuring reliable feeding and robustness. The modification alters ammunition compatibility and can reduce feeding reliability. Ergonomic base plates enhance handling and rapid reloading. Manufactured by TsKIB SOO in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -271,8 +271,8 @@
 	</string>
 	<string id="st_mag_pm_9x18_fmj_descr">
 		<text>\n \nA standard PM magazine chambered in 9x18mm designed for the Makarov pistol. It is made from steel, providing reliable feeding and robust construction. The single-stack design allows for a slim profile but limits ammunition capacity. The magazine includes a polished surface for smooth operation. Manufactured by Izhevsk Mechanical Plant in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -282,8 +282,8 @@
 	</string>
 	<string id="st_mag_pm_9x19_fmj_descr">
 		<text>\n \nA modified PM magazine chambered in 9x19mm. It is constructed from steel, ensuring reliable feeding and robust construction. The modification alters ammunition compatibility and can reduce feeding reliability. The single-stack design limits capacity but maintains a slim profile. Manufactured by Izhevsk Mechanical Plant in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -293,8 +293,8 @@
 	</string>
 	<string id="st_mag_pmm_9x18_fmj_descr">
 		<text>\n \nA standard PMM magazine chambered in 9x18mm designed for the PMM pistol. It is made from steel, providing reliable feeding and robust construction. The double-stack design offers high capacity but can be prone to dirt and debris. The magazine includes a polished surface for smooth operation. Manufactured by Izhevsk Mechanical Plant in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -304,8 +304,8 @@
 	</string>
 	<string id="st_mag_pmm_9x19_fmj_descr">
 		<text>\n \nA modified PMM magazine chambered in 9x19mm. It is constructed from steel, ensuring reliable feeding and robustness. The modification alters ammunition compatibility and can reduce feeding reliability. The double-stack design offers high capacity but can be affected by debris. Manufactured by Izhevsk Mechanical Plant in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -315,8 +315,8 @@
 	</string>
 	<string id="st_mag_pp2000_9x19_fmj_descr">
 		<text>\n \nA standard PP-2000 magazine chambered in 9x19mm designed for the PP-2000 submachine gun. It is made from high-strength polymer, providing reliable feeding and lightweight construction. The double-stack design offers optimal capacity but can be affected by debris. The magazine includes ergonomic base plates for improved handling. Manufactured by KBP Instrument Design Bureau in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -326,8 +326,8 @@
 	</string>
 	<string id="st_mag_pp2000_9x18_fmj_descr">
 		<text>\n \nA modified PP-2000 magazine chambered in 9x18mm. It is constructed from high-strength polymer, ensuring reliable feeding and lightweight construction. The modification alters ammunition compatibility and can reduce feeding reliability. The magazine includes ergonomic base plates for better handling. Manufactured by KBP Instrument Design Bureau in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -337,8 +337,8 @@
 	</string>
 	<string id="st_mag_sig220_11.43x23_fmj_descr">
 		<text>\n \nA standard SIG Sauer P220 magazine chambered in .45 ACP designed for the P220 pistol. It is made from stainless steel, providing reliable feeding and robust construction. The single-stack design maintains a slim profile but limits ammunition capacity. The polished surface and anti-tilt follower ensure smooth operation. Manufactured by SIG Sauer in Switzerland.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -348,8 +348,8 @@
 	</string>
 	<string id="st_mag_tt33_7.62x25_p_descr">
 		<text>\n \nA standard TT-33 magazine chambered in 7.62x25mm designed for the TT-33 pistol. It is made from steel, providing reliable feeding and robust construction. The single-stack design maintains a slim profile but can be prone to wear under heavy use. The magazine features a polished surface for smooth operation. Manufactured by Tula Arms Plant in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -359,8 +359,8 @@
 	</string>
 	<string id="st_mag_usp_11.43x23_fmj_descr">
 		<text>\n \nA standard USP magazine chambered in .45 ACP designed for the USP pistol. It is constructed from high-strength polymer with steel reinforcements, ensuring reliable feeding and robust construction. The double-stack design offers high capacity but can be affected by dirt and debris. The magazine includes ergonomic base plates for improved handling. Manufactured by Heckler & Koch in Germany.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -370,8 +370,8 @@
 	</string>
 	<string id="st_mag_usp_9x19_fmj_descr">
 		<text>A standard USP magazine chambered in 9x19mm designed for the USP pistol. It is constructed from high-strength polymer with steel reinforcements, ensuring reliable feeding and durability. The double-stack design provides optimal capacity but can be affected by dirt and debris. The magazine includes ergonomic base plates and textured sides for improved handling. Manufactured by Heckler & Koch in Germany.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
@@ -381,23 +381,23 @@
 	</string>
 	<string id="st_mag_walther_9x19_fmj_descr">
 		<text>A standard P99 magazine chambered in 9x19mm designed for the P99 pistol. It is made from durable polymer with steel reinforcements, providing reliable feeding and robust construction. The double-stack design balances capacity with a slightly bulkier profile and can be prone to wear under heavy use. The magazine features ergonomic base plates and textured sides for better handling. Manufactured by Carl Walther GmbH in Germany.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] handgun magazine
 		</text>
 	</string>
 
 
-	<!-- SMGs -->
+	<!-- submachine guns -->
 
 	<string id="st_mag_bizon_9x18_fmj">
 		<text>9x18 PP-19 Magazine</text>
 	</string>
 	<string id="st_mag_bizon_9x18_fmj_descr">
 		<text>A standard PP-19 magazine chambered in 9x18mm designed for the PP-19 Bizon submachine gun. It is constructed from durable polymer with steel reinforcements, ensuring reliable feeding and lightweight construction. The helical design allows for high capacity but can be prone to dirt and debris. The magazine includes textured surfaces for improved handling. Manufactured by Izhmash in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -406,9 +406,9 @@
 	</string>
 	<string id="st_mag_bizon_9x19_fmj_descr">
 		<text>A modified PP-19 magazine chambered in 9x19mm. It is made from durable polymer with steel reinforcements, providing reliable feeding and lightweight construction. The modification changes ammunition compatibility but can reduce feeding reliability. Textured surfaces enhance handling and rapid reloading. Manufactured by Izhmash in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -417,9 +417,9 @@
 	</string>
 	<string id="st_mag_bizon_7.62x25_p_descr">
 		<text>A modified PP-19 magazine chambered in 7.62x25mm. It is constructed from durable polymer with steel reinforcements, ensuring reliable feeding and lightweight construction. The modification alters ammunition compatibility and can reduce feeding reliability. The helical design offers high capacity but is susceptible to dirt and debris. Manufactured by Izhmash in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -428,9 +428,9 @@
 	</string>
 	<string id="st_mag_kiparis_9x18_fmj_descr">
 		<text>A standard Kiparis magazine chambered in 9x18mm designed for the Kiparis submachine gun. It is made from high-strength polymer, providing reliable feeding and lightweight construction. The double-stack design offers optimal capacity but can wear down under heavy use. The magazine includes ergonomic base plates for better handling. Manufactured by KBP Instrument Design Bureau in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -439,9 +439,9 @@
 	</string>
 	<string id="st_mag_kiparis_9x19_fmj_descr">
 		<text>A modified Kiparis magazine chambered in 9x19mm. It is constructed from high-strength polymer, ensuring reliable feeding and lightweight construction. The modification changes ammunition compatibility and can reduce feeding reliability. Ergonomic base plates enhance handling and rapid reloading. Manufactured by KBP Instrument Design Bureau in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -450,9 +450,9 @@
 	</string>
 	<string id="st_mag_vityaz_9x19_fmj_descr">
 		<text>A standard Vityaz-SN magazine chambered in 9x19mm designed for the Vityaz-SN submachine gun. It is made from durable polymer with steel reinforcements, providing reliable feeding and robustness. The double-stack design ensures a balanced profile but can be prone to debris. The magazine features textured sides for improved handling. Manufactured by Izhmash in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -461,9 +461,9 @@
 	</string>
 	<string id="st_mag_vityaz_9x18_fmj_descr">
 		<text>A modified Vityaz-SN magazine chambered in 9x18mm. It is constructed from durable polymer with steel reinforcements, ensuring reliable feeding and robustness. The modification changes ammunition compatibility and can reduce feeding reliability. Textured sides enhance handling and rapid reloading. Manufactured by Izhmash in Russia.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -472,9 +472,9 @@
 	</string>
 	<string id="st_mag_vz61_9x19_fmj_descr">
 		<text>A standard vz.61 magazine chambered in 9x19mm designed for the vz.61 Skorpion submachine gun. It is made from steel, providing reliable feeding and robust construction. The double-stack design balances capacity with a manageable profile but can be affected by debris. The magazine features ergonomic base plates for better handling. Manufactured by ?esk? Zbrojovka in the Czech Republic.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -483,9 +483,9 @@
 	</string>
 	<string id="st_mag_vz61_9x18_fmj_descr">
 		<text>A modified vz.61 magazine chambered in 9x18mm. It is constructed from steel, ensuring reliable feeding and robust construction. The modification alters ammunition compatibility and can reduce feeding reliability. Ergonomic base plates enhance handling and rapid reloading. Manufactured by ?esk? Zbrojovka in the Czech Republic.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -494,9 +494,9 @@
 	</string>
 	<string id="st_mag_p90_5.7x28_ss190_descr">
 		<text>A standard P90 magazine chambered in 5.7x28mm designed for the FN P90 submachine gun. It is made from durable polymer, providing reliable feeding and lightweight construction. The unique horizontal design allows for high capacity but can be prone to dirt and debris. The magazine includes transparent sections for easy ammunition count. Manufactured by FN Herstal in Belgium.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -505,9 +505,9 @@
 	</string>
 	<string id="st_mag_ppsh41_7.62x25_p_descr">
 		<text>A standard PPSh-41 drum magazine chambered in 7.62x25mm designed for the PPSh-41 submachine gun. It is constructed from steel, ensuring reliable feeding and robust construction. The drum design offers high capacity but adds significant bulk and can be difficult to load. The magazine features a winding mechanism for proper operation. Manufactured by various Soviet arsenals.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -516,9 +516,9 @@
 	</string>
 	<string id="st_mag_mp5_9x19_fmj_descr">
 		<text>A standard MP5 magazine chambered in 9x19mm designed for the MP5 submachine gun. It is made from high-strength steel, providing reliable feeding and durability. The double-stack design offers optimal capacity but can be affected by dirt and debris. The magazine includes ergonomic base plates and textured sides for improved handling. Manufactured by Heckler & Koch in Germany.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -527,9 +527,9 @@
 	</string>
 	<string id="st_mag_mp5_9x18_fmj_descr">
 		<text>A modified MP5 magazine chambered in 9x18mm. It is constructed from high-strength steel, ensuring reliable feeding and durability. The modification changes ammunition compatibility and can reduce feeding reliability. Ergonomic base plates and textured sides enhance handling and rapid reloading. Manufactured by Heckler & Koch in Germany.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -538,9 +538,9 @@
 	</string>
 	<string id="st_mag_mp7_9x19_fmj_descr">
 		<text>A standard MP7 magazine chambered in 9x19mm designed for the MP7 submachine gun. It is made from durable polymer with steel reinforcements, ensuring reliable feeding and lightweight construction. The double-stack design balances capacity with a manageable profile but can be prone to wear under heavy use. The magazine features ergonomic base plates and textured sides for improved handling. Manufactured by Heckler & Koch in Germany.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -549,9 +549,9 @@
 	</string>
 	<string id="st_mag_mp7_9x18_fmj_descr">
 		<text>A modified MP7 magazine chambered in 9x18mm. It is constructed from durable polymer with steel reinforcements, providing reliable feeding and lightweight construction. The modification changes ammunition compatibility and can reduce feeding reliability. Ergonomic base plates and textured sides enhance handling and rapid reloading. Manufactured by Heckler & Koch in Germany.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -560,9 +560,9 @@
 	</string>
 	<string id="st_mag_mp5_11.43x23_fmj_descr">
 		<text>A "Frasier" MP5 magazine chambered in .45 ACP designed for modified MP5 variants. It is made from high-strength steel, providing reliable feeding and robust construction. The single-stack design maintains a slim profile but limits ammunition capacity. The magazine includes a polished surface and anti-tilt follower for smooth operation. Manufactured by a custom armory in the USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
@@ -571,9 +571,9 @@
 	</string>
 	<string id="st_mag_ump45_11.43x23_fmj_descr">
 		<text>A standard UMP magazine chambered in .45 ACP designed for the UMP submachine gun. It is constructed from durable polymer, ensuring reliable feeding and lightweight construction. The double-stack design offers high capacity but can be affected by dirt and debris. The magazine features ergonomic base plates and textured sides for improved handling. Manufactured by Heckler & Koch in Germany.\n \n
-		%c[ui_gray_3]PROPERTIES:
-		%c[d_cyan] • %c[ui_gray_2] firearm component
-		%c[d_cyan] • %c[ui_gray_2] smg magazine
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
 	</string>
 
