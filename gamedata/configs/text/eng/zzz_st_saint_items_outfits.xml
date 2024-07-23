@@ -1157,7 +1157,7 @@
 	</string>
 	<string id="st_ecologist_outfit_orange_description">
 		<text>A high-end, current-generation CBRN (Chemical, Biological, Radiological, Nuclear) suit, specifically designed for deployment in the exclusion zone. The SSP-99 is crafted from a multi-layered synthetic fabric that offers excellent resistance to chemical and thermal hazards. When combined with the SSP-99 screen helmet, it features an integrated air-filtering and air-conditioning system. Its closed-cycle respiratory module ensures protection against airborne contaminants. This suit is essential for scientific expeditions into anomalous fields.\n \n
-	</text>
+		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_grn_name">
@@ -1165,7 +1165,7 @@
 	</string>
 	<string id="st_ecologist_outfit_grn_description">
 		<text>A modified version of the high-end CBRN (Chemical, Biological, Radiological, Nuclear) SSP-99 suit with enhanced protective capabilities. The SSP-99M includes a Kevlar underlayer to reduce the risk of puncture of the outer shell. The outer layer is made from a durable synthetic fabric that provides improved resistance to biological anomalies. The integrated air-filtering and air-conditioning system ensures breathable air in contaminated environments. This variant is favored by researchers requiring extra protection from biological threats.\n \n
-	</text>
+		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_white_name">
@@ -1173,7 +1173,7 @@
 	</string>
 	<string id="st_ecologist_outfit_white_description">
 		<text>A top-tier version of the high-end CBRN (Chemical, Biological, Radiological, Nuclear) SSP-99 suit, designed for maximum environmental protection. The "Diamond" variant features a reinforced synthetic fabric with superior resistance to electrical hazards. It includes an integrated air-filtering and air-conditioning system when paired with the SSP-99 screen helmet. The closed-cycle respiratory module and enhanced durability in thermal and chemical fields make this suit a widespread choice for extensive research missions in high-risk areas.\n \n
-	</text>
+		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_blue_name">
@@ -1181,7 +1181,7 @@
 	</string>
 	<string id="st_ecologist_outfit_blue_description">
 		<text>A specialized version of the high-end CBRN (Chemical, Biological, Radiological, Nuclear) SSP-99M suit, optimized for effective shielding against psy fields. The "Sapphire" variant includes a Kevlar underlayer to prevent punctures of the outer shell. Its outer layer is composed of high-strength synthetic fabric that shields against short-range psi-emissions. The suit also features an integrated air-filtering and air-conditioning system for safe breathing in contaminated zones. The Sapphire variant protective suit is commonly used by experienced research personnel in areas known for their high psy fields and high-threat environmental hazards.\n \n
-	</text>
+		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_red_name">
@@ -1189,7 +1189,7 @@
 	</string>
 	<string id="st_ecologist_outfit_red_description">
 		<text>A modified version of the SSP-99M suit designed for enhanced melee protection. The "Ruby" includes a Kevlar underlayer to reduce the risk of puncture from hostile mutants. Its reinforced synthetic fabric provides additional defense against melee attacks. An integrated wound healing system offers immediate medical support in the field. This suit is preferred by researchers facing physical threats in the exclusion zone.\n \n
-	</text>
+		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_yello_name">
@@ -1197,7 +1197,7 @@
 	</string>
 	<string id="st_ecologist_outfit_yello_description">
 		<text>A version of the high-end CBRN (Chemical, Biological, Radiological, Nuclear) SSP-99 suit, optimized for increased radiation protection. The "Topaz" variant features a synthetic fabric blend that provides superior resistance to radiological hazards. When combined with the SSP-99 screen helmet, it includes an integrated air-filtering and air-conditioning system. The suit's closed-cycle respiratory module ensures safety in highly irradiated environments. The model is commonly used by researchers exploring the most highly irradiated areas of the Zone and require effective protection against a variety of environmental hazards.\n \n
-	</text>
+		</text>
 	</string>
 
 
@@ -1369,7 +1369,7 @@
 		<text>"Sunrise" Exoskeleton</text>
 	</string>
 	<string id="stalker_proto_exo_outfit_description">
-		<text>A stalker bodysuit, specially designed to be fitted with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances. Compared to a full exoskeleton, it provides less protection, but is also considerably lighter.\n \n
+		<text>A high-end "Sunrise" bodysuit specially designed to be fitted with the servos and batteries of an exoskeleton. This setup allows the wearer to carry significantly more equipment than under normal circumstances. The suit is crafted from a blend of high-strength synthetic fibers, offering moderate protection. Compared to a full exoskeleton, it provides less protection but is considerably lighter. Commonly used by stalkers needing increased carrying capacity without the bulk of a full exo.\n \n
 		</text>
 	</string>
 
@@ -1377,7 +1377,7 @@
 		<text>Wind of Freedom Exoskeleton</text>
 	</string>
 	<string id="svoboda_light_proto_exo_outfit_description">
-		<text>A Wind of Freedom bodysuit, specially designed to be fitted with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances. Compared to a full exoskeleton, it provides less protection, but is also considerably lighter.\n \n
+		<text>A high-end "Wind of Freedom" bodysuit designed to be fitted with the servos and batteries of an exoskeleton. This configuration enables the wearer to carry significantly more equipment. The suit is made from a lightweight, durable synthetic fabric, providing moderate protection. Compared to a full exoskeleton, it is lighter and less cumbersome. Commonly used by Freedom members for its balance of mobility and capacity.\n \n
 		</text>
 	</string>
 
@@ -1385,15 +1385,15 @@
 		<text>PS5-M Exoskeleton</text>
 	</string>
 	<string id="dolg_proto_exo_outfit_description">
-		<text>A PS5-M universal protection bodysuit, specially designed to be fitted with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances. Compared to a full exoskeleton, it provides less protection, but is also considerably lighter.\n \n
+		<text>A high-end PS5-M type universal protection bodysuit designed to be fitted with the servos and batteries of an exoskeleton. This setup allows the wearer to carry significantly more equipment. The suit features a durable Kevlar weave for added defense against ballistic threats. Compared to a full exoskeleton, it offers less protection but is notably lighter. Used by Duty members who need enhanced carrying capacity without sacrificing too much mobility.\n \n
 		</text>
 	</string>
-	
+		
 	<string id="dolg_heavy_proto_exo_outfit_name">
 		<text>PSZ-9d Exoskeleton</text>
 	</string>
 	<string id="dolg_heavy_proto_exo_outfit_description">
-		<text>A PSZ-9d armored bodysuit, specially designed to be fitted with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances. Compared to a full exoskeleton, it sacrifices raw ballistic protection for greater functionality in anomalous fields.\n \n
+		<text>A high-end PSZ-9d type armored bodysuit designed to be fitted with the servos and batteries of an exoskeleton. The base exosuit is also known as the "Radsuit". This variant sacrifices some ballistic protection for greater functionality in anomalous fields. The suit is made from high-strength synthetic materials and includes a Kevlar underlayer for added durability. Ideal for Duty operatives conducting missions in highly anomalous areas.\n \n
 		</text>
 	</string>
 
@@ -1401,7 +1401,7 @@
 		<text>Skat-9 Exoskeleton</text>
 	</string>
 	<string id="military_proto_exo_outfit_description">
-		<text>The very first iteration of the military exoskeleton, modified to fit with the servos and batteries of a modern exoskeleton. Compared to a third-generation exo, it sacrifices raw ballistic protection for greater functionality in anomalous fields.\n \n
+		<text>A high-end Skat-9 type bodysuit, the very first iteration of the common military exoskeleton, designed to fit with the servos and batteries of a modern exoskeleton. This suit sacrifices some ballistic protection for greater functionality in anomalous fields. Constructed from durable synthetic fibers, it includes reinforced plating for additional defense. This prototype is used for military operations requiring both enhanced carrying capacity and maneuverability.\n \n
 		</text>
 	</string>
 
@@ -1409,7 +1409,7 @@
 		<text>X-18 Exoskeleton</text>
 	</string>
 	<string id="monolith_proto_exo_outfit_description">
-		<text>An armor made by either Monolithians or an unknown manufacturer. It has been specially modified to fit with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances. Compared to a full exoskeleton, it provides less protection, but is also considerably lighter.\n \n
+		<text>An experimental X-18 type exoskeleton, developed by Monolith mechanics with the assistance of an unknown manufacturer, designed to be fitted with servos and batteries. The suit allows the wearer to carry significantly more equipment, and features a high-strength synthetic fabric that provides moderate protection. Compared to a full exoskeleton, it is lighter and less protective. Used by Monolith members requiring increased capacity in the field.\n \n
 		</text>
 	</string>
 
@@ -1417,33 +1417,34 @@
 		<text>CS-2b Exoskeleton</text>
 	</string>
 	<string id="cs_stalker_proto_exo_outfit_description">
-		<text>A set of CS-2b body armor that has been specially modified to fit with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances. Compared to a full exoskeleton, it provides less protection, but is also considerably lighter.\n \n
+		<text>A high-end CS-2b type body armor set modified to fit with the servos and batteries of an exoskeleton. This configuration allows the wearer to carry significantly more equipment. The suit is constructed from a durable synthetic fabric with additional Kevlar reinforcements for moderate protection. Compared to a full exoskeleton, it provides less protection but is considerably lighter. Used by Clear Sky operatives looking for enhanced mobility and load-bearing capacity.\n \n
 		</text>
 	</string>
-	
+		
 	<string id="ecolog_proto_exo_outfit_name">
 		<text>SSP-99M Exoskeleton</text>
 	</string>
 	<string id="ecolog_proto_exo_outfit_description">
-		<text>A unique armor system composed of an exoskeleton-powered SSP-99M jumpsuit with an anomaly-resistant Class IIA Kevlar vest placed on top. The durable exo-frames are capable of providing mechanical support for carrying heavy loads even through anomaly fields. Ideal for aiding researchers during deep incursions into the Zone.\n \n
+		<text>A unique high-end armor system composed of an SSP-99M protective jumpsuit, powered by an exoskeleton frame. The suit includes a Class IIA Kevlar vest, specially treated for extra environmental protection. The durable exo-frames provide mechanical support, enabling the wearer to carry heavy loads through anomaly fields. Used by highly experienced researchers and guard personnel on deep incursion missions into the Zone.\n \n
 		</text>
 	</string>
-	
+		
 	<string id="isg_proto_exo_outfit_name">
 		<text>UNISG Tactical Exoskeleton</text>
 	</string>
 	<string id="isg_proto_exo_outfit_description">
-		<text>A UN-branded special tactical bodysuit, specially designed to be fitted with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances. Compared to a full exoskeleton, it provides less protection, but is also considerably lighter.\n \n
+		<text>A UN-branded high-end special tactical bodysuit, designed to be fitted with the servos and batteries of an exoskeleton. This setup allows the wearer to carry significantly more equipment. The suit is made from high-strength synthetic fibers, providing moderate protection. Compared to a full exoskeleton, it offers less protection but is considerably lighter. Used by UNISG operatives for tactical operations requiring enhanced load-bearing capacity.\n \n
 		</text>
 	</string>
+
 
 	<!-- Exoskeletons -->
 
 	<string id="exo_outfit_name">
-		<text>Exoskeleton</text>
+		<text>PSZ-10 Exoskeleton</text>
 	</string>
 	<string id="exo_outfit_description">
-		<text>An experimental sample of a military exoskeleton consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, all carried by powered limbs and servomotors. Was never mass-produced due to extraordinary cost and some design flaws though small batches are made in underground facilities outside Ukraine.\n \n
+		<text>A high-tech military exoskeleton consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, carried by powered limbs and servomotors. The suit's durable materials provide significant protection, though it was never mass-produced due to high costs, the need for an active power supply using proprietary batteries, and some flaws in its overall design. The PSZ-10 is the common base model armor without any additional customizations, a framework in the development of the military variant. Commonly used by highly experienced units requiring advanced protective gear in the most dangerous reaches of the Zone or used as the base for further modification by capable mechanics.\n \n
 		</text>
 	</string>
 
@@ -1451,7 +1452,7 @@
 		<text>PSZ-10d Exoskeleton</text>
 	</string>
 	<string id="dolg_exo_outfit_description">
-		<text>Excellent high-tech armor consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, all carried by powered limbs and servomotors. Domestically developed by one of the research institutes, specifically for the Duty faction. Is slowly being phased out in favor of cheaper, more practical suits, and the few Exosuits in active service tend to be in the hands of Duty's oldest veterans.\n \n
+		<text>A high-tech exoskeleton armor, featuring a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, all carried by powered limbs and servomotors. The model has been developed off the exoskeleton base design by Duty mechanics together with military technicians for widespread use in the field. The suit provides excellent protection and durability. Although highly effective, many Duty members opt out of heavy exoskeleton armor for more comfortable and less expensive alternatives. Commonly used by Duty's most experienced units in high-risk missions in the most dangerous reaches of the Zone.\n \n
 		</text>
 	</string>
 
@@ -1459,15 +1460,15 @@
 		<text>Paragon of Freedom</text>
 	</string>
 	<string id="svoboda_exo_outfit_description">
-		<text>An excellent bodysuit produced by Freedom’s finest artisans consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, all carried by powered limbs and servomotors. While not always the most practical suit to maintain, it is undeniably powerful, and as such is entrusted only to Freedom's finest warriors and guardsmen.\n \n
+		<text>A high-tech exoskeleton armor, consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, supported by powered limbs and servomotors. The model has been developed and extensively customized off the exoskeleton base design by mechanics of Freedom. Though not practical to maintain, it offers formidable power and protection. Although highly effective, many members of Freedom opt out of heavy exoskeleton armor for more comfortable and less expensive alternatives. Commonly used by highly experienced Freedom members in critical operations in the most dangerous reaches of the Zone.\n \n
 		</text>
 	</string>
 
 	<string id="merc_exo_outfit_name">
-		<text>Mercenary Exoskeleton</text>
+		<text>PSZ-10c Mercenary Exoskeleton</text>
 	</string>
 	<string id="merc_exo_outfit_description">
-		<text>An experimental sample of a military exoskeleton of western production consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, all carried by powered limbs and servomotors.. While not always the most practical suit to maintain in the Zone, it simultaneously allows the wearer to be both heavily armed and extremely well armored, with enough strength to carry a weeks worth of supplies. Most often worn by veteran Mercenary captains expected to lead their men through hellish conditions.\n \n
+		<text>A high-tech military exoskeleton armor of western production, featuring a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, all carried by powered limbs and servomotors. The PSZ-M is an advanced variant of the common exoskeleton base design, optimized for more comfortable and long-term use by contracted mechanics. While everyday maintenance can be challenging, the suit allows the wearer to be heavily armed and well-armored, with the strength to carry significant supplies. Commonly used by highly experienced mercenaries, leading their units in the most dangerous reaches of the Zone.\n \n
 		</text>
 	</string>
 
@@ -1475,23 +1476,23 @@
 		<text>Monolith Exoskeleton</text>
 	</string>
 	<string id="monolith_exo_outfit_description">
-		<text>High-tech armor consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, all carried by powered limbs and servomotors. Study samples have revealed that its servos are made of alloys and materials unknown to any field of science in any other part of the world. Wearing this suit feels like being buried under the concrete of the Sarcophagus itself; terrifyingly claustrophobic for most stalkers, but eerily comforting for true servants of the Monolith.\n \n
+		<text>A high-tech experimental exoskeleton armor, consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, supported by powered limbs and servomotors. In comparison to the common exoskeleton design, this variant has been heavily modified by Monolith technicians, featuring some unknown materials added to the interior of the shell, likely for added shielding. Studied samples reveal that its servos are reinforced with an unknown alloy. Due to the added bulk, the Monolith variant suit is somewhat claustrophobic, though the followers of the Monolith are reported to find its cramped feeling comforting. Commonly used by the most experienced followers of the Monolith in the northern reaches of the Zone.\n \n
 		</text>
 	</string>
 
 	<string id="bandit_exo_outfit_name">
-		<text>Stolen Exoskeleton</text>
+		<text>Scavenged Exoskeleton</text>
 	</string>
 	<string id="bandit_exo_outfit_description">
-		<text>A stolen military exoskeleton customized by outlaws to attack well-guarded facilities and to plunder well-armed stalkers. More martially inclined aspiring Bandit Lords tend to favor this armor, using it as a stark and unquestionable symbol of their strength and authority over lesser criminals.\n \n
+		<text>A high-tech military exoskeleton armor, consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, supported by powered limbs and servomotors. The variant has been heavily customized by bandit mechanics and many of the parts of the original armor design have been swapped for cheaper alternatives. This armor is favored by aspiring outlaws as a symbol of strength and authority. Commonly used by experienced bandits in raids and high-stakes confrontations or for incursions into the northern reaches of the Zone.\n \n
 		</text>
 	</string>
 
 	<string id="military_exo_outfit_name">
-		<text>Military Stalker Exoskeleton</text>
+		<text>PSZ-10m Military Exoskeleton</text>
 	</string>
 	<string id="military_exo_outfit_description">
-		<text>The official military exoskeleton. Released in limited quantities by special order to Military stalkers who payed for it themselves. Designed to carry heavy weapons, along with enough ammunition, food and meds to keep the unit supplied for long periods of time. Occasionally fielded in lieu of light vehicles.\n \n
+		<text>An official military class high-tech exoskeleton armor, released and distributed in limited quantities to stationed military units operating in the Zone. The suit includes a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, supported by powered limbs and servomotors. Designed to carry heavy weapons and supplies, it is occasionally used in place of light vehicles. The PSZ-10m has been lightly customized from the base design by military technicians to improve performance in the field. Commonly used by Military stalkers in extended operations and high-risk missions in the most dangerous parts of the Zone.\n \n
 		</text>
 	</string>
 
@@ -1499,15 +1500,15 @@
 		<text>CS-5 Exoskeleton</text>
 	</string>
 	<string id="cs_exo_outfit_description">
-		<text>An experimental version of the army exoskeleton smuggled into the Zone from Ukrainian factories before being refurbished by Clear Sky technicians. Generally, suits like these are held in reserve, to be deployed only in times of true crisis. That said, especially trusted comrades and associates of the faction may eventually receive permission to acquire such a suit for their own personal uses, although not without great cost.\n \n
+		<text>A high-tech experimental exoskeleton armor, customized and refurbished by Clear Sky technicians for widespread adoption and distribution. The suit features a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, all carried by powered limbs and servomotors. The variant is based off the official military exoskeleton design, with major modifications to electronic components and protective weaving used in the outer materials. The intent of the CS-5 iteration was to develop a more widely available active armor system that could be manufactured inside the exclusion zone. Its full potential was never achieved and the commonly traded variant still has many of the flaws of the original design. Used by highly experienced Clear Sky operatives for extended expeditions.\n \n
 		</text>
 	</string>
 
 	<string id="ecolog_exo_outfit_name">
-		<text>Scientific Exoskeleton</text>
+		<text>PSZ-10x Scientific Exoskeleton</text>
 	</string>
 	<string id="ecolog_exo_outfit_description">
-		<text>An official version of the military exoskeleton, intended for use by the Ecologists' guards. The suit feels almost impervious to small arms, and its advanced servomotors make it an excellent choice for those in entrenched defensive positions, as it greatly aids in the use of heavy defensive weaponry. When out in the field, wearers of this suit are more commonly used to carrying ludicrous amounts of batteries, LLMCs, AAMs and other supplies an accompanying scientist might need when exploring the Zone.\n \n
+		<text>An official military class high-tech exoskeleton armor, released and distributed in limited quantities to stationed military units operating in the Zone. The suit includes a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, supported by powered limbs and servomotors. Designed to carry weapons, supplies, and heavy research equipment. The PSZ-10x has been lightly customized from the base design by military technicians together with materials scientists to improve performance and environmental protection. Commonly used by experienced researchers in expeditions to the most dangerous parts of the Zone.\n \n
 		</text>
 	</string>
 
@@ -1515,25 +1516,26 @@
 		<text>Renegade Exoskeleton</text>
 	</string>
 	<string id="renegade_exo_outfit_description">
-		<text>One of a few exoskeletons assembled by the Renegades back in 2011 to help secure their final push into Clear Sky's base. Unfortunately, they were virtually wiped out before their final victory ever came, thanks to the interference of a Mercenary with a trench coat and a marksman rifle. Modern Renegades who wear this armor always go into battle like a man possessed, eager to mete vengeance upon their most hated foes.\n \n
+		<text>A high-tech exoskeleton armor, consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, supported by powered limbs and servomotors. The variant has been mostly scavenged from spare parts from different exoskeleton armors and appears to have some additional makeshift modifications by Renegade technicians. Commonly worn by experienced Renegade members in defense missions, coordinated raids, and high-stakes confrontations.\n \n
 		</text>
 	</string>
 
 	<string id="isg_exo_outfit_name">
-		<text>UNISG Exoskeleton</text>
+		<text>PSZ-10z UNISG Exoskeleton</text>
 	</string>
 	<string id="isg_exo_outfit_description">
-		<text>The official version of the UNISG exoskeleton released in limited quantities by special order of the United Nations. While it still possesses many of the design flaws of other exoskeletons, it's nonetheless seen as a great alternative to light command and scout vehicles.\n \n
+		<text>An official military class high-tech exoskeleton armor, released and distributed in limited quantities to ISG units operating in the Zone. The suit includes a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, supported by powered limbs and servomotors. Designed to carry heavy weapons and supplies, it is occasionally used in place of light vehicles. The PSZ-10z is a rare model that has been customized off the original base design in UN-funded defense facilities, optimized for extended use and increased comfort. Commonly used by UNISG operatives in reconnaissance and tactical missions.\n \n
 		</text>
 	</string>
-	
+
 	<string id="greh_exo_outfit_name">
-		<text>Vyraj Power Armor</text>
+		<text>Vyraj Exoskeleton</text>
 	</string>
 	<string id="greh_exo_outfit_description">
-		<text>High-tech armor consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, all carried by powered limbs and servomotors. Study samples have revealed that its servos are made of alloys and materials unknown to any field of science in any other part of the world. Wearing this suit creates an unnatural feeling of bliss and calm within the wearer, although whether this sense of security is genuine or not remains to be understood.\n \n
+		<text>A custom high-tech experimental exoskeleton armor, consisting of a steel-reinforced Kevlar jumpsuit and a tactical vest with Class IV inserts, supported by powered limbs and servomotors. The variant has modified and refurbished and appears to feature a number of additional makeshift modifications and by technicians of Sin, including some identifying markings on the outer shell. Study samples reveal its servos are made from unknown alloys and materials. Wearing this suit induces an unnatural feeling of bliss and calm. Commonly worn by experienced members of Sin.\n \n
 		</text>
 	</string>
+
 
 	<!-- Nosorog exskeletal armor -->
 
@@ -1541,20 +1543,20 @@
 		<text>PSZ-10d Nosorog</text>
 	</string>
 	<string id="merc_nosorog_outfit_name">
-		<text>Mercenary Nosorog</text>
+		<text>PSZ-10c Mercenary Nosorog</text>
 	</string>
 	<string id="army_nosorog_outfit_name">
-		<text>Military Stalker Nosorog</text>
+		<text>PSZ-10m Military Nosorog</text>
 	</string>
 	<string id="monolith_nosorog_outfit_name">
 		<text>Monolith Nosorog</text>
 	</string>
 	<string id="isg_nosorog_outfit_name">
-		<text>UNISG Nosorog</text>
+		<text>PSZ-10z UNISG Nosorog</text>
 	</string>
 	
 	<string id="nosorog_outfit_description">
-		<text>A next generation exoskeleton, consisting of a doubly reinforced Exosuit. Rumored to have been the brainchild of a now-deceased stalker named "Fang", whose designs were later claimed by all sorts of powerful factions across the Zone. If regular exoskeletons allow stalkers to feel like a light vehicle, the Nosorog almost makes them believe they're a main battle tank, able to withstand incredible punishment while carrying tremendous ordnance.\n \n
+		<text>A high-tech, next-generation exoskeleton armor, featuring a double-reinforced Kevlar exosuit, a tactical vest with Class IV inserts, and an additional layering of ballistic-weave, supported by powered limbs and servomotors. The Nosorog series was developed on the exoskeleton base design with the goal of improving protective capabilities and solving some of its inherent flaws. The exact origins of Nosorog armors are unknown. They are rumored to have been the brainchild of a now-deceased stalker named "Fang", whose designs were later claimed by all sorts of powerful factions across the Zone. If regular exoskeletons allow stalkers to feel like a light vehicle, the Nosorog almost makes them believe they're a main battle tank, able to withstand incredible punishment while carrying tremendous ordnance. Rarely seen in use around the Zone.\n \n
 		</text>
 	</string>
 	
@@ -1562,7 +1564,7 @@
 		<text>Champion of Freedom</text>
 	</string>
 	<string id="freedom_nosorog_outfit_desc">
-		<text>A next generation exoskeleton, consisting of a doubly reinforced Exosuit. Rumored to have been the brainchild of a now-deceased stalker named "Fang", whose designs were later claimed by all sorts of powerful factions across the Zone. If regular exoskeletons allow stalkers to feel like a light vehicle, the Nosorog almost makes them believe they're a main battle tank, able to withstand incredible punishment while carrying tremendous ordnance.\n \n
+		<text>A high-tech, next-generation exoskeleton armor, featuring a double-reinforced Kevlar exosuit, a tactical vest with Class IV inserts, and an additional layering of ballistic-weave, supported by powered limbs and servomotors. The Nosorog series was developed on the exoskeleton base design with the goal of improving protective capabilities and solving some of its inherent flaws. This model has been lightly modified by Freedom technicians. The exact origins of Nosorog armors are unknown. They are rumored to have been the brainchild of a now-deceased stalker named "Fang", whose designs were later claimed by all sorts of powerful factions across the Zone. If regular exoskeletons allow stalkers to feel like a light vehicle, the Nosorog almost makes them believe they're a main battle tank, able to withstand incredible punishment while carrying tremendous ordnance. Rarely seen in use around the Zone.\n \n
 		</text>
 	</string>
 
@@ -1573,7 +1575,7 @@
 		<text>Ghillie Suit</text>
 	</string>
 	<string id="ghillie_outfit_description">
-		<text>This suit is designed to simulate a ‘heap of foliage.’ Usually this type of suit is worn by snipers and hunters to blend in with the environment and hide themselves from enemies. Ghillie suits are commercially produced, but usually both military personnel and civilians customize and improve them to suit their needs.\n \n
+		<text>A camouflaged outfit designed to blend the wearer into natural surroundings, primarily for stealth operations. The suit is made from a durable, lightweight synthetic fabric covered with jute or burlap strips and colored to match various environments like forests, grasslands, or deserts. The materials provide excellent concealment but offer minimal ballistic protection. The design allows for significant mobility while reducing the wearer's visibility to enemies. Commonly used by snipers, scouts, and reconnaissance units operating in the Zone.\n \n
 		</text>
 	</string>
 
