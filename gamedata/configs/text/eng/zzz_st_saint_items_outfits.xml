@@ -1149,55 +1149,57 @@
 	</string>
 
 
+
 	<!-- SSP-99 -->
 
 	<string id="st_ecologist_outfit_orange_name">
 		<text>SSP-99 Bodysuit</text>
 	</string>
 	<string id="st_ecologist_outfit_orange_description">
-		<text>The SSP-99 is a current-generation CBRN suit specially designed for the Zone's conditions and is used by scientific expeditions for extended forays into anomalous fields. When combined with the SSP-99 screen helmet, it includes an integrated air-filtering and air-conditioning system. Its design is specifically tailored for maximum durability in thermal, chemical, and electrical fields.\n \n
-		</text>
+		<text>A high-end, current-generation CBRN (Chemical, Biological, Radiological, Nuclear) suit, specifically designed for deployment in the exclusion zone. The SSP-99 is crafted from a multi-layered synthetic fabric that offers excellent resistance to chemical and thermal hazards. When combined with the SSP-99 screen helmet, it features an integrated air-filtering and air-conditioning system. Its closed-cycle respiratory module ensures protection against airborne contaminants. This suit is essential for scientific expeditions into anomalous fields.\n \n
+	</text>
 	</string>
 
 	<string id="st_ecologist_outfit_grn_name">
 		<text>SSP-99M Bodysuit</text>
 	</string>
 	<string id="st_ecologist_outfit_grn_description">
-		<text>High quality modified SSP-99 suit. A Kevlar underlayer has been added to reduce the risk of suit puncture from hostile mutants. Provides improved protection from biological anomalies compared to the SSP-99.\n \n
-		</text>
+		<text>A modified version of the high-end CBRN (Chemical, Biological, Radiological, Nuclear) SSP-99 suit with enhanced protective capabilities. The SSP-99M includes a Kevlar underlayer to reduce the risk of puncture of the outer shell. The outer layer is made from a durable synthetic fabric that provides improved resistance to biological anomalies. The integrated air-filtering and air-conditioning system ensures breathable air in contaminated environments. This variant is favored by researchers requiring extra protection from biological threats.\n \n
+	</text>
 	</string>
 
 	<string id="st_ecologist_outfit_white_name">
-		<text>SSP-99 "Diamond"</text>
+		<text>SSP-99 "Diamond" Bodysuit</text>
 	</string>
 	<string id="st_ecologist_outfit_white_description">
-		<text>The SSP-99 is a current-generation CBRN suit specially designed for the Zone's conditions and is used by scientific expeditions for extended forays into anomalous fields. When combined with the SSP-99 screen helmet, it includes an integrated air-filtering and air-conditioning system. Its design is specifically tailored for maximum durability in thermal and chemical fields. The "Diamond" variant also gives superior protection from electricity.\n \n
-		</text>
+		<text>A top-tier version of the high-end CBRN (Chemical, Biological, Radiological, Nuclear) SSP-99 suit, designed for maximum environmental protection. The "Diamond" variant features a reinforced synthetic fabric with superior resistance to electrical hazards. It includes an integrated air-filtering and air-conditioning system when paired with the SSP-99 screen helmet. The closed-cycle respiratory module and enhanced durability in thermal and chemical fields make this suit a widespread choice for extensive research missions in high-risk areas.\n \n
+	</text>
 	</string>
 
 	<string id="st_ecologist_outfit_blue_name">
-		<text>SSP-99M "Sapphire"</text>
+		<text>SSP-99M "Sapphire" Bodysuit</text>
 	</string>
 	<string id="st_ecologist_outfit_blue_description">
-		<text>High quality modified SSP-99 suit. A Kevlar underlayer has been added to the suit to reduce the risk of suit puncture from hostile mutants. The "Sapphire" model provides excellent protection against short-range psi-emissions.\n \n
-		</text>
+		<text>A specialized version of the high-end CBRN (Chemical, Biological, Radiological, Nuclear) SSP-99M suit, optimized for effective shielding against psy fields. The "Sapphire" variant includes a Kevlar underlayer to prevent punctures of the outer shell. Its outer layer is composed of high-strength synthetic fabric that shields against short-range psi-emissions. The suit also features an integrated air-filtering and air-conditioning system for safe breathing in contaminated zones. The Sapphire variant protective suit is commonly used by experienced research personnel in areas known for their high psy fields and high-threat environmental hazards.\n \n
+	</text>
 	</string>
 
 	<string id="st_ecologist_outfit_red_name">
-		<text>SSP-99М "Ruby"</text>
+		<text>SSP-99M "Ruby" Bodysuit</text>
 	</string>
 	<string id="st_ecologist_outfit_red_description">
-		<text>High quality modified SSP-99 suit. A Kevlar underlayer has been added to the suit to reduce the risk of suit puncture from hostile mutants. The "Ruby" model provides improved protection against melee attacks, and includes an integrated wound healing system.\n \n
-		</text>
+		<text>A modified version of the SSP-99M suit designed for enhanced melee protection. The "Ruby" includes a Kevlar underlayer to reduce the risk of puncture from hostile mutants. Its reinforced synthetic fabric provides additional defense against melee attacks. An integrated wound healing system offers immediate medical support in the field. This suit is preferred by researchers facing physical threats in the exclusion zone.\n \n
+	</text>
 	</string>
 
 	<string id="st_ecologist_outfit_yello_name">
-		<text>SSP-99 Topaz</text>
+		<text>SSP-99 "Topaz" Bodysuit</text>
 	</string>
 	<string id="st_ecologist_outfit_yello_description">
-		<text>The SSP-99 is a current-generation CBRN suit specially designed for the Zone's conditions and is used by scientific expeditions for extended forays into anomalous fields. When combined with the SSP-99 screen helmet, it includes an integrated air-filtering and air-conditioning system. The "Topaz" variant provides increased protection from radiation.\n \n
-		</text>
+		<text>A version of the high-end CBRN (Chemical, Biological, Radiological, Nuclear) SSP-99 suit, optimized for increased radiation protection. The "Topaz" variant features a synthetic fabric blend that provides superior resistance to radiological hazards. When combined with the SSP-99 screen helmet, it includes an integrated air-filtering and air-conditioning system. The suit's closed-cycle respiratory module ensures safety in highly irradiated environments. The model is commonly used by researchers exploring the most highly irradiated areas of the Zone and require effective protection against a variety of environmental hazards.\n \n
+	</text>
 	</string>
+
 
 	<!-- Heavy combat suits -->
 
@@ -1277,12 +1279,12 @@
 		<text>Woodland Exosuit</text>
 	</string>
 	<string id="exo_wood_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This model includes an early-generation CBRN jumpsuit lined with Kevlar.\n \n
+		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This model includes an early-generation CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit lined with Kevlar.\n \n
 		</text>
 	</string>
 	
 	<string id="bandit_exo_earth_outfit_name">
-		<text>Fenced Exosuit</text>
+		<text>Scavenged Exosuit</text>
 	</string>
 	<string id="bandit_exo_earth_outfit_description">
 		<text>.\n \n
@@ -1293,7 +1295,7 @@
 		<text>Hero of Freedom</text>
 	</string>
 	<string id="freedom_exo_vineleaf_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This variant includes an old CBRN jumpsuit lined with Kevlar and an additional attachment slot.\n \n
+		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This variant includes an old CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit lined with Kevlar and an additional attachment slot.\n \n
 		</text>
 	</string>
 	
@@ -1317,7 +1319,7 @@
 		<text>PSZ-10l Forest Battlesuit</text>
 	</string>
 	<string id="exo_dolg_wood_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This variant includes an older CBRN jumpsuit with Kevlar weave and additional steel reinforcement. Typically found with elite Duty members, particularly those conducting short operations in the northern reaches of the Zone.\n \n
+		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This variant includes an older CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with Kevlar weave and additional steel reinforcement. Typically found with elite Duty members, particularly those conducting short operations in the northern reaches of the Zone.\n \n
 		</text>
 	</string>
 	
@@ -1349,7 +1351,7 @@
 		<text>Mercenary Woodland Exosuit</text>
 	</string>
 	<string id="exo_merc_wood_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This variant includes an old CBRN that has unfortunately not been modified for the Zone.\n \n
+		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This variant includes an old CBRN (Chemical, Biological, Radiological, Nuclear) that has unfortunately not been modified for the Zone.\n \n
 		</text>
 	</string>
 	
