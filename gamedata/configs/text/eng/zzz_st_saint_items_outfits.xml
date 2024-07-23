@@ -212,7 +212,7 @@
 		<text>PPM-88 Gas Mask</text>
 	</string>
 	<string id="helm_ppm88_descr">
-		<text>A Russian gas mask well suited for CBRN ecological hazards. Made from durable rubber and equipped with advanced filtration. In the Zone, it can be considered a functional and spiritual successor to the GP-5, offering enhanced protection and comfort for extended use.
+		<text>A Russian gas mask well suited for CBRN (Chemical, Biological, Radiological, Nuclear) ecological hazards. Made from durable rubber and equipped with advanced filtration. In the Zone, it can be considered a functional and spiritual successor to the GP-5, offering enhanced protection and comfort for extended use.
 		</text>
 	</string>
 
@@ -388,7 +388,7 @@
 		<text>Hybrid Armored Suit</text>
 	</string>
 	<string id="hybrid_outfit_description">
-		<text>A suit created by one of Kiev's defense research institutes for the purpose of guarding researchers in the Zone. Constructed with budget constraints, it features a blend of Kevlar and ceramic plate inserts for ballistic protection. The outer layer is a heavy-duty, water-resistant fabric. Despite not being officially commissioned, a few of these suits found their way into the Zone, providing decent protection for those who acquired them.
+		<text>A suit created by the Kiev Defense Research Institute for the purpose of guarding researchers in the Zone. Constructed with budget constraints, it features a blend of Kevlar and ceramic plate inserts for ballistic protection. The outer layer is a heavy-duty, water-resistant fabric. Despite not being officially commissioned, a few of these suits found their way into the Zone, providing decent protection for those who acquired them.
 		</text>
 	</string>
 
@@ -1014,7 +1014,7 @@
 		<text>SEVA Bodysuit</text>
 	</string>
 	<string id="scientific_outfit_description">
-		<text>Designed and produced by one of Kiev's defence research institutes and represents an excellent alternative to hand-made stalker suits. It combines a CBRN jumpsuit with a specially-treated class II Kevlar vest. Due to the quality of materials used, this bodysuit sports good durability within ambient anomalous fields.\n \n
+		<text>An intermediate level protective suit designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest. The SEVA is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. The suit is a superior alternative to almost all Zone-made protective suits and offers balanced ballistic, strike, and anomalous protection with moderate weight. Commonly used by experienced research personnel and artifact hunters venturing into hostile territory.
 		</text>
 	</string>
 
@@ -1022,7 +1022,7 @@
 		<text>Watchman of Freedom</text>
 	</string>
 	<string id="svoboda_scientific_outfit_description">
-		<text>A suit of "Sentinel" body armor specially produced by Freedom mechanics for observing anomalous phenomena in the Zone. The specially treated materials provide good protection and suit durability during prolonged exploration of anomalous fields.\n \n
+		<text>A suit of "Sentinel" body armor produced by Freedom mechanics, built with a robust blend of Kevlar and synthetic fibers. Specially treated materials provide good protection and durability during prolonged exploration of anomalous fields. Designed for observing anomalous phenomena in the Zone, it is a reliable choice for Freedom faction's field researchers.
 		</text>
 	</string>
 
@@ -1030,7 +1030,7 @@
 		<text>Monolith Scientific Suit</text>
 	</string>
 	<string id="monolith_scientific_outfit_description">
-		<text>The Monolith scientific suit includes a flak vest of unknown origin and features unique modifications for greater resistances to radiation at the cost of being more vulnerable to psy-fields. Curiously, according to some legends, these suits are most often worn by the soldiers who defend the Brain Scorcher in Radar, although no one outside the Monolith faction can easily confirm.\n \n
+		<text>A Monolith scientific suit that includes a flak vest of unknown origin. It features unique modifications for enhanced radiation resistance at the cost of greater vulnerability to psy-fields. According to reports, similar models are worn by Monolith forces defending the Brain Scorcher in Radar and its southern barrier, deployment can sometimes also be observed in and around Red Forest.
 		</text>
 	</string>
 
@@ -1038,7 +1038,7 @@
 		<text>CS-4a SEVA Suit</text>
 	</string>
 	<string id="cs_scientific_outfit_description">
-		<text>An unofficial version of the SEVA scientific suit, fresh off the smuggling route. Typically used by groups of the Clear Sky faction.\n \n
+		<text>An unofficial variant of the SEVA intermediate level protective suit, a series designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest. The SEVA is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. The CS-4a variant has some internal changes made by Clear Sky faction mechanics to better fit it to the needs of researchers and guard personnel. Like other SEVA variants, it has balanced protection with moderate weight.
 		</text>
 	</string>
 
@@ -1046,15 +1046,15 @@
 		<text>CS-4a Pathfinder</text>
 	</string>
 	<string id="cs_scientific_outfit_good_description">
-		<text>An unofficial version of the SEVA scientific suit that has been extensively improved by Novikov, Clear Sky's resident technician. Extremely comfortable to move around in, making it a high-demand suit among some factions.\n \n
+		<text>An unofficial variant of the SEVA intermediate level protective suit, a series designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest and some additional changes made to the inside linings for added comfort and weight distribution. The SEVA series is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. The Pathfinder model is credited to Clear Sky resident technician Novikov. Compared to many SEVA models, the CS-4a Pathfinder is extremely comfortable to move around in, making it a high-demand suit among Clear Sky and other factions.
 		</text>
 	</string>
 
 	<string id="bandit_scientific_outfit_name">
-		<text>Looted SEVA Suit</text>
+		<text>Scavenged SEVA Suit</text>
 	</string>
 	<string id="bandit_scientific_outfit_description">
-		<text>Bandits have never been terribly interested in the science and research of anomalous fields, but nevertheless, need protective suits such as these to organize ambushes and attacks on stalkers within anomalous fields and radiation pockets.\n \n
+		<text>An unofficial variant of the SEVA intermediate level protective suit, a series designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest with some custom modifications, as well as replaced internal parts and patched outside materials. This model has been repurposed by bandits, making it one of the higher quality mixed protective outfits commonly used by experienced members. Bandits use these suits to organize ambushes and attacks on stalkers within anomalous fields and radiation pockets, despite their general disinterest in scientific research.
 		</text>
 	</string>
 
@@ -1062,79 +1062,81 @@
 		<text>UNISG SEVA Suit</text>
 	</string>
 	<string id="isg_scientific_outfit_description">
-		<text>Originally commissioned by the first iteration of UNISG from one of Kiev's defence research institutes for research in the Zone. The special treatment materials provide enhanced protection and durability against radiation and anomalous effects.\n \n
+		<text>A special design SEVA intermediate level protective suit, a subvariant commissioned by the first iteration of UNISG from the Kiev Defense Research Institute with assistance from experienced mechanics stationed in the Zone. Like other variants, it combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest with some custom modifications. It is designed with a closed-cycle respiratory module uses experimental coatings and weaves that aim to provide enhanced protection and durability against radiation and anomalous effects. Some of the changes are hard to determine and the mechanical work on the suit is undocumented.
 		</text>
 	</string>
+
+	<!-- REVISION MARKER -->
 
 	<string id="merc_scientific_outfit_name">
 		<text>Mercenary SEVA Suit</text>
 	</string>
 	<string id="merc_scientific_outfit_description">
-		<text>A variant of the SEVA bodysuit that was commissioned by Mercenaries. Used by veteran Mercs on artefact-hunting contracts. Good protection for a SEVA suit but missing some of the newer psy-protection upgrades available in the newer SEVA models.\n \n
+		<text>A SEVA intermediate level protective suit designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest. The SEVA is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. This particular model was commissioned by mercenaries and customized by local mechanics. The variant features durable synthetic fibers and Kevlar weave. Commonly used by experienced operatives on artifact-hunting contracts. Provides good protection but lacks some more recent psy-protection properties available for modern variants.
 		</text>
 	</string>
-	
+
 	<string id="merc_combat_scientific_outfit_name">
 		<text>Mercenary Pathfinder</text>
 	</string>
 	<string id="merc_combat_scientific_outfit_description">
-		<text>As a token of goodwill and to help cover their research costs, Clear Sky occasionally makes coveted "Pathfinder" suits on commission for use among the Zone's Mercenaries. Compared to the stock SEVA suit, this model is superior across the board. Comes with a built-in Class IIIA ballistic vest.\n \n
+		<text>A SEVA intermediate level protective suit designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class IIIA ballistic vest, a notable upgrade to base models. The SEVA is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. This particular variant was commissioned by mercenaries, features higher quality materials and a higher ballistic protection class. The Pathfinder variant was initially produced as a token of goodwill by Clear Sky to help cover rising research costs.
 		</text>
 	</string>
-	
+
 	<string id="dolg_scientific_outfit_name">
 		<text>PS5-9Md Universal Scientific Suit</text>
 	</string>
 	<string id="dolg_scientific_outfit_description">
-		<text>The Duty faction version of the standard SEVA suit. Like the standard suit variant, it consists of a durable anomaly-resistant CBRN jumpsuit and a specially-treated Class II Kevlar vest. A solid suit for extended dives into anomaly fields.\n \n
+		<text>A SEVA intermediate level protective suit designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest. The SEVA is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. This is a customized Duty variant of the standard SEVA design, adding a durable synthetic weave to augment its overall resistance to anomalous effects (primarily corrosive and thermal). Commonly used by Duty units on exploratory or scientific missions to the northern parts of the Zone.
 		</text>
 	</string>
-	
+
 	<string id="dolg_scientific_red_outfit_name">
 		<text>PS5-9Md Light Scientific Suit</text>
 	</string>
 	<string id="dolg_scientific_red_outfit_description">
-		<text>A lighter variant of the Duty scientific suit that has shed almost half its weight at the cost of slightly decreased protection. The ballistic armor has been replaced by a class IIA vest with numerous pockets.\n \n
+		<text>A lightweight SEVA intermediate level protective suit designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class IIIA Kevlar vest, a notable upgrade to the base design. The SEVA is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. The model is a variant of the PS5-9Md Duty base design made with lighter materials and features a higher ballistic protection class, as well as improved weight distribution. Its modifications come with slightly reduced protection against anomalous effects. Commonly used by Duty field researchers and units on exploratory missions.
 		</text>
 	</string>
-	
+
 	<string id="dolg_scientific_wood_outfit_name">
 		<text>PS5-9Md Light Pathfinder</text>
 	</string>
 	<string id="dolg_scientific_wood_outfit_description">
-		<text>As a token of goodwill and to help cover their research costs, Clear Sky occasionally makes coveted "Pathfinder" suits on commission for use among the Duty faction. Altered according to Duty's needs, its weight has been reduced by almost half at the expense of protection. Despite this, it's an excellent and comfortable outfit for Duty's more curious members.\n \n
+		<text>A lightweight SEVA intermediate level protective suit designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest. The SEVA is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. This variant has been commissioned by Duty officials for their needs and modified and produced by Clear Sky. It is made from lighter synthetic materials at the expense of some of its protective capabilities. A common choice for Duty field operatives.
 		</text>
 	</string>
-	
+
 	<string id="bandit_scientific_dark_outfit_name">
-		<text>Patchwork Anomaly Suit</text>
+		<text>Patchwork SEVA Suit</text>
 	</string>
 	<string id="bandit_scientific_dark_outfit_description">
-		<text>A SEVA-like suit made from scratch by one of the Bandits' gifted mechanics. Compared to the looted SEVAs that are brought in and restored, this patchwork outfit boasts average protection against anomalies while retaining a surprisingly low weight. Additionally, it's rather stylish and comfy, allowing it to become a hit among the criminals who can afford it.\n \n
+		<text>A scavenged SEVA intermediate level protective suit, originally designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest. The SEVA is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. This variant has been heavily modified and repaired multiple times by Bandit mechanics with mixed materials. The base is made from high-strength materials but repeated changes made to its components reduce its overall protective capabilities. Compared to the base design, it has a lower weight profile. Commonly used by more experienced Bandits and stalkers working on a lower budget.
 		</text>
 	</string>
-	
+
 	<string id="renegade_scientific_outfit_name">
 		<text>Renegade SEVA Suit</text>
 	</string>
 	<string id="renegade_scientific_outfit_description">
-		<text>This comfortable bodysuit, originally intended for research in the Zone, makes for a great alternative to the various other light combat or hand-made suits readily available within the Zone. Compared to a standard SEVA suit, it provides improved protection against thermal hazards and blunt trauma. However, its other protective qualities are inferior to the original SEVA.\n \n
+		<text>A SEVA intermediate level protective suit designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest. The SEVA is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. This variant has been extensively modified for improved protection against thermal hazards and blunt trauma compared to the standard SEVA design. Commonly used by Renegade members in the northern parts of the Zone. A solid alternative to various other light combat or hand-made suits available.
 		</text>
 	</string>
-	
+
 	<string id="merc_scientific_armored_outfit_name">
-		<text>Mercenary SEVA Body Armor</text>
+		<text>Mercenary SEVA Suit</text>
 	</string>
 	<string id="merc_scientific_armored_outfit_description">
-		<text>A variant of the SEVA bodysuit that was commissioned by Mercenaries. Used by veteran mercenaries who are expected to guide researchers and artefact hunters in the more dangerous parts of the Zone.\n \n
+		<text>An intermediate level protective suit designed and produced by the Kiev Defense Research Institute. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest. The SEVA is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. This variant was commissioned by mercenaries and modified to use high-strength synthetic fibers and extra Kevlar weave for added ballistic protection. Commonly used by experienced mercenaries who are contracted to guide high profile research personnel and artifact hunters looking to travel into the more dangerous parts of the Zone.
 		</text>
 	</string>
 
 	<string id="monolith_scientific_light_outfit_name">
-		<text>Monolith Patchwork Science Suit</text>
+		<text>Monolith Patchwork Scientific Suit</text>
 	</string>
 	<string id="monolith_scientific_light_outfit_description">
-		<text>A SEVA-like suit made from scratch by an unknown craftsman. It is unknown what role this suit fills within the Monolith faction as a whole, although it's been speculated that it's purpose is largely ceremonial.\n \n
+		<text>A SEVA-like intermediate level protective suit built from scratch by unknown mechanics within the Monolith faction. It combines a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with a specially-treated Class II Kevlar vest. The SEVA is designed with a closed-cycle respiratory module and an external isolation coating against environmental hazards. Compared to commonly traded models, this Monolith variant features high-strength materials and some added ballistic and strike protection at the expensive of the wearer's comfort, alongside average protection against anomalies. Its exact role within the faction is unknown.
 		</text>
 	</string>
 
@@ -1142,9 +1144,10 @@
 		<text>Mercenary ACE Scientific Suit</text>
 	</string>
 	<string id="ace_outfit_description">
-		<text>One of the most technologically advanced bodysuits in the Zone. The ACE armor system incorporates a next-generation CBRN and a pocketed Kevlar vest with Class III plate inserts. Using state of the art materials such as selectively-permeable coatings, this suit manages both maximal anomaly protection and wearer comfort. Used by only the most wealthy Mercenaries.\n \n
+		<text>An intermediate to high-end level protective suit, one of the most technologically advanced bodysuits in the Zone. The ACE armor system incorporates a next-generation CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit and a pocketed Kevlar vest with Class III plate inserts. Like its less advanced SEVA counter-part, the ACE is designed with a closed-cycle respiratory module. It uses state-of-the-art materials such as selectively-permeable coatings and external treatment for enhanced protection against environmental hazards. The ACE is optimized for maximum anomaly protection for its weight class while also providing high wearer comfort. Only rarely found due to its high cost, used by experienced mercenaries, high-profile researchers, and operatives working on a blank check.
 		</text>
 	</string>
+
 
 	<!-- SSP-99 -->
 
