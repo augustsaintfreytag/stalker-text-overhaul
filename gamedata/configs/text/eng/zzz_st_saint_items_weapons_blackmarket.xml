@@ -28,14 +28,14 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]The 92F is perhaps best known as the standard pistol of the US Military, replacing the legendary M1911. It is a short-recoil operated, locked-breech weapon with an aluminium frame and a hard chromed barrel bore. A popular sidearm adopted by several countries, it is especially popular among criminals for its high-powered rounds and high-capacity magazine.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] DOCTER Sight III, Deltapoint PRO , Trijicon RMR.\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor (after modification)</text>
 	</string>
 	
 	<string id="st_wpn_beretta_m9_descr">	<!-- wpn_beretta_modern in debug mode -->
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]Chambered in 9x19mm Parabellum. This is the US Marine Corps version of the Italian Beretta 92FS, made by demands from said faction. Since it is famous around Mercenaries, Freedom and some strange mentioned recent faction, it's safe to say that the way this "semi-prototype" got in The Zone is through Western armies' deserters and ex-PMCs.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor</text>
 	</string>
 	
@@ -86,7 +86,7 @@
 	<string id="st_wpn_colt1911_merc_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]The M1911 was the standard-issue side arm for the US military from 1911 to 1985. An extremely reliable and robust weapon, it's been adopted for military, police and civilian use around the world and remains a very popular firearm to this day. This model is considerably more reliable and accurate.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] .45 ACP compatible suppressor (after modification)</text>
 	</string>
 	
@@ -393,19 +393,19 @@
 	<string id="st_wpn_protecta_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]The uniquely designed Armsel Protecta is a rotating cylinder fed 12-gauge shotgun developed for riot control and combat. The weapon benefits from a large magazine and a high effective rate of fire, but its bulkiness and considerable weight, combined with a long reload time, are the price to be paid for these advantages. Used in the Zone and used primarily to clear confined spaces of mutants.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.</text>
+		%c[d_purple] • %c[ui_gray_2] Tritium sights</text>
 	</string>
 	
 	<string id="st_wpn_protecta_camo_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]The uniquely designed Armsel Protecta is a rotating cylinder fed 12-gauge shotgun developed for riot control and combat. The weapon benefits from a large magazine and a high effective rate of fire, but its bulkiness and considerable weight, combined with a long reload time, are the price to be paid for these advantages. Used in the Zone and used primarily to clear confined spaces of mutants.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.</text>
+		%c[d_purple] • %c[ui_gray_2] Tritium sights</text>
 	</string>
 	
 	<string id="st_wpn_protecta_custom_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]The uniquely designed Armsel Protecta is a rotating cylinder fed 12-gauge shotgun developed for riot control and combat. The weapon benefits from a large magazine and a high effective rate of fire, but its bulkiness and considerable weight, combined with a long reload time, are the price to be paid for these advantages. Used in the Zone and used primarily to clear confined spaces of mutants.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.</text>
+		%c[d_purple] • %c[ui_gray_2] Tritium sights</text>
 	</string>
 	
 	<string id="st_wpn_remington700_descr">
@@ -474,14 +474,14 @@
 	<string id="st_wpn_walther_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]Ergonomics being a key focus in its design, the Walther P99 is a recoil-operated pistol with a fibreglass polymer frame. Developed for law enforcement and the civilian shooting market, it's employed by police units in a number of countries.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor (after modification)</text>
 	</string>
 	
 	<string id="st_wpn_walther_custom_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]Ergonomics being a key focus in its design, the Walther P99 is a recoil-operated pistol with a fibreglass polymer frame. Developed for law enforcement and the civilian shooting market, it's employed by police units in a number of countries.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor (after modification)</text>
 	</string>
 	
@@ -599,9 +599,9 @@
 	</string>
 	
 	<string id="st_wpn_beretta_px4_descr">
-		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]Chambered in 9x19mm Parabellum. The Px4 Storm is an advancement of the Beretta 8000, meant to be as a replacer of the 92FS for personal defense and law enforcement use. Its rotating barrel allows for better recoil control and continuous shots, the lightframe also helps with the weight. This particular model seems to come with tritium sights as well. From the looks of it, these weapons were "illegally" exported from Armenia and Romania, by mercenaries that used to be part of the police force from said countries.\n \n
+		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]Chambered in 9x19mm Parabellum. The Px4 Storm is an advancement of the Beretta 8000, meant to be as a replacer of the 92FS for personal defense and law enforcement use. Its rotating barrel allows for better recoil control and continuous shots, the lightframe also helps with the weight. This particular model seems to come with Tritium sightsas well. From the looks of it, these weapons were "illegally" exported from Armenia and Romania, by mercenaries that used to be part of the police force from said countries.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor</text>
 	</string>
 	
@@ -845,7 +845,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]The Heckler & Koch MP7 (Maschinenpistole 7) is a German personal defence weapon (PDW) designed and manufactured by Heckler & Koch (H&K) and chambered for the HK 4.6x30mm cartridge. It was designed with the new cartridge to meet NATO requirements published in 1989, as these requirements call for a personal defense weapon (PDW) class firearm, with a greater ability to penetrate body armor than current weapons limited to conventional pistol cartridges. The MP7 went into production in 2001.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] Tactical aiming laser module.\n
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor (after modification)</text>
 	</string>
@@ -866,7 +866,7 @@
 	<string id="st_wpn_m45a1_descr"> <!-- wpn_colt1911_merc in debug mode -->
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]A modern variant of the M1911 and an improvement of the M45, this is the standard-issue side arm for the Force Recon Element of the United States Marine Corps' Marine Expeditionary Units since 1985. Compared to the M45, the improvements the M45A1 has is the dual recoil spring system that spreads out the recoil force of the .45 ACP round by lowering the peak force of the recoil pulse, the 3-dot red tritium night sights, a 5-inch national match barrel, ambidextrous safety, picatinny rail for the frame and a desert tan Cerakote finish. You wonder how the desert tan Ceratoke finish even fits in The Zone, but it might be a Mercenary's pride.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] .45 ACP compatible suppressor</text>
 	</string>
 	
@@ -941,15 +941,15 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]The SIG-Sauer P220 is often considered the best out of the box .45 caliber double action pistol.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] This weapon was upgraded using a tactical kit\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights & Tactical laser aiming module\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights& Tactical laser aiming module\n
 		%c[d_purple] • %c[ui_gray_2] AAC Black Box compatible suppressor</text>
 	</string>
 	
 	<string id="st_wpn_sig220_n_u2p2g0r_descr">
-		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]The SIG-Sauer P220 is often considered the best out of the box .45 caliber double action pistol.This pistol has been fitted with a Threaded barrel for use with a Black Box suppressor, Tritium sights and Viridian X5L laser sight and high capacity 19 round magazine.\n \n
+		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]The SIG-Sauer P220 is often considered the best out of the box .45 caliber double action pistol.This pistol has been fitted with a Threaded barrel for use with a Black Box suppressor, Tritium sightsand Viridian X5L laser sight and high capacity 19 round magazine.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] This weapon was upgraded using a tactical kit\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights & Tactical laser aiming module\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights& Tactical laser aiming module\n
 		%c[d_purple] • %c[ui_gray_2] AAC Black Box compatible suppressor</text>
 	</string>
 	
@@ -1041,7 +1041,7 @@
 	<string id="st_wpn_svi_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]Strayer-Voigt Inc. is a manufacturer of M1911-styled modular pistols, this especially includes the Strayer-Voigt Infinity itself, SVI for short. It is a pistol marketed for competition, so it is rather expensive and rare as it's not available for any army or average arms-bearing citizen. How did this even get in The Zone? No doubt from those flamboyant American mercenaries. The pistol itself has the massive benefit of having its own trademark Strayer-Voigt magazine, which holds 15 rounds. It has also been modified in-house to shoot in 3-burst at a fast rate. Oh and, if none of that makes you happy, the tritium optic fiber will, since it's blue. However, don't expect the same good ol' reliability as the classic 1911.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] .45 ACP compatible suppressor</text>
 	</string>
 	
@@ -1092,7 +1092,7 @@
 	</string>
 	
 	<string id="st_wpn_usp_tactical_descr">
-		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]Considered to be an improvement of the MK23 and USP, it's actually more an improvement of the USP itself in a more compact format. It incorporates an extended, threaded barrel with O-ring, which increases accuracy and reduces recoil as well as allows the integration of a suppressor by default, adjustable micrometer rear sight, with tritium sights for rear & front. All these enhancements, it's clear that this is not a "fresh out of the manufacture" USP Tactical, since the plastic is rather worn & cast while the trigger is tampered with. This could be modifications made in the black market, either way, still a worthy, reliable .45 ACP (or 9mm if you change the caliber) pistol.\n \n
+		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]Considered to be an improvement of the MK23 and USP, it's actually more an improvement of the USP itself in a more compact format. It incorporates an extended, threaded barrel with O-ring, which increases accuracy and reduces recoil as well as allows the integration of a suppressor by default, adjustable micrometer rear sight, with Tritium sightsfor rear & front. All these enhancements, it's clear that this is not a "fresh out of the manufacture" USP Tactical, since the plastic is rather worn & cast while the trigger is tampered with. This could be modifications made in the black market, either way, still a worthy, reliable .45 ACP (or 9mm if you change the caliber) pistol.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Tritium sight.\n
 		%c[d_purple] • %c[ui_gray_2] .45 ACP compatible suppressor</text>
@@ -1109,7 +1109,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]Chambered in 9x19mm Parabellum. The Walther P99 is a recoil-operated pistol with a fibreglass polymer frame. Developed for law enforcement and the civilian shooting market, it's employed by police units in a number of countries.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Upgraded with a tactical kit\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights & Tactical laser aiming module\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights& Tactical laser aiming module\n
 		%c[d_purple] • %c[ui_gray_2] Gemtech compatible suppressor</text>
 	</string>
 	
@@ -1230,7 +1230,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]Chambered in 5.7x28mm. The Five-seveN is a delayed blowback operated, semi-automatic pistol.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Aimpoint T1 (Low), DOCTER Sight III, Deltapoint PRO, Trijicon RMR.\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights & Tactical laser aiming module\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights& Tactical laser aiming module\n
 		%c[d_purple] • %c[ui_gray_2] 5.7x28mm compatible suppressor</text>
 	</string>
 	
@@ -1252,7 +1252,7 @@
 		<text>G36L "F34R"</text>
 	</string>
 	<string id="st_wpn_g36new_nimble_descr">
-		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]One strange variant of the G36. It appears that an ex-military of the Lithuanian Armed Forces used it, making some personal changes on the go. The gun is similar to the G36K, but much more lightweight, yet despite so has no reduction in accuracy and the recoil is just as bearable. The bolt was personally modified to fire even faster than average. The Handguard is a Lithuanian version of the G36K, which is lighter and has picatinny rails, this allows attaching the M203 compatible grenade launcher on it. It also has KAC ironsights with integrated Tritium sights, the front being much higher in contrast than the rear for better view. The KAC itself includes picatinny rails for scope attachment. A marvel if a bit peculiar of a G36 gun variant.\n \n
+		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]One strange variant of the G36. It appears that an ex-military of the Lithuanian Armed Forces used it, making some personal changes on the go. The gun is similar to the G36K, but much more lightweight, yet despite so has no reduction in accuracy and the recoil is just as bearable. The bolt was personally modified to fire even faster than average. The Handguard is a Lithuanian version of the G36K, which is lighter and has picatinny rails, this allows attaching the M203 compatible grenade launcher on it. It also has KAC ironsights with integrated Tritium sights the front being much higher in contrast than the rear for better view. The KAC itself includes picatinny rails for scope attachment. A marvel if a bit peculiar of a G36 gun variant.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Barska ES AC10632, ACOG x4, C-MORE Tactical Sight, EOTech 553\n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45/7.62 NATO compatible suppressor\n
@@ -1304,9 +1304,9 @@
 	</string>
 	
 	<string id="st_wpn_korth_descr">
-		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]Chambered in .45 ACP. The Korth is a high-end pistol; The ROLEX of pistols. This model has a 4" barrel and tritium sights but cannot be fitted with a suppressor.\n \n
+		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]Chambered in .45 ACP. The Korth is a high-end pistol; The ROLEX of pistols. This model has a 4" barrel and Tritium sightsbut cannot be fitted with a suppressor.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.</text>
+		%c[d_purple] • %c[ui_gray_2] Tritium sights</text>
 	</string>
 	
 	<string id="st_wpn_korth_custom_descr">
@@ -1320,7 +1320,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]The KRISS Vector[4] is a series of weapons based upon the parent submachine gun design developed by the American company KRISS USA, formerly Transformational Defense Industries (TDI). They use an unconventional delayed blowback system combined with in-line design to reduce perceived recoil and muzzle climb.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Aimpoint T1 (high), Aimpoint CompM4s, EOTech XPS3-0, EOTech 553\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] .45 ACP compatible suppressor</text>
 	</string>
 	
@@ -1444,7 +1444,7 @@
 	<string id="st_wpn_protecta_nimble_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]The uniquely designed Armsel Protecta is a rotating cylinder fed 12-gauge shotgun developed for riot control and combat. According to certain sources, this model once belonged to Tank, but little is known about him.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.</text>
+		%c[d_purple] • %c[ui_gray_2] Tritium sights</text>
 	</string>
 	
 	<string id="st_wpn_raptr_descr">
@@ -1475,7 +1475,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle chambered in 7.62x51mm NATO cartridge.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] AAC 7.62 SDN-6 compatible suppressor\n
 		%c[d_purple] • %c[ui_gray_2] FN40GL compatible grenade launcher</text>
 	</string>
@@ -1484,7 +1484,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle chambered in 7.62x51mm NATO cartridge.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] AAC 7.62 SDN-6 compatible suppressor</text>
 	</string>
 	
@@ -1492,7 +1492,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle chambered in 7.62x51mm NATO cartridge.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] AAC 7.62 SDN-6 compatible suppressor</text>
 	</string>
 	
@@ -1521,7 +1521,7 @@
 	<string id="st_wpn_sig320_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]This is an amazing pistol that Nimble found, a very recent addition to the SIG-Sauer pistols, so consider yourself extra-lucky. Chambered in 9mm, one can easily re-chamber it to .45 ACP, just find yourself a technician. It uses a "Strike-Action" mechanism, which should heavily reduce recoil even with .45 ACP. It has unmatched reliability, very good accuracy and perfect recoil. The best pistol you can get, especially .45 ACP if rechambered for such.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor</text>
 	</string>
 	
@@ -1812,7 +1812,7 @@
 	<string id="st_wpn_pb_custom_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_red]Warsaw •··\n \n%c[ui_gray_2]The PB (Pistolet Besshumnyj or Silent Pistol), also known in the Soviet army as 6P9, has been developed in 1967 for Spetsnaz units of the Soviet Army, as well as for KGB operatives. The pistol is based on a modified Makarov PM pistol and features an unique integral two part suppressor. Issued into service in 1967, the PB (GRAU index 6P9) is a Soviet silenced pistol based on the Makarov PM. It was intended for use by the KGB and army reconnaissance groups. The front part of the suppressor is detachable, so that the pistol can be broken down into two parts for convenient carry. The PB's integral suppressor also reduces the bullet velocity to below subsonic levels.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] 6P9 compatible suppressor (integrated)</text>
 	</string>
 	
@@ -1859,7 +1859,7 @@
 	<string id="st_wpn_pmm_bas_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_red]Warsaw •··\n \n%c[ui_gray_2]Chambered in 9x18mm. The most widely known variant, the Makarov PMM was a redesign of the original gun. The PMM magazine holds 12 rounds, compared to the PM's 8 rounds.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] PMM compatible suppressor</text>
 	</string>
 	
@@ -1984,7 +1984,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]A key improvement of the AN-94 over the AK-74 is the introduction of the additional 2-rounds burst mode. Nikonov design delays the force of recoil until the fired rounds have left the barrel, which along with a unique 1800 rpm two-shot burst function increases body armour piercing capabilities of this firearm. Used by Spetsnaz operators as well as Duty members to take out armoured targets at relatively long ranges.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] PSO-1M , 1P29 "Tulip",  EKP 1S-03 Kobra.\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] TGP-A compatible suppressor\n
 		%c[d_purple] • %c[ui_gray_2] GP-25 compatible grenade launcher</text>
 	</string>
@@ -2050,7 +2050,7 @@
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] PSO-1M, 1P29 "Tulip",  EKP 1S-03 Kobra.\n
 		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny & Warsaw mount\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights & Tactical laser aiming module\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights& Tactical laser aiming module\n
 		%c[d_purple] • %c[ui_gray_2] TGP-A compatible suppressor</text>
 	</string>
 	
@@ -2160,7 +2160,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]Chambered in 9x18mm. The Stechkin APS is a Russian selective fire machine pistol.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Upgraded with a tactical kit\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] APB compatible suppressor\n</text>
 	</string>
 	
@@ -2194,7 +2194,7 @@
 	<string id="st_wpn_gsh18_custom_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]The GSh-18 is a 9x19mm semi-automatic pistol developed in the early 1990s at the KBP Instrument Design Bureau in Tula. The pistol's name is derived from its designers - Gryazev and Shipunow, and the number 18 denotes the magazine capacity. The GSh-18 is a recoil-operated, locked breech pistol. The weapon has an unusual cam-rotated barrel with 10 locking lugs. The GSh-18 is striker fired and features a pre-set trigger that pre-cocks the pistol when the slide recoils after firing a shot, the striker firing pin is then fully cocked by pulling the trigger back to the rear. With the 7N21 and 7N31 armour-piercing bullets, it can pierce 8mm of steel at 20 metres.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.</text>
+		%c[d_purple] • %c[ui_gray_2] Tritium sights</text>
 	</string>
 	
 	<string id="st_wpn_groza_descr">
@@ -2332,7 +2332,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]Chambered in 7.62x54mmR. Relatively light for a sniper rifle but well-balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 meters.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Various scopes for Warsaw pact mount.\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] KZRZP compatible suppressor (after modification)</text>
 	</string>
 	
@@ -2540,7 +2540,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]The ASh-12.7 (АШ-12.7, which stands for "Автомат штурмовой 12.7мм" or "Automatic assault rifle, 12.7mm") battle rifle is a dedicated CQB/Urban Operations weapon, developed by TsKIB SOO ("Central Design and Research Bureau of Sporting and Hunting Arms"), a subsidiary of the KBP Instrument Design Bureau of Tula, Russia, by request from the Russian FSB (Federal Security Service). The weapon was designed with extreme short-range stopping power in mind because it is intended for special units of the FSB which operate in urban environments against heavily armed and organized gangsters and terrorists who need to be killed in one shot. According to the Russian press, the first batch of ASh-12.7 assault rifles was delivered to the FSB.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny & Warsaw mount\n
-		%c[d_purple] • %c[ui_gray_2] Tritium Sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] CKIB ASH-12 compatible suppressor</text>
 	</string>
 	
@@ -2560,7 +2560,7 @@
 	<string id="st_wpn_grach_descr">
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]The MP-443 is a short recoil operated, locked breech pistol that was developed for the Russian Army trials, codenamed "Grach" (rook). These trials were started by issuing initial requirements for a new military pistol in 1993. Several designs were submitted to the trials and the winner was the pistol designed at the state Izhevsk Mechanical Plant by Vladimir Yarygin. This pistol, initially known as the 6P35 military index during trials or the MP-443 "Grach" manufacturer's designation, is adopted by the Russian Government for military and law enforcement use under the PYa designation, and already issued to some Russian Army units.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.</text>
+		%c[d_purple] • %c[ui_gray_2] Tritium sights</text>
 	</string>
 	
 	<string id="st_wpn_groza_nimble_descr">
@@ -2592,7 +2592,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]Russian self-loading pistol PL-15-01 chambered for 9x19 mm Parabellum.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Upgradeable with a tactical kit\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] PL-15 compatible suppressor</text>
 	</string>
 	
@@ -2610,7 +2610,7 @@
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Upgraded with a tactical kit\n
 		%c[d_purple] • %c[ui_gray_2] Aimpoint T1 (Low) (integrated)\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] Tactical laser aiming module\n
 		%c[d_purple] • %c[ui_gray_2] PL-15 compatible suppressor</text>
 	</string>
@@ -2696,7 +2696,7 @@
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Upgraded with a tactical kit\n
 		%c[d_purple] • %c[ui_gray_2] Trijicon RMR (integrated)\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] Tactical laser aiming module\n
 		%c[d_purple] • %c[ui_gray_2] SR1MP 9x21 compatible suppressor</text>
 	</string>
@@ -2705,7 +2705,7 @@
 		<text>%c[ui_gray_3] • %c[ui_gray_2]Market: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]chambered in 9x21 mm. The Serdyukov semi-automatic pistol.\n \n
 		%c[ui_gray_3]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Upgraded with a tactical kit\n
-		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
+		%c[d_purple] • %c[ui_gray_2] Tritium sights\n
 		%c[d_purple] • %c[ui_gray_2] Tactical laser aiming module\n
 		%c[d_purple] • %c[ui_gray_2] SR1MP 9x21 compatible suppressor</text>
 	</string>
