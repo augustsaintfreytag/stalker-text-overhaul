@@ -1207,7 +1207,7 @@
 		<text>Exosuit</text>
 	</string>
 	<string id="exolight_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. Due to the unavailability of powered heavy duty exoskeletons, the exosuit may be worn as-is.\n \n
 		</text>
 	</string>
 
@@ -1215,7 +1215,7 @@
 		<text>PSZ-10d Duty Battlesuit</text>
 	</string>
 	<string id="dolg_exolight_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This suit is typically found in the hands of elite Duty warriors, especially those assigned to guard VIPs or launch exceedingly dangerous raids on enemy stalkers.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. This variant has been customized by Duty mechanics for use in combat. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. This suit is typically found in the hands of elite Duty units, especially those assigned to guard VIPs or launch exceedingly dangerous raids on enemy factions or push into the northern parts of the Zone. Due to the unavailability of powered heavy duty exoskeletons, the exosuit may be worn as-is.\n \n
 		</text>
 	</string>
 
@@ -1223,7 +1223,7 @@
 		<text>Warrior of Freedom</text>
 	</string>
 	<string id="svoboda_exolight_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. Only the most respected members of Freedom will ever be found wearing a suit like this.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. This variant has been customized by Freedom mechanics for use in combat. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. Only used by highly experienced members of Freedom, rarely used as-is in the field. Due to the unavailability of powered heavy duty exoskeletons, the exosuit may be worn as-is.\n \n
 		</text>
 	</string>
 
@@ -1231,15 +1231,15 @@
 		<text>Mercenary Exosuit</text>
 	</string>
 	<string id="merc_exolight_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. An outfit of choice for the captains and bodyguards of Mercenary companies requiring top of the line ballistic protection.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. This variant has been customized by Mercenary mechanics. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. In contrast to other exosuit variants, the Mercenary variant is more commonly worn by high-profile operatives and bodyguards of contractors requiring top of the line ballistic protection. Due to the unavailability of powered heavy duty exoskeletons, the exosuit may be worn as-is.\n \n
 		</text>
 	</string>
 
 	<string id="bandit_exolight_outfit_name">
-		<text>Looted Exosuit</text>
+		<text>Scavenged Exosuit</text>
 	</string>
 	<string id="bandit_exolight_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. Both imposing and highly intimidating in appearance, this outfit is a favorite among the Zone's most powerful outlaws.\n \n
+		<text>A scavenged and worn heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The suit shows numerous signs of past repair and appears to have had some of its parts replaced entirely. Provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. The scavenged variant is imposing in its rough appearance but cheaper to maintain than other used models. A favorite among the Zone's most experienced outlaws. Due to the unavailability of powered heavy duty exoskeletons, the exosuit may be worn as-is.\n \n
 		</text>
 	</string>
 
@@ -1247,7 +1247,7 @@
 		<text>Monolith Exosuit</text>
 	</string>
 	<string id="monolith_exolight_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. A favorite among the Monolith's battle preachers and tactical masters who claim the confines of the suit to be as comforting as the Sarcophagus itself.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". This variant has been modified extensively by Monolith mechanics. The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support, some of its parts have been swapped for heavier alternatives that also reduce the wearer's freedom of movement on the inside. Commonly used by Monolith combat units guarding and defending major points of interest in the Zone. Notes found from Monolith followers consistently claim that the confines of the suit feels as comforting as the Sarcophagus at the heart of the Zone.\n \n
 		</text>
 	</string>
 
@@ -1255,7 +1255,7 @@
 		<text>Military Stalker Exosuit</text>
 	</string>
 	<string id="military_exolight_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. Considered too cumbersome by the Ukrainian government, these suits are never issued to any unit or individual. Thus soldiers, Military stalkers and the occasional veteran must always find and pay for it through their own means.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, customized for common military use, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. Although commissioned by the Ukrainian government, the military variant exosuit is considered too cumbersome for general adoption and have never been widely issued. Some military stalkers may still seek to acquire it through other means.\n \n
 		</text>
 	</string>
 
@@ -1263,7 +1263,7 @@
 		<text>CS-5 Exosuit</text>
 	</string>
 	<string id="cs_exolight_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. These outfits are smuggled in from Ukrainian factories near the borders of the Zone.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. This model is a customized variant by Clear Sky with the intent of enabling a wider adoption of the exosuit, as well as sale and distribution to other factions. Some of the inner parts have been replaced with lighter, more comfortable alternatives compared to the base design.\n \n
 		</text>
 	</string>
 
@@ -1271,7 +1271,7 @@
 		<text>UNISG Exosuit</text>
 	</string>
 	<string id="isg_exolight_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. A rare sight, since most ISG operatives prefer increased mobility over raw protective power.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, customized for common military use, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. Similar to the military variant, this model was originally commissioned by the Ukrainian government, and later adopted and further changed for use by UNISG forces. They were issues to units in the field but also never widely adopted. Most ISG operatives prefer increased mobility over the raw protective capabilities of exosuits.\n \n
 		</text>
 	</string>
 	
@@ -1279,7 +1279,7 @@
 		<text>Woodland Exosuit</text>
 	</string>
 	<string id="exo_wood_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This model includes an early-generation CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit lined with Kevlar.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton, in a woodland camo pattern. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. The woodland variant includes a CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit lined with Kevlar. The intent of the rare model and its general adoption is unknown.
 		</text>
 	</string>
 	
@@ -1287,7 +1287,7 @@
 		<text>Scavenged Exosuit</text>
 	</string>
 	<string id="bandit_exo_earth_outfit_description">
-		<text>.\n \n
+		<text>A scavenged and worn heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The suit shows numerous signs of past repair and appears to have had some of its parts replaced entirely. Provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. The scavenged variant is imposing in its rough appearance but cheaper to maintain than other used models. A favorite among the Zone's most experienced outlaws. Due to the unavailability of powered heavy duty exoskeletons, the exosuit may be worn as-is.\n \n
 		</text>
 	</string>
 	
@@ -1295,7 +1295,7 @@
 		<text>Hero of Freedom</text>
 	</string>
 	<string id="freedom_exo_vineleaf_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This variant includes an old CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit lined with Kevlar and an additional attachment slot.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The "Hero of Freedom" variant was developed on the exosuit base design by Freedom mechanics to achieve a more widespread adoption. The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. This variant includes a dated CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit lined with Kevlar weave and has an additional attachment slot.\n \n
 		</text>
 	</string>
 	
@@ -1303,7 +1303,7 @@
 		<text>PSZ-10d Duty Battlesuit</text>
 	</string>
 	<string id="exo_dolg_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This suit is typically found in the hands of elite Duty warriors, especially those assigned to guard VIPs or launch exceedingly dangerous raids.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The PSZ-10d variant was developed on the exosuit base design by Duty mechanics to achieve a more widespread adoption. The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. This variant includes a dated CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit lined with Kevlar weave and has an additional attachment slot. Used by elite Duty units for VIP escort missions or for dangerous defense and attack missions.\n \n
 		</text>
 	</string>
 	
@@ -1311,7 +1311,7 @@
 		<text>PSZ-10d Venator Battlesuit</text>
 	</string>
 	<string id="exo_dolg_red_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This particular variant is typically found in the hands of elite Duty huntsmen, where its greater defense against mutants is utilized.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The PSZ-10d Venator variant was developed on the preceding PSZ-10d design by Duty mechanics. The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. Used by experienced Duty units for defense, procurement, and hunting missions in mixed environments.\n \n
 		</text>
 	</string>
 	
@@ -1319,7 +1319,7 @@
 		<text>PSZ-10l Forest Battlesuit</text>
 	</string>
 	<string id="exo_dolg_wood_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This variant includes an older CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit with Kevlar weave and additional steel reinforcement. Typically found with elite Duty members, particularly those conducting short operations in the northern reaches of the Zone.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The PSZ-10l Forest variant was developed on the PSZ-10d design by Duty mechanics. The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. This variant includes a dated CBRN (Chemical, Biological, Radiological, Nuclear) jumpsuit lined with Kevlar weave and steel reinforcements. Used by experienced Duty units, particularly for expeditionary missions to the northern reaches of the Zone.\n \n
 		</text>
 	</string>
 	
@@ -1327,39 +1327,39 @@
 		<text>PSZ-10g Urban Battlesuit</text>
 	</string>
 	<string id="exo_dolg_urban_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. Additionally, it is only useful in melee and ranged fights, since it offers no anomaly protection whatsoever. Old and exceedingly heavy, it's possible that suits like this were used by the Duty faction to raid Pripyat and clash with Freedom back in 2012.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The PSZ-10g Urban variant was developed on the PSZ-10 base design by Duty mechanics. The suit provides high ballistic and strike protection but its raw bulk is not balanced against its capabilities without additional weight support. This variant does not provide meaningful protection against environmental hazards. The design is somewhat dated, models like the Urban were used by Duty in the assault on the Monolith-occupied city of Pripyat and the clash with Freedom in 2012.\n \n
 		</text>
 	</string>
-	
+
 	<string id="exo_merc_outfit_name">
 		<text>Mercenary Heavy Armor TB-1</text>
 	</string>
 	<string id="exo_merc_outfit_description">
-		<text>.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The TB-1 variant was developed on the exosuit base design by mercenary mechanics and features a synthetic fiber weave for added durability and flexibility. Used by highly experienced mercenary units looking to operate in the most dangerous parts of the Zone.\n \n
 		</text>
 	</string>
-	
+
 	<string id="exo_merc_urban_outfit_name">
 		<text>Mercenary Urban Exosuit</text>
 	</string>
 	<string id="exo_merc_urban_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. Additionally, it is only useful in melee and ranged fights, since it offers no anomaly protection whatsoever. An outfit of choice for the captains and bodyguards of Mercenary companies operating in areas like Limansk or Pripyat.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". The Urban variant was developed by mercenary mechanics, intended for short-term deployment, a counter-part to the Woodland variant. The model offers no significant protection against environmental hazards, focusing solely on close-quarter combat. Commonly used by highly experienced mercenary units and bodyguards of mercenary companies operating in the urban areas of the Zone, like Limansk or Pripyat.\n \n
 		</text>
 	</string>
-	
+
 	<string id="exo_merc_wood_outfit_name">
 		<text>Mercenary Woodland Exosuit</text>
 	</string>
 	<string id="exo_merc_wood_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This variant includes an old CBRN (Chemical, Biological, Radiological, Nuclear) that has unfortunately not been modified for the Zone.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". It includes a basic CBRN (Chemical, Biological, Radiological, Nuclear) layer. The woodland variant was developed by mercenary mechanics with the intent to create a high-end protective suit with more widespread adoption, a counter-part to the Urban variant. Used by mercenaries requiring heavy protection in the many forested areas of the Zone.\n \n
 		</text>
 	</string>
-	
+
 	<string id="exo_merc_grass_outfit_name">
 		<text>Mercenary Grassland Exosuit</text>
 	</string>
 	<string id="exo_merc_grass_outfit_description">
-		<text>Also known as the "Radsuit", this outfit is essentially a heavy ballistic vest containing Class IV plates reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor proves cumbersome to wear for extended periods of time. This variant includes an asbestos-weave jumpsuit.\n \n
+		<text>A heavy ballistic vest containing Class IV plates, reinforced with steel with many of the attachment points needed for a rigid exoskeleton. However, with no powered exoskeleton to ease the load, this armor is cumbersome to wear for extended periods of time. The base exosuit is also known as the "Radsuit". It includes a basic CBRN (Chemical, Biological, Radiological, Nuclear) layer. The woodland variant was developed by mercenary mechanics with the intent to create a high-end protective suit with more widespread adoption, a counter-part to the Urban variant. Used by mercenaries requiring heavy protection in the flatter grassland areas of the Zone.\n \n
 		</text>
 	</string>
 
