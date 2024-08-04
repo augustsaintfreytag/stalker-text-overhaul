@@ -3,11 +3,11 @@
 <string_table>
 
 	<!--
-		Tier 1 = invaluable artefact
-		Tier 2 = low tier artefact
-		Tier 3 = medium tier artefact
-		Tier 4 = high tier artefact
-		Tier 5 = top tier artefact
+		tier 1 = very low tier artefact
+		tier 2 = low tier artefact
+		tier 3 = medium tier artefact
+		tier 4 = high tier artefact
+		tier 5 = top tier artefact
 	-->
 
 	<!--
@@ -28,10 +28,11 @@
 	</string>
 	<string id="st_af_itcher_descr">
 		<text>
-		A formation of thermal nature. The Itcher consists of two separated layers. The surface is a hard, dense metamorphic rock with deep scars covering the entire body. Completely inactive and doesn't hold any noticeable properties. On the other hand, the soft, yellow glowing core is from unknown organic nature. It actively consumes excessive heat and remains cool at all times. However, it is not recommended to approach chemical and acid anomalies when in possession of the artefact as it will increase the adverse effects of acids and toxins in user's bloodstream. Radiation output is low on the artefact radiation scale.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
-		%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
+			A common formation of thermal nature with a hard surface of dense metamorphic rock with deep scars covering the entire body, separated into two layers. The soft, yellow glowing core is of unknown organic nature. It actively consumes excessive heat and remains cool at all times. However, it is not recommended to approach chemical and acid anomalies when in possession of the artefact as it will increase the adverse effects of acids and toxins in the user's bloodstream. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -40,7 +41,11 @@
 	</string>
 	<string id="st_af_pin_descr">
 		<text>
-		A small artefact formed by thermal anomalies in the Zone under extreme temperatures. The look of this artefact suggests that it was an organ of a vascular plant. Further studies showed that other organic tissues are fused deep inside. The stem doesn't hold any useful properties. On the contrary, the small pins reduce temperature of user's body and cool all objects in their vicinity. This artefact offers a slight psy-protection as it will resonate under the influence of psy-waves. On the other hand, it is not recommended to approach chemical and acid anomalies when in possession of the artefact as it will increase the adverse effects of acids and toxins in user's bloodstream. Radiation output is average on the artefact radiation scale.
+			A small artefact formed by thermal anomalies in the Zone under extreme temperatures. The look of this artefact suggests that it was an organ of a vascular plant. Further studies showed that other organic tissues are fused deep inside. The stem doesn't hold any useful properties. On the contrary, the small pins reduce the temperature of the user's body and cool all objects in their vicinity. This artefact offers slight psy-protection as it will resonate under the influence of psy-waves. However, it is not recommended to approach chemical and acid anomalies when in possession of the artefact as it will increase the adverse effects of acids and toxins in the user's bloodstream. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -49,7 +54,11 @@
 	</string>
 	<string id="st_af_cristall_descr">
 		<text>
-		This artefact is formed in anomalous zones with intense thermal activity. Actively consumes excessive heat and remains cool at all times. It will also protect the user against electrical currents. On the other hand, exposure to such environments makes the artefact increase the conductivity due to unknown as of now mechanism. For this reason, one is forced to weigh pros and cons of Crystal when in the vicinity of areas of high conductivity. This artefact is also highly sought for by jewellers outside the Zone as its inner core is not radioactive and considered to be of exceptional beauty if polished and refined. Only the first 1 cm of its outer layer emits radiation. It is, however, highly advised to proceed with caution when planning to bring the artefact to the market as prolonged exposure to even minimal amounts of radioactive materials can result in death of the user. Covered with very hard layer. Relatively heavy due to high density. Radiation output is average on the artefact radiation scale.
+			An artefact formed in anomalous zones with intense thermal activity. Actively consumes excessive heat and remains cool at all times. It will also protect the user against electrical currents. However, exposure to such environments increases the artefact's conductivity due to an unknown mechanism. For this reason, one must weigh the pros and cons of using the Crystal in areas of high conductivity. This artefact is highly sought after by jewellers outside the Zone, as its inner core is not radioactive and is considered exceptionally beautiful when polished and refined. Only the first centimeter of its outer layer emits radiation. Prolonged exposure to even minimal amounts of radioactive material can result in serious harm to the user. Covered with a very hard layer and relatively heavy due to high density. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -58,7 +67,11 @@
 	</string>
 	<string id="st_af_fireball_descr">
 		<text>
-		It is a spherical artefact made of red-coloured crystal, created in the Burner anomaly. It has an unique property: it has a constant temperature of 75 degrees Fahrenheit/24 degrees Celsius, regardless of its surroundings. This allows it to absorb heat from its vicinity and to create a little pocket around the user which prevents the flames from damaging the body. A dangerous effect of this artefact is the fact that it will increase electrical conductivity, so the probability of electrocution while wearing this artefact is much higher, especially during storms and in the vicinity of electrical anomalies.It is quite heavy due to high density of crystal-like material. Radiation output is high on the artefact radiation scale.
+			A spherical artefact made of red-coloured crystal, created in the Burner anomaly. It has a unique property: it maintains a constant temperature of 75 degrees Fahrenheit (24 degrees Celsius), regardless of its surroundings. This allows it to absorb heat from its vicinity and create a protective pocket around the user, preventing flames from causing harm. However, it increases electrical conductivity, raising the probability of electrocution, especially during storms and near electrical anomalies. It is quite heavy due to the high density of the crystal-like material. Radiation output is high on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -67,7 +80,11 @@
 	</string>
 	<string id="st_af_blood_descr">
 		<text>
-		A reddish formation of compressed fossilised plants, soil and animal debris. Can partially neutralise chemical poisons by absorbing them and reducing overall toxicity level in user's bloodstream. Quite widespread and not very effective as it makes chemical burns fester. It will catch fire when exposed to open flame or even spontaneously combust. Another positive effect possessed by this artefact is that it accelerates clotting if worn close to the body. Although it is not recommended to keep this artefact in your possession for longer periods of time as blood clots can be hazardous to your health. Radiation output is low on the artefact radiation scale.
+			A reddish formation of compressed fossilised plants, soil, and animal debris. Can partially neutralise chemical poisons by absorbing them and reducing overall toxicity level in the user's bloodstream. It accelerates clotting if worn close to the body. However, it makes chemical burns fester and can catch fire or spontaneously combust. It is not recommended to keep this artefact in your possession for long periods as blood clots can be hazardous to your health. Quite widespread and not very effective. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] chemical artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -76,7 +93,11 @@
 	</string>
 	<string id="st_af_mincer_meat_descr">
 		<text>
-		This artefact has soft, porous, skin-like texture and is said to be able to compress. It resembles and acts like a sponge in this regard, but reveals its special characteristics only when exposed to certain external conditions. Firstly, to carry the sponge metaphor further, the pores on its surface are known to absorb small amounts of toxicity from environment. Secondly, the artefact slightly amplifies the damaging effects of psy-fields to living organisms by absorbing psy energy and emitting it at a small rate. Thirdly, Meat Chunk is also known to be a conductor of electricity much like the skin of a living creature. Radiation output is average on the artefact radiation scale.
+			An artefact with a soft, porous, skin-like texture, resembling a sponge. The pores on its surface absorb small amounts of toxicity from the environment. It slightly amplifies the damaging effects of psy-fields by absorbing psy energy and emitting it at a small rate. Meat Chunk is also known to conduct electricity much like the skin of a living creature. Reveals its special characteristics only when exposed to certain external conditions. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] chemical artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -85,7 +106,11 @@
 	</string>
 	<string id="st_af_bracelet_descr">
 		<text>
-		Bracelet is formed from common species of bryophytes plants under high exposure to radioactive and chemical anomalies, which explains its organic nature. It provides substantial protection against all types of acids by gradually increasing their pH to the level of water (pH of 7). When worn, the artefact is also known to slightly counter the harmful effects of psy-anomalies or psy-waves of some mutants. Radiation output is average on the artefact radiation scale.
+			Formed from common species of bryophyte plants under high exposure to radioactive and chemical anomalies, which explains its organic nature. Provides substantial protection against all types of acids by gradually increasing their pH to the level of water (pH 7). When worn, it slightly counters the harmful effects of psy-anomalies or psy-waves from some mutants. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] chemical artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -94,7 +119,11 @@
 	</string>
 	<string id="st_af_baloon_descr">
 		<text>
-		A compound of several hollow organic formations, this artefact emits a gaseous substance that can neutralise chemical or toxic particles inside the body without harming it. Thus providing a a great level of toxic and chemical protection. It also has a constant temperature regardless of its surroundings. This allows it to absorb heat from its vicinity and to create a little pocket around the user which prevents the flames from damaging the body. Apart from that Bubble, however, possesses numerous negative properties. For example, it greatly amplifies the effects of psy-waves as well as fields produced by mutants and anomalies. This disadvantage is not to be taken lightly: some stalkers have reported that psy influence was so potent when in possession of a Bubble that they felt their heads cracking from the inside and the only thing they could do was scream in pain and run as far as they could. Radiation output is high on the artefact radiation scale. 
+			A compound of several hollow organic formations. This artefact emits a gaseous substance that neutralises chemical or toxic particles inside the body, providing great toxic and chemical protection. It maintains a constant temperature regardless of surroundings, absorbing heat and creating a protective pocket around the user. However, Bubble greatly amplifies the effects of psy-waves and fields produced by mutants and anomalies. Some stalkers have reported feeling intense pain and psychological effects when in possession of a Bubble. Radiation output is high on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] chemical artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -103,16 +132,25 @@
 	</string>
 	<string id="st_af_electra_sparkler_descr">
 		<text>
-		This artefact has the appearance of translucent spider webs. Just as proteinaceous spider silk, it is sticky and has properties of glue. It can be found most commonly in or near electro anomalies and it seems to have absorbed their certain characteristics: it is able to smooth fluctuations in electric field density and acts as a weak resistor, protecting the wearer from electricity and reducing its damaging effects. On the other hand, it should be noted that the presence of this artefact increases the corrosiveness of acids, leading to accelerated deterioration of equipment and higher damage to tissues of any living organism. Radiation output is low on the artefact radiation scale.
+			An artefact with the appearance of translucent spider webs. It is sticky and has glue-like properties, found near electro anomalies. It smooths fluctuations in electric field density and acts as a weak resistor, protecting the wearer from electricity. However, it increases the corrosiveness of acids, leading to accelerated deterioration of equipment and higher damage to tissues. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
+
 
 	<string id="st_af_sponge_name">
 		<text>Sponge</text>
 	</string>
 	<string id="st_af_sponge_descr">
 		<text>
-		Sponge has always been under debate among the Ecologists. Some suggest that this artefact is driven from basic form of organisms, while others believe its an advanced life form with self-awareness inherited from living creatures. Despite the theories surrounding the artefact, all can agree on one thing: it moves. The sponge sometimes tries to "grab" an object it touches. Putting it in a container might be a hard task, as if it wants to escape. This artefact acts as a powerful resistor and will absorb even lethal doses of electricity. On the other hand, it will catch fire when exposed to open flame or even spontaneously combust. Radiation output is average on the artefact radiation scale.
+			An artefact resembling a living sponge. It sometimes tries to "grab" objects it touches, making it difficult to contain. This artefact acts as a powerful resistor, absorbing lethal doses of electricity. However, it will catch fire when exposed to open flame or even spontaneously combust. Ecologists debate whether this artefact is derived from basic forms of organisms or is an advanced life form with self-awareness. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -121,8 +159,11 @@
 	</string>
 	<string id="st_af_ring_descr">
 		<text>
-		A very small artefact of electric nature. Difficult to spot. Consists of two ring-shaped materials of organic nature, hence the given name.
-		When the Ring spins, it never stops spinning, defying the first law of thermodynamics. Scientists suggest that this artefact inherits gravitational properties from Vortex anomalies. The outer ring has a high-conductivity. It absorbs electrical current from relative sources then ground it in the inner ring. Despite the basic function, the mechanism behind the disappearance of electrical power inside the second ring is still unknown. On the other side, the Ring is flammable. Prolonged exposure may enhance its flammability and cause it to ignite. Radiation output is average on the artefact radiation scale.
+			A very small artefact of electric nature, consisting of two ring-shaped materials of organic origin. When the Ring spins, it never stops spinning, defying the first law of thermodynamics. The outer ring has high conductivity, absorbing electrical current and grounding it in the inner ring. Prolonged exposure may enhance its flammability, causing it to ignite. Scientists suggest that this artefact inherits gravitational properties from Vortex anomalies. The mechanism behind the disappearance of electrical power inside the second ring is still unknown. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -131,7 +172,11 @@
 	</string>
 	<string id="st_af_electra_flash_descr">
 		<text>
-		This artefact is very similar in appearance to Moonlight and resembles a plasma globe or a plasma lamp. Being a powerful resistor, it is well known for its ability to shield its user from lethal doses of electricity. When worn, it is known to slightly counter harmful effects of psy-anomalies or psy-waves of certain mutants. Flash acts as a powerful resistor and will absorb even lethal doses of electricity. However, it also hinders healing process, thus caution is advised especially when wounded or bleeding. This artefact is also extremely light and very portable. Radiation output is high on the artefact radiation scale.
+			An artefact similar in appearance to Moonlight, resembling a plasma globe or lamp. It acts as a powerful resistor, shielding its user from lethal doses of electricity. When worn, it slightly counters harmful effects of psy-anomalies or psy-waves. However, it hinders the healing process, requiring caution when wounded or bleeding. Extremely light and portable. Radiation output is high on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -140,7 +185,11 @@
 	</string>
 	<string id="st_af_cristall_flower_descr">
 		<text>
-		This artefact resembles melted cheese interspersed with sapphire-like stones. Only yellow outer shell of the artefact appears to give off radiation and by careful processing it is possible to extract the non-radioactive blue parts for jewellery and other industrial purposes. This is due to the fact that if cleaned properly and polished, sapphire comparison becomes much more explicit: the stones are as hard and durable as this beautiful gem. This quality of theirs and their appearance make them perfect gemstones and jewellers all over the world strive to have them in stock. The usefulness of the artefact, however, is not limited to its industrial applications. There is scientific evidence suggesting that sapphire-like stones effectively protect from psy-waves, whereas the outer shell slightly increases resistance to toxicity. However, it can cause objects in its vicinity to heat up and in extreme cases to ignite along with the artefact. For this reason, it is safe to conclude that it absorbs heat and is able to convey it to other objects. Due to its density the weight of artefact has increased beyond normal standards, and thus it is one of the heaviest anomalous creations in the Zone. Radiation output is low on the artefact radiation scale.
+			An artefact resembling melted cheese interspersed with sapphire-like stones. The yellow outer shell gives off radiation, but the non-radioactive blue parts can be extracted for jewellery and industrial purposes. The sapphire-like stones protect from psy-waves and slightly increase resistance to toxicity. However, the artefact can cause objects in its vicinity to heat up and ignite. Due to its density, the weight of Stone Flower has increased beyond normal standards, making it one of the heaviest anomalous creations in the Zone. This quality and appearance make it highly sought after by jewellers. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -149,7 +198,11 @@
 	</string>
 	<string id="st_af_lobster_eyes_descr">
 		<text>
-		As the name suggests, this artefact has the shape of two eggs fused together. The outer surface is very thick, the high density of its formation might be the reason behind its deep colour. This artefact offers slightly more psy-protection than its cousin, Stone Flower. It appears to resonate when exposed to psy waves and absorbs some of its effects. Another positive property is the ability to consume excessive heat while remaining cool at all times. Due to its density of the surface, the Lobster Eyes is quite heavy. Radiation output is average on the artefact radiation scale.
+			An artefact shaped like two eggs fused together, with a thick, high-density outer surface. It offers slightly more psy-protection than Stone Flower, resonating when exposed to psy waves and absorbing some effects. It also consumes excessive heat while remaining cool. Due to its density, Lobster Eyes is quite heavy. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -158,7 +211,11 @@
 	</string>
 	<string id="st_af_electra_moonlight_descr">
 		<text>
-		A unique electrostatic artefact that appears to resonate when exposed to psy fields. Stalkers have learned to fine-tune the artefact so that it resonates in opposite phase to the main source of emissions, thus significantly neutralizing their effects. This orb of considerable beauty also increases electrical protection by reducing conductivity in the body when exposed to high levels of electricity. It should be noted that Moonlight will catch fire when exposed to open flame or even spontaneously combust. Radiation output is average on the artefact radiation scale.
+			A unique electrostatic artefact that resonates when exposed to psy fields. Stalkers have learned to fine-tune it to neutralize psy emissions. It also increases electrical protection by reducing conductivity. However, it will catch fire when exposed to open flame or even spontaneously combust. This orb of considerable beauty is sought after by many. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -167,7 +224,11 @@
 	</string>
 	<string id="st_af_black_spray_descr">
 		<text>
-		Being a rare artefact, little is known about its properties and origins. Black Spray shares a similar shape to other sapphire-like artefacts. However, the organic nature of the stem (which shares similar properties to Pin artefacts) suggests that its formed from vascular plants under exposure to dangerous psy-fields and electromagnetic waves. Another unique property is the ability to delay the transmission of light that enters it. The said mysterious mechanism is applied to psy-waves surrounding the artefact as well. For this particular reason, Black Spray significantly neutralises psy interferences in a large radius. These beneficial properties, however, come at a price. This artefact is extremely dangerous when exposed in toxic environments as it amplifies their effect and increases their potency. When exploring toxic areas, it is hence highly recommended to keep the artefact in your backpack. Due to the beautiful blue aura it emits, it is highly sought after by jewellers all over the world. Radiation output is high on the artefact radiation scale.
+			A rare artefact with properties and origins that are not well understood. Resembling other sapphire-like artefacts, its organic stem suggests formation from vascular plants under exposure to psy-fields and electromagnetic waves. It delays light transmission and significantly neutralises psy interferences. However, it amplifies the effects of toxic environments, making it extremely dangerous. Highly sought after by jewellers for its beautiful blue aura. Radiation output is high on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -176,7 +237,11 @@
 	</string>
 	<string id="st_af_medusa_descr">
 		<text>
-		Very common in the Zone. This gravitational artefact is able to slightly shield the body and objects from physical impacts. It will slightly protect its user against extreme heat produced respectively by fire anomalies. This artefact is quite heavy as the gravitational field seems to increase mass. Another downside to this artefact is that it will increase the negative effects of psy-waves and is a potent conductor. Radiation output is low on the artefact radiation scale.
+			A common gravitational artefact in the Zone. Slightly shields the body and objects from physical impacts and protects against extreme heat. Quite heavy due to the gravitational field increasing its mass. Increases the negative effects of psy-waves and is a potent conductor. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -185,7 +250,11 @@
 	</string>
 	<string id="st_af_vyvert_descr">
 		<text>
-		This bizarrely-shaped artefact appears in places with increased gravitational activity. Although it appears almost organic, it is actually more similar to coral. Due to its gravitational nature, It provides protection against physical impacts as it greatly reduces the friction caused by fast objects. Acting as a kind of sponge that absorbs chemical and toxic elements as well, this artefact provides protection from external toxic agents as well as from chemical particles that have already made their way into the body. Wrenced can generate a locally directed gravity field which increases its mass. For this reason, this artefact is heavy. Radiation output is average on the artefact radiation scale.
+			A bizarrely-shaped artefact appearing in places with increased gravitational activity. Appears almost organic but is more similar to coral. Provides protection against physical impacts by reducing friction caused by fast objects. Absorbs chemical and toxic elements, providing protection from external toxic agents and chemical particles in the body. Generates a locally directed gravity field which increases its mass, making it heavy. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -194,16 +263,25 @@
 	</string>
 	<string id="st_af_empty_descr">
 		<text>
-		Two disks of organic formation (commonly lipids, cellulose and lignin) with nothing but empty space in between. This is due to a unique gravitation field formed in the centre that stabilise the distance between the disks. Any attempt to press the disks together, or pull them apart will fail due to rapid positive/negative changes in the gravitational field. As if the artefact reacts to any physical power that breaks its balance. Because of this mechanism, moving with an Empty is a hard task. As the gravitational field increases the density of surrounding air and slows the body down. The real usefulness of this effect comes to the ability to reduce friction, thus obtaining great protection against physical impacts. Radiation output is average on the artefact radiation scale.
+			Two disks of organic formation (commonly lipids, cellulose, and lignin) with empty space in between. Stabilized by a unique gravitational field, any attempt to press the disks together or pull them apart fails due to rapid changes in the gravitational field. Moving with an Empty is difficult as the gravitational field increases the density of surrounding air, slowing the body down. Reduces friction and provides great protection against physical impacts. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
+
 
 	<string id="st_af_full_empty_name">
 		<text>Full Empty</text>
 	</string>
 	<string id="st_af_full_empty_descr">
 		<text>
-		Similar to Empty, this artefact consist of two disks of organic formation connected by a unique gravitational field in between. However, the said field in Full Empty is extraordinary: all atoms entering the centre, regardless of their nature, become interactive under the unknown effects of the field. Thus releasing photons (light emitting). Scientists usually refer to it as the "galaxy effect", which gives the artefact an exceptional orbit of light. The density increment of surrounding air caused by moving is higher comparing to Empty. Because of this, the artefact will greatly hinder its holder's movement. Being superior artefact to Empty, the protection against physical impacts is remarkable. Some claims that Full Empty is capable of stopping 9mm bullets fired at point blank. Radiation output is high on the artefact radiation scale.
+			Similar to Empty, this artefact consists of two disks of organic formation connected by a unique gravitational field. However, the field in Full Empty is extraordinary: all atoms entering the centre become interactive, releasing photons and creating a "galaxy effect." The density increment of surrounding air is higher compared to Empty, greatly hindering movement. Provides remarkable protection against physical impacts, capable of stopping 9mm bullets at point-blank range. Radiation output is high on the artefact radiation scale. Scientists refer to the light emission as the "galaxy effect," giving the artefact an exceptional orbit of light.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -212,7 +290,11 @@
 	</string>
 	<string id="st_af_night_star_descr">
 		<text>
-		This glowing artefact can generate a local directed low-gravity field. Widely used by stalkers along with Gravi, a similar artefact, to increase maximum load. Due to its beautiful inner core it is highly sought after by jewellers all over the world, however it is best to proceed with caution as unskilled treatment can cause the artefact to explode with power sufficient to level a small building. It is thus highly advised to perform the polishing by means of specialised machinery, which minimises the probability of explosion. Moreover, only the outer core of the artefact emits radiation. Nightstar will also absorb toxic and chemical agents from the environment, which makes it a valuable artefact for artefact hunters, although the amount of toxicity absorbed is negligible. It is, however, relatively cheap and even stalkers with pretty tight budgets can afford it if opportunity to buy it arises. That being said, Nightstar emits odour of burning flesh when in the closest proximity of heat source. Prolonged exposure may enhance its flammability and cause it to ignite. Radiation output is low on the artefact radiation scale.
+			A glowing artefact that generates a local directed low-gravity field. Widely used by stalkers along with Gravi to increase maximum load. Due to its beautiful inner core, it is highly sought after by jewellers, but unskilled treatment can cause it to explode. Only the outer core of the artefact emits radiation. Nightstar absorbs toxic and chemical agents from the environment, although the amount absorbed is negligible. Relatively cheap and accessible even to stalkers with tight budgets. Emits an odour of burning flesh near heat sources and may ignite with prolonged exposure. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -221,7 +303,11 @@
 	</string>
 	<string id="st_af_gravi_descr">
 		<text>
-		Gravi is formed from metallic substances exposed to prolonged gravitation. This makes it capable of sustaining an powerful anti-gravitational field, which causes it to have various properties, among others reducing weight of all objects in its close proximity. For a long time, the artefact was a mystery, and it was scientist Sakharov at Yantar who first discovered that Gravi creates a minute singularity field of anti-gravitational nature, the phenomenon which occurs in intervals of 30 minutes. A dangerous effect of this artefact is the fact that it will increase electrical conductivity, so the probability of electrocution while wearing this artefact is much higher, especially during storms and in the vicinity of electrical anomalies. Another downside is that it will increase the negative effects of psy-waves and is a potent conductor. Radiation output is average on the artefact radiation scale.
+			Formed from metallic substances exposed to prolonged gravitation, capable of sustaining a powerful anti-gravitational field, reducing the weight of objects in its proximity. Scientist Sakharov at Yantar first discovered that Gravi creates a minute singularity field of anti-gravitational nature at intervals of 30 minutes. Increases electrical conductivity, raising the risk of electrocution, especially during storms and near electrical anomalies. Also increases the negative effects of psy-waves. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -230,7 +316,11 @@
 	</string>
 	<string id="st_af_gold_fish_descr">
 		<text>
-		Direct successor to and a superior version of Gravi artefact. As was the case with Gravi, it was scientist Sakharov at Yantar who discovered its unique properties after a massive blowout/emission hit the Zone. Thanks to meticulous research that followed, it was established that this new artefact is produced when three Gravi artefacts interact and get sucked into one another's singularity fields. This phenomenon is extremely rare, due to which the artefact is highly valued. It is rumoured within Ukrainian Spetsnaz circles that in the Zone there are agents from the Ministry of Defence of the Russian Federation whose sole objective is acquiring and transporting Goldfish to specialised laboratories located outside of the Zone. The artefact creates a constant anti-gravitational singularity field which affects only its closest vicinity. However, some stalkers have been known to disappear for no apparent reason leaving only a Goldfish behind. Big downside, however, comes along with this powerful anti-gravitational field: the velocity of moving objects inside its radius will rapidly increase, causing dangerous impacts on surrounding objects, including the holder. Radiation output is highest on the artefact radiation scale.
+			A superior version of Gravi, created when three Gravi artefacts interact and get sucked into each other's singularity fields. Discovered by scientist Sakharov at Yantar after a massive blowout/emission hit the Zone. Highly valued and sought after by special agents. Creates a constant anti-gravitational singularity field affecting its vicinity. However, increases the velocity of moving objects inside its radius, causing dangerous impacts. Radiation output is highest on the artefact radiation scale. Rumoured within Ukrainian Spetsnaz circles that Russian agents are acquiring Goldfish for specialized laboratories.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -239,7 +329,11 @@
 	</string>
 	<string id="st_af_dummy_glassbeads_descr">
 		<text>
-		Shaped like a DNA helix, Mama's Beads are created in the Burner anomaly. One of their most characteristic features is that they constantly pulsate, generating emissions beneficial to the human body. These emissions increase the metabolism of any living creature, accelerating coagulation and healing of wounds.The mechanism behind the effects of this artefact is still unknown. Mama's Beads also possess potent protective qualities: they are able to shield the body and objects from extreme heat. On the other hand, it should be noted that the presence of this artefact increases electrical conductivity, so the probability of electrocution while wearing this artefact is much higher, especially during storms and in the vicinity of electrical anomalies. The weight is also quite high for such a small artefact, which leads to a conclusion that is of high density. Radiation output is low on the artefact radiation scale.
+			Shaped like a DNA helix, Mama's Beads are created in the Burner anomaly. They constantly pulsate, generating emissions that increase metabolism, accelerating coagulation, and healing wounds. The mechanism behind these effects is still unknown. Mama's Beads also shield the body and objects from extreme heat. However, they increase electrical conductivity, raising the risk of electrocution, especially during storms and near electrical anomalies. Quite dense and heavy for a small artefact. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] bleeding artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -248,7 +342,11 @@
 	</string>
 	<string id="st_af_eye_descr">
 		<text>
-		This artefact, which resembles the human eye, considerably increases metabolism of the body, helping wounds heal quicker. Experienced stalkers say that Eye also brings luck. Irrespective of the validity of that statement, its positive effects are indeed quite potent. This artefact soothes the pain and is extremely useful when treating wounds. When worn, it is known to slightly counter harmful effects of psy-anomalies or psy-waves of certain mutants. These beneficial qualities, however, come at a price. This artefact is extremely dangerous when exposed to chemical anomalies as it amplifies their toxicity and increases their potency. It is hence highly recommended to keep the artefact in your backpack, never on the body, when exploring toxic areas unless you have a death wish. The artefact is also known colloquially as "copper eye" as it conducts electricity and amplifies its dangerous effects in the same way as copper does. Radiation output is average on the artefact radiation scale.
+			This artefact, resembling the human eye, considerably increases metabolism, helping wounds heal quicker. Experienced stalkers say it also brings luck. Soothes pain and is extremely useful for treating wounds. Slightly counters harmful effects of psy-anomalies or psy-waves. Extremely dangerous in chemical anomalies as it amplifies toxicity. Highly recommended to keep it in your backpack, not on your body, when exploring toxic areas. Known colloquially as "copper eye" due to its conductive properties. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] bleeding artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -257,15 +355,25 @@
 	</string>
 	<string id="st_af_fire_descr">
 		<text>
-		This artefact forms in areas of high thermal activity. Produces powerful infrared emissions which intensify metabolic processes, healing wounds before its bearer's very eyes. Its healing capabilities are even stronger than in case of the Eye as stalkers in possession of this artefact are said to have survived being wounded by chimeras. Thanks to that, it has earned the reputation of a miraculous artefact. Many stalkers owe it their lives, and most veteran mutant hunters carry it in case they run into danger. However, it shares not only positive but also negative properties of its cousin: entering a psy-field with this artefact on the belt is suicide. It will absorb psy energy and emitting it at a considerable rate. Also, it is highly advised to proceed with caution when planning to bring the artefact to the market as prolonged exposure to even minimal amounts of radioactive materials can result in death of the user. It can also be used as a reusable medkit of sorts since it heals wounds very quickly. Radiation output is high on the artefact radiation scale.
+			Forms in areas of high thermal activity, producing powerful infrared emissions that intensify metabolic processes, healing wounds rapidly. Its healing capabilities are stronger than the Eye artefact, helping stalkers survive severe wounds. Shares positive and negative properties with the Eye: entering a psy-field with Flame is dangerous as it absorbs psy energy and emits it at a considerable rate. Highly recommended to proceed with caution when planning to sell it due to potential radioactive exposure. Can be used as a reusable medkit due to its rapid healing properties. Radiation output is high on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] bleeding artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
+
 
 	<string id="st_af_dummy_battery_name">
 		<text>Battery</text>
 	</string>
 	<string id="st_af_dummy_battery_descr">
-		<text> The artefact is quite popular in the Zone and is valued by its residents and visitors alike for its energizing properties, although it has an adverse effect on the body when used for prolonged periods of time. One should take note, however, that this artefact hinders blood clotting and increases bleeding rate of open wounds. On the other hand, being a powerful resistor, it is well known for its ability to shield its user from lethal doses of electricity. Being an artefact of electric nature, it is well known for its ability to shield its user from lethal doses of electricity. On the contrary, it should be noted that Battery absorbs heat and is able to convey it to other objects. This artefact is also extremely light and very portable. Radiation output is low on the artefact radiation scale.
+		<text>
+			A popular artefact in the Zone, valued for its energizing properties. However, it has adverse effects on the body with prolonged use, hindering blood clotting and increasing the bleeding rate of open wounds. Being a powerful resistor, it shields its user from lethal doses of electricity. It also absorbs heat and conveys it to other objects. Extremely light and portable. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -274,7 +382,11 @@
 	</string>
 	<string id="st_af_dummy_dummy_descr">
 		<text>
-		Shell is composed of two disk of bluish colour connected by semitransparent material of unknown nature. This strange artefact was considered devoid of any useful properties by many scientists for a long time. Only recently has it been discovered that it is indeed quite beneficial. When the artefact comes into contact with the body, it will make one feel rejuvenated and thus it increases stamina recovery. This effect has in case of some stalkers induced hyperactivity. One downside of this artefact, however, is that it reduces the number of platelets in blood, thus increasing bleeding rate. It provides a considerable level of psy protection and absorbs electromagnetic interference, acting as a grounding material. It will catch fire when exposed to open flame or even spontaneously combust. Caution must be taken when approaching heat sources with this artefact. Shell is extremely light and very portable. Radiation output is average on the artefact radiation scale.
+			Composed of two bluish disks connected by semitransparent material of unknown nature. Initially considered devoid of useful properties, it was recently discovered to increase stamina recovery, sometimes inducing hyperactivity. However, it reduces the number of platelets in blood, increasing the bleeding rate. Provides considerable psy protection and absorbs electromagnetic interference, acting as a grounding material. Catches fire or spontaneously combusts when exposed to open flame. Extremely light and portable. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -283,7 +395,11 @@
 	</string>
 	<string id="st_af_ice_descr">
 		<text>
-		Also colloquially known as "Radioactive Snowflake". At first glance, this artefact resembles a white Kolobok. Thanks to its unique properties, the artefact can significantly increase the bearer's muscle tone, thus greatly improving stamina recovery. Due to its high radioactivity, stalkers in possession of it are sometimes jokingly referred to as "Radioactive Snowflakes". When faced with the decision whether to carry it on the belt during a mission, you have to carefully weigh its pros and cons: does it pay to have greater endurance and high protection against electricity at the cost of being constantly exposed to its deadly radiation? Even if you are determined to take it with you, it should be noted that it is not to be used on long excursions to the Zone. Snowflake, however, holds a big downside: it interacts with surrounding energy sources by absorbing and amplifying their effects. For this reason, approaching heat sources, toxic areas and psy-fields while holding this artefact is a suicide. It is as light as a snowflake and very easy to carry around. Radiation output is high on the artefact radiation scale.
+			Also known as "Radioactive Snowflake," this artefact resembles a white Kolobok. Significantly increases muscle tone, greatly improving stamina recovery. Known for its high radioactivity, stalkers with it are sometimes jokingly called "Radioactive Snowflakes." Increases endurance and offers high protection against electricity, but constant radiation exposure is deadly. Interacts with surrounding energy sources, absorbing and amplifying their effects, making it dangerous in heat, toxic areas, and psy-fields. Light and easy to carry. Radiation output is high on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -292,7 +408,11 @@
 	</string>
 	<string id="st_af_soul_descr">
 		<text>
-		Soul is a unique organic artefact with properties just as unique: it secretes slimy goo that dramatically increases recovery rate of wounds. Thanks to its reasonable price and attractive appearance, this artefact is a valuable collector's item. Applying its gooey substance to wounds will soothes the pain and speeds up healing process. It also reduces the effects of psy-waves and their damage to one's brain. But it should be known that Soul drains power from its user. The artefact does not have high density and thus is not very heavy. Radiation output is low on the artefact radiation scale.
+			A unique organic artefact secreting a slimy goo that dramatically increases wound recovery rate. Valued for its reasonable price and attractive appearance, making it a collector's item. Applying the goo to wounds soothes pain and speeds up healing. Reduces effects of psy-waves and their damage to the brain. However, it drains power from its user. Not very heavy due to low density. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -301,7 +421,11 @@
 	</string>
 	<string id="st_af_fuzz_kolobok_descr">
 		<text>
-		A relatively rare artefact formation in chemical areas, Kolobok is highly valued for its ability to heal most kinds of wounds and stop bleeding in a matter of minutes. For unknown reasons, scientists are spreading rumours among stalkers that the artefact modifies bearer's genetic code, which is unproven and should be regarded as conscious attempt at monopolizing the supply of the artefact by the scientific community. This does not, however, mean that it is completely harmless. One drawback of this artefact is the fact that it will interact to radioactive particles, so it is best to avoid radiation fields when in possession of the artefact, especially since its negative effects are not balanced with positive ones. It will also reduce energy recovery, which is the result of its sharp needle-like appendages. The needles cause small and quickly healing wounds which bring constant pain and itch, thus reducing stamina. This artefact also weakens protection against heat and acids due to its high flammability. Lightweight and not too much of a burden to carry around. Radiation output is average on the artefact radiation scale.
+			A relatively rare artefact formation in chemical areas, Kolobok heals most wounds and stops bleeding in minutes. Rumoured to modify the bearer's genetic code, though unproven. It interacts with radioactive particles, making it dangerous in radiation fields. Reduces energy recovery due to sharp needle-like appendages causing small, quickly healing wounds that reduce stamina. Weakens protection against heat and acids due to high flammability. Lightweight and not burdensome to carry. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -310,7 +434,11 @@
 	</string>
 	<string id="st_af_glass_descr">
 		<text>
-		Firefly interacts with fields unknown to science, considerably speeding up regeneration of tissue and organs in living beings, as well as normalizing metabolic processes. This artefact can literally get a badly wounded stalker back on his feet in a matter of minutes. On the other hand, Firefly can spontaneously combust when exposed to potent radioactive sources. A big downside to this artefact is that it weakens the body and reduce the number of platelets in blood during heal process, thus increasing bleeding rate. It seems to drain stamina and decrease stamina recovery greatly as well. Some of those who used Firefly for its healing purposes have reported that they couldn't walk for hours afterwards. Unfortunately, the Firefly artefact is extremely rare. Radiation output is high on the artefact radiation scale.
+			Firefly interacts with unknown fields, speeding up tissue and organ regeneration and normalizing metabolic processes. Can get a badly wounded stalker back on his feet in minutes. However, it can combust when exposed to potent radioactive sources. Weakens the body and increases bleeding rate during healing. Drains stamina and decreases stamina recovery significantly. Rare and highly sought after. Radiation output is high on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -319,7 +447,11 @@
 	</string>
 	<string id="st_af_compass_descr">
 		<text>
-		A very rare artefact. It's been several years since one was found. It can locate gaps in anomaly fields. It is believed that it can help one traverse the most complex anomaly fields completely unharmed. However, very few know how to handle it properly. The Compass showed few unique properties under last experiments. It can interact to moving objects, causing some to completely disappear. Or perhaps teleport? It also weakens the body by draining stamina and increasing bleeding rate constantly. But the biggest draw however, is the dangerous radiation output this artefact emits comparing to the artefact radiation scale. Holding this artefact near the body will cause death in matter of few minutes.
+			A very rare artefact capable of locating gaps in anomaly fields, allowing safe traversal. Few know how to handle it properly. Shows unique properties under experiments, such as interacting with moving objects, causing them to disappear or teleport. Weakens the body by draining stamina and increasing bleeding rate. Emits dangerous levels of radiation, causing death within minutes when held near the body. Radiation output is highest on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] top tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -328,17 +460,25 @@
 	</string>
 	<string id="st_af_oasis_heart_descr">
 		<text>
-		This artefact was found at the centre of the legendary Oasis. It appears that the Heart is a crystallised plant, which has acquired the healing properties of the Oasis. Not only it dramatically increases recovery rate of wounds and healing process, but also provides the body with strong source of energy. It is a true miracle. That being said, the Oasis is very sensitive to outer sources of energy and surrounding environment. For this reason, interacting with anomaly fields will bring death to the holder. Radiation output is highest on the artefact radiation scale.
+			Found at the centre of the legendary Oasis, this artefact is a crystallised plant with healing properties. Dramatically increases wound recovery and provides strong energy to the body. Highly sensitive to outer energy sources and surrounding environment, making interaction with anomaly fields deadly. Radiation output is highest on the artefact radiation scale. A true miracle of the Zone, it is highly prized for its remarkable healing capabilities.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] top tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
+
 
 	<string id="st_af_death_lamp_name">
 		<text>Death Lamp</text>
 	</string>
 	<string id="st_af_death_lamp_descr">
 		<text>
-		"Big, red and cursed." This is how the locals prefer to describe the Death Lamp, while some refer to it as the "Seed of Satan". Many traders believe the rumours surrounding the artefact, thus refusing to buy it.
-		Little is known about its origins, and nothing of value has been discovered so far. Death Lamp was first discovered few years ago by a group of three experienced stalkers. Shortly after delivering the artefact to the Ecologists in Yantar, two of them found dead with a horrific expression on their faces. Nothing is known about the fate of the third stalker. Following the accident, members of the science team who studied the artefact had reported having nightmare disorder in the days to follow. Apart from the mysterious effects, the artefact drains vitality and willpower from the user, often on such a scale that it induces dizziness and in extreme cases causes the user to faint. Radiation output is highest on the artefact radiation scale. 
+			"Big, red, and cursed." This is how the locals describe the Death Lamp, also known as the "Seed of Satan." Many traders believe the rumours surrounding the artefact, thus refusing to buy it. Discovered a few years ago by three experienced stalkers, two of whom were found dead with horrific expressions after delivering it to the Ecologists in Yantar. The fate of the third stalker remains unknown. Members of the science team reported nightmare disorder after studying the artefact. The Death Lamp drains vitality and willpower from the user, inducing dizziness and fainting in extreme cases. Radiation output is highest on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
 		</text>
 	</string>
 
@@ -346,25 +486,43 @@
 		<text>Volat Emerald</text>
 	</string>
 	<string id="st_af_monolith_descr">
-		<text>The origins of artefacts such as this one are a mystery, as they are rarely found outside the northernmost parts of the Zone. This unique artefact projects a non-contact field that inhibits nearbly anomalous phenomena. This grants the wearer a notable level of protection against most of the Zone's environmental hazards. It is also one of the few active artefacts that can be safely handled without lead containers. However, when you hold it your flesh feels dry and flaky, your bones hard and stiff, the ligaments in your joints squeaky and brittle. Thick armour or great supernatural vitality would be needed by anyone intending to wear this artefact into battle.</text>
+		<text>
+			A unique artefact rarely found outside the northernmost parts of the Zone. Projects a non-contact field that inhibits nearby anomalous phenomena, providing notable protection against most environmental hazards. Can be safely handled without lead containers. However, holding it makes your flesh feel dry and flaky, bones hard and stiff, and ligaments squeaky and brittle. Thick armour or great supernatural vitality is needed for anyone intending to wear this artefact into battle. Origins of artefacts like this are a mystery. Radiation output is highest on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] top tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_black_name">
 		<text>Black Stone</text>
 	</string>
 	<string id="st_af_black_descr">
-		<text>A mysterious formation with an unnaturally dark appearance, cold and slightly vibrating to the touch. The Black Stone artefact seems to protect its user against different kinds of harms, though its exact beneficial properties seem to vary. Carrying the artefact has irreversible negative effects on the body and prolonged use will slowly kill the owner. The method this occurs is unknown, some speculate it is somehow directly draining the life force, absorbing it into itself. There are suspicions among scientific circles that the artefact is a shard of the Monolith itself.</text>
+		<text>
+			A mysterious formation with an unnaturally dark appearance, cold and slightly vibrating to the touch. The Black Stone artefact seems to protect its user against different kinds of harms, though its exact beneficial properties seem to vary. Carrying the artefact has irreversible negative effects on the body and prolonged use will slowly kill the owner. The method this occurs is unknown, some speculate it is somehow directly draining the life force, absorbing it into itself. There are suspicions among scientific circles that the artefact is a shard of the Monolith itself.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_green] • %c[ui_gray_2] containable artefact\n
+		</text>
 	</string>
+
 
 	<!--
 		MLR
 	-->
 
 	<string id="st_af_misery_bread_name">
-		<text>"Bread"</text>
+		<text>Strange Bread</text>
 	</string>
 	<string id="st_af_misery_bread_descr">
-		<text>An unassuming piece of bread that appears well-preserved on the outside but is completely hardened and unnaturally dense when touched.It was likely formed in gravitational anomalies and was possible created from the compression of multiple loafs into one. Although it potentially holds the nutritional value of an entire bakery, consumption is highly discouraged. The bread does emit a low level of radiation.</text>
+		<text>An unassuming piece of bread that appears well-preserved on the outside but is completely hardened and unnaturally dense when touched.It was likely formed in gravitational anomalies and was possible created from the compression of multiple loafs into one. Although it potentially holds the nutritional value of an entire bakery, consumption is highly discouraged. The bread does emit a low level of radiation.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+		%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<!--
@@ -375,372 +533,646 @@
 		<text>Cocoon</text>
 	</string>
 	<string id="st_af_cocoon_descr">
-		<text>A small, irregularly-shaped artefact formed in gravitational anomalies. It owes its name to two different factors. For one, the exterior structure of the artefact resembles caterpillar silk. But the more interesting part lies within its utility. When close to the body, the artefact reacts every time the owner is being hit by blunt or cutting trauma, spreading a cocoon-like substance over them that protects from further damage. The protection comes at a price however, limiting the movement of the user each time Cocoon activates and the protective layer thickens.\n</text>
+		<text>
+		A small, irregularly-shaped artefact formed in gravitational anomalies. The exterior structure resembles caterpillar silk, giving it its name. When close to the body, Cocoon reacts to blunt or cutting trauma, spreading a cocoon-like substance over the user that protects from further damage. However, this protection limits the movement of the user each time the artefact activates and the protective layer thickens. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+		%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_cell_name">
 		<text>Cell</text>
 	</string>
 	<string id="st_af_cell_descr">
-		<text>An artefact formed in gravitational anomalies, likely due to intense localized magnetic fields. Its interior structure spins perpetually on its axis as long as it is not disturbed. Cell has one truly noteworthy to an average person property. Any very fast moving objects getting within its close proximity get partially disintegrated, releasing a hefty amount of radioactive particles in the process. Some stalkers use the artefact to their advantage, claiming that dealing with radiation sickness later beats getting hit with a bullet in the present.\n</text>
+		<text>
+			An artefact formed in gravitational anomalies, likely due to intense localized magnetic fields. Its interior structure spins perpetually on its axis as long as it is not disturbed. Cell has one noteworthy property: any fast-moving objects in its proximity get partially disintegrated, releasing a hefty amount of radioactive particles. Some stalkers use this to their advantage, preferring to deal with radiation sickness later rather than getting hit by a bullet. Radiation output is high on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_fountain_name">
 		<text>Fountain</text>
 	</string>
 	<string id="st_af_fountain_descr">
-		<text>A common artefact formed in gravitational anomalies. Its bizarre shape makes it is very valued by collectors. Interestingly enough, there's not an insignificant amount of stalkers claiming that being in possession of this artefact helps them strike a better deal with the Zone's traders. Whether it's true or not remains to be confirmed, however the mentioned merchants would rather not speak of it. \n</text>
+		<text>
+			A common artefact formed in gravitational anomalies. Its bizarre shape makes it highly valued by collectors. Some stalkers claim that possessing this artefact helps them strike better deals with traders, although merchants prefer not to discuss it. The exact mechanism of this effect remains unconfirmed. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_spaika_name">
 		<text>Spike</text>
 	</string>
 	<string id="st_af_spaika_descr">
-		<text>A common artefact formed in gravitational anomalies, that resembles petrified wood or bone. Stalkers that dared to use it on their belts say that the artefact calms them down and helps them focus in stressful combat situations, letting them hit their enemies in vital spots. Strangely enough, they also claim that the artefact gets 'angry at them' for missing their shots, which makes most folks avoid using it, fearing a permanent Zone-induced schizophrenia. \n</text>
+		<text>
+			A common artefact formed in gravitational anomalies, resembling petrified wood or bone. Stalkers report that it calms them down and helps them focus in stressful combat situations, improving their aim. However, they also claim the artefact gets 'angry' when they miss their shots, leading to fears of Zone-induced schizophrenia. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_signet_name">
 		<text>Signet</text>
 	</string>
 	<string id="st_af_signet_descr">
-		<text>An artefact that appears to be a warped metal nut. Occasionally also called an "Amulet". The latter comes from the fact that some stalkers tend to keep their Signets instead of selling them, saying that its presence helps them relax and regenerate after a dangerous raid into the Zone.\n</text>
+		<text>
+			An artefact that appears to be a warped metal nut, occasionally called an "Amulet." Some stalkers keep their Signets instead of selling them, claiming it helps them relax and regenerate after dangerous raids into the Zone. The exact mechanism behind this effect is unknown. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_repei_name">
 		<text>Thistle</text>
 	</string>
 	<string id="st_af_repei_descr">
-		<text>A common artefact spawned in gravitational anomalies. Despite their prickly appearances, Thistles seem incapable of penetrating flesh or damaging the body in any way. Recent experiments and observations confirmed them reacting with various heavy metals - property especially visible with lead. Various medical reports of wounded stalkers and soldiers show that the bullets shot by the user of this artefact shave some of the outer material to become serrated and sharp upon entering the body, creating smaller but much heavier bleeding wounds. To make matters worse, any bullet that was recently within vicinity of a Thistle will start twitching around upon contact with iron contained in human blood, causing the wound to be painful and hard to close up for a period of time.\n</text>
+		<text>
+			A common artefact spawned in gravitational anomalies. Despite their prickly appearance, Thistles do not penetrate flesh or damage the body. They react with heavy metals, especially lead, causing bullets shot by the user to become serrated and create heavier bleeding wounds. Bullets near a Thistle will twitch upon contact with iron in human blood, making wounds painful and hard to close. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_bat_name">
 		<text>Bat</text>
 	</string>
 	<string id="st_af_bat_descr">
-		<text>A rare and beautiful artefact, consisting of two irregularly-shaped "wings" protecting a lustrous spherical core. Does not emit radiation and is quite heavy. Experienced artefact hunters learned how to use its special ability to their advantage. Once activated and placed near another artefact, Bat will extend its "wings", grab it with them, force it into its core and then close up. Soon after that the shell will turn into dust, revealing an artefact with much stronger properties or, sometimes, a completely different one altogether.\n</text>
+		<text>
+			A rare and beautiful artefact, consisting of two irregularly-shaped "wings" protecting a lustrous spherical core. Does not emit radiation and is quite heavy. Experienced artefact hunters use its special ability: when activated and placed near another artefact, Bat will extend its "wings," grab the artefact, and force it into its core. The shell then turns to dust, revealing an artefact with stronger properties or a completely different one. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_sun_name">
 		<text>Sun</text>
 	</string>
 	<string id="st_af_sun_descr">
-		<text>A rare artefact that is very much appreciated by collectors. Its exterior shell is unremarkable, but if cracked like a geode, reveals a swirling luminous core that emits a constant source of warm yellow light. Suns enjoy the company of actual sunrays, giving users of this artefact a source of energy when exposed to them. In the same way, when kept away from a direct source of natural light, they grab energy from nearby living things, draining them down slowly.\n</text>
+		<text>
+			A rare artefact highly appreciated by collectors. Its exterior shell is unremarkable, but if cracked like a geode, it reveals a swirling luminous core emitting warm yellow light. Suns thrive in actual sunlight, giving users energy when exposed. However, when kept away from natural light, they drain energy from nearby living things. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
+
 
 	<string id="st_af_ear_name">
 		<text>Heart</text>
 	</string>
 	<string id="st_af_ear_descr">
-		<text>A bizarrely-shaped artefact, whose crystalline core resembles a miniature human circulatory system. Ever since the rumours spread that the artefact is able to heal dying creatures and people, the interest in obtaining these skyrocketed, both for sale to the outside world and for ensuring your own survival inside the Zone.\n</text>
+		<text>
+			A bizarrely-shaped artefact whose crystalline core resembles a miniature human circulatory system. Rumoured to heal dying creatures and people, the interest in obtaining these artefacts has skyrocketed both for sale and for ensuring survival inside the Zone. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] health artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_chelust_name">
 		<text>Chain</text>
 	</string>
 	<string id="st_af_chelust_descr">
-		<text>An unusual circular artefact, not to be confused with a Ring. Generates a strong gravitational field while nothing touches it. At first glance its weight doesn't justify the minor tiredness and pain alleviation. But those ones who devoted their lives to Vyraj and The Masters can truly realise the potential of the artefact.\n</text>
+		<text>
+			An unusual circular artefact that generates a strong gravitational field when untouched. Despite its weight, it provides minor tiredness and pain alleviation. Those devoted to Vyraj and The Masters can truly realise the artefact's potential. Radiation output is average on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_atom_name">
 		<text>Atom</text>
 	</string>
 	<string id="st_af_atom_descr">
-		<text>A rare and unusual artefact that resembles the old Bohr model of an atom. Not radioactive, but does produce a small amount of heat. It is very valuable to collectors and scientists both due to its shape and its properties. Stalkers suffering from being heavily irradiated due to an unfortunate exposure, when using this artefact, suddenly seem as if they regained their youth in terms of vitality. Over time the effect diminishes, but so does the radiation residing in their bodies.\n</text>
+		<text>
+			A rare artefact resembling the old Bohr model of an atom. Though not radioactive, it produces a small amount of heat. It is valuable to collectors and scientists for its shape and properties. Stalkers suffering from heavy radiation exposure seem rejuvenated when using this artefact, though the effect diminishes over time as does the radiation in their bodies. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] stamina artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_lighthouse_name">
 		<text>Beacon</text>
 	</string>
 	<string id="st_af_lighthouse_descr">
-		<text>A clotted mass of superdense ferrous metals. It is one of the most mysterious artefacts in the Zone as its inner workings still baffle the greatest minds in modern science. Beacon in its active state is able to detect whenever one living thing kills another, no matter the distance between the two, as long as the intent on murder and causality are very clear. The resulting reaction is no less mysterious - the murderer is almost instantly 'teleported' towards the place where the victim drew their last breath.\n</text>
+		<text>
+			A clotted mass of superdense ferrous metals, one of the most mysterious artefacts in the Zone. In its active state, it detects when one living thing kills another, no matter the distance, as long as the intent and causality are clear. The murderer is almost instantly 'teleported' to where the victim drew their last breath. Its inner workings baffle even the greatest minds in modern science. Radiation output is high on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_fire_loop_name">
 		<text>Knot</text>
 	</string>
 	<string id="st_af_fire_loop_descr">
-		<text>This artefact is occasionally formed in the extreme heat of thermal anomalies. Various legends surround it, most of them scary enough to make some stalkers avoid ever picking it up. It is known however that whoever had dared to activate a Knot was never able to get rid of it, as the artefact would always come back to them. Other, less reliable sources talk about superhuman abilities, hearing of voices, reckless behaviour and weird disappearances. \n</text>
+		<text>
+			Formed in the extreme heat of thermal anomalies, various legends surround this artefact, often deterring stalkers from picking it up. Once activated, Knot always returns to its owner, who can never get rid of it. Some sources talk about superhuman abilities, hearing voices, reckless behaviour, and strange disappearances. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_zhelch_name">
 		<text>Scar</text>
 	</string>
 	<string id="st_af_zhelch_descr">
-		<text>Everyone knows the saying "a sound mind in a sound body". The Zone made it take an artefact form. Back in the day stalkers used to take advantage of Scars to heal their wounds and explore mind-altering anomalies. Unfortunately, over time the artefact showed its more sinister side. People using Scars would behave weirdly and erratically, even more so when recovering from serious damage done to their bodies. Nowadays there are very few brave enough to attach one of these to their belt, as Zone veterans enjoy telling chilling stories about Scar users to rookies gathered around campfires.\n</text>
+		<text>
+			An artefact that embodies the saying "a sound mind in a sound body." Initially used by stalkers to heal wounds and explore mind-altering anomalies, over time, it showed a sinister side. Users exhibited erratic behaviour, especially when recovering from serious injuries. Few are brave enough to use Scars now, with veterans telling chilling stories about its effects around campfires. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_sandstone_name">
 		<text>Sandstone</text>
 	</string>
 	<string id="st_af_sandstone_descr">
-		<text>An artefact sometimes formed in extreme temperature anomalies. To this day no one knows how it's possible, but Sandstone seems to possess some sort of intelligence that allows it to identify a user's weapon. Upon linking itself to it, the artefact will seek out an anomaly to interact with, infusing the most lethal elements with corresponding anomalous properties, making them much more damaging.\n</text>
+		<text>
+			Formed in extreme temperature anomalies, Sandstone possesses an intelligence that allows it to identify a user's weapon. It links itself to the weapon and seeks out an anomaly, infusing lethal elements with corresponding anomalous properties, making them much more damaging. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_kislushka_name">
 		<text>Sourpuss</text>
 	</string>
 	<string id="st_af_kislushka_descr">
-		<text>A hollow spherical artefact resembling a transparent parchment of some sorts. Covered with a layer of film, it is pleasant to the touch. Sourpuss activates whenever it gets covered in warm blood, and utilising the user's energy produced from burning calories it starts excreting a stimulant that helps any bleeding wound to clot up and close much faster. This ability gained it a lot of popularity in the medical world, hence the nice price it fetches.\n</text>
+		<text>
+			A hollow spherical artefact resembling a transparent parchment. Covered with a film, it activates when covered in warm blood, using the user's energy to excrete a stimulant that helps bleeding wounds clot and close faster. Popular in the medical world, it fetches a nice price. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] health artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_black_angel_name">
 		<text>Black Angel</text>
 	</string>
 	<string id="st_af_black_angel_descr">
-		<text>An artefact of anomalous minerals that has been twisted into an ominous semi-symmetrical formation. Despite emitting no heat or radiation, it can condense water vapor in nearby air into steam. The artefact seems to have some sort of defense system. When hit by an incoming bullet, it is able to detect where the shot came from and redirect the potential damage back to the person shooting. \n</text>
+		<text>
+			An artefact of anomalous minerals twisted into an ominous semi-symmetrical formation. Despite emitting no heat or radiation, it can condense water vapor into steam. When hit by a bullet, it detects the shot's origin and redirects the potential damage back to the shooter. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_grapes_name">
 		<text>Grapes</text>
 	</string>
 	<string id="st_af_grapes_descr">
-		<text>A heavy artefact sometimes found in gravitational anomalies, it resembles drops of green-tinted amber twisted together. Very recently scientists were able to confirm what was previously considered to be just another one of the Zone's hearsays - when Grapes find themselves nearby an ongoing digestion process of a living organism, they activate, stimulating one's metabolism to heal more effectively. \n</text>
+		<text>
+			A heavy artefact sometimes found in gravitational anomalies, resembling drops of green-tinted amber twisted together. Recently confirmed to activate near ongoing digestion, stimulating metabolism to heal more effectively. Previously considered hearsay, this ability has been validated by scientists. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] health artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_skull_miser_name">
 		<text>Miser's Skull</text>
 	</string>
 	<string id="st_af_skull_miser_descr">
-		<text>A light and fragile artefact consisting of interlinked strands of anomalous plant fibers. The artefact is a favourite among various scum that took residence in the Zone and is sometimes referred to as a "small Wish Granter" by them. When the user of this artefact kills someone by damaging their brain, the Zone rewards them by dropping currency around the victim. Some say it's the Zone wanting stalkers to murder each other so it gets left in peace. Others say that it wouldn't be full of riches like that if it didn't want people around. \n</text>
+		<text>
+			A light and fragile artefact consisting of interlinked strands of anomalous plant fibers. Favoured by various scum in the Zone and sometimes referred to as a "Small Wish Granter." When the user kills someone by damaging their brain, the Zone rewards them with currency around the victim. Some believe it's the Zone's way of encouraging murder for peace, while others think it attracts people with riches. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
+
 
 	<string id="st_af_star_phantom_name">
 		<text>Phantom Star</text>
 	</string>
 	<string id="st_af_star_phantom_descr">
-		<text>This artefact appears to be a plasma-like substance suspended within a striated transparent shell. Generates a weak gravitational field, making it difficult to hold still or balance. Phantom Star when active seems to be affecting minds of nearby living beings - its user suddenly stops being noticed until some sort of forceful interaction happens. The artefact manipulates the owner as well, preventing them from being able to engage in any sort of hostility.\n</text>
+		<text>
+			This artefact appears to be a plasma-like substance suspended within a striated transparent shell. It generates a weak gravitational field, making it difficult to hold still or balance. When active, Phantom Star affects the minds of nearby living beings, causing the user to become unnoticed until a forceful interaction occurs. It also prevents the owner from engaging in hostility. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_medallion_name">
 		<text>Medal</text>
 	</string>
 	<string id="st_af_medallion_descr">
-		<text>An artefact consisting of a small hoop embedded with four triangular shapes, with a small central sphere embedded in the middle. Medal has successfully dodged any attempts at logically explaining its inner workings. Not only is this artefact able to tell whether the user is a part of a group, it possesses another, much more mysterious ability. Whether it manipulates objects or bodies themselves still remains to be determined, however it is a known fact that when a person using this artefact is about to get hurt, there is a non-insignificant chance that they remain unscathed, as an identical type of damage gets inflicted on someone else from that person's company instead. While such an effect might be desirable in a selfish way, it is not unheard of among stalkers and many of them might not take kindly to the fact that they are being exposed to it. \n</text>
+		<text>
+			An artefact consisting of a small hoop embedded with four triangular shapes and a central sphere. Medal defies logical explanation. It can detect if the user is part of a group and has a mysterious ability to transfer damage intended for the user to someone else in their company. While desirable for selfish reasons, it is not well-received by other stalkers. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_peas_name">
 		<text>Moon</text>
 	</string>
 	<string id="st_af_peas_descr">
-		<text>An artefact shaped like a lunar crescent. The exterior shell continuously generates a very dim light that seems to be stimulating the user. At night, it will make you feel rested and energetic, but reverse effect will happen during daylight.\n</text>
+		<text>
+			An artefact shaped like a lunar crescent. Its exterior shell continuously generates a dim light that stimulates the user. At night, it makes the user feel rested and energetic, but during daylight, it has the reverse effect. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_generator_name">
 		<text>Generator</text>
 	</string>
 	<string id="st_af_generator_descr">
-		<text>This anomalous disk is not radioactive, but generates a strong, small electromagnetic field. It can easily be made to 'spin' perpetually on its axis, especially when the user is moving fast. When that happens, the energy from the artefact connects itself to nearby drained batteries and devices and, provided they still had some electric charge left in them, restores their power slowly. \n</text>
+		<text>
+			An anomalous disk that generates a strong, small electromagnetic field. Not radioactive but can 'spin' perpetually on its axis when the user moves fast. The energy from the artefact connects to nearby drained batteries and devices, restoring their power slowly. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_ball_name">
 		<text>Ball</text>
 	</string>
 	<string id="st_af_ball_descr">
-		<text>Despite appearing as a mottled ball of dirt and rock, this artefact is unusually light and bouncy, hence its name. It is believed to be a product of electrical anomalies. When worn on the belt the artefact generates a force that can be activated to repel living creatures, for some reason excluding humans. To release said force a fast and strong movement needs to happen between the user and the target, hence why most stalkers using it resort to simply kicking various mutants. Obviously, the practice of getting this close to a Zone inhabitant is not advised. But is that going to stop you? \n</text>
+		<text>
+			Despite appearing as a mottled ball of dirt and rock, this artefact is unusually light and bouncy. Believed to be a product of electrical anomalies, it generates a force that can repel living creatures, excluding humans. Activation requires a fast and strong movement between the user and the target, often leading to stalkers kicking mutants. While not advised, it can be effective in dire situations. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_fonar_name">
 		<text>Lamp</text>
 	</string>
 	<string id="st_af_fonar_descr">
-		<text>This light, glassy artefact emits a modest amount of near-ultraviolet light. It reacts weirdly with certain radio waves, making sources of various transmissions glow. Stalkers tend to use this property to search for hidden stashes at night. \n</text>
+		<text>
+			This light, glassy artefact emits a modest amount of near-ultraviolet light. It reacts oddly with certain radio waves, making sources of various transmissions glow. Stalkers use this property to search for hidden stashes at night. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_tapeworm_name">
 		<text>Tapeworm</text>
 	</string>
 	<string id="st_af_tapeworm_descr">
-		<text>This artefact is pure silicon dioxide, twisted into an unusual shape and color by gravitational anomalies. It would be otherwise unremarkable, except for one fact. When activated, it will send strong electric shock towards any living creature that attacks the user via direct contact, effectively stunning them for a short duration of time. And as most things in the Zone, it doesn't distinguish between who attacks the wielder of the artefact, including himself. Very valued by stalkers that hunt mutants for a living.\n</text>
+		<text>
+			A pure silicon dioxide artefact, twisted into an unusual shape by gravitational anomalies. When activated, it sends a strong electric shock to any living creature attacking the user via direct contact, stunning them temporarily. However, it does not distinguish between attackers, including the user. Highly valued by mutant hunters. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_moh_name">
 		<text>Moss</text>
 	</string>
 	<string id="st_af_moh_descr">
-		<text>An artefact formed in electric anomalies. It has a sharp, jagged appearance but is actually quite soft and pleasing to the touch. Attached to the belt it is able to detect contents of the user's stomach. Once it recognizes any raw meat of the Zone origin within the digestive system, it will activate, using the flesh's energetic value to fuel all sorts of stimulating effects, depending on the type of creature consumed.\n</text>
+		<text>
+			An artefact formed in electric anomalies. Despite its sharp, jagged appearance, it is soft and pleasing to the touch. When attached to the belt, it detects the contents of the user's stomach. Upon recognizing any raw meat of Zone origin within the digestive system, it activates, using the flesh's energy to fuel stimulating effects, depending on the type of creature consumed. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
+
 
 	<string id="st_af_serofim_name">
 		<text>Seraphim</text>
 	</string>
 	<string id="st_af_serofim_descr">
-		<text>Seraphim was for the longest time considered to be nothing but a pretty bauble to be sold. That was until one veteran group of stalkers came back from a deep excursion and shared their story. According to them, at some point during their trip they got ambushed by a sniper. Their leader was taken out instantly and dropped dead with his skull split in half. While sending suppressive fire they noticed his belt lighting up as he stood up with no sign of scratch on him, with his helmet still having obvious entry and exit holes from the sniper's bullet. They managed to retreat and find out that the Seraphim artefact the leader kept as his lucky charm was gone and left behind only some glowing dust. Ever since then people that heard of this story hold their Seraphims dear, believing that the artefact will bring them back from the dead, should the worst happen. Of course, no one so far was brave enough to test if any of it was indeed true. \n</text>
+		<text>
+			Seraphim was long considered nothing but a pretty bauble to be sold. This changed when a veteran group of stalkers returned from a deep excursion with a remarkable story. They were ambushed by a sniper, and their leader was instantly killed, his skull split in half. While sending suppressive fire, they saw his belt light up, and he stood up without a scratch, his helmet still showing entry and exit holes from the sniper's bullet. They retreated and found that the Seraphim artefact the leader kept as a lucky charm was gone, leaving only glowing dust. Since then, those who heard the story hold their Seraphims dear, believing the artefact will bring them back from the dead. No one has been brave enough to test this. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_elektron_name">
 		<text>Electron</text>
 	</string>
 	<string id="st_af_elektron_descr">
-		<text>This artefact is a product of electrical anomalies. It is extremely heavy despite its small size. It has one interesting property. It is able to combine the common electro anomalies with other electric charges it finds nearby, using the anomaly as a power source. The most fascinating part of it is that the artefact considers human body to be a battery too, converting the energy into one that can be used by human cells during physical activity. As such, despite being a painful experience, one can enjoy being tireless for a short period of time. Side effects? Well, someone has yet to report them...\n</text>
+		<text>
+			This artefact is a product of electrical anomalies. It is extremely heavy despite its small size and has a unique property. It combines common electro anomalies with other electric charges nearby, using the anomaly as a power source. Fascinatingly, the artefact considers the human body a battery, converting energy into one usable by human cells during physical activity. Despite the painful experience, users enjoy being tireless for a short period. Side effects? Well, none have been reported so far. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_kogot_name">
 		<text>Claw</text>
 	</string>
 	<string id="st_af_kogot_descr">
-		<text>A beautiful glass-like artefact occasionally fished out of electrostatic anomalies. When used, it seems to fill its user with a weird combination of rage and desire to attack enemies directly, reinvigorating them for doing so. There's a pretty common story associated with this artefact - of a rookie that found a Claw together with his friend, only for them both to get chased by a pack of hungry dogs moments after. The 'friend' shot the rookie and took off, leaving him to certain death. To everyone's surprise the betrayed stalker came back to his camp, perfectly healthy, despite his clothes being completely torn from dog bites, with only a knife to his side and the artefact hanging by his belt. What happened to the backstabber is better off not being mentioned though.\n</text>
+		<text>
+			A beautiful glass-like artefact occasionally commonly found in and around electrostatic anomalies. When used, it fills its user with a combination of rage and a desire to attack enemies directly, reinvigorating them in the process. A common story associated with this artefact involves a rookie who found a Claw with his friend, only to be chased by a pack of hungry dogs moments later. The "friend" shot the rookie and took off, leaving him to certain death. To everyone's surprise, the betrayed stalker returned to camp, perfectly healthy despite his clothes being torn from dog bites, with only a knife and the artefact hanging by his belt. What happened to the backstabber is better left unsaid. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_dragon_eye_name">
-		<text>Dragon's eye</text>
+		<text>Dragon's Eye</text>
 	</string>
 	<string id="st_af_dragon_eye_descr">
-		<text>This artefact is sometimes formed in thermal anomalies and has the appearance of a reptile's eye. It has a very dangerous and volatile property associated with it. In some peculiar way, when the user of this artefact secures a kill, there's a small chance for a violent explosion to happen within the victim's body, killing or hurting anyone and anything nearby. The more superstitious say that it's the Zone ripping out violently the souls of fallen beings. Most just prefer to avoid using the artefact altogether because of the stories of people getting caught in such explosion at an unfortunate distance.\n</text>
+		<text>
+			A jagged artefact with the outer appearance of a reptile's eye, formed in thermal anomalies. It has a dangerous and volatile property. When the user secures a kill, there's a small chance for a violent explosion within the victim's body, harming anyone nearby. Superstitious stalkers say it's the Zone itself violently ripping out the souls of the fallen. Most prefer to avoid using it due to the stories of people getting caught in such explosions at unfortunate distances. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
+
 
 	<string id="st_af_vaselisk_name">
 		<text>Basilisk</text>
 	</string>
 	<string id="st_af_vaselisk_descr">
-		<text>One of the few artefacts in the Zone which copes well with all kinds of physical influences on its owner.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_cyan] • %c[ui_gray_2] inert artefact\n
-		%c[d_cyan] • %c[ui_gray_2] valuable</text>
+		<text>
+			A dense, rugged artefact with a hard, scaly surface, reminiscent of its mythical namesake. Its primary function is to absorb and dissipate kinetic energy, providing significant resistance to blunt force, cutting, and piercing damage. Despite its durability, it does not offer any regenerative or offensive capabilities. Highly valued by stalkers who prioritize physical protection over other benefits. One of the few artefacts in the Zone that effectively protects against all kinds of physical influences on its user. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_geliy_name">
 		<text>Helium</text>
 	</string>
 	<string id="st_af_geliy_descr">
-		<text>A bright (literally) representative of the family of electrostatic artefacts. It gives off a gaseous substance that has a beneficial effect on the body. Due to its high efficiency, it is in large demand.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_cyan] • %c[ui_gray_2] inert artefact\n
-		%c[d_cyan] • %c[ui_gray_2] valuable</text>
+		<text>
+			A bright, misshapen artefact found in electrostatic anomalies. It emits a luminous gas that benefits the body by enhancing physical endurance and overall vitality. This gas alleviates fatigue and improves the respiratory system, making it highly sought after. Its efficiency and demand make it valuable both inside and outside the Zone. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_af_gimlet_name">
 		<text>Gimlet</text>
 	</string>
 	<string id="st_af_gimlet_descr">
-		<text>The bowl-shaped petals of this artefact can release a powerful stimulant vapor which can alter the balance of human hormones. Of little use to stalkers, it is very much sought after for medical research. \n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_cyan] • %c[ui_gray_2] inert artefact\n
-		%c[d_cyan] • %c[ui_gray_2] valuable</text>
+		<text>
+			An artefact with strange bowl-shaped petals that are able to release a powerful stimulant vapor that alters the balance of human hormones. Though its practical by stalkers is questionable, it is highly sought after for medical research due to its unique properties and potential in research and development. The vapor can enhance physical and mental performance temporarily, but its long-term effects are unknown. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<string id="st_arty_save">
 		<text>Eye of the Noosphere</text>
 	</string>
 	<string id="st_arty_save_descr">
-		<text>One of the most mysterious artefacts in the Zone, the Eye of the Noosphere can transport its wielder back in time, even to escape death. A tight squeeze of the artefact activates its ability, creating a restoration point to go back to on activation or death. Frequent use can cause the artefact to change colour, but if discharged too frequently it may cease to function altogether. The Eye gradually restores its power over time, supposedly being fuelled by the anomalous energy of the Zone.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_red] • %c[ui_gray_2] superartefact</text>
+		<text>
+			An extremely powerful artefact with a rounded and smooth appearance. One of the most mysterious artefacts in the Zone, the Eye of the Noosphere can transport its wielder back in time, even under extreme circumstances. It has reportedly even been used to escape death.  A tight squeeze of the artefact activates its ability, creating a restoration point to go back to on activation or death. Frequent use can cause the artefact to change colour, but if discharged too frequently it may cease to function altogether. The Eye gradually restores its power over time, supposedly being fuelled by the anomalous energy of the Zone.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] top tier artefact\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
 	</string>
 
 	<!--
 		MISSION ARTEFACTS
 	-->
 
-	<string id = "st_af_ah_s1">
-		<text>"Aroth-8"</text>
+	<string id="st_af_ah_s1">
+		<text>Aroth-8</text>
 	</string>
-	<string id = "st_af_ah_s1_descr">
-		<text>An experimental and unstable artifact, created by artificial means. Where and under what circumstances it formed, is unknown. It seems to improve the natural healing process of the body via methods unknown to science.
+	<string id="st_af_ah_s1_descr">
+		<text>
+			An experimental and unstable artefact created by artificial means. The circumstances of its formation are unknown. It seems to improve the natural healing process of the body via methods unknown to science. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
 		</text>
 	</string>
 
-	<string id = "st_af_ah_g1">
-		<text>"Easy"</text>
+	<string id="st_af_ah_g1">
+		<text>Easy</text>
 	</string>
-	<string id = "st_af_ah_g1_descr">
-		<text>A lump of shriveled clay and organic debris. Separation of individual lumps of material seems impossible, due to the presence of some unknown and incredibly strong binding agent.
-		</text>
-	</string>
-	<string id = "st_af_ah_g2">
-		<text>"Easy"</text>
-	</string>
-	<string id = "st_af_ah_g2_descr">
-		<text>A lump of shriveled clay and organic debris. Separation of individual lumps of material seems impossible, due to the presence of some unknown and incredibly strong binding agent. Gives off a very slightly disorienting effect that can cause headaches.
+	<string id="st_af_ah_g1_descr">
+		<text>
+			A lump of shriveled clay and organic debris. Separation of individual lumps of material seems impossible due to the presence of an unknown and incredibly strong binding agent. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
 		</text>
 	</string>
 
-	<string id = "st_af_ah_o1">
-		<text>"Magnet"</text>
+	<string id="st_af_ah_g2">
+		<text>Easy</text>
 	</string>
-	<string id = "st_af_ah_o1_descr">
-		<text>An artefact created in fire anomalies consisting of mostly iron, bismuth, cadmium and nickel.
-		</text>
-	</string>
-	<string id = "st_af_ah_o2">
-		<text>"Magnet"</text>
-	</string>
-	<string id = "st_af_ah_o2_descr">
-		<text>An artefact created in fire anomalies consisting of mostly iron, bismuth, cadmium and nickel. Has heat absorbing properties.
+	<string id="st_af_ah_g2_descr">
+		<text>
+			A lump of shriveled clay and organic debris. Separation of individual lumps of material seems impossible due to the presence of an unknown and incredibly strong binding agent. It gives off a slightly disorienting effect that can cause headaches. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
 		</text>
 	</string>
 
-	<string id = "st_af_ah_r1">
-		<text>"Mushroom"</text>
+	<string id="st_af_ah_o1">
+		<text>Magnet</text>
 	</string>
-	<string id = "st_af_ah_r1_descr">
-		<text>An artifact found only in the Dead Forest, south of Lab X-9, containing mostly plant matter. It is believed that the strong psy-fields it was subjugated to during its formation have heavily influenced its shape and properties. Wearing one on the belt seems to boost vitality.
-		</text>
-	</string>
-	<string id = "st_af_ah_r2">
-		<text>"Mushroom"</text>
-	</string>
-	<string id = "st_af_ah_r2_descr">
-		<text>An artifact found only in the Dead Forest, south of Lab X-9, containing mostly plant matter. It is believed that the strong psy-fields it was subjugated to during its formation have heavily influenced its shape and properties. Wearing one on the belt seems to boost vitality.
-		</text>
-	</string>
-	<string id = "st_af_ah_r3">
-		<text>"Mushroom"</text>
-	</string>
-	<string id = "st_af_ah_r3_descr">
-		<text>An artifact found only in the Dead Forest, south of Lab X-9, containing mostly plant matter. It is believed that the strong psy-fields it was subjugated to during its formation have heavily influenced its shape and properties. Wearing one on the belt seems to boost vitality.
-		</text>
-	</string>
-	<string id = "st_af_ah_r4">
-		<text>"Mushroom"</text>
-	</string>
-	<string id = "st_af_ah_r4_descr">
-		<text>An artifact found only in the Dead Forest, south of Lab X-9, containing mostly plant matter. It is believed that the strong psy-fields it was subjugated to during its formation have heavily influenced its shape and properties. Wearing one on the belt seems to boost vitality.
-		</text>
-	</string>
-	<string id = "st_af_ah_r5">
-		<text>"Mushroom"</text>
-	</string>
-	<string id = "st_af_ah_r5_descr">
-		<text>An artifact found only in the Dead Forest, south of Lab X-9, containing mostly plant matter. It is believed that the strong psy-fields it was subjugated to during its formation have heavily influenced its shape and properties. Wearing one on the belt seems to boost vitality.
+	<string id="st_af_ah_o1_descr">
+		<text>
+			An artefact created in fire anomalies, consisting mostly of iron, bismuth, cadmium, and nickel. Magnet is characterized by its metallic sheen and slightly irregular shape, resembling a fused mass of metals. The artefact's primary feature is its ability to absorb heat from its surroundings. It also creates a cooling effect, protecting the user from thermal burns and heatstroke. Additionally, the artefact is known to slightly reduce ambient radiation levels. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
 		</text>
 	</string>
 
-	<string id = "st_af_ah_e1">
-		<text>"Souvenir"</text>
+	<string id="st_af_ah_o2">
+		<text>Magnet</text>
 	</string>
-	<string id = "st_af_ah_e1_descr">
-		<text>A shard of Silica Quartz formed exclusively in electro anomalies. It is remarkable pure, ranging from 99.5% to 99.9% purity. Provides the wearer with a feeling of youthfulness.
-		</text>
-	</string>
-	<string id = "st_af_ah_e2">
-		<text>"Souvenir"</text>
-	</string>
-	<string id = "st_af_ah_e2_descr">
-		<text>A shard of Silica Quartz formed exclusively in electro anomalies. It is remarkable pure, ranging from 99.5% to 99.9% purity. Provides the wearer with a feeling of youthfulness.
+	<string id="st_af_ah_o2_descr">
+		<text>
+			An artefact created in fire anomalies, consisting mostly of iron, bismuth, cadmium, and nickel. Magnet is characterized by its metallic sheen and slightly irregular shape, resembling a fused mass of metals. The artefact's primary feature is its ability to absorb heat from its surroundings. It also creates a cooling effect, protecting the user from thermal burns and heatstroke. Additionally, the artefact is known to slightly reduce ambient radiation levels. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
 		</text>
 	</string>
 
-	<string id = "st_af_ah_h1">
-		<text>"Sponge"</text>
+
+
+	<string id="st_af_ah_r1">
+		<text>Mushroom</text>
 	</string>
-	<string id = "st_af_ah_h1_descr">
-		<text>A lump of shriveled clay and organic debris. Separation of individual lumps of material seems impossible, due to the presence of some unknown and incredibly strong binding agent. The gravitational properties of the artefact seem to have effects similar to that of hemophilia.
-		</text>
-	</string>
-	<string id = "st_af_ah_h2">
-		<text>"Sponge"</text>
-	</string>
-	<string id = "st_af_ah_h2_descr">
-		<text>A lump of shriveled clay and organic debris. Separation of individual lumps of material seems impossible, due to the presence of some unknown and incredibly strong binding agent. The gravitational properties of the artefact seem to have effects similar to that of hemophilia.
+	<string id="st_af_ah_r1_descr">
+		<text>
+			An artefact found only in the Dead Forest, south of Lab X-9, containing mostly plant matter. It is believed that the strong psy-fields it was subjugated to during its formation have heavily influenced its shape and properties. When worn by a human subject, the artefact seems to provide a boost in perceived vitality and accelerated wound healing. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
 		</text>
 	</string>
 
-	<string id = "st_af_ah_f1">
+	<string id="st_af_ah_r2">
+		<text>Mushroom</text>
+	</string>
+	<string id="st_af_ah_r2_descr">
+		<text>
+			An artefact found only in the Dead Forest, south of Lab X-9, containing mostly plant matter. It is believed that the strong psy-fields it was subjugated to during its formation have heavily influenced its shape and properties. When worn by a human subject, the artefact seems to provide a boost in perceived vitality and accelerated wound healing. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_ah_r3">
+		<text>Mushroom</text>
+	</string>
+	<string id="st_af_ah_r3_descr">
+		<text>
+			An artefact found only in the Dead Forest, south of Lab X-9, containing mostly plant matter. It is believed that the strong psy-fields it was subjugated to during its formation have heavily influenced its shape and properties. When worn by a human subject, the artefact seems to provide a boost in perceived vitality and accelerated wound healing. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_ah_r4">
+		<text>Mushroom</text>
+	</string>
+	<string id="st_af_ah_r4_descr">
+		<text>
+			An artefact found only in the Dead Forest, south of Lab X-9, containing mostly plant matter. It is believed that the strong psy-fields it was subjugated to during its formation have heavily influenced its shape and properties. When worn by a human subject, the artefact seems to provide a boost in perceived vitality and accelerated wound healing. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_ah_r5">
+		<text>Mushroom</text>
+	</string>
+	<string id="st_af_ah_r5_descr">
+		<text>
+			An artefact found only in the Dead Forest, south of Lab X-9, containing mostly plant matter. It is believed that the strong psy-fields it was subjugated to during its formation have heavily influenced its shape and properties. When worn by a human subject, the artefact seems to provide a boost in perceived vitality and accelerated wound healing. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_ah_e1">
+		<text>Souvenir</text>
+	</string>
+	<string id="st_af_ah_e1_descr">
+		<text>
+			An artefact with the appearance of a shard of Silica Quartz that is found exclusively in electro anomalies. The materials contained within are remarkably pure, ranging from 99.5% to 99.9% purity. When in proximity of human subjects, it induces a temporary feeling of youthfulness. The origins and mechanisms of its psychic influence are unknown. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_ah_e2">
+		<text>Souvenir</text>
+	</string>
+	<string id="st_af_ah_e2_descr">
+		<text>
+			An artefact with the appearance of a shard of Silica Quartz that is found exclusively in electro anomalies. The materials contained within are remarkably pure, ranging from 99.5% to 99.9% purity. When in proximity of human subjects, it induces a temporary feeling of youthfulness. The origins and mechanisms of its psychic influence are unknown. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_ah_h1">
+		<text>Sponge</text>
+	</string>
+	<string id="st_af_ah_h1_descr">
+		<text>
+			An artefact with the appearance of a lump of shriveled clay and organic debris. Separation of individual lumps of material seems impossible due to the presence of an unknown and incredibly strong binding agent. The gravitational properties of the artefact seem to have effects similar to hemophilia, causing increased bleeding. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_ah_h2">
+		<text>Sponge</text>
+	</string>
+	<string id="st_af_ah_h2_descr">
+		<text>
+			An artefact with the appearance of a lump of shriveled clay and organic debris. Separation of individual lumps of material seems impossible due to the presence of an unknown and incredibly strong binding agent. The gravitational properties of the artefact seem to have effects similar to hemophilia, causing increased bleeding. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_ah_f1">
 		<text>Talking Stone</text>
 	</string>
-	<string id = "st_af_ah_f1_descr">
-		<text>A never-before-seen artifact with remarkable properties. It seems to be of organic origin and is very symmetrical; an unusual property for artifacts found in the Zone. It increases the structural and tensile strength of any material it comes in proximity with. Oddly, it seems to release barely audible and unintelligible whispers.
+	<string id="st_af_ah_f1_descr">
+		<text>
+			A very rare artefact with an unnaturally symmetrical shape, seemingly of organic origin. When activated and placed in a suitable containment device, it increases the structural and tensile strength of any material it comes in proximity with. The effect appears to be lasting and can also be directed with the appropriate equipment. The artefact was named "Talking Stone" as it frequently releases measurable but barely audible and unintelligible whispers. Radiation output is low on the artefact radiation scale.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
 		</text>
 	</string>
+
 
 </string_table>
