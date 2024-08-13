@@ -41,7 +41,7 @@
 	</string>
 	<string id="st_af_pin_descr">
 		<text>
-			A small artefact formed by thermal anomalies in the Zone under extreme temperatures. The look of this artefact suggests that it was an organ of a vascular plant. Further studies showed that other organic tissues are fused deep inside. The stem doesn't hold any useful properties. On the contrary, the small pins reduce the temperature of the user's body and cool all objects in their vicinity. This artefact offers slight psy-protection as it will resonate under the influence of psy-waves. However, it is not recommended to approach chemical and acid anomalies when in possession of the artefact as it will increase the adverse effects of acids and toxins in the user's bloodstream. Radiation output is average on the artefact radiation scale.\n \n
+			A small formation of thermal anomalies. The look of this artefact suggests that it was an organ of a vascular plant. Further studies showed that other organic tissues are fused deep inside. The stem doesn't hold any useful properties. On the contrary, the small pins reduce the temperature of the user's body and cool all objects in their vicinity. This artefact offers slight psy-protection as it will resonate under the influence of psy-waves. However, it is not recommended to approach chemical and acid anomalies when in possession of the artefact as it will increase the adverse effects of acids and toxins in the user's bloodstream. Radiation output is average on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
@@ -54,7 +54,7 @@
 	</string>
 	<string id="st_af_cristall_descr">
 		<text>
-			An artefact formed in anomalous zones with intense thermal activity. Actively consumes excessive heat and remains cool at all times. It will also protect the user against electrical currents. However, exposure to such environments increases the artefact's conductivity due to an unknown mechanism. For this reason, one must weigh the pros and cons of using the Crystal in areas of high conductivity. This artefact is highly sought after by jewellers outside the Zone, as its inner core is not radioactive and is considered exceptionally beautiful when polished and refined. Only the first centimeter of its outer layer emits radiation. Prolonged exposure to even minimal amounts of radioactive material can result in serious harm to the user. Covered with a very hard layer and relatively heavy due to high density. Radiation output is average on the artefact radiation scale.\n \n
+			A formation created in intense thermal anomalies under high pressure. Actively consumes excessive heat and remains cool at all times. It will also protect the user against electrical currents. However, exposure to such environments increases the artefact's conductivity due to an unknown mechanism. For this reason, one must weigh the pros and cons of using the Crystal in areas of high conductivity. This artefact is highly sought after by jewellers outside the Zone, as its inner core is not radioactive and is considered exceptionally beautiful when polished and refined. Only the first centimeter of its outer layer emits radiation. Prolonged exposure to even minimal amounts of radioactive material can result in serious harm to the user. Covered with a very hard layer and relatively heavy due to high density. Radiation output is average on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
@@ -67,7 +67,7 @@
 	</string>
 	<string id="st_af_fireball_descr">
 		<text>
-			A spherical artefact made of red-coloured crystal, created in the Burner anomaly. It has a unique property: it maintains a constant temperature of 75 degrees Fahrenheit (24 degrees Celsius), regardless of its surroundings. This allows it to absorb heat from its vicinity and create a protective pocket around the user, preventing flames from causing harm. However, it increases electrical conductivity, raising the probability of electrocution, especially during storms and near electrical anomalies. It is quite heavy due to the high density of the crystal-like material. Radiation output is high on the artefact radiation scale.\n \n
+			A spherical formation made of red-coloured crystal, most commonly found in the Burner anomaly. It maintains a constant internal temperature of 75 degrees Fahrenheit (24 degrees Celsius), regardless of its surroundings and exposes some of this beneficial effect to an outward area of influence. This allows it to absorb heat from its vicinity and create a protective pocket around the user, preventing flames from causing harm. However, it increases electrical conductivity, raising the probability of electrocution, especially during storms and near electrical anomalies. It is quite heavy due to the high density of the crystal-like material. Radiation output is high on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
@@ -80,7 +80,7 @@
 	</string>
 	<string id="st_af_blood_descr">
 		<text>
-			A reddish formation of compressed fossilised plants, soil, and animal debris. Can partially neutralise chemical poisons by absorbing them and reducing overall toxicity level in the user's bloodstream. It accelerates clotting if worn close to the body. However, it makes chemical burns fester and can catch fire or spontaneously combust. It is not recommended to keep this artefact in your possession for long periods as blood clots can be hazardous to your health. Quite widespread and not very effective. Radiation output is low on the artefact radiation scale.\n \n
+			A reddish formation of compressed fossilised plants, soil, and animal debris, created in chemical anomalies. Can partially neutralize toxins by absorbing them from organic matter and reducing overall toxicity levels in the bloodstream when carried. It additionally accelerates clotting if worn close to the body. However, it makes chemical burns fester, increases susceptibility to corrosive effects, and can catch fire and spontaneously combust under unknown conditions. It is not recommended to keep this artefact in your possession for long periods of time. Radiation output is low on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] chemical artefact\n
@@ -93,7 +93,7 @@
 	</string>
 	<string id="st_af_mincer_meat_descr">
 		<text>
-			An artefact with a soft, porous, skin-like texture, resembling a sponge. The pores on its surface absorb small amounts of toxicity from the environment. It slightly amplifies the damaging effects of psy-fields by absorbing psy energy and emitting it at a small rate. Meat Chunk is also known to conduct electricity much like the skin of a living creature. Reveals its special characteristics only when exposed to certain external conditions. Radiation output is average on the artefact radiation scale.\n \n
+			A formation with a soft, porous, skin-like texture, resembling a sponge on the outside. The pores on its surface absorb small amounts of suspended toxins and corrosive acids from the environment. It slightly amplifies the damaging effects of psy-fields and seems to store and re-emit them like an organic capacitor. Meat Chunk is also known to conduct electricity much like the skin of a living creature. Reveals its special characteristics only when exposed to certain external conditions. Radiation output is average on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] chemical artefact\n
@@ -106,7 +106,7 @@
 	</string>
 	<string id="st_af_bracelet_descr">
 		<text>
-			Formed from common species of bryophyte plants under high exposure to radioactive and chemical anomalies, which explains its organic nature. Provides substantial protection against all types of acids by gradually increasing their pH to the level of water (pH 7). When worn, it slightly counters the harmful effects of psy-anomalies or psy-waves from some mutants. Radiation output is average on the artefact radiation scale.\n \n
+			A common organic formation, consisting of compressed bryophyte species plants, exposed to high levels of radioaction and chemical transmutatative effects. Provides substantial protection against different types of acidic hazards by gradually increasing the pH of suspended particles to the level of water (pH 7) in a wavering area of influence. When carried, it also neutralizes some of the harmful effects of psy anomalies and the active psy emissions of some mutated creatures. Radiation output is average on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] chemical artefact\n
@@ -132,7 +132,7 @@
 	</string>
 	<string id="st_af_electra_sparkler_descr">
 		<text>
-			An artefact with the appearance of translucent spider webs. It is sticky and has glue-like properties, found near electro anomalies. It smooths fluctuations in electric field density and acts as a weak resistor, protecting the wearer from electricity. However, it increases the corrosiveness of acids, leading to accelerated deterioration of equipment and higher damage to tissues. Radiation output is low on the artefact radiation scale.\n \n
+			A formation with the appearance of translucent spider webs. It is sticky and has glue-like properties, found near electro anomalies. It smooths fluctuations in electric field density and acts as a weak resistor, protecting the wearer from electricity. However, it increases the corrosiveness of acids, leading to accelerated deterioration of equipment and higher damage to tissues. Radiation output is low on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
@@ -146,7 +146,7 @@
 	</string>
 	<string id="st_af_sponge_descr">
 		<text>
-			An artefact resembling a living sponge. It sometimes tries to "grab" objects it touches, making it difficult to contain. This artefact acts as a powerful resistor, absorbing lethal doses of electricity. However, it will catch fire when exposed to open flame or even spontaneously combust. Ecologists debate whether this artefact is derived from basic forms of organisms or is an advanced life form with self-awareness. Radiation output is average on the artefact radiation scale.\n \n
+			An organic formation resembling a living sponge. It sometimes tries to "grab" objects it touches with substantial adhesive strength, making it difficult to properly contain. This artefact acts as a powerful resistor, absorbing lethal doses of electricity. However, it will catch fire when exposed to open flame or even spontaneously combust. Ecologists debate whether this artefact is derived from basic forms of organisms or is an advanced life form with self-awareness. Radiation output is average on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
@@ -159,7 +159,7 @@
 	</string>
 	<string id="st_af_ring_descr">
 		<text>
-			A very small artefact of electric nature, consisting of two ring-shaped materials of organic origin. When the Ring spins, it never stops spinning, defying the first law of thermodynamics. The outer ring has high conductivity, absorbing electrical current and grounding it in the inner ring. Prolonged exposure may enhance its flammability, causing it to ignite. Scientists suggest that this artefact inherits gravitational properties from Vortex anomalies. The mechanism behind the disappearance of electrical power inside the second ring is still unknown. Radiation output is average on the artefact radiation scale.\n \n
+			A very small formation of electric nature, consisting of two ring-shaped materials of organic origin. When the Ring is given an initial rotational push, it never stops spinning, defying the first law of thermodynamics. The outer ring has high conductivity, absorbing electrical current and grounding it in the inner ring. Prolonged exposure may enhance its flammability, causing it to ignite. Scientists suggest that this artefact inherits gravitational properties from Vortex anomalies. The mechanism behind the disappearance of electrical power inside the second ring is still unknown. Radiation output is average on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
@@ -172,7 +172,7 @@
 	</string>
 	<string id="st_af_electra_flash_descr">
 		<text>
-			An artefact similar in appearance to Moonlight, resembling a plasma globe or lamp. It acts as a powerful resistor, shielding its user from lethal doses of electricity. When worn, it slightly counters harmful effects of psy-anomalies or psy-waves. However, it hinders the healing process, requiring caution when wounded or bleeding. Extremely light and portable. Radiation output is high on the artefact radiation scale.\n \n
+			A formation similar in appearance to Moonlight, resembling a plasma globe or lamp. It acts as a powerful resistor, shielding its user from lethal doses of electricity. When worn, it slightly counters harmful effects of psy-anomalies or psy-waves. However, it hinders the healing process, requiring caution when wounded or bleeding. Extremely light and portable. Radiation output is high on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
@@ -185,7 +185,7 @@
 	</string>
 	<string id="st_af_cristall_flower_descr">
 		<text>
-			An artefact resembling melted cheese interspersed with sapphire-like stones. The yellow outer shell gives off radiation, but the non-radioactive blue parts can be extracted for jewellery and industrial purposes. The sapphire-like stones protect from psy-waves and slightly increase resistance to toxicity. However, the artefact can cause objects in its vicinity to heat up and ignite. Due to its density, the weight of Stone Flower has increased beyond normal standards, making it one of the heaviest anomalous creations in the Zone. This quality and appearance make it highly sought after by jewellers. Radiation output is low on the artefact radiation scale.\n \n
+			A formation resembling melted cheese, interspersed with sapphire-like stones. The yellow outer shell gives off radiation, but the non-radioactive blue parts can be extracted for jewellery and industrial purposes. The sapphire-like stones protect from psy-waves and slightly increase resistance to toxicity. However, the artefact can cause objects in its vicinity to heat up and ignite. Due to its density, the weight of Stone Flower has increased beyond normal standards, making it one of the heaviest anomalous creations in the Zone. This quality and appearance make it highly sought after by jewellers. Radiation output is low on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
@@ -198,7 +198,7 @@
 	</string>
 	<string id="st_af_lobster_eyes_descr">
 		<text>
-			An artefact shaped like two eggs fused together, with a thick, high-density outer surface. It offers slightly more psy-protection than Stone Flower, resonating when exposed to psy waves and absorbing some effects. It also consumes excessive heat while remaining cool. Due to its density, Lobster Eyes is quite heavy. Radiation output is average on the artefact radiation scale.\n \n
+			A formation shaped like two eggs fused together, with a thick, high-density outer surface. It offers slightly more psy-protection than Stone Flower, resonating when exposed to psy waves and absorbing some effects. It also consumes excessive heat while remaining cool. Due to its density, Lobster Eyes is quite heavy. Radiation output is average on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
@@ -491,7 +491,7 @@
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] top tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
-			%c[d_green] • %c[ui_gray_2] containable artefact\n
+			%c[d_green] • %c[ui_gray_2] uncontainable artefact\n
 		</text>
 	</string>
 
@@ -504,7 +504,7 @@
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
-			%c[d_green] • %c[ui_gray_2] containable artefact\n
+			%c[d_green] • %c[ui_gray_2] uncontainable artefact\n
 		</text>
 	</string>
 
