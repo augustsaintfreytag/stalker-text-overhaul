@@ -9,7 +9,7 @@
 		<text>A PSO-1M scope designed for precision shooting. This optic offers a magnification of 4.0x, allowing for accurate target acquisition at medium to long ranges. The scope features a rangefinder reticle and an illuminated red chevron, enhancing visibility in low-light conditions. Constructed from durable aluminum alloy, it is both lightweight and rugged. Manufactured by NPZ Optics State Plant in Russia. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] Magnified Optic (4x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics State Plant\n
 		</text>
@@ -22,7 +22,7 @@
 		<text>A 1P29 Tulip scope designed for the AK family of rifles. This optic provides a 4.0x magnification, allowing for improved target identification and engagement at range. It features a unique bullet drop compensator and a wide field of view, enhancing accuracy and situational awareness. Made from rugged materials, it withstands harsh conditions. Originally manufactured in the Soviet Union. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] Magnified Optic (4x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: Soviet Union\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: Soviet Union\n
 		</text>
@@ -35,7 +35,7 @@
 		<text>A Barska Electro Sight designed for rapid target acquisition. This red dot optic offers a 1.0x magnification, providing an unlimited field of view and parallax-free aiming. The illuminated reticle can be adjusted for brightness, enhancing visibility in various lighting conditions. Constructed from high-quality aluminum, it is lightweight and durable. Manufactured by Barska in the United States. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] red dot optic (1x)\n
+		%c[d_cyan] • %c[ui_gray_2] Red Dot Optic (1x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: Barska\n
 		</text>
@@ -48,7 +48,7 @@
 		<text>An ACOG scope with 4.0x magnification, designed for tactical shooting. This optic provides clear, fixed magnification with an illuminated reticle that enhances target acquisition in low-light environments. The rugged design ensures durability under combat conditions. Made from aircraft-grade aluminum, it is both lightweight and strong. Manufactured by Trijicon in the United States. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] Magnified Optic (4x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
 		</text>
@@ -61,7 +61,7 @@
 		<text>An EOTech 553 holographic sight, designed for quick target acquisition. It offers a 1.0x magnification with a large field of view, allowing for rapid aiming and tracking. The sight features multiple brightness settings for the reticle, suitable for various lighting conditions. Constructed from durable materials, it is both shockproof and waterproof. Manufactured by EOTech in the United States. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] holographic optic (1x)\n
+		%c[d_cyan] • %c[ui_gray_2] Holographic Optic (1x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: EOTech\n
 		</text>
@@ -74,7 +74,7 @@
 		<text>A SUSAT scope for the Galil rifle, providing 4.0x magnification for enhanced accuracy at range. This optic features a tritium-illuminated reticle, ensuring visibility in low-light conditions. The rugged design includes a shock-resistant housing and high-quality lenses. Manufactured by Israel Military Industries. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] Magnified Optic (4x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: israel\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: Israel Military Industries\n
 		</text>
@@ -87,7 +87,7 @@
 		<text>A Kobra EKP 1S-03 red dot sight designed for rapid target acquisition. This optic offers a 1.0x magnification with an adjustable reticle brightness for various lighting conditions. It features a lightweight and durable construction with a quick-detach mount for easy installation. Manufactured by Axion in Russia. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] red dot optic (1x)\n
+		%c[d_cyan] • %c[ui_gray_2] Red Dot Optic (1x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: Axion\n
 		</text>
@@ -100,7 +100,7 @@
 		<text>A PO4x34 scope designed for precision shooting. This optic offers a 4.0x magnification, enhancing target acquisition at medium to long ranges. The scope features a rangefinder reticle and is built from durable materials to withstand harsh conditions. Manufactured by TsKIB SOO in Russia. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] Magnified Optic (4x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: TsKIB SOO\n
 		</text>
@@ -113,7 +113,7 @@
 		<text>A PSO-1M2-1 scope designed for precision marksmen. This optic provides a 4.0x magnification, ideal for long-range engagements. The illuminated reticle features a rangefinder for accurate distance estimation. Constructed from high-strength aluminum, it is both lightweight and durable. Manufactured by NPZ Optics State Plant in Russia. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] Magnified Optic (4x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics State Plant\n
 		</text>
@@ -126,7 +126,7 @@
 		<text>A PU scope designed for precision shooting, offering a 3.5x magnification. This optic is known for its clear glass and simple reticle, providing reliable performance in various conditions. The rugged construction ensures durability. Originally manufactured in the Soviet Union for sniper rifles. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (3.5x)\n
+		%c[d_cyan] • %c[ui_gray_2] Magnified Optic (3.5x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: Soviet Union\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: Soviet Union\n
 		</text>
@@ -139,7 +139,7 @@
 		<text>A ZF-4 scope offering a 2.0x magnification, used primarily during World War II. This optic features a simple crosshair reticle and was known for its reliability and ease of use. The durable construction made it a preferred choice for military applications. Manufactured by Nazi Germany. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (2x)\n
+		%c[d_cyan] • %c[ui_gray_2] Magnified Optic (2x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: germany\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: nazi germany\n
 		</text>
@@ -152,7 +152,7 @@
 		<text>A C-MORE tactical sight designed for rapid target acquisition. This red dot optic provides a clear, parallax-free reticle with adjustable brightness settings. Constructed from high-quality materials, it is lightweight and durable, suitable for various tactical applications. Manufactured by C-More Systems in the United States. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] red dot optic\n
+		%c[d_cyan] • %c[ui_gray_2] Red Dot Optic\n
 		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: C-More Systems\n
 		</text>
@@ -165,7 +165,7 @@
 		<text>An AC11090 red dot sight designed for quick target acquisition. This optic provides a 2.0x magnification, featuring an illuminated reticle with adjustable brightness levels. Constructed from durable aluminum, it is lightweight and rugged. Manufactured by Barska in the United States. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] red dot optic (2x)\n
+		%c[d_cyan] • %c[ui_gray_2] Red Dot Optic (2x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: Barska\n
 		</text>
@@ -399,7 +399,7 @@
 		<text>An ACOG scope with 2.0x magnification, designed for close to medium-range engagements. This optic provides clear, fixed magnification with an illuminated reticle for enhanced target acquisition. The rugged design ensures durability under combat conditions. Manufactured by Trijicon in the United States. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (2x)\n
+		%c[d_cyan] • %c[ui_gray_2] Magnified Optic (2x)\n
 		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
 		%c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
 		</text>
