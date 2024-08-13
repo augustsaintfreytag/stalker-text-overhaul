@@ -17,6 +17,9 @@
 	<string id="ui_mm_loot_all">
 		<text>Loot All (Enter/Space)</text>
 	</string>
+	<string id="sleep_ok_button">
+		<text>Sleep</text>
+	</string>
 
 	<!-- Notifications -->
 
