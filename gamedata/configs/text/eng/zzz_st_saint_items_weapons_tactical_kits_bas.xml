@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<!--
+		TACTICAL KITS
+	-->
+
+	<string id="st_addon_scope_mono_kit">
+		<text>Tactical Kit (AK-12 Mono)</text>
+	</string>
+	<string id="st_addon_scope_mono_kit_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] 30mm under-barrel grenade launcher\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n
+		%c[d_cyan] • %c[ui_gray_2] TNVC AN/PEQ-16 LAM illumination module\n
+		%c[d_cyan] • %c[ui_gray_2] 60-round drum magazine\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] АК-12 "Monolith"\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kit_aus_tri">
+		<text>Tactical Kit (AUS MX Tri)</text>
+	</string>
+	<string id="st_addon_scope_kit_aus_tri_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
+		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+		%c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
+		%c[d_cyan] • %c[ui_gray_2] 21" barrel\n
+		%c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
+		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n \n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_kit_fal_leup">
+		<text>Tactical Kit (AUS MX Leup)</text>
+	</string>
+	<string id="st_addon_scope_kit_fal_leup_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
+		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+		%c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
+		%c[d_cyan] • %c[ui_gray_2] 21" barrel\n
+		%c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
+		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Leupold Mark 8 CQBSS sight\n \n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n \n
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_kit_sa5x_spec">
+		<text>Tactical Kit (AUS SPEC)</text>
+	</string>
+	<string id="st_addon_scope_kit_sa5x_spec_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
+		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+		%c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
+		%c[d_cyan] • %c[ui_gray_2] 21" barrel\n
+		%c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
+		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n \n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_226sig_kit">
+		<text>Tactical Kit (P226R BS)</text>
+	</string>
+	<string id="st_addon_scope_226sig_kit_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SIG P226R\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_mod9">
+		<text>Tactical Kit (P99 Mod-9)</text>
+	</string>
+	<string id="st_addon_scope_mod9_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+		%c[d_cyan] • %c[ui_gray_2] Viridian X5L laser sight\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Walther P99\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_upg220">
+		<text>Tactical Kit (P220 BSSM)</text>
+	</string>
+	<string id="st_addon_scope_upg220_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+		%c[d_cyan] • %c[ui_gray_2] Viridian X5L laser sight\n
+		%c[d_cyan] • %c[ui_gray_2] 12-round magazine\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SIG P220\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_sr1upgr1">
+		<text>Tactical Kit (SR1M BSM)</text>
+	</string>
+	<string id="st_addon_scope_sr1upgr1_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+		%c[d_cyan] • %c[ui_gray_2] Tritium iron sights\n
+		%c[d_cyan] • %c[ui_gray_2] Laser sight module\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Serdyukov SR1M Gyurza\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kab_up">
+		<text>Tactical Kit (KS-23M BS)</text>
+	</string>
+	<string id="st_addon_scope_kab_up_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] KS-23M Drozd\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_archangel">
+		<text>Tactical Kit (M700 SM Archangel)</text>
+	</string>
+	<string id="st_addon_scope_archangel_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Archangel polymer stock\n
+		%c[d_cyan] • %c[ui_gray_2] Set of 20-round magazines\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_magpul_pro">
+		<text>Tactical Kit (M700 SMS Magpul)</text>
+	</string>
+	<string id="st_addon_scope_magpul_pro_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Magpul PRO 700 polymer stock\n
+		%c[d_cyan] • %c[ui_gray_2] Set of 12-round magazines\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_mod_x_gen3">
+		<text>Tactical Kit (M700 AMP-3)</text>
+	</string>
+	<string id="st_addon_scope_mod_x_gen3_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] ABAC MOD X GEN III Modular Rifle System\n
+		%c[d_cyan] • %c[ui_gray_2] Set of 12-round magazines\n
+		%c[d_cyan] • %c[ui_gray_2] Leupold DeltaPoint PRO sight\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_swamp">
+		<text>Tactical Kit (AK-105 MX Swamp)</text>
+	</string>
+	<string id="st_addon_scope_swamp_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Extended forend\n
+		%c[d_cyan] • %c[ui_gray_2] Ergonomic stock and pistol grip\n
+		%c[d_cyan] • %c[ui_gray_2] Improved trigger\n
+		%c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+		%c[d_cyan] • %c[ui_gray_2] AN/PEQ-15 LAM laser module\n
+		%c[d_cyan] • %c[ui_gray_2] Set of 45-round magazines\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] AK-105\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_lapua700">
+		<text>Tactical Kit (M700 BSSM Lapua)</text>
+	</string>
+	<string id="st_addon_scope_lapua700_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Threaded .338 barrel\n
+		%c[d_cyan] • %c[ui_gray_2] Magpul Pro stock\n
+		%c[d_cyan] • %c[ui_gray_2] Set of .338LM magazines\n
+		%c[d_cyan] • %c[ui_gray_2] Improved Leupold sight\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_gurza_up">
+		<text>Tactical Kit (SR1M SML Gyurza)</text>
+	</string>
+	<string id="st_addon_scope_gurza_up_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR\n
+		%c[d_cyan] • %c[ui_gray_2] Quadrail mount\n
+		%c[d_cyan] • %c[ui_gray_2] Laser aiming system\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SR1M Gyurza\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_u2p2g0r">
+		<text>Tactical Kit (P220 BSLM)</text>
+	</string>
+	<string id="st_addon_scope_u2p2g0r_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+		%c[d_cyan] • %c[ui_gray_2] Viridian X5L laser module\n
+		%c[d_cyan] • %c[ui_gray_2] 19-round magazine\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Sig Sauer P220\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_shakal">
+		<text>Tactical Kit (AK-105 MX Shakal)</text>
+	</string>
+	<string id="st_addon_scope_shakal_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Extended forend\n
+		%c[d_cyan] • %c[ui_gray_2] Ergonomic stock and pistol grip\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+		%c[d_cyan] • %c[ui_gray_2] AN/PEQ-15 LAM laser module\n
+		%c[d_cyan] • %c[ui_gray_2] Set of 45-round magazine\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] AK-105\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pl15_scolaz">
+		<text>Tactical Kit (PL-15 SL Scolaz)</text>
+	</string>
+	<string id="st_addon_scope_pl15_scolaz_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Laser aiming system\n
+		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 scope\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Lebedev PL-15\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_apsabigo">
+		<text>Tactical Kit (APS BGS)</text>
+	</string>
+	<string id="st_addon_scope_apsabigo_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+		%c[d_cyan] • %c[ui_gray_2] Ergonomic pistol grip\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] APS\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_sr2_upkit">
+		<text>Tactical Kit (SR-2M Veresk FRLS)</text>
+	</string>
+	<string id="st_addon_scope_sr2_upkit_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Tactical forend\n
+		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+		%c[d_cyan] • %c[ui_gray_2] Laser aiming system\n
+		%c[d_cyan] • %c[ui_gray_2] KP-SR2 Reflex Sight\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SR-2M Veresk\n \n
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_5c_tik">
+		<text>Tactical Kit (AK-5C Tik)</text>
+	</string>
+	<string id="st_addon_scope_5c_tik_descr">
+		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] Shortened barrel\n
+		%c[d_cyan] • %c[ui_gray_2] Low profile foregrip\n
+		%c[d_cyan] • %c[ui_gray_2] LA5 Laser aiming system\n
+		%c[d_cyan] • %c[ui_gray_2] Leupold Carbine Optic sight\n
+		%c[d_cyan] • %c[ui_gray_2] D-EVO 6.0x scope\n
+		%c[d_cyan] • %c[ui_gray_2] Modified gas system (fire rate)\n
+		%c[ui_gray_3]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] AK 5C\n \n
+		</text>
+	</string>
+
+</string_table>
