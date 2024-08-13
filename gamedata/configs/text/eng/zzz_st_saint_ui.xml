@@ -54,7 +54,7 @@
 		<text>Backpack Travel to</text>
 	</string>
 	<string id="st_fftd_mapspot_guideto">
-		<text>Hire Guide to</text>
+		<text>Hire guide to</text>
 	</string>
 	<string id="st_fftd_guides_far">
 		<text>No guides in responding distance</text>
@@ -66,10 +66,10 @@
 		<text>No guides available</text>
 	</string>
 	<string id="st_fft_travel_zoneblocked_1">
-		<text>%s only available in allied faction bases</text>
+		<text>Personal travel unavailable outside safe spaces</text>
 	</string>
 	<string id="st_fft_travel_zoneblocked_2">
-		<text>%s only available in owned faction bases</text>
+		<text>Personal travel unavailable outside owned faction bases</text>
 	</string>
 
 	<!-- Settings -->
