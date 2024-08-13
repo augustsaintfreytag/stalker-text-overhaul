@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Artefacts Containers (LLMC)
+-->
+
+<string_table>
+	<string id="st_af_itcher_lead_box_name">
+		<text>LLMC w/ Itcher</text>
+	</string>
+	<string id="st_af_itcher_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding an Itcher artefact, a common formation of thermal nature with a hard surface of dense metamorphic rock with deep scars covering the entire body, separated into two layers. The soft, yellow glowing core is of unknown organic nature. It actively consumes excessive heat and remains cool at all times. However, it is not recommended to approach chemical and acid anomalies when in possession of the artefact as it will increase the adverse effects of acids and toxins in the user's bloodstream. Radiation output is low on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] thermal artefact\n</text>
+	</string>
+
+	<string id="st_af_pin_lead_box_name">
+		<text>LLMC w/ Pin</text>
+	</string>
+	<string id="st_af_pin_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Pin artefact, a small formation of thermal anomalies. The look of this artefact suggests that it was an organ of a vascular plant. Further studies showed that other organic tissues are fused deep inside. The stem doesn't hold any useful properties. On the contrary, the small pins reduce the temperature of the user's body and cool all objects in their vicinity. This artefact offers slight psy-protection as it will resonate under the influence of psy-waves. However, it is not recommended to approach chemical and acid anomalies when in possession of the artefact as it will increase the adverse effects of acids and toxins in the user's bloodstream. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] thermal artefact\n</text>
+	</string>
+
+	<string id="st_af_cristall_lead_box_name">
+		<text>LLMC w/ Crystal</text>
+	</string>
+	<string id="st_af_cristall_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Crystal artefact, a formation created in intense thermal anomalies under high pressure. Actively consumes excessive heat and remains cool at all times. It will also protect the user against electrical currents. However, exposure to such environments increases the artefact's conductivity due to an unknown mechanism. For this reason, one must weigh the pros and cons of using the Crystal in areas of high conductivity. This artefact is highly sought after by jewellers outside the Zone, as its inner core is not radioactive and is considered exceptionally beautiful when polished and refined. Only the first centimeter of its outer layer emits radiation. Prolonged exposure to even minimal amounts of radioactive material can result in serious harm to the user. Covered with a very hard layer and relatively heavy due to high density. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] thermal artefact\n</text>
+	</string>
+
+	<string id="st_af_fireball_lead_box_name">
+		<text>LLMC w/ Fireball</text>
+	</string>
+	<string id="st_af_fireball_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Fireball artefact, a spherical formation made of red-coloured crystal, most commonly found in the Burner anomaly. It maintains a constant internal temperature of 75 degrees Fahrenheit (24 degrees Celsius), regardless of its surroundings and exposes some of this beneficial effect to an outward area of influence. This allows it to absorb heat from its vicinity and create a protective pocket around the user, preventing flames from causing harm. However, it increases electrical conductivity, raising the probability of electrocution, especially during storms and near electrical anomalies. It is quite heavy due to the high density of the crystal-like material. Radiation output is high on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] thermal artefact\n</text>
+	</string>
+
+	<string id="st_af_blood_lead_box_name">
+		<text>LLMC w/ Stone Blood</text>
+	</string>
+	<string id="st_af_blood_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Stone Blood artefact, a reddish formation of compressed fossilised plants, soil, and animal debris, created in chemical anomalies. Can partially neutralize toxins by absorbing them from organic matter and reducing overall toxicity levels in the bloodstream when carried. It additionally accelerates clotting if worn close to the body. However, it makes chemical burns fester, increases susceptibility to corrosive effects, and can catch fire and spontaneously combust under unknown conditions. It is not recommended to keep this artefact in your possession for long periods of time. Radiation output is low on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] chemical artefact\n</text>
+	</string>
+
+	<string id="st_af_mincer_meat_lead_box_name">
+		<text>LLMC w/ Meat Chunk</text>
+	</string>
+	<string id="st_af_mincer_meat_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Meat Chunk artefact, a formation with a soft, porous, skin-like texture, resembling a sponge on the outside. The pores on its surface absorb small amounts of suspended toxins and corrosive acids from the environment. It slightly amplifies the damaging effects of psy-fields and seems to store and re-emit them like an organic capacitor. Meat Chunk is also known to conduct electricity much like the skin of a living creature. Reveals its special characteristics only when exposed to certain external conditions. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] chemical artefact\n</text>
+	</string>
+
+	<string id="st_af_bracelet_lead_box_name">
+		<text>LLMC w/ Bracelet</text>
+	</string>
+	<string id="st_af_bracelet_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Bracelet artefact, a common organic formation, consisting of compressed bryophyte species plants, exposed to high levels of radioaction and chemical transmutatative effects. Provides substantial protection against different types of acidic hazards by gradually increasing the pH of suspended particles to the level of water (pH 7) in a wavering area of influence. When carried, it also neutralizes some of the harmful effects of psy anomalies and the active psy emissions of some mutated creatures. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] chemical artefact\n</text>
+	</string>
+
+	<string id="st_af_baloon_lead_box_name">
+		<text>LLMC w/ Bubble</text>
+	</string>
+	<string id="st_af_baloon_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Bubble artefact, a compound of several hollow organic formations. This artefact emits a gaseous substance that neutralises chemical or toxic particles inside the body, providing great toxic and chemical protection. It maintains a constant temperature regardless of surroundings, absorbing heat and creating a protective pocket around the user. However, Bubble greatly amplifies the effects of psy-waves and fields produced by mutants and anomalies. Some stalkers have reported feeling intense pain and psychological effects when in possession of a Bubble. Radiation output is high on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] chemical artefact\n</text>
+	</string>
+
+	<string id="st_af_electra_sparkler_lead_box_name">
+		<text>LLMC w/ Sparkler</text>
+	</string>
+	<string id="st_af_electra_sparkler_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Sparkler artefact, a formation with the appearance of translucent spider webs. It is sticky and has glue-like properties, found near electro anomalies. It smooths fluctuations in electric field density and acts as a weak resistor, protecting the wearer from electricity. However, it increases the corrosiveness of acids, leading to accelerated deterioration of equipment and higher damage to tissues. Radiation output is low on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] electrical artefact\n</text>
+	</string>
+
+	<string id="st_af_sponge_lead_box_name">
+		<text>LLMC w/ Sponge</text>
+	</string>
+	<string id="st_af_sponge_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Sponge artefact, an organic formation resembling a living sponge. It sometimes tries to "grab" objects it touches with substantial adhesive strength, making it difficult to properly contain. This artefact acts as a powerful resistor, absorbing lethal doses of electricity. However, it will catch fire when exposed to open flame or even spontaneously combust. Ecologists debate whether this artefact is derived from basic forms of organisms or is an advanced life form with self-awareness. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] electrical artefact\n</text>
+	</string>
+
+	<string id="st_af_ring_lead_box_name">
+		<text>LLMC w/ Ring</text>
+	</string>
+	<string id="st_af_ring_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Ring artefact, a very small formation of electric nature, consisting of two ring-shaped materials of organic origin. When the Ring is given an initial rotational push, it never stops spinning, defying the first law of thermodynamics. The outer ring has high conductivity, absorbing electrical current and grounding it in the inner ring. Prolonged exposure may enhance its flammability, causing it to ignite. Scientists suggest that this artefact inherits gravitational properties from Vortex anomalies. The mechanism behind the disappearance of electrical power inside the second ring is still unknown. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] electrical artefact\n</text>
+	</string>
+
+	<string id="st_af_electra_flash_lead_box_name">
+		<text>LLMC w/ Flash</text>
+	</string>
+	<string id="st_af_electra_flash_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Flash artefact, a formation similar in appearance to Moonlight, resembling a plasma globe or lamp. It acts as a powerful resistor, shielding its user from lethal doses of electricity. When worn, it slightly counters harmful effects of psy-anomalies or psy-waves. However, it hinders the healing process, requiring caution when wounded or bleeding. Extremely light and portable. Radiation output is high on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] electrical artefact\n</text>
+	</string>
+
+	<string id="st_af_cristall_flower_lead_box_name">
+		<text>LLMC w/ Stone Flower</text>
+	</string>
+	<string id="st_af_cristall_flower_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Stone Flower artefact, a formation resembling melted cheese, interspersed with sapphire-like stones. The yellow outer shell gives off radiation, but the non-radioactive blue parts can be extracted for jewellery and industrial purposes. The sapphire-like stones protect from psy-waves and slightly increase resistance to toxicity. However, the artefact can cause objects in its vicinity to heat up and ignite. Due to its density, the weight of Stone Flower has increased beyond normal standards, making it one of the heaviest anomalous creations in the Zone. This quality and appearance make it highly sought after by jewellers. Radiation output is low on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n</text>
+	</string>
+
+	<string id="st_af_lobster_eyes_lead_box_name">
+		<text>LLMC w/ Lobster Eyes</text>
+	</string>
+	<string id="st_af_lobster_eyes_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Lobster Eyes artefact, a formation shaped like two eggs fused together, with a thick, high-density outer surface. It offers slightly more psy-protection than Stone Flower, resonating when exposed to psy waves and absorbing some effects. It also consumes excessive heat while remaining cool. Due to its density, Lobster Eyes is quite heavy. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n</text>
+	</string>
+
+	<string id="st_af_electra_moonlight_lead_box_name">
+		<text>LLMC w/ Moonlight</text>
+	</string>
+	<string id="st_af_electra_moonlight_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Moonlight artefact, a unique electrostatic artefact that resonates when exposed to psy fields. Stalkers have learned to fine-tune it to neutralize psy emissions. It also increases electrical protection by reducing conductivity. However, it will catch fire when exposed to open flame or even spontaneously combust. This orb of considerable beauty is sought after by many. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] electrical artefact\n</text>
+	</string>
+
+	<string id="st_af_black_spray_lead_box_name">
+		<text>LLMC w/ Black Spray</text>
+	</string>
+	<string id="st_af_black_spray_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Black Spray artefact, a rare artefact with properties and origins that are not well understood. Resembling other sapphire-like artefacts, its organic stem suggests formation from vascular plants under exposure to psy-fields and electromagnetic waves. It delays light transmission and significantly neutralises psy interferences. However, it amplifies the effects of toxic environments, making it extremely dangerous. Highly sought after by jewellers for its beautiful blue aura. Radiation output is high on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n</text>
+	</string>
+
+	<string id="st_af_medusa_lead_box_name">
+		<text>LLMC w/ Jellyfish</text>
+	</string>
+	<string id="st_af_medusa_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Jellyfish artefact, a common gravitational artefact in the Zone. Slightly shields the body and objects from physical impacts and protects against extreme heat. Quite heavy due to the gravitational field increasing its mass. Increases the negative effects of psy-waves and is a potent conductor. Radiation output is low on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n</text>
+	</string>
+
+	<string id="st_af_vyvert_lead_box_name">
+		<text>LLMC w/ Wrenched</text>
+	</string>
+	<string id="st_af_vyvert_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Wrenched artefact, a bizarrely-shaped artefact appearing in places with increased gravitational activity. Appears almost organic but is more similar to coral. Provides protection against physical impacts by reducing friction caused by fast objects. Absorbs chemical and toxic elements, providing protection from external toxic agents and chemical particles in the body. Generates a locally directed gravity field which increases its mass, making it heavy. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n</text>
+	</string>
+
+	<string id="st_af_empty_lead_box_name">
+		<text>LLMC w/ Empty</text>
+	</string>
+	<string id="st_af_empty_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding an Empty artefact, two disks of organic formation (commonly lipids, cellulose, and lignin) with empty space in between. Stabilized by a unique gravitational field, any attempt to press the disks together or pull them apart fails due to rapid changes in the gravitational field. Moving with an Empty is difficult as the gravitational field increases the density of surrounding air, slowing the body down. Reduces friction and provides great protection against physical impacts. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n</text>
+	</string>
+
+	<string id="st_af_full_empty_lead_box_name">
+		<text>LLMC w/ Full Empty</text>
+	</string>
+	<string id="st_af_full_empty_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Full Empty artefact, similar to Empty, this artefact consists of two disks of organic formation connected by a unique gravitational field. However, the field in Full Empty is extraordinary: all atoms entering the centre become interactive, releasing photons and creating a "galaxy effect." The density increment of surrounding air is higher compared to Empty, greatly hindering movement. Provides remarkable protection against physical impacts, capable of stopping 9mm bullets at point-blank range. Radiation output is high on the artefact radiation scale. Scientists refer to the light emission as the "galaxy effect," giving the artefact an exceptional orbit of light.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n</text>
+	</string>
+
+	<string id="st_af_night_star_lead_box_name">
+		<text>LLMC w/ Nightstar</text>
+	</string>
+	<string id="st_af_night_star_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Nightstar artefact, a glowing artefact that generates a local directed low-gravity field. Widely used by stalkers along with Gravi to increase maximum load. Due to its beautiful inner core, it is highly sought after by jewellers, but unskilled treatment can cause it to explode. Only the outer core of the artefact emits radiation. Nightstar absorbs toxic and chemical agents from the environment, although the amount absorbed is negligible. Relatively cheap and accessible even to stalkers with tight budgets. Emits an odour of burning flesh near heat sources and may ignite with prolonged exposure. Radiation output is low on the artefact radiation scale.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n</text>
+	</string>
+
+	<string id="st_af_gravi_lead_box_name">
+		<text>LLMC w/ Gravi</text>
+	</string>
+	<string id="st_af_gravi_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Gravi artefact, formed from metallic substances exposed to prolonged gravitation, capable of sustaining a powerful anti-gravitational field, reducing the weight of objects in its proximity. Scientist Sakharov at Yantar first discovered that Gravi creates a minute singularity field of anti-gravitational nature at intervals of 30 minutes. Increases electrical conductivity, raising the risk of electrocution, especially during storms and near electrical anomalies. Also increases the negative effects of psy-waves. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n</text>
+	</string>
+
+	<string id="st_af_gold_fish_lead_box_name">
+		<text>LLMC w/ Goldfish</text>
+	</string>
+	<string id="st_af_gold_fish_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Goldfish artefact, a superior version of Gravi, created when three Gravi artefacts interact and get sucked into each other's singularity fields. Discovered by scientist Sakharov at Yantar after a massive blowout/emission hit the Zone. Highly valued and sought after by special agents. Creates a constant anti-gravitational singularity field affecting its vicinity. However, increases the velocity of moving objects inside its radius, causing dangerous impacts. Radiation output is highest on the artefact radiation scale. Rumoured within Ukrainian Spetsnaz circles that Russian agents are acquiring Goldfish for specialized laboratories.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n</text>
+	</string>
+
+	<string id="st_af_dummy_glassbeads_lead_box_name">
+		<text>LLMC w/ Mama's Beads</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Mama's Beads artefact, shaped like a DNA helix, Mama's Beads are created in the Burner anomaly. They constantly pulsate, generating emissions that increase metabolism, accelerating coagulation, and healing wounds. The mechanism behind these effects is still unknown. Mama's Beads also shield the body and objects from extreme heat. However, they increase electrical conductivity, raising the risk of electrocution, especially during storms and near electrical anomalies. Quite dense and heavy for a small artefact. Radiation output is low on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] bleeding artefact\n</text>
+	</string>
+
+	<string id="st_af_eye_lead_box_name">
+		<text>LLMC w/ Eye</text>
+	</string>
+	<string id="st_af_eye_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding an Eye artefact, this artefact, resembling the human eye, considerably increases metabolism, helping wounds heal quicker. Experienced stalkers say it also brings luck. Soothes pain and is extremely useful for treating wounds. Slightly counters harmful effects of psy-anomalies or psy-waves. Extremely dangerous in chemical anomalies as it amplifies toxicity. Highly recommended to keep it in your backpack, not on your body, when exploring toxic areas. Known colloquially as "copper eye" due to its conductive properties. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] bleeding artefact\n</text>
+	</string>
+
+	<string id="st_af_fire_lead_box_name">
+		<text>LLMC w/ Flame</text>
+	</string>
+	<string id="st_af_fire_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Flame artefact, forms in areas of high thermal activity, producing powerful infrared emissions that intensify metabolic processes, healing wounds rapidly. Its healing capabilities are stronger than the Eye artefact, helping stalkers survive severe wounds. Shares positive and negative properties with the Eye: entering a psy-field with Flame is dangerous as it absorbs psy energy and emits it at a considerable rate. Highly recommended to proceed with caution when planning to sell it due to potential radioactive exposure. Can be used as a reusable medkit due to its rapid healing properties. Radiation output is high on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] bleeding artefact\n</text>
+	</string>
+
+	<string id="st_af_dummy_battery_lead_box_name">
+		<text>LLMC w/ Battery</text>
+	</string>
+	<string id="st_af_dummy_battery_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Battery artefact, a popular artefact in the Zone, valued for its energizing properties. However, it has adverse effects on the body with prolonged use, hindering blood clotting and increasing the bleeding rate of open wounds. Being a powerful resistor, it shields its user from lethal doses of electricity. It also absorbs heat and conveys it to other objects. Extremely light and portable. Radiation output is low on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n</text>
+	</string>
+
+	<string id="st_af_dummy_dummy_lead_box_name">
+		<text>LLMC w/ Shell</text>
+	</string>
+	<string id="st_af_dummy_dummy_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Shell artefact, composed of two bluish disks connected by semitransparent material of unknown nature. Initially considered devoid of useful properties, it was recently discovered to increase stamina recovery, sometimes inducing hyperactivity. However, it reduces the number of platelets in blood, increasing the bleeding rate. Provides considerable psy protection and absorbs electromagnetic interference, acting as a grounding material. Catches fire or spontaneously combusts when exposed to open flame. Extremely light and portable. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n</text>
+	</string>
+
+	<string id="st_af_ice_lead_box_name">
+		<text>LLMC w/ Snowflake</text>
+	</string>
+	<string id="st_af_ice_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Snowflake artefact, also known as "Radioactive Snowflake," this artefact resembles a white Kolobok. Significantly increases muscle tone, greatly improving stamina recovery. Known for its high radioactivity, stalkers with it are sometimes jokingly called "Radioactive Snowflakes." Increases endurance and offers high protection against electricity, but constant radiation exposure is deadly. Interacts with surrounding energy sources, absorbing and amplifying their effects, making it dangerous in heat, toxic areas, and psy-fields. Light and easy to carry. Radiation output is high on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n</text>
+	</string>
+
+	<string id="st_af_soul_lead_box_name">
+		<text>LLMC w/ Soul</text>
+	</string>
+	<string id="st_af_soul_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Soul artefact, a unique organic artefact secreting a slimy goo that dramatically increases wound recovery rate. Valued for its reasonable price and attractive appearance, making it a collector's item. Applying the goo to wounds soothes pain and speeds up healing. Reduces effects of psy-waves and their damage to the brain. However, it drains power from its user. Not very heavy due to low density. Radiation output is low on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n</text>
+	</string>
+
+	<string id="st_af_fuzz_kolobok_lead_box_name">
+		<text>LLMC w/ Kolobok</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Kolobok artefact, a relatively rare artefact formation in chemical areas, Kolobok heals most wounds and stops bleeding in minutes. Rumoured to modify the bearer's genetic code, though unproven. It interacts with radioactive particles, making it dangerous in radiation fields. Reduces energy recovery due to sharp needle-like appendages causing small, quickly healing wounds that reduce stamina. Weakens protection against heat and acids due to high flammability. Lightweight and not burdensome to carry. Radiation output is average on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n</text>
+	</string>
+
+	<string id="st_af_glass_lead_box_name">
+		<text>LLMC w/ Firefly</text>
+	</string>
+	<string id="st_af_glass_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Firefly artefact, firefly interacts with unknown fields, speeding up tissue and organ regeneration and normalizing metabolic processes. Can get a badly wounded stalker back on his feet in minutes. However, it can combust when exposed to potent radioactive sources. Weakens the body and increases bleeding rate during healing. Drains stamina and decreases stamina recovery significantly. Rare and highly sought after. Radiation output is high on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n</text>
+	</string>
+
+	<string id="st_af_compass_lead_box_name">
+		<text>LLMC w/ Compass</text>
+	</string>
+	<string id="st_af_compass_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Compass artefact, a very rare artefact capable of locating gaps in anomaly fields, allowing safe traversal. Few know how to handle it properly. Shows unique properties under experiments, such as interacting with moving objects, causing them to disappear or teleport. Weakens the body by draining stamina and increasing bleeding rate. Emits dangerous levels of radiation, causing death within minutes when held near the body. Radiation output is highest on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] top tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n</text>
+	</string>
+
+	<string id="st_af_oasis_heart_lead_box_name">
+		<text>LLMC w/ Heart of the Oasis</text>
+	</string>
+	<string id="st_af_oasis_heart_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Heart of the Oasis artefact, found at the centre of the legendary Oasis, this artefact is a crystallised plant with healing properties. Dramatically increases wound recovery and provides strong energy to the body. Highly sensitive to outer energy sources and surrounding environment, making interaction with anomaly fields deadly. Radiation output is highest on the artefact radiation scale. A true miracle of the Zone, it is highly prized for its remarkable healing capabilities.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] top tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n</text>
+	</string>
+
+	<string id="st_af_death_lamp_lead_box_name">
+		<text>LLMC w/ Death Lamp</text>
+	</string>
+	<string id="st_af_death_lamp_lead_box_descr">
+		<text>A lead-lined metal container (LLMC) holding a Death Lamp artefact, "Big, red, and cursed." This is how the locals describe the Death Lamp, also known as the "Seed of Satan." Many traders believe the rumours surrounding the artefact, thus refusing to buy it. Discovered a few years ago by three experienced stalkers, two of whom were found dead with horrific expressions after delivering it to the Ecologists in Yantar. The fate of the third stalker remains unknown. Members of the science team reported nightmare disorder after studying the artefact. The Death Lamp drains vitality and willpower from the user, inducing dizziness and fainting in extreme cases. Radiation output is highest on the artefact radiation scale.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
+		%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n</text>
+	</string>
+
+	<string id="st_af_misery_bread_lead_box_name">
+		<text>LLMC w/ anomalous bread</text>
+	</string>
+	<string id="st_af_misery_bread_lead_box_descr">
+		<text>
+		Anomalous bread in a Lead-Lined Container. As dark as the soul of the person that left it.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_purple] • %c[ui_gray_2] artefact containment device\n
+		%c[d_purple] • %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
+		%c[d_purple] • %c[ui_gray_2] full isolation\n
+		%c[d_purple] • %c[ui_gray_2] state:%c[ui_gray_1] full\n
+		</text>
+	</string>
+
+</string_table>
