@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="zone_mine_cdf_section_name">
+		<text>Cognitive Dissonance Field</text>
+	</string>
+	
+	<string id="zone_mine_umbra_section_name">
+		<text>Umbral Cluster</text>
+	</string>
+	
+	<string id="zone_mine_flash_section_name">
+		<text>Flash</text>
+	</string>
+	
+	<string id="zone_mine_ghost_section_name">
+		<text>Ghost</text>
+	</string>
+	
+	<string id="zone_mine_gold_section_name">
+		<text>Liquid Gold</text>
+	</string>
+	
+	<string id="zone_mine_thorn_section_name">
+		<text>Thorn</text>
+	</string>
+	
+	<string id="zone_mine_seed_section_name">
+		<text>Seed</text>
+	</string>
+	
+	<string id="zone_mine_shatterpoint_section_name">
+		<text>Shatterpoint</text>
+	</string>
+	
+	<string id="zone_mine_sloth_section_name">
+		<text>Sloth</text>
+	</string>
+	
+	<string id="zone_mine_mefistotel_section_name">
+		<text>Mefistotel</text>
+	</string>
+	
+	<string id="zone_mine_net_section_name">
+		<text>Net</text>
+	</string>
+	
+	<string id="zone_mine_point_section_name">
+		<text>Point</text>
+	</string>
+	
+	<string id="zone_mine_sphere_section_name">
+		<text>Rebounder</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_cdf">
+		<text>Cognitive Dissonance Field</text>
+	</string>
+	<string id="encyclopedia_anomalies_cdf_text">
+		<text>
+			• Name: %c[d_cyan]Cognitive Dissonance Field%c[ui_gray_1]
+			\n• Type: %c[d_orange]Psychoactive
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\nThe "Cognitive Dissonance Field", also known as "CDF anomaly," is a highly localized breach in the fabric of the Noosphere. It emits a weak psy aura that can have severe effects on the mental health of anyone within its vicinity. This anomaly is particularly insidious because it scrambles the brainwave frequencies of those it affects, leading to confusion, disorientation, and other negative cognitive effects. Unlike regular psi-fields, the "CDF" anomaly bypasses any conventional means of psy protection, affecting the victim's mind directly. The Cognitive Dissonance Field is difficult to spot during the day because the color it emits is similar to the sky of the Zone. However, its distinctive sound can be easily distinguished from the surrounding environment, making it essential for stalkers to focus on this sound to stay alive and sane. During the night, the anomaly is more noticeable due to the contrast of the black night sky, emitting pulsating faint blue lights that can help identify its location. Exposure to the Cognitive Dissonance Field should be avoided at all costs, as it can have severe and long-lasting effects on mental health. Even brief exposure can lead to confusion, memory loss, and other cognitive impairments. Stalkers should exercise caution when navigating areas where this anomaly is present and take necessary precautions to protect their mental well-being.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_umbra">
+		<text>Umbral Cluster</text>
+	</string>
+	<string id="encyclopedia_anomalies_umbra_text">
+		<text>
+			• Name: %c[d_cyan]Umbral Cluster%c[ui_gray_1]
+			\n• Type: %c[d_orange]Psychoactive
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\nThe "Umbral Cluster" or more commonly referred to as just "Umbra" is highly unusual and dangerous formation that appears to disrupt the very fabric of reality itself. It is believed to be of extraterrestrial origin and is capable of altering the fundamental laws of physics within its vicinity. The anomaly manifests as a swarm of shadow-like entities that move in unison, creating an eerie and unsettling atmosphere. Umbra anomaly has a unique effect on the human psyche, inducing feelings of dread, paranoia, and terror in those who venture too close. Recent research suggests that the Umbral Cluster may be a form of non-Newtonian matter that operates on principles that are not fully understood. The swarm's movement patterns and behavior appear to be governed by complex algorithms that defy conventional physics. Moreover, the anomaly's influence on the human brain may be related to its interaction with the body's electromagnetic field, resulting in the production of abnormal brainwave patterns. This anomaly is also known to attract poltergeists, who are believed to find refuge within the swarm. The reasons behind this attraction are unclear, but some researchers speculate that the poltergeists may be drawn to the anomaly's unique electromagnetic field. The Umbral Cluster is one of the most dangerous anomalies ever recorded in the Zone, and exposure to its effects should be avoided at all costs. Even brief exposure can lead to long-lasting psychological trauma, and those who spend extended periods in the vicinity of the anomaly may suffer permanent damage to their mental health. Stalkers should exercise extreme caution when approaching this anomaly and take all necessary precautions to protect their well-being.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_flash">
+		<text>Flash</text>
+	</string>
+	<string id="encyclopedia_anomalies_flash_text">
+		<text>
+			• Name: %c[d_cyan]Flash%c[ui_gray_1]
+			\n• Type: %c[d_orange]Temporal
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\nThe "Flash" anomaly creates a tear in the space-time continuum that disrupts the fabric of the universe itself, or so it seems. When a passing the point at which effect begins, you experience a rapid time movement of unknown temporal extent, in just a single moment. The effects of the "Flash" anomaly on living organisms are complex and not yet fully understood. Some theories suggest that the rift may cause quantum-level disruptions in the individual's molecular structure, leading to physical and mental harm. Others propose that the time-travel effect of the anomaly may cause a loss of synchronicity between the individual's internal biological clock and the external environment, leading to disorientation and confusion. Despite the potential dangers of the "Flash" anomaly, some stalkers have found ways to use these rifts to their advantage. By carefully timing their entry and exit points, they can use the anomaly to evade pursuit or to wait for the perfect moment to retrieve an artifact. Navigating the "Flash" anomaly requires caution and skill, as its effects can be unpredictable and potentially deadly. Stalkers should exercise extreme caution when entering this rift and be aware of their surroundings at all times to avoid getting lost or disoriented. Additionally, those who use the "Flash" anomaly for their own purposes should be aware of the risks and take necessary precautions to ensure their safety, as some who wondered in it have never returned.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_ghost">
+		<text>Ghost</text>
+	</string>
+	<string id="encyclopedia_anomalies_ghost_text">
+		<text>
+			• Name: %c[d_cyan]Ghost%c[ui_gray_1]
+			\n• Type: %c[d_orange]Electrical/Chemical
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\n"Ghost" anomaly, as it is colloquially known among seasoned Stalkers, is a true mysterious occurrence, which appears as a puff of smoky, ethereal substance that moves with purpose. The Ghost's behavior is unique among all known anomalies, as it seems to possess some level of sentience that defies all scientific explanation. Some Stalkers believe that it is an ancient and malevolent entity that has existed since the Zone's creation, while others postulate that it is a manifestation of the collective consciousness of all those who have perished in the Zone. Its haunting and otherworldly sound sends chills down the bones of all who hear it. Theories abound about the source of these sounds that it emits, with some believing that they are the screams of lost souls trapped within the anomaly's embrace, while others maintain that they are the voices of the Zone itself, crying out in agony at the endless suffering and torment it has witnessed. The Ghost has become the subject of numerous myths and legends, with some even claiming that it possesses the power to grant wishes to those who can successfully capture it. Others tell of hapless Stalkers who have been lured to their deaths by its siren call, lost forever in the depths of the Zone. Despite its enigmatic nature, the Ghost is not to be underestimated, for it is a deadly and unpredictable force that can strike without warning. Those who venture too close to its path risk being electrocuted or disintegrated by its potent energies. This anomaly is a true enigma of the Zone, possessing a level of sentience and purpose that defies all scientific explanation. Its eerie sounds and ghostly presence have made it the subject of many myths and legends, adding to its mystique and terror. Approach with caution, for the Ghost anomaly is a deadly force that should not be taken lightly by even the most experienced of Stalkers. 
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_gold">
+		<text>Liquid Gold</text>
+	</string>
+	<string id="encyclopedia_anomalies_gold_text">
+		<text>
+			• Name: %c[d_cyan]Liquid Gold%c[ui_gray_1]
+			\n• Type: %c[d_orange]Chemical
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\nThe "Liquid Gold" anomaly is a highly dangerous and potent anomaly that emits a cloud of orange/golden colored toxic chemical substance. It is often considered to be the twin sister of the "Acidic" anomaly due to its similar appearance, but with far more severe effects. Upon contact with the substance, victims experience a rapid increase in body temperature, surpassing even feverish levels. The speed and intensity of this reaction vary depending on the potency of the anomaly. The symptoms range from severe dehydration to an excruciating death caused by the victim's blood reaching its boiling point. The toxic chemicals also affect the victim's skin, causing severe burns that can be small and hard to notice at first. However, these burns can worsen and lead to further complications, exacerbating the already life-threatening symptoms of the anomaly. The chemicals from the burns can also enter the bloodstream, affecting the body's internal organs, and potentially causing permanent damage. Due to the highly toxic and deadly nature of the anomaly, extreme caution must be exercised when encountering or handling it. Protective gear should be worn at all times, and immediate medical attention should be sought in the event of exposure. The "Liquid Gold" anomaly is a formidable threat that must be approached with the utmost care and caution.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_thorn">
+		<text>Thorn</text>
+	</string>
+	<string id="encyclopedia_anomalies_thorn_text">
+		<text>
+			• Name: %c[d_cyan]Thorn%c[ui_gray_1]
+			\n• Type: %c[d_orange]Physical/Chemical
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\nThorn is a deadly anomaly that can activate at a moment's notice. It appears as a small, unremarkable patch on the ground, but when triggered, it expands rapidly, revealing its true nature. Its jagged, spiky thorns protrude menacingly from the surface, giving it an appearance of deadly beauty. The biggest danger of Thorn lies not just in its deadly spikes, but in its unpredictable nature. It can be set off by any number of stimuli, including sound, vibration, or even the presence of living creatures nearby. This makes it a constant threat to any Stalker who ventures too close. What makes it even more lethal is that the spikes are coated in a toxic substance that can cause severe injury or even death. Once disturbed it unleashes a barrage of sharp, barbed thorns that shoot out in all directions, piercing through anything in their path with brutal force. The toxic nature of the spikes makes it an even greater challenge for Stalkers attempting to harvest its valuable artifacts. Without proper protection or antidotes, a single brush with the spikes can prove fatal. Despite the danger, some brave Stalkers risk everything to acquire the artifacts, driven by the promise of wealth and fame. But doing so requires nerves of steel, lightning-fast reflexes, and an intimate knowledge of the anomaly's behavior. Even then, there are no guarantees of survival. In the Zone, Thorn is a symbol of the dangers that lurk around every corner. It serves as a reminder that no matter how well-prepared a Stalker may be, they can never truly know what dangers they will face in the ever-shifting landscape of the Zone.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_seed">
+		<text>Seed</text>
+	</string>
+	<string id="encyclopedia_anomalies_seed_text">
+		<text>
+			• Name: %c[d_cyan]Seed%c[ui_gray_1]
+			\n• Type: %c[d_orange]Chemical
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\nSeed Anomaly, an enigmatic and treacherous occurrence, possesses an inherent peril that surpasses that of most anomalies, as it harbors the capability to multiply. Its elusive nature and multiplying ability heighten the level of danger associated with this phenomenon, demanding extreme caution from any who dare to venture near it. This anomalous entity manifests as a swirling mass of luminescent particles, resembling countless diminutive life forms that exhibit flawless coordination and collaboration. The orchestrated movements of the Seed Anomaly's constituent life forms suggest a remarkable level of organization and intelligence, which, when activated, culminate in a cataclysmic effect. Within certain scientific circles, a prevailing notion contends that the Seed Anomaly may signify an unprecedented manifestation of subatomic interactions, an elusive particle or an uncharted force of nature that has yet to be comprehensively understood. Alternatively, speculation abounds that this anomaly may manifest a novel phase of matter, hitherto unseen in the natural world. Astute stalkers have even reported witnessing patterns and configurations formed by these particles, resembling intricate structures found in nature, including swarms of birds or schools of fish. The behavior and purpose of the life forms within the Seed Anomaly remain shrouded in mystery, their intricate coordination suggesting an intelligence that surpasses the norm observed in other anomalies. Upon activation, the anomaly instantaneously releases its particles in a sudden and forceful burst, propelling them in all directions with extraordinary vigor. These particles possess an intense level of radioactivity, their emission accompanied by a piercing high-pitched sound that reverberates across great distances. The peril associated with the Seed Anomaly is further amplified by its uncanny ability to blend seamlessly into its surroundings, rendering its detection an arduous task until it is too late. Those unfortunate enough to encounter its wrath suffer dire consequences. The highly radioactive particles cause severe burns and radiation sickness, while the sheer force of the explosion can violently knock individuals off their feet, inflicting grave injuries. The disorienting effect of the particles' shrill emission complicates matters, hindering the escape of those in close proximity. Regardless of its origins or potential applications, the Seed Anomaly remains an alluring enigma that captivates the imaginations of both scientific minds and ordinary individuals. Its extraordinary properties and potential utilities perpetuate endless fascination and debate, ensuring that research and exploration pertaining to this anomaly will persist for years to come. In light of its inherent dangers, the Seed Anomaly must never be treated lightly, and only those who possess ample preparation, appropriate equipment, and comprehensive knowledge should dare to approach it.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_shatterpoint">
+		<text>Shatterpoint</text>
+	</string>
+	<string id="encyclopedia_anomalies_shatterpoint_text">
+		<text>
+			• Name: %c[d_cyan]Shutterpoint%c[ui_gray_1]
+			\n• Type: %c[d_orange]Gravitational (Unstable)
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\nA dangerous and unpredictable phenomenon that can be found in certain areas of the Zone. It appears as a cluster of sharp, transparent glass shards tied to a central point. It is highly advised to avoid Shatterpoint anomaly as it brings certain death. The shards that make up the Shatterpoint anomaly are not naturally occurring glass, but are instead created by the anomaly's unique behavior. It has a powerful gravitational field that pulls in small elements of the environment towards its central point, and as they are drawn in, they are subjected to extreme temperatures that cause them to heat up rapidly. Remnants of the previous triggering orbit around it and when disturbed they will explode in a burst of energy, which due to it's unstable gravitational field will suspend them in the air for a brief moment before they are all suddenly pulled towards the center of the anomaly, merging all together. The intense heat melting the shards will enwrap them into a single point followed by a sudden, rapid cooling that causes that point to shatter into million tiny pieces before the anomaly's gravitational field fluctuates again and it finally explodes, sending the shards flying in all directions. Stalkers should exercise extreme caution when approaching the Shatterpoint, as it is extremely sharp and dangerous and can cause significant harm to anyone who comes into contact with it. It is important to take steps to protect yourself from the flying glass if you must enter its vicinity.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_sloth">
+		<text>Sloth</text>
+	</string>
+	<string id="encyclopedia_anomalies_sloth_text">
+		<text>
+			• Name: %c[d_cyan]Sloth%c[ui_gray_1]
+			\n• Type: %c[d_orange]Chemical
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\nThe so called "Sloth" anomaly is highly unusual and enigmatic phenomenon that poses a significant threat to any organisms that come into contact with it. Upon analysis of its observed properties, it is possible to suggest that it is a complex and highly reactive cloud of unknown chemical composition. One possibility is that the Sloth anomaly is a highly reactive form of atmospheric pollution of the Zone, consisting of a complex mixture of organic and inorganic compounds. This could explain the anomaly's poisonous nature, as well as its ability to adversely affect the biological functions of organisms that come into contact with it. Alternatively, there are suggestions that Sloth may be a form of bio-engineered weapon that came in contact with Zone's anomalous fields, and got twisted to it's own will. Likely created by some unknown organization for use in combat or espionage, as this could explain the anomaly's highly specific and targeted effects, as well as its apparent ability to persist in the environment over long periods of time. Another possibility is that it's a natural byproduct of the Zone's unusual and often unpredictable environment. The Zone is known to produce a wide variety of unusual and potentially hazardous phenomena, including anomalies that affect the physical and biological functions of organisms that come into contact with them. It is possible that the Sloth anomaly is simply another example of this phenomenon, a natural expression of the strange and often unpredictable forces that make up this mysterious place. Regardless of its underlying nature, the Sloth is clearly a highly dangerous and potentially lethal phenomenon that demands caution and respect from all who enter the Zone. Its ability to hinder the motor skills of organisms that come into contact with it is a testament to the complex and often unpredictable nature of the forces that shape our world, and serves as a reminder of the dangers that lurk within the unknown reaches of the Zone.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_mefistotel">
+		<text>Mefistotel</text>
+	</string>
+	<string id="encyclopedia_anomalies_mefistotel_text">
+		<text>
+			• Name: %c[d_cyan]Mefistotel%c[ui_gray_1]
+			\n• Type: %c[d_orange]Electrical/Chemical
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\nMefistotel is a rare and mysterious anomaly that takes its name from the trickster demon of medieval folklore. The anomaly appears as a strange flower-like formation, with delicate tendrils that emit an eerie sound when any living organism approaches. Despite its alluring appearance, Mephistotel is extremely dangerous to any living creature that ventures too close. One of the most insidious aspects of Mephistotel is that its appearance can sometimes be mistaken for an artefact, a highly valuable and sought-after item in the Zone. Many rookie stalkers have fallen victim to this deception, believing they have stumbled upon a rare artefact, only to be drawn towards the anomaly's deadly center and meet their end. As soon as the victim enters Mephistotel's active radius, it is nearly instantly drawn towards its center, as if by some unseen force. Once drawn in, the victim is shredded into pieces by the anomaly's tendrils, which act like razor-sharp blades. The process is quick and brutal, leaving no chance for escape or survival. Many stalkers who have encountered Mephistotel report feeling an overwhelming sense of dread and unease when they came across it, but also speak of Its beautiful appearance and eerie sound that seem almost hypnotic, drawing in unsuspecting prey that quickly meets its demise. Rumors and legends about the anomaly have spread among stalkers, with some believing that Mephistotel, according to the story that has been passed down among stalkers, only appears to those who are driven by greed and the desire for material gain. It is said that those who have never wished for anything from the Zone have never seen the anomaly, and are therefore safe from its deadly lure. Some even believe that Mephistotel can read a person's thoughts and desires, and will only reveal itself to those who are deemed unworthy, luring them to their death. This belief has caused many stalkers who have seen it to approach the anomaly with caution and respect, fearing that their own greed may be their undoing.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_net">
+		<text>Net</text>
+	</string>
+	<string id="encyclopedia_anomalies_net_text">
+		<text>
+			• Name: %c[d_cyan]Net%c[ui_gray_1]
+			\n• Type: %c[d_orange]Gravitational/Chemical
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\nThe "net" anomaly is characterized by a highly charged stream of particles that are accelerated through gravitational forces. The charged particles create an electromagnetic field that entraps any object within its effective radius, much like an invisible net. The particles adhere to the surface of the trapped object, forming a tightly woven mesh that can be difficult to break free from. This phenomenon is caused by the interaction between the charged particles and the electromagnetic forces within the anomaly. The "net" anomaly is considered highly dangerous, as it can ensnare living organisms and cause severe physical harm or death. According to the rumors and legends among stalkers, the "Net" anomaly was first discovered by a group of experienced Zone veterans who had been exploring the area for years. As they wandered through the Zone, they noticed a strange electrical disturbance in the air, and as they got closer, they were suddenly enveloped by the charged particles of the anomaly. It is said that the stalkers struggled to escape the grasp of the "Net," but found themselves trapped in its grip, unable to break free. As they struggled, they saw the ghostly figures of other stalkers who had been caught in the anomaly before them, their bodies slowly being consumed by the charged particles. Net anomaly is feared and respected by all stalkers who venture into the Zone, and tales of its deadly grasp continue to spread among those who dare to explore its boundaries.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_point">
+		<text>Point</text>
+	</string>
+	<string id="encyclopedia_anomalies_point_text">
+		<text>
+			• Name: %c[d_cyan]Point%c[ui_gray_1]
+			\n• Type: %c[d_orange]Electrical
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\nPoint is an electrical phenomenon characterized by a transparent and crystalline orb that exhibits control over a spherical region of electrically charged energy. The orb appears to track the movement of nearby objects or individuals, suggesting a level of awareness and intentionality. The source of the electric energy within the sphere is not fully understood, but it has been observed to exhibit an interaction with electrical objects, such as batteries and capacitors, which appear to be charged in its proximity. However, due to the unknown nature of this interaction, it is strongly recommended to approach the anomaly with caution and proper protective measures. Despite its potential danger, some daring stalkers seek out Point anomaly in hopes of harnessing its power. Rumors have circulated about a group of stalkers who were able to extract the charged energy from the anomaly to power their devices, but it didn't end well. Story of tragic incident happened when a group of stalkers got lost somewhere in the Zone, it was middle of the night and their flashlights and PDA's were dead empty so they decided to try their luck with claims of this anomaly's ability so they could escape that part of the zone before they get ripped apart by mutants. As the group of stalkers approached the anomaly, they excitedly pulled out their PDAs and other electrical devices, hoping to charge them using the energy allegedly emitted by the anomaly. But as they drew closer, they began to feel a sense of unease. The crystalized orb seemed to be watching them, and the energy ball pulsed with an ominous glow. Suddenly, with a blinding flash of light, the energy ball discharged a massive surge of electricity. The stalkers were thrown back violently, their bodies contorted and writhing in agony as the electricity coursed through their flesh. Their screams echoed across the Zone, as the electricity fried their nerve endings and cooked their internal organs. Days later, other stalkers found their lifeless bodies scattered around the anomaly, their flesh charred and blackened from the electrical surge, and their devices fully charged. It was a gruesome reminder of the deadly power of the Point anomaly, and a warning to all who dared to approach it. Most stalkers heed the warning to stay away from the anomaly, knowing all too well the deadly consequences of tempting fate in the Zone.
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_sphere">
+		<text>Rebounder</text>
+	</string>
+	<string id="encyclopedia_anomalies_sphere_text">
+		<text>
+			• Name: %c[d_cyan]Rebounder%c[ui_gray_1]
+			\n• Type: %c[d_orange]Gravitational
+			\n \n%c[pda_green]Information%c[ui_gray_1]
+			\n"Rebounder" is a rare and enigmatic gravitational anomaly that manifests as a dense concentration of multiple force fields, forming a spherical shape. These force fields interact in complex ways to create a gravitational distortion, so when a moving object approaches the Rebounder's sphere, it encounters a force field that slows it down and alters its trajectory. This effect is caused by the distortion of the local space-time fabric, which creates a curvature that opposes the motion of the object. In addition to its defensive capabilities, the Rebounder can also be used offensively by skilled stalkers. By strategically placing themselves near the anomaly, experienced stalkers can use the distortion field to shield themselves from bullets or even deflect incoming projectiles towards their enemies. This technique requires precise timing and aim, but it can be a devastating tool in the hands of a skilled fighter. However, the Rebounder's effects are not always predictable, and inexperienced stalkers who attempt to use it may find themselves at the mercy of its unpredictable gravitational forces. Furthermore, prolonged exposure to the Rebounder's distortion field can have adverse effects on the stalker's health and well-being, causing disorientation and nausea. Overall, the Rebounder is a highly sought-after anomaly among Stalkers due to its unique defensive and offensive capabilities. However, its unpredictable nature and potential health hazards make it a dangerous anomaly to approach and use without proper preparation and caution.
+		</text>
+	</string>
+
+</string_table>
