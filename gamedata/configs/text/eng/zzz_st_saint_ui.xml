@@ -345,10 +345,10 @@
 		<text>slightly damaged</text>
 	</string>
 	<string id="st_damage_3">
-		<text>slightly worn</text>
+		<text>slightly used</text>
 	</string>
 	<string id="st_damage_4">
-		<text>slightly used</text>
+		<text>pristine</text>
 	</string>
 	<string id="st_damage_5">
 		<text>factory new</text>
