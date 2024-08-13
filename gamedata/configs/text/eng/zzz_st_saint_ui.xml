@@ -202,7 +202,7 @@
 		<text>Faction</text>
 	</string>
 	<string id="st_itm_desc_outfit_repair_bonus">
-		<text>Repair Bonus</text>
+		<text>Utility bonus</text>
 	</string>
 	<string id="st_itm_desc_outfit_required_tool">
 		<text>Required tool</text>
@@ -427,7 +427,7 @@
 		<text>Value:</text>
 	</string>
 	<string id="st_tt_af_base_cost">
-		<text>Artifact Value:</text>
+		<text>Artifact value:</text>
 	</string>
 
 	<!-- Section Names-->
