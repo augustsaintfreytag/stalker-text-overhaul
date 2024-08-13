@@ -56,6 +56,26 @@
 	<string id="st_found_new_treasure">
 		<text>Stash coordinates added</text>
 	</string>
+
+	<!-- Disguise -->
+
+	<string id="st_news_disguse_enemy_expose_1">
+		<text>INTRUDER!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_2">
+		<text>A SPY! SHOOT THEM!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_3">
+		<text>A SPY! OPEN FIRE!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_4">
+		<text>ENEMY! SHOOT AT ONCE!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_5">
+		<text>STOP RIGHT THERE!</text>
+	</string>
+	<string id="st_news_disguse_natural_expose_4">
+		<text>Leave. Now.</text>
 	</string>
 
 	<!-- Fast Travel -->
