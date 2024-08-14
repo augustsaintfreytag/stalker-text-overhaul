@@ -665,7 +665,7 @@
 	</string>
 	<string id="st_af_atom_descr">
 		<text>
-			A rare artefact resembling the old Bohr model of an atom. Though not radioactive, it produces a small amount of heat. It is valuable to collectors and scientists for its shape and properties. Stalkers suffering from heavy radiation exposure seem rejuvenated when using this artefact, though the effect diminishes over time as does the radiation in their bodies. Radiation output is low on the artefact radiation scale.\n \n
+			A rare artefact resembling the old Bohr model of an atom. Though not radioactive, it produces a small amount of heat. It is valuable to collectors and scientists for its shape and properties. Stalkers suffering from heavy radiation exposure seem rejuvenated when using this artefact, though the effect diminishes over time as does the radiation in their bodies. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] stamina artefact\n
@@ -691,7 +691,7 @@
 	</string>
 	<string id="st_af_fire_loop_descr">
 		<text>
-			Formed in the extreme heat of thermal anomalies, various legends surround this artefact, often deterring stalkers from picking it up. Once activated, Knot always returns to its owner, who can never get rid of it. Some sources talk about superhuman abilities, hearing voices, reckless behaviour, and strange disappearances. Radiation output is low on the artefact radiation scale.\n \n
+			Formed in the extreme heat of thermal anomalies, various legends surround this artefact, often deterring stalkers from picking it up. Once activated, Knot always returns to its owner, who can never get rid of it. Some sources talk about superhuman abilities, hearing voices, reckless behaviour, and strange disappearances. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
@@ -704,7 +704,7 @@
 	</string>
 	<string id="st_af_zhelch_descr">
 		<text>
-			An artefact that embodies the saying "a sound mind in a sound body." Initially used by stalkers to heal wounds and explore mind-altering anomalies, over time, it showed a sinister side. Users exhibited erratic behaviour, especially when recovering from serious injuries. Few are brave enough to use Scars now, with veterans telling chilling stories about its effects around campfires. Radiation output is low on the artefact radiation scale.\n \n
+			An artefact that embodies the saying "a sound mind in a sound body." Initially used by stalkers to heal wounds and explore mind-altering anomalies, over time, it showed a sinister side. Users exhibited erratic behaviour, especially when recovering from serious injuries. Few are brave enough to use Scars now, with veterans telling chilling stories about its effects around campfires. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
@@ -717,7 +717,7 @@
 	</string>
 	<string id="st_af_sandstone_descr">
 		<text>
-			Formed in extreme temperature anomalies, Sandstone possesses an intelligence that allows it to identify a user's weapon. It links itself to the weapon and seeks out an anomaly, infusing lethal elements with corresponding anomalous properties, making them much more damaging. Radiation output is low on the artefact radiation scale.\n \n
+			Formed in extreme temperature anomalies, Sandstone possesses an intelligence that allows it to identify a user's weapon. It links itself to the weapon and seeks out an anomaly, infusing lethal elements with corresponding anomalous properties, making them much more damaging. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
@@ -730,7 +730,7 @@
 	</string>
 	<string id="st_af_kislushka_descr">
 		<text>
-			A hollow spherical artefact resembling a transparent parchment. Covered with a film, it activates when covered in warm blood, using the user's energy to excrete a stimulant that helps bleeding wounds clot and close faster. Popular in the medical world, it fetches a nice price. Radiation output is low on the artefact radiation scale.\n \n
+			A hollow spherical artefact resembling a transparent parchment. Covered with a film, it activates when covered in warm blood, using the user's energy to excrete a stimulant that helps bleeding wounds clot and close faster. Popular in the medical world, it fetches a nice price. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] health artefact\n
@@ -743,7 +743,7 @@
 	</string>
 	<string id="st_af_black_angel_descr">
 		<text>
-			An artefact of anomalous minerals twisted into an ominous semi-symmetrical formation. Despite emitting no heat or radiation, it can condense water vapor into steam. When hit by a bullet, it detects the shot's origin and redirects the potential damage back to the shooter. Radiation output is low on the artefact radiation scale.\n \n
+			An artefact of anomalous minerals twisted into an ominous semi-symmetrical formation. Despite emitting no heat or radiation, it can condense water vapor into steam. When hit by a bullet, it detects the shot's origin and redirects the potential damage back to the shooter. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
@@ -756,7 +756,7 @@
 	</string>
 	<string id="st_af_grapes_descr">
 		<text>
-			A heavy artefact sometimes found in gravitational anomalies, resembling drops of green-tinted amber twisted together. Recently confirmed to activate near ongoing digestion, stimulating metabolism to heal more effectively. Previously considered hearsay, this ability has been validated by scientists. Radiation output is low on the artefact radiation scale.\n \n
+			A heavy artefact sometimes found in gravitational anomalies, resembling drops of green-tinted amber twisted together. Recently confirmed to activate near ongoing digestion, stimulating metabolism to heal more effectively. Previously considered hearsay, this ability has been validated by scientists. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] health artefact\n
@@ -769,7 +769,7 @@
 	</string>
 	<string id="st_af_skull_miser_descr">
 		<text>
-			A light and fragile artefact consisting of interlinked strands of anomalous plant fibers. Favoured by various scum in the Zone and sometimes referred to as a "Small Wish Granter." When the user kills someone by damaging their brain, the Zone rewards them with currency around the victim. Some believe it's the Zone's way of encouraging murder for peace, while others think it attracts people with riches. Radiation output is low on the artefact radiation scale.\n \n
+			A light and fragile artefact consisting of interlinked strands of anomalous plant fibers. Favoured by various scum in the Zone and sometimes referred to as a "Small Wish Granter." When the user kills someone by damaging their brain, the Zone rewards them with currency around the victim. Some believe it's the Zone's way of encouraging murder for peace, while others think it attracts people with riches. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
@@ -783,7 +783,7 @@
 	</string>
 	<string id="st_af_star_phantom_descr">
 		<text>
-			This artefact appears to be a plasma-like substance suspended within a striated transparent shell. It generates a weak gravitational field, making it difficult to hold still or balance. When active, Phantom Star affects the minds of nearby living beings, causing the user to become unnoticed until a forceful interaction occurs. It also prevents the owner from engaging in hostility. Radiation output is low on the artefact radiation scale.\n \n
+			This artefact appears to be a plasma-like substance suspended within a striated transparent shell. It generates a weak gravitational field, making it difficult to hold still or balance. When active, Phantom Star affects the minds of nearby living beings, causing the user to become unnoticed until a forceful interaction occurs. It also prevents the owner from engaging in hostility. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
@@ -796,7 +796,7 @@
 	</string>
 	<string id="st_af_medallion_descr">
 		<text>
-			An artefact consisting of a small hoop embedded with four triangular shapes and a central sphere. Medal defies logical explanation. It can detect if the user is part of a group and has a mysterious ability to transfer damage intended for the user to someone else in their company. While desirable for selfish reasons, it is not well-received by other stalkers. Radiation output is low on the artefact radiation scale.\n \n
+			An artefact consisting of a small hoop embedded with four triangular shapes and a central sphere. Medal defies logical explanation. It can detect if the user is part of a group and has a mysterious ability to transfer damage intended for the user to someone else in their company. While desirable for selfish reasons, it is not well-received by other stalkers. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
@@ -809,7 +809,7 @@
 	</string>
 	<string id="st_af_peas_descr">
 		<text>
-			An artefact shaped like a lunar crescent. Its exterior shell continuously generates a dim light that stimulates the user. At night, it makes the user feel rested and energetic, but during daylight, it has the reverse effect. Radiation output is low on the artefact radiation scale.\n \n
+			An artefact shaped like a lunar crescent. Its exterior shell continuously generates a dim light that stimulates the user. At night, it makes the user feel rested and energetic, but during daylight, it has the reverse effect. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
@@ -822,7 +822,7 @@
 	</string>
 	<string id="st_af_generator_descr">
 		<text>
-			An anomalous disk that generates a strong, small electromagnetic field. Not radioactive but can 'spin' perpetually on its axis when the user moves fast. The energy from the artefact connects to nearby drained batteries and devices, restoring their power slowly. Radiation output is low on the artefact radiation scale.\n \n
+			An anomalous disk that generates a strong, small electromagnetic field. Not radioactive but can 'spin' perpetually on its axis when the user moves fast. The energy from the artefact connects to nearby drained batteries and devices, restoring their power slowly. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] medium tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
@@ -835,10 +835,10 @@
 	</string>
 	<string id="st_af_ball_descr">
 		<text>
-			Despite appearing as a mottled ball of dirt and rock, this artefact is unusually light and bouncy. Believed to be a product of electrical anomalies, it generates a force that can repel living creatures, excluding humans. Activation requires a fast and strong movement between the user and the target, often leading to stalkers kicking mutants. While not advised, it can be effective in dire situations. Radiation output is low on the artefact radiation scale.\n \n
+			Despite appearing as a mottled ball of dirt and rock, this artefact is unusually light and bouncy. Believed to be a product of electrical anomalies, it generates a force that can repel living creatures, excluding humans. Activation requires a fast and strong movement between the user and the target, often leading to stalkers kicking mutants. While not advised, it can be effective in dire situations. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
-			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
+			%c[d_cyan] • %c[ui_gray_2] gravitational artefact\n
 			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
 		</text>
 	</string>
@@ -848,7 +848,7 @@
 	</string>
 	<string id="st_af_fonar_descr">
 		<text>
-			This light, glassy artefact emits a modest amount of near-ultraviolet light. It reacts oddly with certain radio waves, making sources of various transmissions glow. Stalkers use this property to search for hidden stashes at night. Radiation output is low on the artefact radiation scale.\n \n
+			This light, glassy artefact emits a modest amount of near-ultraviolet light. It reacts oddly with certain radio waves, making sources of various transmissions glow. Stalkers use this property to search for hidden stashes at night. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
@@ -861,7 +861,7 @@
 	</string>
 	<string id="st_af_tapeworm_descr">
 		<text>
-			A pure silicon dioxide artefact, twisted into an unusual shape by gravitational anomalies. When activated, it sends a strong electric shock to any living creature attacking the user via direct contact, stunning them temporarily. However, it does not distinguish between attackers, including the user. Highly valued by mutant hunters. Radiation output is low on the artefact radiation scale.\n \n
+			A pure silicon dioxide artefact, twisted into an unusual shape by gravitational anomalies. When activated, it sends a strong electric shock to any living creature attacking the user via direct contact, stunning them temporarily. However, it does not distinguish between attackers, including the user. Highly valued by mutant hunters. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
@@ -874,7 +874,7 @@
 	</string>
 	<string id="st_af_moh_descr">
 		<text>
-			An artefact formed in electric anomalies. Despite its sharp, jagged appearance, it is soft and pleasing to the touch. When attached to the belt, it detects the contents of the user's stomach. Upon recognizing any raw meat of Zone origin within the digestive system, it activates, using the flesh's energy to fuel stimulating effects, depending on the type of creature consumed. Radiation output is low on the artefact radiation scale.\n \n
+			An artefact formed in electric anomalies. Despite its sharp, jagged appearance, it is soft and pleasing to the touch. When attached to the belt, it detects the contents of the user's stomach. Upon recognizing any raw meat of Zone origin within the digestive system, it activates, using the flesh's energy to fuel stimulating effects, depending on the type of creature consumed. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
@@ -888,7 +888,7 @@
 	</string>
 	<string id="st_af_serofim_descr">
 		<text>
-			Seraphim was long considered nothing but a pretty bauble to be sold. This changed when a veteran group of stalkers returned from a deep excursion with a remarkable story. They were ambushed by a sniper, and their leader was instantly killed, his skull split in half. While sending suppressive fire, they saw his belt light up, and he stood up without a scratch, his helmet still showing entry and exit holes from the sniper's bullet. They retreated and found that the Seraphim artefact the leader kept as a lucky charm was gone, leaving only glowing dust. Since then, those who heard the story hold their Seraphims dear, believing the artefact will bring them back from the dead. No one has been brave enough to test this. Radiation output is low on the artefact radiation scale.\n \n
+			Seraphim was long considered nothing but a pretty bauble to be sold. This changed when a veteran group of stalkers returned from a deep excursion with a remarkable story. They were ambushed by a sniper, and their leader was instantly killed, his skull split in half. While sending suppressive fire, they saw his belt light up, and he stood up without a scratch, his helmet still showing entry and exit holes from the sniper's bullet. They retreated and found that the Seraphim artefact the leader kept as a lucky charm was gone, leaving only glowing dust. Since then, those who heard the story hold their Seraphims dear, believing the artefact will bring them back from the dead. No one has been brave enough to test this. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
@@ -901,7 +901,7 @@
 	</string>
 	<string id="st_af_elektron_descr">
 		<text>
-			This artefact is a product of electrical anomalies. It is extremely heavy despite its small size and has a unique property. It combines common electro anomalies with other electric charges nearby, using the anomaly as a power source. Fascinatingly, the artefact considers the human body a battery, converting energy into one usable by human cells during physical activity. Despite the painful experience, users enjoy being tireless for a short period. Side effects? Well, none have been reported so far. Radiation output is low on the artefact radiation scale.\n \n
+			This artefact is a product of electrical anomalies. It is extremely heavy despite its small size and has a unique property. It combines common electro anomalies with other electric charges nearby, using the anomaly as a power source. Fascinatingly, the artefact considers the human body a battery, converting energy into one usable by human cells during physical activity. Despite the painful experience, users enjoy being tireless for a short period. Side effects? Well, none have been reported so far. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
@@ -914,7 +914,7 @@
 	</string>
 	<string id="st_af_kogot_descr">
 		<text>
-			A beautiful glass-like artefact occasionally commonly found in and around electrostatic anomalies. When used, it fills its user with a combination of rage and a desire to attack enemies directly, reinvigorating them in the process. A common story associated with this artefact involves a rookie who found a Claw with his friend, only to be chased by a pack of hungry dogs moments later. The "friend" shot the rookie and took off, leaving him to certain death. To everyone's surprise, the betrayed stalker returned to camp, perfectly healthy despite his clothes being torn from dog bites, with only a knife and the artefact hanging by his belt. What happened to the backstabber is better left unsaid. Radiation output is low on the artefact radiation scale.\n \n
+			A beautiful glass-like artefact occasionally commonly found in and around electrostatic anomalies. When used, it fills its user with a combination of rage and a desire to attack enemies directly, reinvigorating them in the process. A common story associated with this artefact involves a rookie who found a Claw with his friend, only to be chased by a pack of hungry dogs moments later. The "friend" shot the rookie and took off, leaving him to certain death. To everyone's surprise, the betrayed stalker returned to camp, perfectly healthy despite his clothes being torn from dog bites, with only a knife and the artefact hanging by his belt. What happened to the backstabber is better left unsaid. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] electrical artefact\n
@@ -927,7 +927,7 @@
 	</string>
 	<string id="st_af_dragon_eye_descr">
 		<text>
-			A jagged artefact with the outer appearance of a reptile's eye, formed in thermal anomalies. It has a dangerous and volatile property. When the user secures a kill, there's a small chance for a violent explosion within the victim's body, harming anyone nearby. Superstitious stalkers say it's the Zone itself violently ripping out the souls of the fallen. Most prefer to avoid using it due to the stories of people getting caught in such explosions at unfortunate distances. Radiation output is low on the artefact radiation scale.\n \n
+			A jagged artefact with the outer appearance of a reptile's eye, formed in thermal anomalies. It has a dangerous and volatile property. When the user secures a kill, there's a small chance for a violent explosion within the victim's body, harming anyone nearby. Superstitious stalkers say it's the Zone itself violently ripping out the souls of the fallen. Most prefer to avoid using it due to the stories of people getting caught in such explosions at unfortunate distances. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] very low tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] thermal artefact\n
@@ -941,7 +941,7 @@
 	</string>
 	<string id="st_af_vaselisk_descr">
 		<text>
-			A dense, rugged artefact with a hard, scaly surface, reminiscent of its mythical namesake. Its primary function is to absorb and dissipate kinetic energy, providing significant resistance to blunt force, cutting, and piercing damage. Despite its durability, it does not offer any regenerative or offensive capabilities. Highly valued by stalkers who prioritize physical protection over other benefits. One of the few artefacts in the Zone that effectively protects against all kinds of physical influences on its user. Radiation output is low on the artefact radiation scale.\n \n
+			A dense, rugged artefact with a hard, scaly surface, reminiscent of its mythical namesake. Its primary function is to absorb and dissipate kinetic energy, providing significant resistance to blunt force, cutting, and piercing damage. Despite its durability, it does not offer any regenerative or offensive capabilities. Highly valued by stalkers who prioritize physical protection over other benefits. One of the few artefacts in the Zone that effectively protects against all kinds of physical influences on its user. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n
@@ -954,7 +954,7 @@
 	</string>
 	<string id="st_af_geliy_descr">
 		<text>
-			A bright, misshapen artefact found in electrostatic anomalies. It emits a luminous gas that benefits the body by enhancing physical endurance and overall vitality. This gas alleviates fatigue and improves the respiratory system, making it highly sought after. Its efficiency and demand make it valuable both inside and outside the Zone. Radiation output is low on the artefact radiation scale.\n \n
+			A bright, misshapen artefact found in electrostatic anomalies. It emits a luminous gas that benefits the body by enhancing physical endurance and overall vitality. This gas alleviates fatigue and improves the respiratory system, making it highly sought after. Its efficiency and demand make it valuable both inside and outside the Zone. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] regenerative artefact\n
@@ -967,7 +967,7 @@
 	</string>
 	<string id="st_af_gimlet_descr">
 		<text>
-			An artefact with strange bowl-shaped petals that are able to release a powerful stimulant vapor that alters the balance of human hormones. Though its practical by stalkers is questionable, it is highly sought after for medical research due to its unique properties and potential in research and development. The vapor can enhance physical and mental performance temporarily, but its long-term effects are unknown. Radiation output is low on the artefact radiation scale.\n \n
+			An artefact with strange bowl-shaped petals that are able to release a powerful stimulant vapor that alters the balance of human hormones. Though its practical by stalkers is questionable, it is highly sought after for medical research due to its unique properties and potential in research and development. The vapor can enhance physical and mental performance temporarily, but its long-term effects are unknown. Radiation output is negligible on the artefact radiation scale.\n \n
 			%c[ui_gray_3]PROPERTIES:\n
 			%c[d_cyan] • %c[ui_gray_2] high tier artefact\n
 			%c[d_cyan] • %c[ui_gray_2] psychoactive artefact\n
