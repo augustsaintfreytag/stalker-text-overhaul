@@ -736,7 +736,7 @@
 	<!-- LCS (Light Combat Suit) -->
 
 	<string id="merc_outfit_name">
-		<text>Mercenary LC Suit</text>
+		<text>Mercenary Light Combat Suit</text>
 	</string>
 	<string id="merc_outfit_description">
 		<text>A light combat suit, one of the most common outfits used by the Zone's Mercenaries. Its design is based on suits used by Western special forces, featuring a lightweight Kevlar weave and minimal ceramic plate inserts. Adequate for basic operations, but the quality is lacking when compared to standard Spetsnaz gear. Many variants are made from this suit's base design.
@@ -747,12 +747,12 @@
 		<text>Mercenary LC-F Suit</text>
 	</string>
 	<string id="merc_fighter_outfit_description">
-		<text>A variation of the standard LC outfit, referred to as the "Fighter" by Mercenaries. Made from high-strength synthetic fibers, it is designed for operations requiring stealth and speed. The lightweight construction provides flexibility and comfort, making it ideal for quick, covert missions. Many variants are made from this suit's base design.
+		<text>A variation of the standard Light Combat outfit, referred to as the "Fighter" by Mercenaries. Made from high-strength synthetic fibers, it is designed for operations requiring stealth and speed. The lightweight construction provides flexibility and comfort, making it ideal for quick, covert missions. Many variants are made from this suit's base design.
 		</text>
 	</string>
 
 	<string id="banditmerc_outfit_name">
-		<text>Fenced LC Suit</text>
+		<text>Fenced Light Combat Suit</text>
 	</string>
 	<string id="banditmerc_outfit_description">
 		<text>A light combat suit obtained to armor local Bandit gangs. Based on Western special forces designs, it is constructed from low-quality materials, including substandard Kevlar and poorly assembled ceramic plates. This suit offers minimal protection, highlighting the irony of Bandits being ripped off by their suppliers. Many variants are made from this suit's base design.
@@ -760,7 +760,7 @@
 	</string>
 
 	<string id="renegademerc_outfit_name">
-		<text>Renegade LC Suit</text>
+		<text>Renegade Light Combat Suit</text>
 	</string>
 	<string id="renegademerc_outfit_description">
 		<text>A light combat suit acquired through dubious means to armor local groups of Renegades. Modeled after Western special forces gear, it features a comfortable and lightweight construction using synthetic fibers and basic ballistic protection. Surprisingly pleasant to wear despite its origins. Many variants are made from this suit's base design.
@@ -824,7 +824,7 @@
 	</string>
 
 	<string id="isg_lcs_outfit_name">
-		<text>UNISG LC Suit</text>
+		<text>UNISG Light Combat Suit</text>
 	</string>
 	<string id="isg_lcs_outfit_description">
 		<text>A light combat suit model adapted for use by UNISG troops. Based on Western special forces designs, it features high-strength synthetic fibers and basic ballistic protection. Suitable for a variety of operations in the Zone.
