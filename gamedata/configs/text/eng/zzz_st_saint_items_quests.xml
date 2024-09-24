@@ -235,6 +235,13 @@
 		%c[d_cyan] • %c[ui_gray_2] quest item\n
 		</text>
 	</string>
+
+	<string id="st_pda_mlr_descr">
+		<text>A portable hand-held computer with vital functions for the day to day life in the exclusion zone. This particular PDA contains compiled information on potential routes between different areas of the exclusion zone. The stored information may be useful to certain parties.\n \nThis series of PDAs was developed specifically for use in the Zone and is one of the few electronic devices able to operate without significant interference. All PDAs come in a durable casing, are dust-resistant and waterproof up to a few meters of depth and have special internal shielding to electrical pulses common around anomalies and during emissions. All models come equipped with a GPS module that provides highly accurate geolocation and bearing by evaluating signal pings from a number of antennae and relays inside the perimeter, making it the only viable electronic means of location.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] quest item\n
+		</text>
+	</string>
 	
 	<!-- DRX -->
 
