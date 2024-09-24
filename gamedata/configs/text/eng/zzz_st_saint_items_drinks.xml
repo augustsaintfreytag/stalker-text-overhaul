@@ -70,10 +70,10 @@
 	<!-- Water -->
 
 	<string id="st_flask">
-		<text>Flask</text>
+		<text>Water Flask</text>
 	</string>
 	<string id="st_flask_descr">
-		<text>A military-issue flask filled with purified water. It is made from high-grade aluminum, a lightweight and durable material. The flask is fitted with a secure, screw-on cap with a rubber gasket to ensure a tight seal. Its outer surface is coated with a matte, non-reflective finish to prevents glints of sunlight in the field. \n \nDifferent types of reusable water flasks are commonly carried by all kinds of operatives in the Zone.\n \n
+		<text>A military-issue flask filled with purified water. It is made from high-grade aluminum, a lightweight and durable material. The flask is fitted with a secure, screw-on cap with a rubber gasket to ensure a tight seal. Its outer surface is coated with a matte, non-reflective finish to prevents glints of sunlight in the field. Different types of reusable flasks are commonly carried by all kinds of operatives in the Zone.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] clean hydration source\n
