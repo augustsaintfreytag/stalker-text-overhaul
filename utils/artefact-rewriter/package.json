@@ -1,0 +1,22 @@
+{
+  "name": "artefact-rewriter",
+  "version": "1.0.0",
+  "main": "src/artefact-rewriter.ts",
+  "license": "MIT",
+  "scripts": {
+    "main": "bun src/artefact-rewriter.ts",
+    "debug": "bun --inspect-brk src/artefact-rewriter.ts"
+  },
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.10",
+    "typeswift": "^1.1.7",
+    "windows-1251": "^3.0.4"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/windows-1251": "^0.1.22"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

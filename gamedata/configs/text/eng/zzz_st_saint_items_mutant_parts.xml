@@ -18,10 +18,10 @@
 		</text>
 	</string>
 
-	<string id="mutant_bloodsucker_meat">
+	<string id="mutant_krovosos_meat">
 		<text>Bloodsucker Meat</text>
 	</string>
-	<string id="mutant_bloodsucker_meat_description">
+	<string id="mutant_krovosos_meat_description">
 		<text>A cut of meat from a bloodsucker mutant, with a stringy texture and peculiar sour taste. Bloodsucker meat is not as popular as other more common meats like boar or flesh, but it is valued by some as an acquired taste and is sometimes used as an addition to stews and soups for its unique flavor profile. It is generally more contaminated than other game found in the Zone. Similar to snork flesh, there are discussions around the exact nature of the meat and if its consumption can be classified as cannibalism. Best suited for slow cooking methods like braising or stewing to tenderize the tough fibers. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] cookable item\n

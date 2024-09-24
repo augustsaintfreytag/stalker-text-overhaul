@@ -14,6 +14,9 @@
 	<string id="Btn_Yes">
 		<text>Yes</text>
 	</string>
+	<string id="ui_mm_cancel">
+		<text>Cancel</text>
+	</string>
 	<string id="ui_mm_loot_all">
 		<text>Loot All (Enter/Space)</text>
 	</string>
@@ -109,6 +112,9 @@
 
 	<string id="kb_reload">
 		<text>Reload/Focus PDA</text>
+	</string>
+	<string id="ui_mm_video_advanced_volumetric_lights">
+		<text>Volumetric Light</text>
 	</string>
 
 	<!-- Context Menu -->
@@ -460,7 +466,7 @@
 		<text>Value:</text>
 	</string>
 	<string id="st_tt_af_base_cost">
-		<text>Artifact value:</text>
+		<text>Artefact value:</text>
 	</string>
 
 	<!-- Section Names-->
