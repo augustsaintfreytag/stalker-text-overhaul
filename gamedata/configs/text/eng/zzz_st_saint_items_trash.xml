@@ -205,6 +205,16 @@
 		OTHER
 	-->
 
+	<string id="st_picture_woman">
+		<text>Photo</text>
+	</string>
+	<string id="st_picture_woman_descr">
+		<text>An unassuming analogue color photo print with a few minor creases and scratches on the glossy surface. This photo may have once been the treasured memory of another person. It appears mundane at first glance but it seems, great attention has been given to the framing, lighting, and overall atmosphere. It gives off a thoughtful, observational tenderness.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
 	<string id="st_batteries_empty">
 		<text>Empty Batteries</text>
 	</string>

@@ -17,35 +17,68 @@
 	<string id="ui_mm_loot_all">
 		<text>Loot All (Enter/Space)</text>
 	</string>
+	<string id="sleep_ok_button">
+		<text>Sleep</text>
+	</string>
 
 	<!-- Notifications -->
 
 	<string id="general_complete_task">
-		<text>Mission completed:</text>
+		<text>Mission completed</text>
 	</string>
 	<string id="general_fail_task">
-		<text>Mission failed:</text>
+		<text>Mission failed</text>
 	</string>
 	<string id="general_in_item">
-		<text>Item received:</text>
+		<text>Item received</text>
 	</string>
 	<string id="general_in_money">
-		<text>Currency received:</text>
+		<text>Currency received</text>
 	</string>
 	<string id="general_new_task">
-		<text>Mission accepted:</text>
+		<text>Mission accepted</text>
 	</string>
 	<string id="general_out_item">
-		<text>Item lost:</text>
+		<text>Item lost</text>
 	</string>
 	<string id="general_out_money">
-		<text>Currency lost:</text>
+		<text>Currency lost</text>
 	</string>
 	<string id="general_reverse_task">
-		<text>Mission cancelled:</text>
+		<text>Mission cancelled</text>
 	</string>
 	<string id="general_update_task">
-		<text>Mission updated:</text>
+		<text>Mission updated</text>
+	</string>
+	<string id="st_news_goodwill_update_title">
+		<text>Faction affinity updated</text>
+	</string>
+	<string id="st_got_treasure">
+		<text>Stash found</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>Stash coordinates added</text>
+	</string>
+
+	<!-- Disguise -->
+
+	<string id="st_news_disguse_enemy_expose_1">
+		<text>INTRUDER!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_2">
+		<text>A SPY! SHOOT THEM!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_3">
+		<text>A SPY! OPEN FIRE!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_4">
+		<text>ENEMY! SHOOT AT ONCE!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_5">
+		<text>STOP RIGHT THERE!</text>
+	</string>
+	<string id="st_news_disguse_natural_expose_4">
+		<text>Leave. Now.</text>
 	</string>
 
 	<!-- Fast Travel -->
@@ -54,7 +87,7 @@
 		<text>Backpack Travel to</text>
 	</string>
 	<string id="st_fftd_mapspot_guideto">
-		<text>Hire Guide to</text>
+		<text>Hire guide to</text>
 	</string>
 	<string id="st_fftd_guides_far">
 		<text>No guides in responding distance</text>
@@ -66,10 +99,10 @@
 		<text>No guides available</text>
 	</string>
 	<string id="st_fft_travel_zoneblocked_1">
-		<text>%s only available in allied faction bases</text>
+		<text>Personal travel unavailable outside safe spaces</text>
 	</string>
 	<string id="st_fft_travel_zoneblocked_2">
-		<text>%s only available in owned faction bases</text>
+		<text>Personal travel unavailable outside owned faction bases</text>
 	</string>
 
 	<!-- Settings -->
@@ -202,7 +235,7 @@
 		<text>Faction</text>
 	</string>
 	<string id="st_itm_desc_outfit_repair_bonus">
-		<text>Repair Bonus</text>
+		<text>Utility bonus</text>
 	</string>
 	<string id="st_itm_desc_outfit_required_tool">
 		<text>Required tool</text>
@@ -345,10 +378,10 @@
 		<text>slightly damaged</text>
 	</string>
 	<string id="st_damage_3">
-		<text>slightly worn</text>
+		<text>slightly used</text>
 	</string>
 	<string id="st_damage_4">
-		<text>slightly used</text>
+		<text>pristine</text>
 	</string>
 	<string id="st_damage_5">
 		<text>factory new</text>
@@ -427,7 +460,7 @@
 		<text>Value:</text>
 	</string>
 	<string id="st_tt_af_base_cost">
-		<text>Artifact Value:</text>
+		<text>Artifact value:</text>
 	</string>
 
 	<!-- Section Names-->

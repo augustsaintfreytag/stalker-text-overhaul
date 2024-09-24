@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_recipe_basic_1">
+		<text>Survival Guide (1st Issue)</text>
+	</string>
+	<string id="st_recipe_basic_2">
+		<text>Survival Guide (2nd Issue)</text>
+	</string>
+	<string id="st_recipe_basic_3">
+		<text>Survival Guide (3rd Issue)</text>
+	</string>
+	<string id="st_recipe_basic_4">
+		<text>Survival Guide (4th Issue)</text>
+	</string>
+	<string id="st_recipe_basic_descr">
+		<text>An issue of an everyday survival guide. The contents detail essential survival skills, focusing on practical techniques for staying alive in unusual and harsh environments. It provides an overview of standard survival kits, including their components, recommended configurations, and possible applications. The later chapters offer instructions on crafting basic gear from readily available materials with step by step guides and demonstration pictures. The guide is available in multiple issues, each dedicated to a specific area of expertise. Printed and distributed by a Norwegian publishing house.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] educational item\n
+		%c[d_orange] • %c[ui_gray_2] crafting instructions\n
+		</text>
+	</string>
+	
+	<string id="st_recipe_advanced_1">
+		<text>Mechanics Manual (1st Edition)</text>
+	</string>
+	<string id="st_recipe_advanced_2">
+		<text>Mechanics Manual (2nd Edition)</text>
+	</string>
+	<string id="st_recipe_advanced_3">
+		<text>Mechanics Manual (3rd Edition)</text>
+	</string>
+	<string id="st_recipe_advanced_4">
+		<text>Mechanics Manual (4th Edition)</text>
+	</string>
+	<string id="st_recipe_advanced_descr">
+		<text>A mechanics manual covering the fundamentals of mechanical engineering and electronics crafting. The manual includes detailed explanations of basic mechanical and electrical equipment, with clear diagrams and step-by-step instructions for assembly and repair with a strong focus on DIY approaches. It covers essential tools and components, from simple hand tools to more complex circuits and machinery, making it equally accessible for beginners and experienced technicians. Also includes sections dedicated to troubleshooting common issues and advice on improvising with limited resources. Printed and published by a German technical institute.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] educational item\n
+		%c[d_orange] • %c[ui_gray_2] crafting instructions\n
+		</text>
+	</string>
+	
+	<string id="st_recipe_expert_1">
+		<text>Engineering Manual (1st Edition)</text>
+	</string>
+	<string id="st_recipe_expert_2">
+		<text>Engineering Manual (2nd Edition)</text>
+	</string>
+	<string id="st_recipe_expert_3">
+		<text>Engineering Manual (3rd Edition)</text>
+	</string>
+	<string id="st_recipe_expert_4">
+		<text>Engineering Manual (4th Edition)</text>
+	</string>
+	<string id="st_recipe_expert_descr">
+		<text>A manual of industrial engineering with a focus on modern electronics and portable devices. It describes the operation of key components such as operational amplifiers, semiconductor diodes, bipolar junction transistors, and field effect transistors, with detailed circuit diagrams and theoretical explanations. The manual's second section is dedicated to troubleshooting electrical devices and gives strategies on diagnosis and repair. Designed to serve both as a technical reference and a practical guide, suitable for different levels of expertise. Printed and published by a leading European technical press, written by a group of German and Czech engineers.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] educational item\n
+		%c[d_orange] • %c[ui_gray_2] crafting instructions\n
+		</text>
+	</string>
+	
+	<string id="st_recipe_drug_1">
+		<text>Pharmacology Handbook (1st Edition)</text>
+	</string>
+	<string id="st_recipe_drug_2">
+		<text>Pharmacology Handbook (2nd Edition)</text>
+	</string>
+	<string id="st_recipe_drug_3">
+		<text>Pharmacology Handbook (3rd Edition)</text>
+	</string>
+	<string id="st_recipe_drug_4">
+		<text>Pharmacology Handbook (4th Edition)</text>
+	</string>
+	<string id="st_recipe_drug_descr">
+		<text>A handbook on the synthesis of medications and related compounds, focusing on analgesics, anesthetics, antibiotics, and antiseptics. Includes highly detailed guides for the preparation of essential components and materials, covering both theoretical background and practical lab techniques. Additional covers the use of analogues, alternative compounds, and methods for producing viable results in resource-limited settings. Authored by a team of Eastern European chemists and pharmacologists, printed and published by a renowned scientific press in a series on field lab work in crisis areas.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] educational item\n
+		%c[d_orange] • %c[ui_gray_2] crafting instructions\n
+		</text>
+	</string>
+	
+	<string id="st_recipe_ammo_1">
+		<text>Munitions Guide (1st Issue)</text>
+	</string>
+	<string id="st_recipe_ammo_2">
+		<text>Munitions Guide (2nd Issue)</text>
+	</string>
+	<string id="st_recipe_ammo_3">
+		<text>Munitions Guide (3rd Issue)</text>
+	</string>
+	<string id="st_recipe_ammo_4">
+		<text>Munitions Guide (4th Issue)</text>
+	</string>
+	<string id="st_recipe_ammo_descr">
+		<text>A comprehensive guide on ammunition and reloading, tailored for field operators and survivalists. The manual provides in-depth instructions on crafting hand-loaded munitions, from basic reloading techniques to the assembly of specialized rounds. Covers a range of calibers and bullet types, with a focus on optimizing performance and reliability under harsh conditions. Describes powder selection, primer handling, and case preparation with notes on safe and effective reloading practices. Published by a small survivalist group, remarked as field-tested and veteran-approved.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] educational item\n
+		%c[d_orange] • %c[ui_gray_2] crafting instructions\n
+		</text>
+	</string>
+	
+	<string id="st_recipe_cooking_1">
+		<text>Zone Cooking Guide (1st Edition)</text>
+	</string>
+	<string id="st_recipe_cooking_descr">
+		<text>A practical guide to cooking in the Zone. This guide offers essential descriptions and recipes for preparing meals using the limited and often unconventional ingredients found in the exclusion zone. It covers basic cooking techniques, from campfire roasting to utilizing camping cooking gear, liquid fuel cookers, as well as field kitchens found in faction camps. Additionally includes sections on hunting wildlife, the differences between common meats, and even some tips on foraging for spices and herbs. Special attention is given to preserving food and maximizing nutritional value. Written and composed by an unknown author, likely an experienced stalker with a strong culinary background.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] educational item\n
+		%c[d_orange] • %c[ui_gray_2] crafting instructions\n
+		</text>
+	</string>
+	
+	<string id="st_memoirs_1_of_2_name">
+		<text>A Stalker's Journal (Part 1 of 2)</text>
+	</string>
+	<string id="st_memoirs_1_of_2_desc">
+		<text>An old, faded notebook slipped into a card sleeve to protect it from wear and tear. The cover is worn, with edges fraying and pages yellowed with age. Despite the precautions, it didn't withstand the passage of time, and only a small part is legible.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_memoirs_2_of_2_name">
+		<text>A Stalker's Journal (Part 2 of 2)</text>
+	</string>
+	<string id="st_memoirs_2_of_2_desc">
+		<text>An old, faded notebook slipped into a card sleeve to protect it from wear and tear. The spine shows signs of heavy use, with creases and stains marking its history. Unfortunately, much of the content is illegible, lost to time and exposure.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_freedom_manual_1_of_2_name">
+		<text>Interrogation Techniques: The Basics (Part 1 of 2)</text>
+	</string>
+	<string id="st_freedom_manual_1_of_2_desc">
+		<text>An instructional leaflet with a large Freedom emblem stamped into the upper-right corner. The paper is slightly creased, indicating frequent handling. Basic guidelines for conducting interrogations are outlined in a straightforward, no-nonsense style.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_freedom_manual_2_of_2_name">
+		<text>Interrogation Techniques: The Basics (Part 2 of 2)</text>
+	</string>
+	<string id="st_freedom_manual_2_of_2_desc">
+		<text>An instructional leaflet with a large Freedom emblem stamped into the upper-right corner. The leaflet shows signs of light wear along the edges. It continues detailing rudimentary methods for extracting information, with notes in the margins suggesting practical advice.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_stalker_letter_1_of_2_name">
+		<text>Memoir (Part 1 of 2)</text>
+	</string>
+	<string id="st_stalker_letter_1_of_2_desc">
+		<text>A couple of pages torn from a memoir, with rough, uneven edges. The paper is brittle, and the ink is slightly faded, hinting at the document's age. The author remains unknown.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_stalker_letter_2_of_2_name">
+		<text>Memoir (Part 2 of 2)</text>
+	</string>
+	<string id="st_stalker_letter_2_of_2_desc">
+		<text>A couple of pages torn from a memoir, with rough, uneven edges. The handwriting is slightly more legible here, though the identity of the author still eludes discovery.\n \n
+		</text>
+	</string>
+
+	<string id="st_ecologist_report_1_of_3_name">
+		<text>Walking Dead Findings Field Report 39B rev. 2 (Part 1 of 3)</text>
+	</string>
+	<string id="st_ecologist_report_1_of_3_desc">
+		<text>A machine-typed document stamped with the Ecologist research emblem. The paper is thin and standard-issue, bearing faint creases. Classified as strictly confidential and signed by Arkady Cvetkovsky.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_ecologist_report_2_of_3_name">
+		<text>Walking Dead Findings Field Report 39B rev. 2 (Part 2 of 3)</text>
+	</string>
+	<string id="st_ecologist_report_2_of_3_desc">
+		<text>A machine-typed document stamped with the Ecologist research emblem. Slight smudges on the lower margin suggest it was handled during fieldwork. This part continues the report's classified contents and is signed by Arkady Cvetkovsky.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_ecologist_report_3_of_3_name">
+		<text>Walking Dead Findings Field Report 39B rev. 2 (Part 3 of 3)</text>
+	</string>
+	<string id="st_ecologist_report_3_of_3_desc">
+		<text>A machine-typed document stamped with the Ecologist research emblem. This section appears to be the conclusion, with additional handwritten notes in the margin. Classified as strictly confidential and signed by Arkady Cvetkovsky.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_monolith_prayer_1_of_3_name">
+		<text>Monolith Prayer (Part 1 of 3)</text>
+	</string>
+	<string id="st_monolith_prayer_1_of_3_desc">
+		<text>An untitled document comprised of a few paragraphs with frequent references to the Monolith. The paper is slightly yellowed, and the text is densely written in a meticulous script.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_monolith_prayer_2_of_3_name">
+		<text>Monolith Prayer (Part 2 of 3)</text>
+	</string>
+	<string id="st_monolith_prayer_2_of_3_desc">
+		<text>An untitled document comprised of a few paragraphs with frequent references to the Monolith. The writing is continuous and intense, with the ink slightly bleeding through the aged paper.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_monolith_prayer_3_of_3_name">
+		<text>Monolith Prayer (Part 3 of 3)</text>
+	</string>
+	<string id="st_monolith_prayer_3_of_3_desc">
+		<text>An untitled document comprised of a few paragraphs with frequent references to the Monolith. The pages show signs of frequent handling, with faint smudges and worn corners.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_monolithian_thoughts_name">
+		<text>Monolithian's Journal</text>
+	</string>
+	<string id="st_monolithian_thoughts_desc">
+		<text>An untidy and chaotically hand-written note. The paper is thin and fragile, and the ink appears to have been hastily applied, with smudges and crossings out. The contents reflect a disturbed mind.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_letter_to_outside_name">
+		<text>Letter to Natalie</text>
+	</string>
+	<string id="st_letter_to_outside_desc">
+		<text>A letter written to someone outside the Zone, most probably a lover. The envelope is still sealed, with the edges yellowing, suggesting it was never delivered. The paper inside feels crisp but aged, with ink slightly faded from time.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_letter_military_stalker_name">
+		<text>Military Stalker's Note</text>
+	</string>
+	<string id="st_letter_military_stalker_desc">
+		<text>A note found in a stash, written on standard-issue military paper. The handwriting is rough and hurried, with idle doodles in the margins. It seems someone was killing time during a long, boring night.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_letter_mercenary_name">
+		<text>Mercenary's
+
+	Note</text>
+	</string>
+	<string id="st_letter_mercenary_desc">
+		<text>A handwritten note from one of the Mercenaries containing thoughts on his activities in the Zone. The paper is wrinkled and stained, with a few smudged words and a barely legible signature at the end.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_letter_military_log_name">
+		<text>Communication Log / MSRC Operation / 05.04.2014 18:36:21</text>
+	</string>
+	<string id="st_letter_military_log_desc">
+		<text>A printed transcription of a radio transmission between military units stationed in the Zone. The paper is slightly crumpled, with coffee stains in the corner. Most probably part of some clandestine operation.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+	<string id="st_letter_stalker_letter_3_name">
+		<text>Letter to Nikolai</text>
+	</string>
+	<string id="st_letter_stalker_letter_3_desc">
+		<text>A hand-written letter addressed to Nikolai. The paper is folded neatly, with creases showing signs of frequent unfolding and refolding. The ink has bled slightly, but the text remains legible.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+
+</string_table>

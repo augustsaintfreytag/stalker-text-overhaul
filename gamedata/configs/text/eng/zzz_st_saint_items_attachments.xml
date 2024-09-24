@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_af_surge_name">
+		<text>Surge Suppressor</text>
+	</string>
+	<string id="st_af_surge_descr">
+		<text>An experimental surge suppression module, developed as part of anomalous research projects. The module aims to attract and redirect ambient electrical currents away from the user to reduce the impact of electrical shock. The device serves as an over-voltage protection for limited short-circuit shock current, limiting the amount of electricity coming into contact with the body by directing it to the ground. Internally contains advanced electric circuitry and a wire mesh imbued with anomalous materials that enable its beneficial restorative properties. Developed as part of anomalous research projects. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] electrical shock protection\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+
+	<string id="st_af_surge_up_name">
+		<text>Improved Surge Regenerator</text>
+	</string>
+	<string id="st_af_surge_up_descr">
+		<text>An upgraded experimental surge regenerator module, developed as part of anomalous research projects. The module aims to attract and redirect ambient electrical currents, transforming some of it into energy usable by the wearer. The device serves as an over-voltage protection for limited short-circuit shock current, limiting the amount of electricity coming into contact with the body by directing it to the ground. Internally contains advanced electric circuitry and a wire mesh imbued with anomalous materials that enable its beneficial restorative properties. Developed as part of anomalous research projects. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] electrical shock protection\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+
+	<string id="st_af_frames_name">
+		<text>Aluminium Frames</text>
+	</string>
+	<string id="st_af_frames_descr">
+		<text>A baseline weight distribution system that can be used with most backpacks to ease carrying heavy loads. These improved frames are made of durable, lightweight aluminium and an array of plastic connectors for flexibility when sprinting. The system is equipped with straps and webbing to provide a high degree of adjustability. The design allows the shoulder straps to be adjusted up or down to allow proper fit for different body types. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] carry weight improvement\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_af_frames_up_name">
+		<text>Improved Aluminium Frames</text>
+	</string>
+	<string id="st_af_frames_up_descr">
+		<text>An upgraded weight distribution system that can be used with most backpacks to ease carrying heavy loads. These improved frames are made of durable, lightweight aluminium and an array of plastic connectors for flexibility when sprinting. The system is equipped with straps and webbing to provide a high degree of adjustability. The design allows the shoulder straps to be adjusted up or down to allow proper fit for different body types. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] carry weight improvement\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+
+	<string id="st_af_grid_name">
+		<text>Titanium Grid</text>
+	</string>
+	<string id="st_af_grid_descr">
+		<text>A baseline weight distribution system that can be used with most backpacks to ease carrying heavy loads. This improved grid system is made of durable titanium and an array of plastic connectors for flexibility when sprinting. The system is equipped with straps and webbing to provide a high degree of adjustability. The design allows the shoulder straps to be adjusted up or down to allow proper fit for different body types. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] carry weight improvement\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_af_grid_up_name">
+		<text>Improved Titanium Grid</text>
+	</string>
+	<string id="st_af_grid_up_descr">
+		<text>An upgraded weight distribution system that can be used with most backpacks to ease carrying heavy loads. This improved grid system is made of durable titanium and an array of plastic connectors for flexibility when sprinting. The system is equipped with straps and webbing to provide a high degree of adjustability. The design allows the shoulder straps to be adjusted up or down to allow proper fit for different body types. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] carry weight improvement\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+
+	<string id="st_af_freon_name">
+		<text>Freon Emission Module</text>
+	</string>
+	<string id="st_af_freon_descr">
+		<text>A freon emission module, an experimental protective system that aims to stabilize ambient temperature levels around the body of the wearer. The module was developed as part of anomalous research projects to minimize the effects of extreme heat where hazmat gear may not be available. The device emits a thick layer of freon-cooled air particles, producing a minuscule vacuum that absorbs excess heat and effectively decreases ambient temperature around the user. The FEM additionally provides resistance to electrical shock by absorbing and redirecting currents it comes in contact with. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] heat protection\n
+		%c[d_orange] • %c[ui_gray_2] electrical shock protection\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_af_freon_up_name">
+		<text>Improved Freon Emission Module</text>
+	</string>
+	<string id="st_af_freon_up_descr">
+		<text>An upgraded freon emission module, an experimental protective system that aims to stabilize ambient temperature levels around the body of the wearer. The module was developed as part of anomalous research projects to minimize the effects of extreme heat where hazmat gear may not be available. The device emits a thick layer of freon-cooled air particles, producing a minuscule vacuum that absorbs excess heat and effectively decreases ambient temperature around the user. The FEM additionally provides resistance to electrical shock by absorbing and redirecting currents it comes in contact with. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] heat protection\n
+		%c[d_orange] • %c[ui_gray_2] electrical shock protection\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+
+	<string id="st_af_cooler_name">
+		<text>Body Cooler</text>
+	</string>
+	<string id="st_af_cooler_descr">
+		<text>A body cooling system, an electric module designed to maintain a constant temperature levels around the body of the wearer, developed as part of anomalous research projects. The device emits high frequency pulses that are able to produce a minuscule vacuum, absorbing excessive heat and effectively decreasing air temperature around the user. In contrast to other experimental devices, the cooler does not require coolant to function. It additionally provides limited resistance to electrical shock by absorbing and redirecting currents it comes in contact with. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] heat protection\n
+		%c[d_orange] • %c[ui_gray_2] electrical shock protection\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_af_cooler_up_name">
+		<text>Improved Body Cooler</text>
+	</string>
+	<string id="st_af_cooler_up_descr">
+		<text>An upgraded body cooling system, an electric module designed to maintain a constant temperature levels around the body of the wearer, developed as part of anomalous research projects. The device emits high frequency pulses that are able to produce a minuscule vacuum, absorbing excessive heat and effectively decreasing air temperature around the user. In contrast to other experimental devices, the IBC does not require coolant to function. The IBC additionally provides resistance to electrical shock by absorbing and redirecting currents it comes in contact with. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] heat protection\n
+		%c[d_orange] • %c[ui_gray_2] electrical shock protection\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+
+	<string id="st_af_camelbak_name">
+		<text>Camelbak</text>
+	</string>
+	<string id="st_af_camelbak_descr">
+		<text>A baseline wearable hydration system. Borrowing its name from the myth that camels store water in their humps, camelbak is a pack worn on the back or around the waist of the user, containing a bladder that is filled with water to keep the user hydrated. A flexible tube with a mouthpiece facilitates use even in most pressing situations. This model is camouflaged and can be integrated into most protective suits. The container is made of a high-quality textile, the framing uses durable aluminium. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] clean hydration source\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_af_camelbak_up_name">
+		<text>Improved Camelbak</text>
+	</string>
+	<string id="st_af_camelbak_up_descr">
+		<text>An upgraded wearable hydration system. Borrowing its name from the myth that camels store water in their humps, camelbak is a pack worn on the back or around the waist of the user, containing a bladder that is filled with water to keep the user hydrated. A flexible tube with a mouthpiece facilitates use even in most pressing situations. This model is camouflaged and can be integrated into most protective suits. The container is made of a high-quality textile, the framing uses durable aluminium. Some of the quality materials may be repurposed for crafting and repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] clean hydration source\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+
+	<!--
+		BALLISTIC PLATES
+	-->
+	
+	<string id="st_af_kevlar_name">
+		<text>Kevlar Plates</text>
+	</string>
+	<string id="st_af_kevlar_descr">
+		<text>A set of Kevlar ballistic plates with modular attachments. The plates are constructed from multiple layers of Kevlar, a synthetic fiber known for its high tensile strength. When a bullet strikes the plate, the tightly woven Kevlar fibers absorb and disperse the energy of the impact, deforming the bullet and spreading the force across a wider area. This process reduces the bullet's penetration power, preventing it from piercing the plate. Its +1 BR rating offers enhanced protection against small arms fire and shrapnel. The set includes adjustable straps and mounting points for additional gear. Slightly heavier than standard plates, but with superior stopping power.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] military item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] ballistic protection (+1 BR Class)\n
+		%c[d_orange] • %c[ui_gray_2] coverage: torso, arms, legs\n
+		</text>
+	</string>
+
+	<string id="st_af_kevlar_up_name">
+		<text>Improved Kevlar Plates</text>
+	</string>
+	<string id="st_af_kevlar_up_descr">
+		<text>A set of Kevlar ballistic plates with modular attachments with a higher protection class than baseline variants. These plates are constructed from an advanced layering of Kevlar, designed to withstand even higher impact forces. Upon impact, the tightly woven fibers absorb and disperse the energy more effectively, deforming and trapping the bullet while spreading the force across an even larger area. This significantly reduces the chance of penetration, providing superior protection against higher-caliber rounds and more powerful shrapnel. The +3 BR rating ensures maximum defense in the most dangerous encounters. The set includes adjustable straps and mounting points for additional gear. Heavier than lower-rated plates, but with unmatched stopping power.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] military item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] ballistic protection (+3 BR Class)\n
+		%c[d_orange] • %c[ui_gray_2] coverage: torso, arms, legs\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_name">
+		<text>Carbon Steel Plates</text>
+	</string>
+	<string id="st_af_plates_descr">
+		<text>A set of carbon steel ballistic plates. The plates are engineered from hardened carbon steel, known for its exceptional hardness and durability. Upon impact, the steel’s rigid structure effectively stops and deforms high-velocity rounds, preventing penetration while deflecting the energy across the surface. The +4 BR rating offers superior protection against heavy-caliber firearms and armor-piercing rounds. While significantly heavier than Kevlar alternatives, these plates provide unmatched defense in the most extreme combat scenarios. The set includes reinforced mounting points and customizable straps.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] military item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] ballistic protection (+4 BR Class)\n
+		%c[d_orange] • %c[ui_gray_2] coverage: torso, arms, legs\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_up_name">
+		<text>Improved Carbon Steel Plates</text>
+	</string>
+	<string id="st_af_plates_up_descr">
+		<text>A set of carbon steel ballistic plates with a higher protection class than baseline variants. The plates are engineered from hardened carbon steel, known for its exceptional hardness and durability. Upon impact, the steel’s rigid structure effectively stops and deforms high-velocity rounds, preventing penetration while deflecting the energy across the surface. The +6 BR rating offers superior protection against heavy-caliber firearms and armor-piercing rounds. While significantly heavier than Kevlar alternatives, these plates provide unmatched defense in the most extreme combat scenarios. The set includes reinforced mounting points and customizable straps.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] military item\n
+		%c[d_cyan] • %c[ui_gray_2] attachable equipment\n
+		%c[d_orange] • %c[ui_gray_2] ballistic protection (+6 BR Class)\n
+		%c[d_orange] • %c[ui_gray_2] coverage: torso, arms, legs\n
+		</text>
+	</string>
+	
+
+	<!-- 
+		ARTEFACT STORAGE
+	-->
+	
+	<string id="st_af_iam_name">
+		<text>Improvised Application Module (Empty)</text>
+	</string>
+	<string id="st_af_iam_descr">
+		<text>The Improvised Application Module (IAM) is a low-tier wearable artefact container, rated for use with low potency anomalous formations. It is capable of partially shielding the user from radiation and active particles emitted from artefacts while still allowing to harness potentially desirable anomalous effects. The device contains a layering of filters on the inside, composed primarily of lead. Like similar modules, it can be safely attached to many protective suits and outfits. While residue radiation will always be emitted from the device, the beneficial properties of a held artefact are only viable when the module is worn. The IAM is considered an entry-level option compared to more advanced options like the AAC and AAM and only provides limited shielding. Originally developed by anomalous research groups, usually hand-manufactured by mechanics from recycled materials in the Zone, commonly used by less experienced scavengers and ecologist trainees.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] artefact storage device\n
+		%c[d_cyan] • %c[ui_gray_2] tier I application container\n
+		%c[d_orange] • %c[ui_gray_2] minor radiation shielding\n
+		%c[d_cyan] • %c[ui_gray_2] maximum capacity: 1\n
+		</text>
+	</string>
+	
+	<string id="st_af_aac_name">
+		<text>Artefact Application Container (Empty)</text>
+	</string>
+	<string id="st_af_aac_descr">
+		<text>The Artefact Application Container (AAC) is a mid-tier wearable artefact container, rated for use with medium potency anomalous formations. It is capable of partially shielding the user from radiation and active particles emitted from artefacts while still allowing to harness potentially desirable anomalous effects. The device contains a layering of filters on the inside, composed primarily of lead and a few additional layers of an absorbent metallic mesh. Like similar modules, it can be safely attached to many protective suits and outfits. While residue radiation will always be emitted from the device, the beneficial properties of a held artefact are only viable when the module is worn. The AAC is considered an intermediate-level option compared to the more basic IAM or the more advanced AAM. Developed and manufactured by anomalous research groups, commonly used by experienced artefact hunters and ecologists.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] artefact storage device\n
+		%c[d_cyan] • %c[ui_gray_2] tier II application container\n
+		%c[d_orange] • %c[ui_gray_2] moderate radiation shielding\n
+		%c[d_cyan] • %c[ui_gray_2] maximum capacity: 1\n
+		</text>
+	</string>
+	
+	<string id="st_af_aam_name">
+		<text>Artefact Application Module (Empty)</text>
+	</string>
+	<string id="st_af_aam_descr">
+		<text>The Artefact Application Module (AAM) is a high-tier wearable artefact container, rated for use with medium to high potency anomalous formations. It is capable of shielding the user from radiation and active particles emitted from artefacts while still allowing to harness potentially desirable anomalous effects. The device contains a layering of filters on the inside, composed of lead and an experimental nano-carbon mesh. Like similar modules, it can be safely attached to many protective suits and outfits. While residue radiation will always be emitted from the device, the beneficial properties of a held artefact are only viable when the module is worn. The AAM is considered an expert-level option compared to the less advanced AAM or the IAM. Developed and manufactured by anomalous research groups, commonly used by experienced ecologists, research assistants, and veteran operatives in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] artefact storage device\n
+		%c[d_cyan] • %c[ui_gray_2] tier III application container\n
+		%c[d_orange] • %c[ui_gray_2] major radiation shielding\n
+		%c[d_cyan] • %c[ui_gray_2] maximum capacity: 1\n
+		</text>
+	</string>
+	
+	<!--
+		MUTANT HIDES
+	-->
+
+	<string id="st_hide_flesh_name">
+		<text>Flesh Hide</text>
+	</string>
+	<string id="st_hide_flesh_descr">
+		<text>Hide removed from a breed of mutated pigs commonly referred to as fleshes. Its heavy weight (its main drawback) results from a thick layer of fat underneath the relatively soft and shallow skin. It offers low physical protection, but on the other hand considerably reduces the harmful effects of chemical, thermal and electrical anomalies. Can be used only for minor repairs as the layer of fat is useless for the purposes of armor maintenance and must be cut off, leaving only a small patch of shallow skin tissue.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_hide_boar_name">
+		<text>Boar Pelt</text>
+	</string>
+	<string id="st_hide_boar_descr">
+		<text>A hide almost fully covered with a thick layer of fur, removed from one of wild boars found commonly in the Zone. The mutants themselves are quite resistant to damage and can take considerable punishment, and the reason for this is simple: big muscle mass and almost unbreakable bones. The skin, on the other hand, is quite thin (most probably to provide the creature with effective means of thermal regulation), making it a rather poor choice for armor enhancement. The fur in turn makes the hide a relatively potent thermal insulator. Can also be used for light repairs. Unfortunately, wearing the pelt on top of the armor makes the user less resistant to radioactive and toxic damage as heavy particles often accumulate within the fur.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_hide_bloodsucker_name">
+		<text>Bloodsucker Skin</text>
+	</string>
+	<string id="st_hide_bloodsucker_descr">
+		<text>Bloodsuckers as a species evolved from humans and this affinity can still be seen in the texture of their skin. What is most characteristic, the skin is very soft and pleasant in touch, almost like the skin of a child. This applies, however, only to the outer layer - underneath, bloodsuckers boast well-developed muscles which can be utilized to form a coat of sorts with considerable damage reducing potential, especially in regard to melee attacks. This makes bloodsucker skin a popular choice among experienced hunters who also wear it as a sign of their proficiency. The most unique property and at the same time the main drawback of the skin is its very intense reaction to temperature change - although the tissue itself will only burn in very high temperatures, it can get very hot making it increasingly damaging to wearer and equipment underneath it.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psysucker_name">
+		<text>Psysucker Skin</text>
+	</string>
+	<string id="st_hide_psysucker_descr">
+		<text>Psysuckers as a species evolved from bloodsuckers and this affinity can still be seen in the texture of their skin. What is most characteristic, the skin is very soft and pleasant in touch, almost like the skin of a child. This applies, however, only to the outer layer - underneath, Psysuckers boast well-developed muscles which can be utilized to form a coat of sorts with considerable damage reducing potential, especially in regard to melee attacks. This makes psysucker skin a popular choice among experienced hunters who also wear it as a sign of their proficiency. The most unique property and at the same time the main drawback of the skin is its very intense reaction to temperature change - although the tissue itself will only burn in very high temperatures, it can get very hot making it increasingly damaging to wearer and equipment underneath it. Reports indicate that whereas the skin offers relatively low physical protection it can be used to absorb and disperse significant amounts of incoming psy-waves when worn over the head.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_hide_lurker_name">
+		<text>Lurker Hide</text>
+	</string>
+	<string id="st_hide_lurker_descr">
+		<text>A thick hide almost fully covered with a layer of fur, removed from a lurker. The mutants themselves are quite resistant to damage and can take considerable punishment, and the reason for this is simple: big muscle mass and almost unbreakable bones. The skin of lurker is known for being thick and durable, making it a good choice for armor enhancement. The fur in turn makes the hide a relatively potent thermal insulator. Can also be used for light repairs.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_hide_burer_name">
+		<text>Burer Skin</text>
+	</string>
+	<string id="st_hide_burer_descr">
+		<text>Skinning a burer is a lot like skinning a twisted dwarf. Add to it an almost unbearable stench of bad eggs and you get the idea why stalkers consider this quite a feat. Reports indicate that whereas the skin offers relatively low physical protection it can be used to absorb and disperse significant amounts of incoming psy waves when worn over the head. Burer's skin has low electrical resistance, thus the wearer is more susceptible to electrical damage. Furthermore, due to the fact that burers are relatively rarely encountered in the Zone, the skin has significant research potential, making it a valuable trading commodity for the scientists.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_hide_chimera_name">
+		<text>Chimera Hide</text>
+	</string>
+	<string id="st_hide_chimera_descr">
+		<text>Chimera, being one of the most dangerous mutants in the Zone, is not only a significant threat, but can also be regarded as a viable source of wealth. All parts that can be taken from chimera's corpse can be sold for a large amount of money, but it is the skin that is one of the most valued scientific specimens as well as one of the best armor enhancements available in the Exclusion Zone. It offers very good protection properties and, even more importantly, is relatively light-weight thanks to which it does not limit mobility. However, its most unique feature is that organic fibers found in the skin act as very effective electrical conductors. This fact to a large degree confirms reports of recon units (especially those scouting around the AMK Industrial Complex) concerning sightings of chimeras surrounded in what looked like an electrical anomaly, producing discharges on contact with any hostile living organism. Unfortunately, no unit was able to make it back, so there is no evidence confirming the existence of such a creature.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] rare mutant part\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudogiant_name">
+		<text>Pseudogiant Hide</text>
+	</string>
+	<string id="st_hide_pseudogiant_descr">
+		<text>The skin of a pseudogiant in many ways resembles the skin of an elephant. It's thick and hard in touch, its texture is very irregular and full of folds which act as the creature's cooling mechanism. The average thickness of pseudogiant's skin is around 2 cm, which makes it very durable and capable of withstanding significant damage. This is, however, at the cost of increased weight. Since pseudogiants are known to often live in areas of high toxicity and radioactivity, the hide naturally adapted to such conditions, which further increases its usefulness. It can also be used to patch even the heaviest of outfits but this process requires the most durable and expensive tools available. It is valued not only for its practical qualities, but can also serve as a prestigious hunting trophy and a rare specimen for the scientists in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] rare mutant part\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_hide_controller_name">
+		<text>Controller Scalp</text>
+	</string>
+	<string id="st_hide_controller_descr">
+		<text>As is the case with other humanoid mutants, it's quite an emotional challenge to scalp a controller and it proves to be even more difficult as the face of a controller retains certain characteristics of the person it once was. Confidential sources within the military also revealed that fingerprints of the person who turned into a controller can sometimes be found in the database. Recent analysis shows that not only the hand of the controller is capable of producing psy waves - the whole body is the source of emissions. For this reason, the scalp - when prepared properly - has the ability to absorb and filter psy energy, but for this effect to take place it is necessary to cover your head with multiple scalps. The skin is also electrically conductive. As regards its physical properties, it is light and can only be used for minor outfit repairs. As is the case with all humanoid psy creatures, the skin of a controller is electrically conductive.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] rare mutant part\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudodog_name">
+		<text>Pseudodog Fur</text>
+	</string>
+	<string id="st_hide_pseudodog_descr">
+		<text>Densely covered with short and stiff fur, the pelt of pseudodog remains one of the most useful, widespread and versatile mutant pelts available in the Zone. It can be easily attached to armor with even lightest of tools, and yet it's quite durable, which makes it suitable for medium-grade outfit repairs. When used as a whole - it can cover significant area of the body with protective layer which increases resistance to both physical damage and heat. The fur also provides effective insulation. However, as is the case with all such pelts, it easily catches radioactive and toxic particles, so it is highly advised to remove it when in radioactive or toxic areas.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psy_dog_name">
+		<text>Psy-dog Fur</text>
+	</string>
+	<string id="st_hide_psy_dog_descr">
+		<text>The fur of a psy dog is undoubtedly one of the most beautiful and rare clothing materials in the world. Usually snow white or grey, it is in great demand and can be sold for a hefty sum of money. It's probably made its way into fashion industry thanks to smugglers some of whom have recently turned to hunting mutants. For those in the Zone, it can serve as a blanket, especially during cold nights, and offers efficient rupture protection and mild psy influence reduction when head part of the fur is used as a mask or a hood. However, it easily catches radioactive and toxic particles, so it is highly advised to remove it when in radioactive or toxic areas. Hunters wear it with pride, but only if the creature was slain by their own hands.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] common mutant part\n
+		%c[d_green] • %c[ui_gray_2] stackable: %c[ui_red]No\n
+		</text>
+	</string>
+	
+	<string id="st_powder_poltergeist">
+		<text>'Diamond Powder'</text>
+	</string>
+	<string id="st_powder_poltergeist_descr">
+		<text>"Diamond powder" is a common name given to crystal-like substance sometimes found in the belly of all species of psy-creatures. It is not known what metabolic processes lead to its emergence and for this reason scientists are eager to pay large sums of money to lay their hands on it. Practical use is limited but some stalkers are known to sprinkle their most cherished hunting knives with it as it makes sharpening significantly easier. It also makes blades look shiny and well-kept.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] rare mutant part\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		</text>
+	</string>
+	
+</string_table>
