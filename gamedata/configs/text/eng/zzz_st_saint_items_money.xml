@@ -2,7 +2,7 @@
 
 <string_table>
 
-	<string id="st_cash_name">
+	<string id="st_cash">
 		<text>Wallet</text>
 	</string>
 	<string id="st_cash_descr">
@@ -23,7 +23,7 @@
 		</text>
 	</string>
 	
-	<string id="st_roubles_5000_name">
+	<string id="st_roubles_5000">
 		<text>5000 Roubles</text>
 	</string>
 	<string id="st_roubles_5000_descr">
@@ -33,7 +33,7 @@
 		</text>
 	</string>
 	
-	<string id="st_roubles_1000_name">
+	<string id="st_roubles_1000">
 		<text>1000 Roubles</text>
 	</string>
 	<string id="st_roubles_1000_descr">
@@ -43,7 +43,7 @@
 		</text>
 	</string>
 	
-	<string id="st_roubles_500_name">
+	<string id="st_roubles_500">
 		<text>500 Roubles</text>
 	</string>
 	<string id="st_roubles_500_descr">
@@ -53,7 +53,7 @@
 		</text>
 	</string>
 	
-	<string id="st_roubles_100_name">
+	<string id="st_roubles_100">
 		<text>100 Roubles</text>
 	</string>
 	<string id="st_roubles_100_descr">
@@ -63,7 +63,7 @@
 		</text>
 	</string>
 	
-	<string id="st_roubles_50_name">
+	<string id="st_roubles_50">
 		<text>50 Roubles</text>
 	</string>
 	<string id="st_roubles_50_descr">
@@ -73,7 +73,7 @@
 		</text>
 	</string>
 	
-	<string id="st_roubles_10_name">
+	<string id="st_roubles_10">
 		<text>10 Roubles</text>
 	</string>
 	<string id="st_roubles_10_descr">
