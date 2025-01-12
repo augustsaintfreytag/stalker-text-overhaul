@@ -335,6 +335,12 @@
 	<string id="st_itm_desc_state_not_possible">
 		<text>Restricted (No Sprinting)</text>
 	</string>
+	<string id="st_ui_workshop_info_state_intro">
+		<text>The workshop allows you to repair, upgrade and craft items by yourself with the help of proper toolkits. The tools shown above represent the available main toolkits on this workshop, which allow further adjustments for your items. Select one of the tabs to proceed.</text>
+	</string>
+	<string id="st_ui_workshop_owner">
+		<text>This workshop belongs to %s.</text>
+	</string>
 
 	<!-- Devices -->
 
