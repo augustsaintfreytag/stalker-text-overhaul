@@ -41,9 +41,9 @@
     %c[d_orange]PERK:\n
     %c[d_red] • %c[ui_gray_2]Designation: CRITICAL ASCENSION\n
     %c[d_red] • %c[ui_gray_2]Passive +10% critical hit damage bonus\n
-    %c[d_red] • %c[ui_gray_2]Consecutive hits grant stacks of 'Critical Ascensi0n'\n
-    %c[d_red] • %c[ui_gray_2]Each stack of 'Critical Ascensi0n' grants +5% damage to next shot\n
-    %c[d_red] • %c[ui_gray_2]Missing a shot removes all stacks and gives psy damage proportional to the amount of stacks removed\n
+    %c[d_red] • %c[ui_gray_2]Consecutive hits grant stacks of 'Critical Ascension'\n
+    %c[d_red] • %c[ui_gray_2]Each stack of 'Critical Ascension' grants +5% damage to next shot\n
+    %c[d_red] • %c[ui_gray_2]Missing a shot resets stacks and gives psy damage proportional to the amount of prior stacks\n
     %c[d_red] • %c[ui_gray_2]Bonus can be stacked infinitely as long as you don't miss\n
     %c[d_red] • %c[ui_gray_2]Unequipping all 'Spike' artefacts will remove stacks without penalty\n
     %c[d_red] • %c[ui_gray_2]Stackable effects: %c[ui_green]Yes\n
@@ -109,7 +109,7 @@
     %c[d_orange]PERK:\n
     %c[d_red] • %c[ui_gray_2]Designation: WEIGHT OF DEVOTION\n
     %c[d_red] • %c[ui_gray_2]Passive small health and stamina regen\n
-    %c[d_red] • %c[ui_gray_2]Members of Sin are granted triple the effect with the addition of psy health regeneration\n
+    %c[d_red] • %c[ui_gray_2]Members of Sin are granted 3x the effect plus psy health regeneration\n
     %c[d_red] • %c[ui_gray_2]Sin companions receive health regen.\n
     %c[d_red] • %c[ui_gray_2]Stackable effects: %c[ui_red]No
 	</text>
@@ -117,7 +117,7 @@
   <string id="st_pba_af_atom_perk">
     <text>
     %c[d_orange]PERK:\n
-    %c[d_red] • %c[ui_gray_2]Designation: ARSZI'S BLESSING\n
+    %c[d_red] • %c[ui_gray_2]Designation: BLESSING OF THE ATOM\n
     %c[d_red] • %c[ui_gray_2]Radiation illness grants a stamina boost and slight radiation removal\n
     %c[d_red] • %c[ui_gray_2]Stackable effects: %c[ui_green]Yes\n
     %c[d_red] • %c[ui_gray_2]Diminishing returns: %c[ui_red]Yes
@@ -126,7 +126,7 @@
   <string id="st_pba_af_lighthouse_perk">
     <text>
     %c[d_orange]PERK:\n
-    %c[d_red] • %c[ui_gray_2]Designation: THE UNoRTHODOX WAY OF TRAVELLING\n
+    %c[d_red] • %c[ui_gray_2]Designation: THE UNORTHODOX WAY OF TRAVELLING\n
     %c[d_red] • %c[ui_gray_2]Killing anyone will teleport you to the location of their death\n
     %c[d_red] • %c[ui_gray_2]Dangerous if used on airborne targets\n
     %c[d_red] • %c[ui_gray_2]Stackable effects: %c[ui_red]No
@@ -136,8 +136,8 @@
     <text>
     %c[d_orange]PERK:\n
     %c[d_red] • %c[ui_gray_2]Designation: DEAL WITH THE DEVIL\n
-    %c[d_red] • %c[ui_gray_2]Moving the artefact to the belt will sign the 'Pact with the Zone'\n\n
-	%c[d_red] • %c[ui_red]Highly recommended to save before activation.
+    %c[d_red] • %c[ui_gray_2]Equipping this artifact will sign the 'Pact with the Zone'\n\n
+	  %c[d_red] • %c[ui_red]Few have had the courage, few have seen the light.
 	</text>
   </string>
   <string id="st_pba_af_zhelch_perk">
@@ -147,8 +147,8 @@
     %c[d_red] • %c[ui_gray_2]Passive strong psy resistance\n
     %c[d_red] • %c[ui_gray_2]Drains psy health to restore health\n
     %c[d_red] • %c[ui_gray_2]When health is full, restores psy health\n
-    %c[d_red] • %c[ui_gray_2]There is a chance you will become possessed and perform an uncontrollable action\n
-    %c[d_red] • %c[ui_gray_2]The lower your psy health, the higher the chance and severity of the action\n
+    %c[d_red] • %c[ui_gray_2]There is a chance you will briefly lose control over your body\n
+    %c[d_red] • %c[ui_gray_2]The lower your psy health, the higher the chance and severity\n
     %c[d_red] • %c[ui_gray_2]Stackable effects: %c[ui_red]No
 	</text>
   </string>

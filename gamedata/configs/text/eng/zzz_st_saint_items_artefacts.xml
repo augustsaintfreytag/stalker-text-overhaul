@@ -1174,5 +1174,19 @@
 		</text>
 	</string>
 
+	<!-- Monolith Shard -->
+
+	<string id="item_monolith_shard_name">
+		<text>Shard of the Monolith</text>
+	</string>
+	<string id="item_monolith_shard_desc">
+		<text>
+			An extremely rare artefact with the appearance of a chunk of smooth, black, obsidian-like glass. According to the whispers, the object was split off from the Wish Granter itself by unknown powers. It has a deeply unsettling aura and emits a crackling and infrequent muffled voice-like noises. The artefact most definitely contains insidious capabilities and immeasurable powers yet unknown.\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_cyan] • %c[ui_gray_2] unclassified artefact\n
+			%c[d_orange] • %c[ui_gray_2] uncontainable artefact\n
+		</text>
+	</string>
+
 
 </string_table>
