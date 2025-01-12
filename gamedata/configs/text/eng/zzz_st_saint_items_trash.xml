@@ -34,6 +34,7 @@
 	<string id="st_hand_watch_descr">
 		<text>A Soviet-era analogue wrist watch featuring a robust mechanical movement encased in durable stainless steel. Designed for reliability and longevity, it utilizes a hand-wound mechanism with an approximate 36-hour power reserve. The dial is marked with clear, luminescent numerals and indices, ensuring legibility in low-light conditions. Equipped with a scratch-resistant glass and a reinforced leather strap, it provides both protection and comfort for extended wear. Despite being constantly exposed to anomalous fields in the Zone, it appears to keep its time without needing adjustments. Commonly carried as a fallback when electronic devices fail due to interference or anomalies. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
 		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
 		%c[d_cyan] • %c[ui_gray_2] time-keeping\n
 		</text>
@@ -50,6 +51,7 @@
 		<text>A metalworking hammer featuring a forged steel head with one flat and one rounded end. The flat face is designed for striking punches and chisels, while the ball end is utilized for peening, shaping metal, and creating textures. The head is securely attached to a hickory wood handle, offering durability and shock absorption during repeated use. Its balanced weight distribution ensures precision and control, essential for detailed metalworking tasks. In the Zone, portable hammers are indispensable for repairs and crafting improvised tools. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -60,6 +62,8 @@
 		<text>A broken artifact detector, once used to locate anomalous energy signatures within the Zone. Its casing, made of durable plastic and metal components, shows severe damage and extensive wear. Internal circuitry is exposed and its screen is damaged beyond repair. Some of the valuable internal circuitry and materials may be salvaged and repurposed. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -70,6 +74,8 @@
 		<text>A broken hand-held flashlight, an older model designed to operate on D-type batteries. Constructed with a rugged aluminum casing, it was built to withstand harsh conditions. Its lens and cap are cracked, and the bulb inside is shattered. The battery contacts show signs of heavy corrosion and the power switch is missing. Broken flashlights, like other lost and found pieces of equipment, are valued items scavenged for their materials and electronic scrap. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -80,6 +86,7 @@
 		<text>A roll of black duct tape, made from heavy cotton cloth with a pressure-sensitive adhesive backing. It can be ripped by hand without the need for additional tools. Commonly chosen for its strength and versatility. The cloth weave enhances durability, allowing it to withstand wear, moisture, and temperature fluctuations. Commonly used for repairs, sealing, and reinforcing equipment. A staple of any repair kit. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -90,6 +97,7 @@
 		<text>A high-quality 12ml capacity medical syringe for precise administration of medications or extraction of fluids. It is made from  medical-grade plastic with a clear barrel and markings for accurate measurement of dosage. The plunger operates smoothly, ensuring controlled delivery, while the Luer-lock tip secures needles firmly in place to prevent leakage. Syringes are individually packaged to maintain sterility. May be used with a drug-making kit and proper knowledge to create and carry custom-mixed compounds for use in the field.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -100,7 +108,7 @@
 		<text>A spoon, knife, and fork, made of heavy-duty stainless steel, part of a survival kit field cutlery set. The spoon features a deep bowl for versatile eating, the knife has a serrated edge suitable for both cutting and slicing, and the fork has sturdy tines for effective handling of various foods. The cutlery set is compact and can easily be stored, it is a mainstay in backpacking and field explorations where space and carry capacity are limited. For operatives preferring to have their mutant meal outside of major camps, this cutlery set is indispensable for ensuring sanitary and efficient meal consumption. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
-		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -111,6 +119,7 @@
 		<text>A small tub of industrial grease, semi-solid in consistency, serves as an essential lubricant in various mechanical applications. The grease is a soap emulsified with mineral or vegetable oil, providing stability and high viscosity, which enhances its ability to adhere to surfaces and reduce friction. This type of lubricant is preferred for its long-lasting properties and resistance to water, making it suitable for use in both dry and wet environments. Commonly employed in machinery maintenance, it ensures smooth operation and minimizes wear on moving parts. In the field, industrial grease is commonly used for keeping firearms, vehicles, and equipment in optimal working condition under harsh conditions. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -122,7 +131,7 @@
 		A tiny plastic jar, essential for securely storing small items, is particularly useful for safeguarding drugs and medicines. Its airtight seal protects contents from moisture and airborne contaminants, ensuring the integrity and potency of the stored substances. Made from durable plastic, the jar is lightweight and portable, making it convenient for field operations. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
-		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 	
@@ -132,18 +141,20 @@
 	<string id="st_rope_descr">
 		<text>A synthetic rope with 10 meters in length, made from high-strength polymer fibers, suitable for various applications. It offers solid durability and is resistant to abrasion, UV degradation, and moisture. Synthetic ropes are valued for tasks requiring secure fastening, hoisting, or even climbing. Commonly used in both civilian and military operations, the rope's synthetic material provides consistent strength and minimal stretch.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
 	<string id="st_radio2">
-		<text>Small Radio</text>
+		<text>Broken Portable Radio</text>
 	</string>
 	<string id="st_radio2_descr">
-		<text>A small broken portable radio, apparently a relic from the late Soviet era. It is encased in a sturdy plastic housing with a number of analog dials and simple controls. Originally built for reliable communication, it is non-functional due to severe water damage. Most of its internal components have corroded, some appear to be missing entirely. Portable battery-powered radios like it used to serve news and emergency broadcasts. In present day to day in the Zone, they are collected and scrapped for parts or sometimes kept as personal keepsakes.\n \n
+		<text>A broken portable radio, apparently an older model from the late Soviet era. It has a sturdy-looking plastic housing with a number of analog dials and switches. Most of the internal components have corroded, some appear to be missing entirely, the primary circuit board shows signs of water damage. Portable battery-powered radios like it used to serve news and emergency broadcasts. In present day to day in the Zone, they are collected and scrapped for parts or sometimes kept as personal keepsakes.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] technological item\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -154,6 +165,7 @@
 		<text>A bundle of coarse steel wool, composed of fine, sharp-edged steel filaments. A generally useful tool for finishing, repair work, and cleaning. Its abrasive properties make it well-suited for smoothing wood surfaces, polishing metal, and removing rust or old paint. It is available in various grades, from coarse to fine, and it can be tailored to specific tasks. Steel wool is resistant to shredding and durable under rigorous use. Valued for its versatility, it is widely used in repair workshops all over the Zone and used in various crafting and restoration tasks. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -161,10 +173,11 @@
 		<text>Telescopic Mirror</text>
 	</string>
 	<string id="st_mirror_descr">
-		<text>A telescopic mirror, designed to allow an operator to safely observe around corners and into confined spaces, primarily intended for urban engagement scenarios. It is comprised of a lightweight, extendable pole with an adjustable mirror at the end to provide clear visibility while also minimizing exposure to potential threats. While not used practically in the Zone, its high-quality materials make it a valued scavenging item for scrapping and resale. \n \n
+		<text>A telescopic mirror, designed to allow an operator to safely observe around corners and into confined spaces, primarily intended for urban engagement scenarios. It is comprised of a lightweight, extendable pole with an adjustable mirror at the end to provide clear visibility while also minimizing exposure to potential threats. While not put to a lot of use in the Zone, its high-quality materials make it a valued scavenging item for scrapping and resale. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] utility item\n
 		%c[d_cyan] • %c[ui_gray_2] military item\n
-		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 	
@@ -185,8 +198,9 @@
 	<string id="st_walkie_descr">
 		<text>A broken hand-held radio transmitter and receiver, previously used for short-range communication, now inoperative due to prolonged exposure to harsh environmental conditions. The plastic casing shows signs of significant wear and water damage, with rusted metal components and deteriorated seals failing to protect the internal circuitry. When powered on with an external power source, the device emits a strange, persistent hissing sound. Although not usable as radio equipment, it may be scrapped for valuable electronic parts. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] technological item\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -196,8 +210,8 @@
 	<string id="st_welding_goggles_descr">
 		<text>A heavily used pair of welding goggles, originally intended to be used as eye protection during welding and cutting tasks. The lenses are scratched and discolored, the leather band is cracked and visibly deformed. Due to the heavy damage, they are unsuitable as protective equipment. Despite their bad condition, they may be disassembled into valuable materials. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] utility item\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -212,6 +226,7 @@
 		<text>An unassuming analogue color photo print with a few minor creases and scratches on the glossy surface. This photo may have once been the treasured memory of another person. It appears mundane at first glance but it seems, great attention has been given to the framing, lighting, and overall atmosphere. It gives off a thoughtful, observational tenderness.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		%c[d_cyan] • %c[ui_gray_2] emotional support item\n
 		</text>
 	</string>
 
@@ -221,8 +236,9 @@
 	<string id="st_batteries_empty_descr">
 		<text>A set of dead batteries, commonly used in portable electronics and military appliances. These batteries feature an alkaline composition, providing higher energy density and longer shelf life compared to zinc-carbon alternatives. Not only are they depleted of any charge, but the cylindrical metal casing additionally shows signs of corrosion and leakage. In their prime condition, they may have been used as a power source for flashlights, communication equipment, weapon attachments, and other essential devices. They may be salvaged for raw metals and chemicals. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] technological item\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -233,6 +249,7 @@
 		<text>A durable bedspread, often used together with a bedroll for reasonably comfortable sleeping conditions on multi-day expeditions. Made from heavy-duty, weather-resistant fabric, it provides an additional layer of insulation and protection against the elements. The edges are reinforced with double stitching to prevent fraying. It can be easily rolled up and compacted for transport. Bedspreads are a luxury item in the Zone, in particular for those traveling further north and residing outside of major camps. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -242,8 +259,9 @@
 	<string id="st_radio_descr">
 		<text>A small broken portable radio, common in the 1990s. Encased in sturdy plastic housing, it features several analog dials and simple controls. Originally built for reliable reception, it is now non-functional, having been crushed and compacted by a strong physical force. Most internal components are damaged, with some missing entirely. Such battery-powered radios once served for news and emergency broadcasts. In the Zone, they are often collected for parts or kept as personal keepsakes. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] technological item\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -254,6 +272,7 @@
 		<text>A large tarpaulin, crafted from strong, flexible, water-resistant material. Reinforced grommets at the corners and along the sides provide secure attachment points for rope. This versatile sheet offers reliable protection against rain, wind, and sunlight, making it ideal for shelter construction or covering equipment. The durable fabric resists tearing and abrasion, ensuring long-term use in demanding environments. In the Zone, such tarpaulins are essential for creating makeshift shelters and safeguarding supplies. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -263,6 +282,7 @@
 	<string id="st_drugnotes_descr">
 		<text>This notebook describes various drug deals in detail with specific nicknames, locations and time of meets. Some deals are executed through equipment exchanges and others are paid in large amounts of roubles. When browsing the pages, it becomes clear that Freedom is the main distributor of natural drugs such as marijuana. Bandits appear primarily as distributors of more potent compounds and smuggled pharmaceuticals. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
 		%c[d_cyan] • %c[ui_gray_2] educational item\n
 		</text>
 	</string>
@@ -273,6 +293,7 @@
 	<string id="st_book2_descr">
 		<text>A comprehensive manual of industrial engineering, encompassing principles and practices essential for optimizing production processes. This volume covers a wide range of topics, including workflow analysis, systems design, and efficiency improvement techniques. Detailed diagrams and step-by-step instructions facilitate understanding of complex methodologies. The manual is bound in a durable hardcover, designed to withstand extensive use in workshop and field settings. According to a sticker on the back, belongs to a community library in Kiev. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
 		%c[d_cyan] • %c[ui_gray_2] educational item\n
 		</text>
 	</string>
@@ -281,9 +302,10 @@
 		<text>Leather Boots</text>
 	</string>
 	<string id="st_boots_descr">
-		<text>A pair of used leather boots, exhibiting significant wear and tear. The leather is cracked and scuffed, with soles worn thin and stitching coming undone. While no longer suitable to be worn, these boots still offer valuable leather parts. The material may be repurposed for repairs or crafting other leather goods, making them a resourceful salvage item despite their condition. \n \n
+		<text>A pair of used leather boots showing significant wear and tear. The leather is cracked and scuffed, with soles worn thin and stitching coming undone. While no longer suitable to be worn, these boots still offer valuable leather parts. The material may be repurposed for repairs or crafting other leather goods, making them a resourceful salvage item despite their condition. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -294,6 +316,7 @@
 		<text>A pair of leather gloves, of average quality, now showing significant signs of wear. The leather is torn in several places, compromising any protective capabilities. The stitching has frayed, and the overall fit is loose on any size hand. While no longer suitable as a clothing item, the material may still be recycled for patching or crafting smaller leather items. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -303,8 +326,9 @@
 	<string id="st_maps_kit_descr">
 		<text>A high-quality map-making kit, featuring a selection of precision pens and measurement instruments. Enclosed in a durable, waterproof cover with a camouflage pattern, the kit is designed to withstand harsh environmental conditions. The pens provide fine, consistent lines for detailed cartography, while the instruments include rulers, protractors, and compasses for accurate measurements. This kit ensures reliable performance and protection for essential mapping work out in the field. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] utility item\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] military item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -314,8 +338,8 @@
 	<string id="st_mili_maps_descr">
 		<text>A binder holding a number of maps of military camps and points of interest inside and outside the Zone. The maps appear to be from different years and most of the included information seems to be outdated or contradictory. Many include highlighted strategic positions, access routes, and key installations. The map binder is made from durable, weather-resistant materials, ensuring the maps remain protected during field operations. According to some markings, it may be a remnant of earlier exploratory efforts. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] utility item\n
-		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] military item\n
+		%c[d_cyan] • %c[ui_gray_2] educational item\n
 		</text>
 	</string>
 
@@ -326,6 +350,7 @@
 		<text>An average quality hammer featuring a wooden handle and an iron head. The handle, made from standard-grade wood, offers a comfortable grip but shows signs of wear from prolonged use. The iron head, while durable, bears marks and minor rust commonly shown with extensive use. Suitable for basic construction and repair tasks, this hammer provides reliable performance for general purposes, though it lacks the resilience of higher-grade tools.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 	
@@ -336,6 +361,7 @@
 		<text>A personal journal, leather-bound and weathered from years of use. The entries chronicle an someone's journey, their decision to enter the exclusion zone, early pages detailing a day to day around the southern marshes, describing lots of personal struggles and thoughts about the outside world. The pages detail the author's desire to move further north and eventually making a push into Jupiter and Yanov Station, nothing encounters with less than friendly groups on the way. The writing seem to devolve into melancholy as time goes on. The entries abruptly end after about half of its capacity. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		%c[d_cyan] • %c[ui_gray_2] emotional support item\n
 		</text>
 	</string>
 
@@ -346,6 +372,7 @@
 		<text>A pair of synthetic ropes, each measuring 5 meters in length, made from high-strength polymer fibers. These ropes offer solid durability and resistance to abrasion, UV degradation, and moisture. Valued for tasks requiring secure fastening, hoisting, or even climbing, synthetic ropes provide consistent strength and minimal stretch. Commonly used in both civilian and military operations, they are reliable tools for a variety of demanding applications. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -356,6 +383,7 @@
 		<text>A bundle of severely damaged clothes. Most pieces are made from cheap cotton, with a few crafted from linen. Though some are unrecognizable, it appears to include primarily shirts and underwear, some cut to shreds of discolored fabric. None are suitable to be worn but the materials can be cleaned and recycled for patching, adding insulation to existing clothes and armor, or for crafting makeshift bandaging. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -370,6 +398,7 @@
 		<text>A deck of cards, featuring a cover that proudly depicts the architectural design of the Moscow Metro. Each card is printed with intricate illustrations of various metro stations and surrounding spaces. The cards are crafted from high-quality cardstock for use in any environment. This deck is both a functional playing set and a tribute to the Metro of the city of Moscow, making it a sought-after collectible item. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		%c[d_cyan] • %c[ui_gray_2] entertainment item\n
 		</text>
 	</string>
 
@@ -391,6 +420,7 @@
 		<text>An old metal shovel, particularly, a decades old version of the iconic "Kovelskie" model, one commonly found in households across Eastern Europe. It sports a sturdy blade made from iron, slightly rusted from years of use, and a flat edge that can be used for digging and moving soil. The handle is made from wood and shows signs of wear, small cracks, and a weathered patina. Even though older than many of its users, shovel designs have barely evolved over time and the Kovelskie shovel remains a reliable tool. May be highly impractible to carry and provides no commonplace use in the Zone, but can be repurposed into scrap metal. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 	
@@ -400,8 +430,9 @@
 	<string id="st_shovel_mili_descr">
 		<text>An MPL-50 model folding field shovel, commonly issued to infantry units since the Cold War era. It is a compact and versatile tool with a sturdy blade made from high quality steel and a sharpened edge. It can be used for for digging, chopping, and cutting tasks in the field. The hardwood handle is reinforced with metal fittings for durability and strength. The model is designed to fold at the midpoint to be easily carried and stored in a soldier's pack. May have limited use in the Zone but can be used in workshops and disassembled for scrap metal. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] military item\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] military item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 	<string id="st_headlamp">
@@ -410,8 +441,9 @@
 	<string id="st_headlamp_descr">
 		<text>A damaged headlamp on a strap intended to be worn on the head. The plastic casing is cracked in multiple spots and no longer protects the wiring from dust and rain and the lightbulb is missing entirely. The elastic head strap is stretched and has been torn apart. Additionally, the model uses an outdated battery type no longer commonly available. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] technological item\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] technological item\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 

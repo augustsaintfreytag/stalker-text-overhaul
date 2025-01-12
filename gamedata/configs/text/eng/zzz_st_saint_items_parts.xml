@@ -35,6 +35,7 @@
 		<text>A multi-layered textolite base, constructed of cotton fabric, impregnated with thermoreactive tactifying resin, with substantial structural integrity. The material consists of several thin sheets of cotton fabric bonded together under heat and pressure, resulting in a dense, durable composite. The surface shows signs of previous use, with scuffs and minor delamination at the edges, yet retains much of its original strength. Textolite's high resistance to mechanical stress and thermal stability makes it an invaluable scrap crafting material in the Zone. However, its weight and occasional brittleness under extreme conditions require careful handling during repurposing.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] outfit repair item\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
@@ -82,6 +83,7 @@
 		<text>A pack of capacitors, essential for rectifying alternating current, storing electrical energy, and bypassing noise in circuits. These components are crucial for maintaining the functionality of electronic devices in the Zone. Proper handling and precise installation are necessary to avoid potential failures or electrical hazards.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] technological component\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
@@ -93,6 +95,7 @@
 		<text>A box of high-quality BJT transistors capable of converting and amplifying electrical oscillations. These transistors are integral in signal processing and power management systems. Despite their small size, improper handling can lead to circuit malfunctions and reduced device reliability.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] technological component\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
@@ -104,6 +107,7 @@
 		<text>A box of resistors, the most common components in electronics. They limit and direct the passage of electrical current through circuit branches, ensuring proper voltage distribution. These resistors are vital for circuit stability but require precise specification to avoid overheating or failure.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] technological component\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
@@ -115,6 +119,7 @@
 		<text>A roll of thin strand pure copper wire, highly conductive and essential for numerous electrical applications. Copper wire can be scavenged from a number of common electronics, like disassembled radios or walkie-talkies. Its pliability and resistance to corrosion make it invaluable for repairs and makeshift electronic projects. Salvaged copper wire may be found in moderately used condition and may require some cleaning to remove oxidation and ensure optimal conductivity before it can be used in new applications.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
+		%c[d_cyan] • %c[ui_gray_2] technological component\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
@@ -131,7 +136,7 @@
 	</string>
 
 	<string id="st_prt_i_scrap">
-		<text>Metallic Scrap</text>
+		<text>Metal Scrap</text>
 	</string>
 	<string id="st_prt_i_scrap_descr">
 		<text>A collection of metal bits and pieces, including various grades of steel and aluminum alloys. These scraps are usually leftovers from broken equipment, offering a diverse range of potential uses in repair and construction. Despite their irregular shapes and sizes, they can be repurposed for reinforcing structures, crafting tools, or as makeshift weapon parts. Many of the pieces shows signs of rust and wear, necessitating some cleaning and reshaping before proper use.\n \n
@@ -215,6 +220,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -226,6 +232,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
@@ -237,6 +244,7 @@
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] workshop item\n
 		</text>
 	</string>
 
