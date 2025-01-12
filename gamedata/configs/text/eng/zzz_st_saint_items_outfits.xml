@@ -228,7 +228,7 @@
 		<text>GP-10z Ranger Gas Mask</text>
 	</string>
 	<string id="helm_ranger_descr">
-		<text>A gas mask based on the GP-10, designed primarily to protect the wearer from Controllers and Poltergeists. Made from reinforced rubber with specialized filters. It offers specialized protection against psychic threats, making it a valuable asset in the Zone.
+		<text>A gas mask based on the GP-10, designed primarily to protect the wearer from Controllers and Poltergeists. Made from reinforced rubber with specialized filters. It offers specialized protection against psychic threats.
 		</text>
 	</string>
 
@@ -236,7 +236,7 @@
 		<text>Duty Sphere 08 Krasnyy</text>
 	</string>
 	<string id="helm_dolg_tactic_red_descr">
-		<text>A high-end helmet with reinforced armor and advanced filtration systems. Specifically designed for the Duty faction's elite forces. Made from multiple layers of Kevlar and composite materials, providing exceptional protection in combat.
+		<text>A high-end helmet with reinforced armor and advanced filtration systems. Specifically designed for the Duty faction's elite forces. Made from multiple layers of Kevlar and composite materials, providing significant protection in combat scenarios and moderate shielding against a number of environmental factors.
 		</text>
 	</string>
 
@@ -246,7 +246,7 @@
 		<text>Leather Jacket</text>
 	</string>
 	<string id="novice_outfit_description">
-		<text>A warm leather anorak worn over a turtleneck sweater, tucked into jeans and hiking boots. The outfit of choice among naive or inexperienced stalkers. An inadequate choice for the Zone's harsh conditions.\n \n
+		<text>A decently warm leather anorak worn over a turtleneck sweater, tucked into durable jeans and leather hiking boots. The materials are average quality but can offer acceptable protection against the elements when maintained frequently. Definitively inadequate for the unusually harsh conditions of the Zone but still a common sight among inexperienced rookies and tourists. Does not offer any additional protection.
 		</text>
 	</string>
 
@@ -254,64 +254,56 @@
 		<text>Firearm Enthusiast's Jacket</text>
 	</string>
 	<string id="novice_outfit_camo_description">
-		<text>A warm leather anorak worn over a turtleneck sweater, tucked into jeans and hiking boots. Formerly owned by a typical firearm enthusiast, it sports several advantages over an ordinary jacket, namely a camouflage pattern, higher quality material and more pockets to hold belongings. Still an inadequate choice for the Zone's harsh conditions.\n \n
-		</text>
+		<text>A tactical-styled leather anorak featuring a subdued camouflage pattern, worn over a moisture-wicking turtleneck and paired with reinforced jeans and hiking boots. Originally belonging to a firearms enthusiast, the jacket showcases higher quality materials and construction, with numerous MOLLE-compatible attachment points and specialized pockets for magazines and equipment. While the enhanced utility and concealment pattern might appeal to aspiring stalkers, the outfit remains definitively inadequate for the unusually harsh conditions of the Zone.</text>
 	</string>
 
 	<string id="novice_outfit_tourist_name">
-		<text>Tourist’s Jacket</text>
+		<text>Tourist's Jacket</text>
 	</string>
 	<string id="novice_outfit_tourist_description">
-		<text>A warm leather anorak with an integrated backpack, worn over a turtleneck sweater, tucked into jeans and hiking boots. It seems the previous owner really loved hiking. The educated choice of materials and weight management system makes this more useful than most leather jackets. Still an inadequate choice for the Zone's harsh conditions.\n \n
-		</text>
+		<text>A thoughtfully designed leather anorak featuring an integrated suspension system and load-bearing frame, worn over a breathable turtleneck with quick-drying hiking pants and sturdy boots. Every aspect reflects careful consideration of weight distribution and hiking ergonomics, from the reinforced shoulder straps to the ventilated back panel. While these outdoor-focused features might serve well on regular hiking trails, the outfit remains definitively inadequate for the unusually harsh conditions of the Zone.</text>
 	</string>
 
 	<string id="csky_novice_outfit_name">
 		<text>Clear Sky Leather Jacket</text>
 	</string>
 	<string id="csky_novice_outfit_description">
-		<text>A soft blue leather anorak worn over a turtleneck sweater, tucked into jeans and hiking boots. These simple suits are assembled in large quantities by Clear Sky's tailors for use within the faction. An inadequate choice for the Zone's harsh conditions.\n \n
-		</text>
+		<text>A distinctive soft blue leather anorak produced by Clear Sky's equipment division, worn over a faction-issued turtleneck sweater and paired with utility jeans and hiking boots. Mass-manufactured using standardized patterns and materials for junior members and support staff, these jackets feature the characteristic blue coloring and modest Clear Sky insignia. Despite the organized production and quality control, the outfit remains definitively inadequate for the unusually harsh conditions of the Zone.</text>
 	</string>
 
 	<string id="dolg_novice_outfit_name">
 		<text>Duty Leather Jacket</text>
 	</string>
 	<string id="dolg_novice_outfit_description">
-		<text>A dark leather anorak worn over a turtleneck sweater, tucked into jeans and combat boots. Formerly used only as relaxed wear for off-duty Dutyers, these simple suits were never intended for use by those on active service. An inadequate choice for the Zone's harsh conditions.\n \n
-		</text>
+		<text>A well-maintained dark leather anorak featuring subtle Duty insignias, worn over a black turtleneck sweater and paired with pressed cargo pants and polished combat boots. Originally issued as leisure wear for off-duty personnel, these jackets reflect Duty's military discipline even in casual attire. While acceptable for base duties and rest periods, the outfit remains definitively inadequate for the unusually harsh conditions of the Zone.</text>
 	</string>
 
 	<string id="bandit_novice_outfit_name">
 		<text>Black Leather Jacket</text>
 	</string>
 	<string id="bandit_novice_outfit_description">
-		<text>A black leather jacket commonly associated with the Zone's bandits and crooks. Mostly worn to intimidate rookies from other factions, it provides very little protection. An inadequate choice for the Zone's harsh conditions.\n \n
-		</text>
+		<text>A scuffed black leather jacket favored by the Zone's criminal elements, typically worn over whatever clothing is available and paired with worn boots. The jacket's intimidating appearance comes more from its association with bandit groups than any particular quality of construction or materials. Beyond its psychological value in threatening inexperienced stalkers, the outfit remains definitively inadequate for the unusually harsh conditions of the Zone.</text>
 	</string>
 
 	<string id="bandit_novice_alt_outfit_name">
 		<text>Armored Leather Jacket</text>
 	</string>
 	<string id="bandit_novice_alt_outfit_description">
-		<text>Jackets like this first entered circulation among Bandits thanks to Quartermaster Morgan, a corrupt supplier who formerly belonged to the Duty faction. Offers protection comparable to a standard Military service outfit. An inadequate choice for the Zone's harsh conditions.\n \n
-		</text>
+		<text>A black leather jacket modified with crude but effective armor inserts, commonly found among the Zone's more established criminal elements. These jackets gained prominence through Quartermaster Morgan, a disgraced former Duty supplier who redirected military-grade armor materials to bandit groups. While the integrated protection approaches that of standard Military service gear, the compromised construction and questionable modifications mean the outfit remains definitively inadequate for the unusually harsh conditions of the Zone.</text>
 	</string>
-	
+
 	<string id="redline_novice_outfit_name">
 		<text>Redline Leather Jacket</text>
 	</string>
 	<string id="redline_novice_outfit_description">
-		<text>A snazzy bright red leather anorak worn over a turtleneck sweater, tucked into jeans and hiking boots. An inadequate choice for the Zone's harsh conditions.\n \n
-		</text>
+		<text>A flashy crimson leather anorak made from high-gloss treated leather, worn over a black turtleneck sweater and paired with designer jeans and polished hiking boots. The conspicuous styling and pristine finish suggest this jacket was acquired more for its eye-catching aesthetics than practical application. Despite its premium materials and meticulous craftsmanship, the outfit remains definitively inadequate for the unusually harsh conditions of the Zone.</text>
 	</string>
 
 	<string id="svoboda_novice_outfit_name">
 		<text>Freedom Leather Jacket</text>
 	</string>
 	<string id="svoboda_novice_outfit_description">
-		<text>A camouflaged leather anorak worn over a turtleneck sweater, tucked into jeans and combat boots. Such attire is typically only worn by Freedomers. An inadequate choice for the Zone's harsh conditions.\n \n
-		</text>
+		<text>A leather anorak featuring Freedom's signature woodland camouflage pattern, worn over a hemp-fiber turtleneck and paired with tactical jeans and well-worn combat boots. Popular among the faction's support staff and newer recruits, these jackets embody Freedom's relaxed approach to uniforms while maintaining some tactical utility. Despite its adaptability for casual operations around the barrier, the outfit remains definitively inadequate for the unusually harsh conditions of the Zone.</text>
 	</string>
 
 	<!-- Overcoats -->
