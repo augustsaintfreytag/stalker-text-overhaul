@@ -7,7 +7,7 @@
 	</string>
 	<string id="mag_kriss45_descr">
 		<text>A standard KRISS Vector magazine chambered in .45 ACP designed for the KRISS Vector submachine gun. It is constructed from high-strength polymer with steel reinforcements, ensuring reliable feeding and lightweight construction. The double-stack design balances capacity with a manageable profile but can be affected by dirt and debris. The magazine features ergonomic base plates for better handling. Manufactured by KRISS USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
@@ -18,7 +18,7 @@
 	</string>
 	<string id="mag_kriss9_descr">
 		<text>A standard KRISS Vector magazine chambered in 9x19mm designed for the KRISS Vector submachine gun. It is made from high-strength polymer with steel reinforcements, providing reliable feeding and lightweight construction. The double-stack design offers optimal capacity but can be prone to wear under heavy use. The magazine includes ergonomic base plates for improved handling. Manufactured by KRISS USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
@@ -29,7 +29,7 @@
 	</string>
 	<string id="ext_mag_kriss_drum_descr">
 		<text>An extended KRISS Vector magazine chambered in .45 ACP. It is constructed from high-strength polymer with steel reinforcements, ensuring reliable feeding and lightweight construction. The extended design increases bulk, making it less suitable for maneuverability in tight spaces. The magazine features ergonomic base plates for better handling. Manufactured by KRISS USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
@@ -40,7 +40,7 @@
 	</string>
 	<string id="ext_mag_kriss9_drum_descr">
 		<text>An extended KRISS Vector magazine chambered in 9x19mm. It is made from high-strength polymer with steel reinforcements, providing reliable feeding and lightweight construction. The extended design adds bulk, reducing its suitability for rapid movement. The magazine includes ergonomic base plates for improved handling. Manufactured by KRISS USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
@@ -51,7 +51,7 @@
 	</string>
 	<string id="st_mag_galil_7.62x54_7h1_descr">
 		<text>A modified Galil magazine chambered in 7.62x54mm. It is constructed from high-strength steel, ensuring reliable feeding and robust construction. The modification changes ammunition compatibility and can reduce feeding reliability. The double-stack design is prone to dirt and debris but offers high capacity. Manufactured by Israel Weapon Industries (IWI) in Israel.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] rifle magazine
 		</text>
@@ -62,7 +62,7 @@
 	</string>
 	<string id="st_mag_aug_9x19_fmj_descr">
 		<text>A standard AUG magazine chambered in 9x19mm designed for the Steyr AUG rifle. It is constructed from durable polymer, ensuring reliable feeding and lightweight construction. The double-stack design offers high capacity but can be susceptible to damage under heavy use. The magazine features transparent sections for easy ammunition count and ergonomic base plates for improved handling. Manufactured by Steyr Mannlicher in Austria.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] rifle magazine
 		</text>
@@ -73,7 +73,7 @@
 	</string>
 	<string id="st_mag_m1a1_11.43x23_fmj_descr">
 		<text>A standard M1A1 stick magazine chambered in .45 ACP designed for the M1A1 Thompson submachine gun. It is made from steel, providing reliable feeding and robust construction. The single-stack design maintains a slim profile but limits ammunition capacity. The magazine includes a polished surface for smooth operation. Manufactured by Auto-Ordnance in the USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
@@ -84,7 +84,7 @@
 	</string>
 	<string id="st_mag_1921_11.43x23_fmj_descr">
 		<text>A drum magazine for the 1921 Thompson submachine gun chambered in .45 ACP. It is constructed from steel, providing reliable feeding and high capacity. The drum design offers increased ammunition storage but adds significant bulk and weight, impacting maneuverability. The magazine features a winding mechanism for consistent operation. Manufactured by Auto-Ordnance in the USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
@@ -95,7 +95,7 @@
 	</string>
 	<string id="mag_kriss45_descr">
 		<text>A standard Vector magazine chambered in .45 ACP designed for the KRISS Vector submachine gun. It is made from high-strength polymer with steel reinforcements, ensuring reliable feeding and lightweight construction. The double-stack design balances capacity with a manageable profile but can be affected by dirt and debris. The magazine includes ergonomic base plates for better handling. Manufactured by KRISS USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
@@ -106,7 +106,7 @@
 	</string>
 	<string id="mag_kriss9_descr">
 		<text>A modified Vector magazine chambered in 9x19mm. It is constructed from high-strength polymer with steel reinforcements, providing reliable feeding and lightweight construction. The modification alters ammunition compatibility and can reduce feeding reliability. The double-stack design is prone to wear under heavy use but offers good capacity. Manufactured by KRISS USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
@@ -116,8 +116,8 @@
 		<text>.45 ACP Vector Drum Magazine</text>
 	</string>
 	<string id="ext_mag_kriss_drum_descr">
-		<text>A drum magazine for the KRISS Vector chambered in .45 ACP. It is made from high-strength polymer, ensuring reliable feeding and lightweight construction. The drum design offers high capacity but adds significant bulk and weight, impacting maneuverability. The magazine features a winding mechanism for consistent operation. Manufactured by KRISS USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		<text>A drum magazine for the KRISS Vector chambered in .45 ACP. It is made from high-strength polymer, providing reliable feeding and lightweight construction. The drum design offers high capacity but adds significant bulk and weight, impacting maneuverability. The magazine features a winding mechanism for consistent operation. Manufactured by KRISS USA.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
