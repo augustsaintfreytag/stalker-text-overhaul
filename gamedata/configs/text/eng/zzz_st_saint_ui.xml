@@ -81,6 +81,17 @@
 		<text>Stash coordinates added</text>
 	</string>
 
+	<!-- News -->
+	<string id="st_dyn_news_few_days">
+		<text>in a few days</text>
+	</string>
+	<string id="st_dyn_news_surge_type_emission">
+		<text>emission</text>
+	</string>
+	<string id="st_dyn_news_surge_type_blowout">
+		<text>emission</text>
+	</string>
+
 	<!-- Disguise -->
 
 	<string id="st_news_disguse_enemy_expose_1">
