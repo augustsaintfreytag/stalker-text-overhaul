@@ -128,7 +128,18 @@
 	</string>
 	<string id="ext_mag_kriss9_drum_descr">
 		<text>A modified drum magazine for the KRISS Vector chambered in 9x19mm. It is constructed from high-strength polymer, providing reliable feeding and lightweight construction. The modification changes ammunition compatibility and can reduce feeding reliability. The drum design offers high capacity but adds significant bulk and weight, affecting maneuverability. Manufactured by KRISS USA.\n \n
-		%c[ui_gray_3]PROPERTIES:
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm component\n
+		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
+		</text>
+	</string>
+
+	<string id="st_mag_mp7_5.7x28_ss190">
+		<text>Modified 5.7x28 MP7 Magazine</text>
+	</string>
+	<string id="st_mag_mp7_5.7x28_ss190_descr">
+		<text>A modified MP7 magazine chambered in 5.7x28mm. It is constructed from high-strength polymer with steel reinforcements, providing reliable feeding and lightweight construction. The modification alters ammunition compatibility from 4.6x30mm to accept 5.7x28mm rounds, which can affect feeding reliability. The double-stack design offers good capacity but requires careful maintenance to ensure consistent performance. Manufactured by Heckler & Koch with modifications by third-party technicians.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] firearm component\n
 		%c[d_cyan] • %c[ui_gray_2] submachine gun magazine
 		</text>
