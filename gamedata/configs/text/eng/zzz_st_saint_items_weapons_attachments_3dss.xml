@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<!-- BASE SCOPES -->
+
+	<string id="st_addon_scope">
+		<text>PSO-1 Scope</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>A PSO-1 telescopic sight, introduced in 1964 as the Soviet Union's primary squad marksman optic. This rugged scope features an innovative illuminated rangefinding reticle system calibrated specifically for the 7.62x54mmR cartridge, allowing quick target engagement out to 1000 meters. The scope incorporates a unique battery-powered illumination system using a radioactive tritium backup, ensuring functionality in all lighting conditions. The robust housing design has proven remarkably durable in field conditions, while its distinctive mount system maintains zero even after repeated removal and installation. The optic gained widespread recognition during the Soviet-Afghan War, where its reliable performance in dusty, high-altitude conditions proved invaluable. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_blue] • %c[ui_gray_2] LED illuminator toggle\n
+		%c[d_cyan] • %c[ui_gray_2] origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: %c[ui_gray_2]NPZ Optics State Plant\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1p29">
+		<text>1P29 Tulip Scope</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>A 1P29 Tulip scope, developed in the late 1970s as a versatile combat optic for Soviet infantry forces. This distinctive sight features a unique tulip-shaped rubber eyecup that provides both comfort and protection while eliminating light leakage during night operations. Its sophisticated optical system employs a bullet drop compensator calibrated for both 5.45x39mm and 7.62x39mm ammunition, while the illuminated center post reticle enables rapid target acquisition in low light conditions. The scope's robust construction and sealed optical chamber have proven exceptionally reliable in harsh environmental conditions, from Arctic cold to desert heat. Unlike Western counterparts of its era, the 1P29 incorporates an innovative mounting system that allows for backup iron sight use without removal. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: %c[ui_gray_2]Soviet Union\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_acog">
+		<text>ACOG 2.8x Scope</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>An ACOG (Advanced Combat Optical Gunsight) scope, first introduced in 1987 as Trijicon's revolutionary solution for combat optics. This compact sight employs an innovative fiber optic illumination system that automatically adjusts reticle brightness based on ambient light conditions, while tritium illumination provides low-light capability without batteries. The scope's unique Bindon Aiming Concept (BAC) enables both-eyes-open shooting, significantly improving situational awareness and target acquisition speed. Its armored housing is machined from aircraft-grade aluminum and has demonstrated exceptional durability in military service, surviving extreme conditions from Arctic deployments to desert warfare. The scope gained widespread recognition during Operations Iraqi Freedom and Enduring Freedom, where its reliability and precision in harsh combat environments proved invaluable. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (2.8x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: %c[ui_gray_2]Trijicon\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>PSO-1M2-1 Scope</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>A PSO-1M2-1 scope, developed in the 1990s as a modernized version of the venerable PSO-1 design. This updated optic features enhanced multi-coated lenses that provide superior light transmission while reducing chromatic aberration, particularly useful in low-light conditions. The scope retains the proven rangefinding reticle system but incorporates an improved LED illumination system with multiple brightness settings, eliminating the need for radioactive elements. Its revised mounting system provides enhanced stability while maintaining compatibility with standard Soviet/Russian mounting rails. The scope's internal adjustments offer increased precision through redesigned elevation and windage turrets, while maintaining the rugged reliability that made its predecessor famous. An enhanced water resistance system provides improved performance in wet conditions while anti-fog coating prevents internal condensation. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_blue] • %c[ui_gray_2] LED illuminator toggle\n
+		%c[d_cyan] • %c[ui_gray_2] origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: %c[ui_gray_2]NPZ Optics State Plant\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_specterDR">
+		<text>ELCAN SpecterDR Scope</text>
+	</string>
+	<string id="st_addon_scope_specterDR_descr">
+		<text>An ELCAN SpecterDR scope, introduced in 2008 as a revolutionary dual-role combat optic. This innovative sight features a unique switch-lever system that instantly changes magnification from 1x to 4x without losing zero, developed through extensive testing with special operations forces. The scope employs an advanced optical system using specially coated glass that provides exceptional clarity while maintaining an unmatched 97% light transmission. Its distinctive reticle pattern combines close-quarters rapid acquisition capabilities with precision engagement features, while the illumination system provides both daylight and night vision compatible settings. The housing is machined from a single block of aircraft-grade aluminum, providing extraordinary durability while maintaining sub-MOA accuracy even after extreme impact. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (1x/4x)\n
+		%c[d_blue] • %c[ui_gray_2] LED illuminator toggle\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Raytheon ELCAN\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pso2">
+		<text>PSO-1М Scope</text>
+	</string>
+	<string id="st_addon_scope_pso2_descr">
+		<text>A PSO-1M scope, developed in the mid-1980s as an enhanced variant of the standard PSO-1 optic. This modernized version incorporates improved lens coatings that provide superior light transmission while reducing glare in bright conditions. The scope retains the classic rangefinding reticle but features an enhanced illumination system with adjustable brightness settings, particularly useful during dawn and dusk operations. Its revised internal adjustment system provides more precise zeroing capabilities while maintaining the legendary durability of the original design. The scope's unique mount system has been refined to provide even better retention of zero during field stripping and reassembly. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_blue] • %c[ui_gray_2] LED illuminator toggle\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics State Plant\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1p59">
+		<text>1P59 Giperon Scope</text>
+	</string>
+	<string id="st_addon_scope_1p59_descr">
+		<text>A 1P59 Giperon scope, introduced in the late 1990s as Russia's answer to the growing demand for variable-power combat optics. This sophisticated sight features a unique optical system that provides seamless magnification adjustment from 3x to 10x while maintaining exceptional clarity throughout the zoom range. The scope incorporates an advanced bullet drop compensator calibrated for various Russian service cartridges, while its illuminated reticle system provides optimal visibility in any lighting condition. The robust housing employs a specialized nitrogen purging process that prevents internal fogging while ensuring waterproof performance to 20 meters. Unlike conventional variables, it features a unique eye relief system that maintains consistent sight picture throughout the magnification range. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (3-10x)\n
+		%c[d_blue] • %c[ui_gray_2] LED illuminator toggle\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Various Manufacturers\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1pn93">
+		<text>1PN93-4 Night Sight</text>
+	</string>
+	<string id="st_addon_scope_1pn93_descr">
+		<text>A 1PN93-4 night vision scope, developed in the early 1990s as Russia's dedicated solution for night combat operations. This advanced optic employs a second-generation image intensifier tube with a specialized photocathode coating that provides exceptional low-light performance while reducing blooming effects from sudden light exposure. The scope features a unique variable magnification system that maintains image clarity throughout its range, while its proprietary reticle system enables accurate range estimation in low-light conditions. The housing incorporates a sophisticated shock absorption system that protects the sensitive electronic components while maintaining zero even under heavy recoil. The scope's power management system provides up to 50 hours of continuous operation while incorporating an automatic brightness control that prevents user night blindness. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (1-3.7x)\n
+		%c[d_blue] • %c[ui_gray_2] night vision optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_leupold">
+		<text>Leupold Mk. 8 Scope</text>
+	</string>
+	<string id="st_addon_scope_leupold_descr">
+		<text>A Leupold Mark 8 scope, introduced in 2012 as Leupold's flagship variable-power combat optic. This sophisticated sight features an advanced optical system using Leupold's proprietary Edge HD lenses that virtually eliminate color fringing while providing exceptional clarity in any lighting condition. The scope incorporates an innovative ZeroLock adjustment system that prevents unintended elevation changes during high-stress situations, while its M5C2 adjustment dials provide precise windage and elevation control. The housing is machined from a single billet of aircraft-grade aluminum and undergoes Leupold's Punisher testing program, ensuring reliability under the most extreme conditions. The scope's illumination system offers eight daylight and eight night vision settings while providing over 160 hours of battery life. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Leupold\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pn23">
+		<text>PN-23 Night Sight</text>
+	</string>
+	<string id="st_addon_scope_pn23_descr">
+		<text>A PN-23 night vision scope, developed in 2018 by KULA Optics as a specialized solution for low-light tactical operations. This advanced optic employs a second-generation image intensifier with proprietary photocathode coating that provides exceptional performance in near-total darkness while minimizing blooming effects. The scope features a sophisticated auto-brightness control system that prevents user night blindness, while its rugged housing incorporates specialized shock absorption technology that maintains zero even under heavy recoil. The unique optical design provides a generous eye relief while maintaining crystal-clear image quality throughout its entire field of view. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (3.8x)\n
+		%c[d_blue] • %c[ui_gray_2] night vision optic\n
+        %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: KULA\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_marchf">
+		<text>March Tactical 3-24x42 FFP Sight</text>
+	</string>
+	<string id="st_addon_scope_marchf_descr">
+		<text>A March Tactical 3-24x42 FFP scope, introduced in 2015 as DEON's flagship precision optic. This sophisticated sight features an advanced first focal plane reticle system that maintains accurate rangefinding capabilities throughout its entire magnification range. The scope employs specially developed ED glass manufactured in Japan that virtually eliminates chromatic aberration while providing exceptional clarity in any lighting condition. Its unique zero-stop elevation system provides precise return-to-zero capability while maintaining accuracy even after multiple adjustments. The scope's illumination system offers both daylight-bright and night vision compatible settings while providing over 200 hours of battery life. The housing undergoes a proprietary cryogenic stress-relief process that ensures maintained zero even under extreme temperature variations. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (3-24x)\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Japan\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: DEON Optical Design\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pgo7gs">
+		<text>PGO-7 Scope</text>
+	</string>
+	<string id="st_addon_scope_pgo7gs_descr">
+		<text>A PGO-7 scope, developed in 1961 as the Soviet Union's dedicated optic for the RPG-7 launcher system. This robust sight features a unique stadiametric ranging system calibrated specifically for rocket projectile ballistics, allowing quick target engagement from 200 to 500 meters. The scope employs a sophisticated optical system that provides exceptional clarity while maintaining a generous eye relief, crucial for its intended weapon platform. Its distinctive reticle pattern incorporates both range estimation and lead correction capabilities, developed through extensive testing in various combat conditions. The housing is constructed from aircraft-grade aluminum using specialized manufacturing processes that ensure reliability in extreme environments. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: Soviet Union\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_susat">
+		<text>SUSAT Scope</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>A SUSAT (Sight Unit Small Arms, Trilux) scope, introduced in 1986 as the British Army's standard optical sight for the SA80 rifle family. This unique optic features an advanced tritium-illuminated reticle system that provides constant illumination without batteries, while maintaining visibility in any lighting condition. The scope employs a sophisticated prism-based optical system that reduces overall length while providing exceptional clarity and a wide field of view. Its distinctive housing is constructed from a specialized aluminum alloy that provides superior durability while minimizing weight. The sight incorporates a unique mount design specifically developed for the SA80 platform, ensuring maintained zero even under harsh combat conditions. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+        %c[d_cyan] • %c[ui_gray_2] origin: United Kingdom\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: Avimo\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_gauss_sight">
+		<text>EOTS-62 Thermal Sight</text>
+	</string>
+	<string id="st_addon_scope_gauss_sight_descr">
+		<text>An EOTS-62 thermal sight, developed as an advanced electro-optical system for specialized military applications. This sophisticated optic employs a high-resolution thermal imaging sensor with a unique variable-zoom capability that maintains image clarity throughout its magnification range. The scope features an advanced digital image processing system that provides exceptional target detection in any environmental condition, while its proprietary lens coating actively reduces thermal signature. The housing incorporates specialized electromagnetic shielding that ensures reliability even in areas of high electromagnetic activity. The sight's power management system provides over 8 hours of continuous operation while incorporating an automatic standby mode that extends battery life. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (1-10x)\n
+		%c[d_blue] • %c[ui_gray_2] thermal imaging optic\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Ukraine\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: REDACTED\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1p78gs">
+		<text>1P78 Kashtan Scope</text>
+	</string>
+	<string id="st_addon_scope_1p78gs_descr">
+		<text>A 1P78 Kashtan scope, developed in 1978 by NPZ as a universal combat optic for the AK74 rifle family. This robust sight features a unique dual-illumination system that combines fiber optics with tritium illumination, ensuring reticle visibility in any lighting condition without batteries. The scope employs a sophisticated optical system that provides an unprecedented 13-degree field of view while maintaining edge clarity. Its distinctive housing uses specially hardened aluminum alloy that withstands extreme environmental conditions while protecting the precision-ground glass elements. The scope gained particular recognition during Soviet-Afghan operations, where its ability to maintain zero in extreme temperature variations proved invaluable. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (2.8x)\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Factory\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1pn93n2_1gs">
+		<text>1PN93-1 Thermal Sight</text>
+	</string>
+	<string id="st_addon_scope_1pn93n2_1gs_descr">
+		<text>A 1PN93-1 thermal sight, introduced in 1993 as Russia's advanced solution for night combat operations. This sophisticated optic employs a high-sensitivity thermal imaging sensor that provides exceptional target detection in complete darkness or adverse weather conditions. The scope features an advanced digital image processing system that automatically adjusts contrast based on environmental conditions, while its unique germanium lens assembly provides superior infrared transmission. Its rugged housing incorporates specialized electromagnetic shielding that ensures reliable operation even near powerful radio equipment. The sight's power management system enables up to 6 hours of continuous operation while featuring an automatic standby mode to preserve battery life. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+        %c[d_blue] • %c[ui_gray_2] thermal imaging optic\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_usp1">
+		<text>1P29 Tulpan Scope</text>
+	</string>
+	<string id="st_addon_scope_usp1_descr">
+		<text>A 1P29 Tulpan scope, developed in the late 1980s as the Soviet Union's universal optic for squad-level weapons. This versatile sight features an innovative dual-mode reticle system that combines both precision ranged fire capability with rapid target acquisition for close quarters combat. The scope employs specially developed glass that provides exceptional light transmission while incorporating a unique anti-reflective coating that reduces signature. Its robust housing is machined from a single block of aircraft-grade aluminum and undergoes a specialized hardening process that ensures reliability in extreme conditions. The scope's mount incorporates an advanced shock absorption system that maintains zero even under sustained automatic fire. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_susatov">
+		<text>SUSAT 4.0x Sight</text>
+	</string>
+	<string id="st_addon_scope_susatov_descr">
+		<text>A SUSAT (Sight Unit Small Arms, Trilux) scope, developed by RARDE as the British Army's standard optical sight for the L85 rifle system. This innovative optic features a unique tritium-powered illumination system that provides constant reticle visibility without batteries. The scope employs specialized optical elements that deliver exceptional clarity while maintaining a compact profile, crucial for its role as a standard-issue combat optic. Its distinctive housing incorporates advanced environmental sealing that ensures reliability in extreme conditions, while the unique mounting system maintains zero even under sustained fire. The sight gained particular recognition during British operations where its reliability in adverse conditions proved invaluable. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United Kingdom\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Royal Armament Research Development\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_march_f_shorty">
+		<text>March F Shorty 1x-8x24mm LPVO Scope</text>
+	</string>
+	<string id="st_addon_scope_march_f_shorty_descr">
+		<text>A March F Shorty LPVO scope, introduced in 2020 as DEON's compact solution for modern tactical operations. This sophisticated optic features an advanced optical system that provides true 1x performance with minimal distortion while maintaining exceptional clarity throughout its magnification range. The scope employs specialized ED glass elements that virtually eliminate chromatic aberration while providing industry-leading light transmission. Its unique turret system offers precise adjustments while maintaining zero even under heavy recoil, while the illumination system provides both daylight-bright and night vision compatible settings. The scope gained particular recognition in competitive shooting circles where its optical performance and reliability proved exceptional. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Japan\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: DEON Optical Design\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_lco1">
+		<text>LCO Leupold Carbine Optic</text>
+	</string>
+	<string id="st_addon_scope_lco1_descr">
+		<text>A Leupold Carbine Optic, developed in 2014 as Leupold's premium solution for tactical carbine applications. This advanced sight employs a sophisticated LED projection system that provides eight daylight and eight night vision settings while maintaining exceptional battery life. The optic features specialized lens coatings that provide industry-leading light transmission while actively reducing blue light scatter. Its housing is machined from a single block of aircraft-grade aluminum and undergoes Leupold's Punisher testing program, ensuring reliability in extreme conditions. The sight incorporates an advanced motion sensor that automatically activates upon movement while extending battery life to over 5 years of typical use. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Leupold\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_e0t2_mag">
+		<text>Eotech XPS3 w/ Eotech G33 6x Mag. Scope</text>
+	</string>
+	<string id="st_addon_scope_e0t2_mag_descr">
+		<text>An EOTech hybrid optic system, combining the advanced XPS3 holographic weapon sight with the G33 magnifier for enhanced engagement capabilities. This sophisticated combination features EOTech's proprietary holographic technology that provides an unparalleled sight picture while maintaining zero parallax, paired with a quick-detach magnifier that enables instant transition between 1x and 6x magnification. The system employs specialized optical coatings that provide exceptional clarity in any lighting condition while actively reducing signature to night vision devices. The mounting system incorporates advanced shock absorption technology that maintains zero even under extreme conditions, while the power management system provides over 1,000 hours of continuous operation. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (1x/6x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: EOTech\n
+		</text>
+	</string>
+
+	<!-- EFT SCOPES-->
+
+	<string id="st_addon_scope_pk1_obzor">
+		<text>PK-1 "Obzor" (1P63) Collimator Sight</text>
+	</string>
+	<string id="st_addon_scope_pk1_obzor_descr">
+		<text>A PK-1 "Obzor" collimator sight, developed in 1998 by NPZ as Russia's innovative solution for all-weather combat optics. This unique sight employs a sophisticated dual-illumination system that combines fiber optic light collection with a battery-powered LED, ensuring reticle visibility in any lighting condition. The distinctive triangular housing, designed after extensive ergonomic studies with Spetsnaz operators, provides an unprecedented 40-degree field of view while maintaining natural peripheral vision. Its optical system features a specially developed coating that actively repels water and oil while providing constant clarity in temperatures from -50°C to +50°C. Unlike conventional red dots, the Obzor uses a proprietary reticle projection system that maintains visibility even when the front lens is completely covered in mud or snow. The sight gained prominence during Russian Arctic warfare exercises, where its ability to function in extreme cold and complete darkness proved invaluable. The mount incorporates a unique quick-release mechanism designed specifically for operation with Arctic gloves, while maintaining zero even after multiple removals. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics State Plant\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pk6">
+		<text>BelOMO PK-06 Reflex Sight</text>
+	</string>
+	<string id="st_addon_scope_pk6_descr">
+		<text>A BelOMO PK-06 reflex sight, developed in 2006 as Belarus's answer to modern Western red dot optics. This compact sight incorporates an advanced electronic reticle system that offers four switchable patterns, each developed through extensive testing with Belarusian special forces units. The sight employs a unique aspherical lens geometry, developed at the Minsk Institute of Optics, that eliminates edge distortion while providing an exceptional 25-degree field of view. Unlike conventional red dots, it uses a sophisticated voltage regulation system that maintains constant reticle brightness even as battery voltage drops, extending effective battery life to over 3,000 hours. The housing is constructed from a specialized aluminum-titanium alloy originally developed for Belarus's aerospace industry, providing exceptional durability while reducing weight by 30% compared to traditional materials. The sight gained particular recognition during Arctic warfare exercises, where its unique electronic protection system maintained functionality even in temperatures approaching -40°C. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: BelOMO\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pilad_p1x42">
+		<text>VOMZ Pilad P1x42 Sight</text>
+	</string>
+	<string id="st_addon_scope_pilad_p1x42_descr">
+		<text>A VOMZ Pilad P1x42 sight, introduced in 2010 as part of Russia's civilian optics modernization program. The sight features an innovative illumination system that combines fiber optic light gathering with LED enhancement, providing optimal reticle brightness in any lighting condition without requiring battery changes for up to 5,000 hours. Its optical system employs specially developed low-dispersion glass manufactured at the Vologda Optical and Mechanical Plant, providing exceptional clarity while reducing chromatic aberration. The sight incorporates a unique environmental sealing system using specialized fluoroelastomer gaskets developed for Russian space programs, ensuring reliability in temperatures from -45°C to +50°C. The mount features a proprietary quick-release mechanism that maintains zero even after multiple removals, while its reticle system offers multiple brightness settings optimized for both dawn and dusk hunting conditions. The sight gained popularity among Russian security forces for its ability to maintain functionality in extreme cold and humid conditions. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: VOMZ\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1p87">
+		<text>Valday PK-120 (1P87) Sight</text>
+	</string>
+	<string id="st_addon_scope_1p87_descr">
+		<text>A Valday PK-120 collimator sight, developed in 2014 as Russia's latest generation of combat optics. This advanced sight incorporates a unique dual-plane holographic system that projects both a primary aiming point and a secondary rangefinding grid, allowing for instant range estimation without losing target acquisition. The sight employs sophisticated electronic warfare protection developed at the Valday Optical-Mechanical Plant, ensuring functionality even near active radio jamming equipment. Its proprietary lens coating, created through plasma deposition technology, provides exceptional light transmission while actively rejecting laser interference. The housing is constructed from a novel composite material that combines carbon fiber with ceramic particles, providing superior durability while minimizing thermal signature. The sight features an advanced motion-sensing system that automatically adjusts reticle intensity based on target movement, while its unique mount design incorporates a series of titanium spring buffers that maintain zero even under extreme recoil conditions. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] Holographic Optic (1x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Valday\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pilad_p4x32">
+		<text>VOMZ Pilad P4x32 Scope</text>
+	</string>
+	<string id="st_addon_scope_pilad_p4x32_descr">
+		<text>A VOMZ Pilad P4x32 scope, developed in 2012 as a versatile optical solution for both military and civilian applications. The scope incorporates an advanced optical system using ED (Extra-low Dispersion) glass elements manufactured at the Vologda facility, providing exceptional clarity while minimizing chromatic aberration. Its unique reticle design features an innovative bullet drop compensator calibrated for multiple calibers, developed through extensive ballistic testing at various altitudes and temperatures. The scope's housing employs a sophisticated internal buffering system using magnetorheological fluid that automatically adjusts dampening based on recoil intensity. Unlike conventional scopes, it features a proprietary lens coating developed in collaboration with the Moscow Institute of Physics and Technology, providing 95% light transmission while actively reducing glare. The scope gained recognition in Russian military trials where its ability to maintain zero in extreme temperature variations and high humidity conditions proved exceptional. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: VOMZ\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_po4x34">
+		<text>PO4x34 Scope</text>
+	</string>
+	<string id="st_addon_scope_po4x34_descr">
+		<text>A PO4x34 scope, created in 1989 by TsKIB SOO as a specialized optic for Soviet designated marksmen. This sight features an innovative optical system that employs a series of calcium fluoride lenses developed for military satellite programs, providing exceptional clarity in extreme temperature conditions. The scope's unique rangefinding reticle incorporates both stadiametric ranging and bullet drop compensation, calibrated specifically for the ballistics of 5.45x39mm and 7.62x39mm ammunition at various altitudes. Its housing uses a proprietary shock absorption system with titanium buffer springs that maintain zero even under sustained automatic fire. The scope incorporates a sophisticated internal adjustment mechanism that automatically compensates for atmospheric pressure changes, while its lens coating, developed at the Tula Arms Plant, provides enhanced light transmission while reducing signature to night vision devices. The optic gained particular recognition during operations in Afghanistan, where its ability to maintain accuracy in both high-altitude mountain environments and dusty conditions proved invaluable. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: TsKIB SOO\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_valday_ps320">
+		<text>Valday PS-320 Scope</text>
+	</string>
+	<string id="st_addon_scope_valday_ps320_descr">
+		<text>A Valday PS-320 scope, developed in 2018 as Russia's latest entry into the variable-power combat optic market. This innovative sight features a unique dual-mode optical system that instantly switches between 1x and 6x magnification without traditional rotating elements, using an advanced electrochromic lens system developed at the St. Petersburg Institute of Fine Mechanics and Optics. The scope incorporates a sophisticated digital ballistic calculator that automatically adjusts point of impact based on atmospheric conditions, using environmental sensors derived from Russian GLONASS satellite technology. Its illumination system employs a unique dual-path LED arrangement that provides both daylight-bright and night vision compatible settings while maintaining a 50,000-hour battery life. The housing is constructed from a specialized aluminum-lithium alloy developed for Russia's space program, providing exceptional thermal stability while reducing weight by 40% compared to traditional materials. The scope gained prominence during Russian Arctic warfare exercises, where its ability to maintain zero and clarity in extreme temperature variations proved invaluable. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (1x/6x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Valday\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_burris_tac30">
+		<text>Burris TAC30 1-4x24mm Scope</text>
+	</string>
+	<string id="st_addon_scope_burris_tac30_descr">
+		<text>A Burris TAC30 scope, introduced in 2011 as a rugged solution for both military and law enforcement applications. This versatile optic features an innovative double-spring tension assembly that maintains zero even under extreme recoil, developed through extensive testing with heavy-caliber tactical platforms. The scope employs high-grade optical glass manufactured in Japan using proprietary Hi-Lume multicoating that provides 95% light transmission while reducing glare to less than 0.1%. Its unique reticle system, the Ballistic CQ, combines both close-quarter rapid acquisition capabilities with extended range ballistic compensation out to 600 meters. The scope incorporates a sophisticated nitrogen purging process using laboratory-grade gas that prevents internal fogging while providing true waterproof performance to 25 feet. Unlike conventional variables, it features a true 1x setting with minimal distortion, achieved through an advanced cam system that precisely aligns optical elements throughout the zoom range. The scope gained recognition during U.S. law enforcement trials where its durability and optical clarity in urban environments proved exceptional. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (1-4x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Burris\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_romeo4">
+		<text>SIG Sauer ROMEO4 Reflex Sight</text>
+	</string>
+	<string id="st_addon_scope_romeo4_descr">
+		<text>A SIG Sauer ROMEO4 reflex sight, launched in 2015 as part of SIG's expansion into advanced electro-optics. This sophisticated sight incorporates MOTAC (Motion Activated Illumination) technology that extends battery life to over 50,000 hours while providing instant-on capability when movement is detected. The optical system employs specially developed glass manufactured using SIG's proprietary SpectraCoat process, providing exceptional light transmission while actively reducing blue light scatter. Unlike conventional red dots, it features a unique quadplex reticle system that combines both close-range rapid acquisition and mid-range precision capabilities. The housing is constructed from aircraft-grade magnesium alloy, developed through collaboration with aerospace manufacturers, providing exceptional durability while reducing weight by 35% compared to aluminum designs. The sight gained prominence during U.S. military testing where its ability to maintain zero and clarity after saltwater immersion and thermal shock testing exceeded all requirements. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: SIG Sauer\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_romeo8">
+		<text>SIG Sauer ROMEO8T Reflex Sight</text>
+	</string>
+	<string id="st_addon_scope_romeo8_descr">
+		<text>A SIG Sauer ROMEO8T reflex sight, introduced in 2019 as SIG's flagship duty-grade optic. This advanced sight features a unique ballistic circle-dot reticle system developed through extensive testing with special operations units, providing both instantaneous close-quarter acquisition and precision engagement capabilities. The sight employs a sophisticated MOTAC (Motion Activated Illumination) system that combines with a solar failsafe to provide virtually unlimited operation. Its optical window uses LIGHTSHIELD technology, a proprietary coating developed by SIG's optical engineering team that provides exceptional clarity while actively rejecting laser interference. The housing is constructed from a specialized magnesium alloy using metal-injection molding, providing extraordinary durability while reducing weight. Unlike conventional red dots, it incorporates an advanced electronic warfare protection system that maintains functionality even near powerful radio transmitters. The sight gained particular recognition during military testing where it survived a 20-foot drop onto concrete while maintaining zero. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: SIG Sauer\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_acro">
+		<text>Aimpoint ACRO P-1 Reflex Sight</text>
+	</string>
+	<string id="st_addon_scope_acro_descr">
+		<text>An Aimpoint ACRO (Advanced Compact Reflex Optic) P-1, developed in 2018 as the world's first fully enclosed miniature red dot sight designed specifically for pistol applications. This revolutionary optic employs a unique enclosed emitter system that completely protects the LED and electronics from environmental interference, while providing unprecedented durability against slide reciprocation forces exceeding 20,000 Gs. The sight features Aimpoint's Advanced Circuit Efficiency Technology (ACET) that enables over 15,000 hours of continuous operation on a single battery. Its optical system uses specially developed glass manufactured in Sweden using molecular beam epitaxy, providing exceptional clarity while reducing parallax to nearly zero. The housing is machined from a single block of high-strength aluminum using a proprietary 7-axis CNC process that maintains tolerances to within 0.0001 inches. The sight gained widespread adoption after military testing demonstrated its ability to maintain function even after being completely submerged in mud and frozen. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: Sweden\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Aimpoint\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_specter_hco">
+		<text>ELCAN Specter HCO Holo Sight</text>
+	</string>
+	<string id="st_addon_scope_specter_hco_descr">
+		<text>An ELCAN Specter HCO holographic sight, developed in 2015 through collaboration between Raytheon and ELCAN's advanced optics division. This sophisticated sight employs a unique dual-cavity laser hologram generator that produces an exceptionally clear reticle while eliminating the parallex issues common to conventional red dots. The optical system uses specially developed glass manufactured through ion-assisted deposition, providing incredible durability while maintaining 99.5% light transmission. Unlike traditional holographic sights, it incorporates an advanced power management system developed for military aircraft displays that provides 20,000 hours of operation on a single battery. The housing is constructed from a proprietary ceramic-reinforced polymer originally developed for missile guidance systems, offering exceptional durability while reducing thermal signature. The sight gained prominence during U.S. Special Operations testing where its ability to maintain zero after repeated submersion and thermal shock exceeded all requirements. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] holographic optic (1x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Raytheon ELCAN Optical Technologies\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_monstrum_2x32">
+		<text>Monstrum Tactical 2x32 Scope</text>
+	</string>
+	<string id="st_addon_scope_monstrum_2x32_descr">
+		<text>A Monstrum Tactical 2x32 scope, introduced in 2016 as a compact solution for modern sporting rifles. This optic features an innovative prismatic optical system that reduces overall length by 40% compared to traditional designs while maintaining exceptional clarity. The scope employs a unique etched reticle system illuminated by fiber optic technology, providing both daylight and low-light visibility without batteries. Its housing is constructed from aircraft-grade 6061-T6 aluminum using a proprietary hard-anodizing process that provides exceptional corrosion resistance while maintaining precise tolerances. The scope incorporates a sophisticated nitrogen purging system that prevents internal fogging while providing waterproof performance to 20 feet. The sight gained particular recognition in competitive shooting circuits where its combination of compact size and optical clarity proved advantageous in speed shooting events. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (2x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Monstrum Tactical\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_trihawk_3x30">
+		<text>SwampFox Trihawk Prism 3x30 Scope</text>
+	</string>
+	<string id="st_addon_scope_trihawk_3x30_descr">
+		<text>A SwampFox Trihawk prism scope, developed in 2019 as a modern interpretation of combat-proven prismatic optics. This innovative sight features a sophisticated optical system using ED (Extra-low Dispersion) glass elements that provide exceptional clarity while reducing chromatic aberration to near zero. The scope employs an advanced reticle etching process accurate to 0.05 microns, creating a multi-function ballistic pattern that enables rapid target engagement from CQB to extended ranges. Its distinctive housing uses a specialized aluminum alloy developed through aerospace engineering, providing exceptional durability while reducing weight by 25% compared to traditional designs. The illumination system incorporates advanced EMLED (Enhanced Military LED) technology that provides 10 daylight and 3 night vision compatible settings while maintaining a 3,000-hour battery life. The scope gained notable recognition in law enforcement circles where its combination of durability and optical performance in urban environments proved particularly effective. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (3x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: SwampFox Optics\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_ncstar_ado">
+		<text>NcSTAR ADO P4 Sniper 3-9x42 Optic</text>
+	</string>
+	<string id="st_addon_scope_ncstar_ado_descr">
+		<text>An NcSTAR ADO P4 scope, introduced in 2017 as a versatile solution for both tactical and precision shooting applications. This variable-power optic employs a sophisticated optical system using multi-coated lenses that provide 92% light transmission while actively reducing glare. The scope features an advanced bullet drop compensator calibrated for multiple calibers, developed through extensive ballistic testing at various ranges and environmental conditions. Its unique internal adjustment system uses precision-ground brass components that provide audible and tactile feedback while maintaining zero even under heavy recoil. The housing incorporates a specialized nitrogen purging process that prevents internal fogging while ensuring waterproof performance to 10 meters. Unlike conventional variables, it features a unique side-parallax adjustment system that maintains accuracy from 10 yards to infinity, particularly useful in urban tactical scenarios. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (3-9x)\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: NcSTAR\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_vulcan">
+		<text>Armasight Vulcan MG 3.5x Bravo NV Scope</text>
+	</string>
+	<string id="st_addon_scope_vulcan_descr">
+		<text>An Armasight Vulcan MG night vision scope, developed in 2014 as a dedicated medium-range night combat optic. This sophisticated device employs a third-generation image intensifier tube with an advanced gallium arsenide photocathode, providing exceptional low-light performance while minimizing blooming from sudden light exposure. The scope features a unique digital gating system that automatically adjusts gain based on target contrast rather than ambient light, ensuring optimal image clarity in varying conditions. Its optical system incorporates specially developed glass with proprietary coatings that enhance infrared transmission while reducing chromatic aberration. The housing is constructed from a carbon-fiber composite that provides superior thermal insulation while reducing weight by 35% compared to traditional materials. The reticle system uses an advanced OLED display that provides multiple patterns optimized for both static and moving targets, while the power management system extends operation to over 60 hours on a single battery. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+		%c[d_cyan] • %c[ui_gray_2] magnified optic (3.5x)\n
+		%c[d_blue] • %c[ui_gray_2] night vision optic\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Armasight\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_razor_mag">
+		<text>Vortex Optics Razor AMG UH-1 w/ Eotech G33 6x Magnifier</text>
+	</string>
+	<string id="st_addon_scope_razor_mag_descr">
+		<text>A hybrid optic system, combining Vortex's UH-1 holographic sight with EOTech's G33 magnifier for enhanced versatility. This sophisticated combination features Vortex's FHQ technology that provides an exceptionally clear holographic sight picture while eliminating stray light emissions. The quick-detach G33 magnifier enables instant transitions between close-quarter and medium-range engagements. The system employs advanced optical coatings developed through military research that provide exceptional clarity while actively reducing thermal signature. Its unique mounting system incorporates specialized shock absorption technology that maintains zero even under extreme recoil, while the EBR-CQB reticle provides both rapid target acquisition and precision aiming capabilities. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] combined magnified optic (1x/6x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: EOTech & Vortex\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_razor">
+		<text>Vortex Optics Razor AMG UH-1 Gen. II Sight</text>
+	</string>
+	<string id="st_addon_scope_razor_descr">
+		<text>A Vortex Razor AMG UH-1 Gen. II holographic sight, introduced in 2020 as Vortex's advanced solution for tactical operations. This sophisticated optic employs the Fusion Holographic System that eliminates stray light emissions while providing an exceptionally clear sight picture. The sight features an advanced EBR-CQB reticle that combines both close-range speed with precision aiming capabilities, while its unique FHQ technology maintains clarity in any lighting condition. The housing is constructed from aircraft-grade aluminum using advanced manufacturing processes that ensure reliability while providing protection against electromagnetic interference. Its power management system offers multiple brightness settings while maintaining battery life through an auto-shutdown feature. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] holographic optic (1x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Vortex\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_exps3">
+		<text>Eotech EXPS3</text>
+	</string>
+	<string id="st_addon_scope_exps3_descr">
+		<text>An EOTech EXPS3 holographic sight, developed as EOTech's premium solution for special operations forces. This advanced optic employs a sophisticated holographic projection system that provides an unparalleled sight picture with zero parallax and unlimited eye relief. The sight features a unique mounting system that provides lower third co-witness while incorporating quick-detach capabilities. Its advanced power management system offers multiple brightness settings optimized for both daylight and night vision operations, while the proprietary holographic technology maintains reticle clarity even with damaged front glass. The housing undergoes a specialized coating process that provides exceptional durability while reducing thermal signature. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] holographic optic (1x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: EOTech\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_he510">
+		<text>Holosun HE510C Sight</text>
+	</string>
+	<string id="st_addon_scope_he510_descr">
+		<text>A Holosun HE510C reflex sight, introduced in 2017 as Holosun's innovative solution for modern tactical applications. This advanced optic features unique Multi-Reticle System technology that provides three reticle options while incorporating Solar Failsafe backup power. The sight employs a sophisticated LED system that offers up to 50,000 hours of operation while providing both daylight and night vision compatible settings. Its housing is constructed from titanium using advanced manufacturing processes that ensure durability while reducing weight by 40% compared to traditional materials. The optic incorporates Shake Awake technology that automatically activates upon movement while preserving battery life during periods of inactivity. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Holosun\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_bravo4">
+		<text>SIG Sauer BRAVO4 Scope</text>
+	</string>
+	<string id="st_addon_scope_bravo4_descr">
+		<text>A SIG Sauer BRAVO4 battle sight, developed in 2015 as SIG's advanced solution for squad-level optics. This sophisticated scope features a unique prismatic optical system that provides exceptional light transmission while maintaining a compact profile. The sight employs specially developed glass with SPECTRACOAT anti-reflection coatings that virtually eliminate glare while providing clarity in any lighting condition. Its distinctive housing uses advanced aluminum alloy construction that provides exceptional durability while incorporating an integrated mounting system. The scope features an illuminated horseshoe-dot reticle powered by a fiber-optic/tritium combination that ensures visibility without batteries, while maintaining effectiveness from CQB to medium range engagements. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Germany\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: SIG Sauer\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_hamr">
+		<text>Leupold Mark 4 HAMR Scope</text>
+	</string>
+	<string id="st_addon_scope_hamr_descr">
+		<text>A Leupold Mark 4 HAMR (High Accuracy Multi-Range) scope, introduced in 2011 as Leupold's advanced solution for combat optics. This sophisticated sight employs a prismatic optical system that provides exceptional clarity while maintaining a compact profile crucial for tactical operations. The scope features Leupold's advanced CM-R2 reticle that enables both rapid target acquisition and precise shot placement, while its proprietary lens coatings provide industry-leading light transmission. The housing is machined from a single block of aircraft-grade aluminum and undergoes Leupold's Punisher testing program, ensuring reliability in extreme conditions. Its unique design incorporates a secondary DeltaPoint mounting location, enabling seamless transition between different engagement ranges. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Leupold\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_razorhd">
+		<text>Vortex Optics Razor HD Gen II Scope</text>
+	</string>
+	<string id="st_addon_scope_razorhd_descr">
+		<text>A Vortex Razor HD Gen II scope, introduced in 2015 as Vortex's flagship variable-power combat optic. This sophisticated sight features an advanced optical system using HD glass that virtually eliminates chromatic aberration while providing exceptional clarity throughout its magnification range. The scope employs a unique L-TEC turret system that provides precise adjustments while preventing unintended changes during high-stress situations. Its housing is machined from a single block of aircraft-grade aluminum and undergoes rigorous testing to ensure reliability in extreme conditions. The scope's illumination system offers eleven brightness settings while providing true daylight visibility and maintaining a 150-hour battery life at maximum setting. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (1-6x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Vortex\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_devo">
+		<text>Leupold D-EVO Offset Optic w/ LCO Red Dot Sight</text>
+	</string>
+	<string id="st_addon_scope_devo_descr">
+		<text>A Leupold D-EVO (Dual-Enhanced View Optic) system, developed in 2015 as an innovative solution for simultaneous close and medium-range engagement capabilities. This revolutionary design employs a unique periscope-style optical path that enables instant transition between 1x and 6x magnification without head movement. The system combines Leupold's advanced CMR-W reticle for precision engagement with the LCO's rapid target acquisition capabilities. Its sophisticated optical design uses specially developed glass that provides exceptional clarity while maintaining a compact profile. The housing incorporates advanced shock absorption technology that maintains zero even under extreme conditions, while the illumination system provides both daylight and low-light capabilities. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (1x/6x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Leupold\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_side">
+		<text>Winchester Side Mount Scope</text>
+	</string>
+	<string id="st_addon_scope_side_descr">
+		<text>A Winchester side mount scope, developed as a specialized solution for lever-action rifles. This unique optic features an offset mounting system that enables use of iron sights while maintaining scope availability for longer-range engagements. The scope employs traditionally-ground glass elements that provide exceptional clarity while maintaining the classic aesthetics of lever-action platforms. Its robust housing is machined from solid steel using period-correct manufacturing techniques that ensure both reliability and historical authenticity. The sight's unique mounting system maintains zero while providing quick detachment capabilities, crucial for its intended role on traditional hunting rifles. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Winchester\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_romeo">
+		<text>Sig Sauer ROMEO4 Red Dot Sight</text>
+	</string>
+	<string id="st_addon_scope_romeo_descr">
+		<text>A SIG Sauer ROMEO4 reflex sight, launched in 2015 as part of SIG's expansion into advanced electro-optics. This sophisticated sight incorporates MOTAC (Motion Activated Illumination) technology that extends battery life to over 50,000 hours while providing instant-on capability when movement is detected. The optical system employs specially developed glass manufactured using SIG's proprietary SpectraCoat process, providing exceptional light transmission while actively reducing blue light scatter. The housing is constructed from aircraft-grade aluminum using advanced manufacturing processes that ensure reliability in extreme conditions. The sight gained particular recognition in military testing where its durability and optical clarity proved exceptional. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Germany\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: SIG Sauer\n
+		</text>
+	</string>
+
+	<string id="st_cortex_scope">
+		<text>Cortex Optic LPVO Scope</text>
+	</string>
+	<string id="st_cortex_scope_desc">
+		<text>A Cortex Optic LPVO, developed through collaboration between various Russian optical manufacturers as an advanced solution for modern combat operations. This sophisticated sight features a unique optical system that provides exceptional clarity throughout its broad magnification range while maintaining true 1x performance at its lowest setting. The scope employs specially developed ED glass elements that virtually eliminate chromatic aberration while providing superior light transmission. Its distinctive housing incorporates advanced environmental sealing that ensures reliability in extreme conditions, while the illumination system offers both daylight and low-light capabilities. The scope's reticle system provides both rapid target acquisition and precision engagement features while maintaining zero under heavy recoil. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (1-12x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_cmore">
+		<text>C-MORE Tactical Sight</text>
+	</string>
+	<string id="st_addon_scope_cmore_descr">
+		<text>A C-MORE tactical sight, developed as an advanced solution for competitive shooting and tactical applications. This innovative optic features a unique heads-up display system that provides an exceptionally wide field of view while maintaining a crisp, parallax-free reticle. The sight employs specially developed lens coatings that provide excellent light transmission while reducing glare in bright conditions. Its housing is constructed from aircraft-grade aluminum using precision manufacturing processes that ensure reliability while maintaining minimal weight. The sight's advanced electronic system provides multiple brightness settings while incorporating an auto-adjustment feature that optimizes reticle intensity based on ambient light conditions. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: C-More Systems\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_zf4">
+		<text>ZF-4 Scope</text>
+	</string>
+	<string id="st_addon_scope_zf4_descr">
+		<text>A ZF-4 scope, developed in the 1930s as Germany's standard optical sight for precision rifles. This historical optic features a robust optical system that provides exceptional clarity through traditionally-ground German glass elements. The scope employs a unique internal adjustment system that maintains zero even under heavy recoil, while its distinctive turret design provides precise adjustments for both elevation and windage. The housing is constructed from solid steel using period-correct manufacturing techniques that ensure both reliability and historical authenticity. The scope's reticle system incorporates both range estimation and bullet drop compensation capabilities, advanced features for its era. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Germany\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Germany\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kp_sr2">
+		<text>KP-SR2 Reflex Sight</text>
+	</string>
+	<string id="st_addon_scope_kp_sr2_descr">
+		<text>A KP-SR2 reflex sight, developed specifically for the SR-2M Veresk submachine gun as an integral part of its combat system. This specialized optic features a unique low-profile design that maintains the compact nature of the weapon while providing rapid target acquisition capabilities. The sight employs a sophisticated dual-illumination system that combines fiber optics with battery power, ensuring reticle visibility in any lighting condition. Its housing is machined from aluminum alloy using precision manufacturing processes that ensure perfect alignment with the SR-2M's unique mounting system. The sight's reticle pattern was specifically developed for the ballistic characteristics of the 9x21mm cartridge, optimizing performance with its intended platform. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n \n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] SR-2M Veresk\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_gee36">
+		<text>G36 Integrated Scope</text>
+	</string>
+	<string id="st_addon_scope_gee36_descr">
+		<text>A G36 integrated optical sight, developed by Hensoldt as part of the G36 weapon system in 1997. This unique dual-sight system combines a 3x telescopic scope with an integrated red dot sight, providing versatility for various engagement ranges. The optic employs specially developed fiber optic illumination that provides a bright reticle without requiring batteries, while its optical elements are coated with Hensoldt's proprietary anti-reflection treatment. The housing is permanently integrated into the weapon's carry handle, providing exceptional durability while maintaining perfect zero. The scope's distinctive reticle pattern incorporates both close-range rapid acquisition capabilities and precision ranging features optimized for the 5.56mm cartridge. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (3x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Germany\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: H&K\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_t12">
+		<text>Torrey Pines Logic T12W 30Hz Thermal Reflex Sight</text>
+	</string>
+	<string id="st_addon_scope_t12_descr">
+		<text>A Torrey Pines T12W thermal sight, developed in 2016 as an innovative solution for tactical thermal imaging. This advanced optic employs a high-resolution thermal sensor with a 30Hz refresh rate that provides smooth target tracking while maintaining exceptional clarity in any environmental condition. The sight features sophisticated image processing algorithms that automatically optimize contrast and detail, while its unique optical system provides a wide field of view crucial for situational awareness. The housing is constructed from lightweight composite materials that provide durability while incorporating specialized electromagnetic shielding. The sight's power management system enables up to 8 hours of continuous operation while featuring multiple operating modes for various tactical scenarios. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+       %c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+       %c[d_blue] • %c[ui_gray_2] thermal imaging optic\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Torrey Pines Logic\n
+		</text>
+	</string>
+
+	<!-- KITS -->
+
+	<string id="st_addon_scope_trijicon_rmr">
+		<text>Trijicon-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_trijicon_rmr_descr">
+		<text>A Trijicon combat optic kit, combining the renowned ACOG BAC sight with a canted red dot for maximum versatility. The primary ACOG sight employs advanced BAC (Bindon Aiming Concept) technology that enables both-eyes-open shooting while providing bullet drop compensation for 5.56mm ammunition. The complementary canted red dot sight offers instantaneous target acquisition for close-quarter engagements. This sophisticated combination gained widespread adoption among special operations units for its ability to seamlessly transition between varied engagement distances. The kit incorporates proprietary mounting solutions that maintain zero for both sights even under extreme conditions. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+        %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_mark8_rmr">
+		<text>Mark 8-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_mark8_rmr_descr">
+		<text>A Leupold Mark 8 CQBSS combat optic kit, featuring the flagship Mark 8 scope paired with a canted red dot sight for enhanced versatility. The primary Mark 8 scope employs advanced Edge HD lenses that provide exceptional clarity throughout its magnification range, while the complementary red dot enables instantaneous short-range target acquisition. This combination features Leupold's proprietary electronic systems that provide illumination for both sights while maintaining exceptional battery life. The kit incorporates a sophisticated mounting solution that ensures both sights maintain zero even under extreme recoil conditions. The system gained particular recognition in U.S. special operations where its ability to transition between varied engagement distances proved invaluable. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
+        %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: Leupold\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_spec_alt">
+		<text>SpecterDR-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_spec_alt_descr">
+		<text>An ELCAN SpecterDR combat optic kit, combining the sophisticated DFOV14-C2 dual-role optic with a canted red dot sight for maximum tactical flexibility. The primary SpecterDR sight features an innovative switch-lever system that instantly changes between 1x and 4x magnification while maintaining zero, while the canted red dot provides an alternative sighting solution for close-quarter engagements. The kit employs advanced optical coatings developed through military research that provide exceptional clarity in any lighting condition. Its unique mounting system incorporates specialized shock absorption technology that maintains zero for both sights even under sustained automatic fire. The combination gained widespread adoption among NATO special forces for its unmatched versatility in varied combat scenarios. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (1x/4x)\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Canada\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: ELCAN\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kashtan_rmr">
+		<text>Kashtan-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_kashtan_rmr_descr">
+		<text>A Tochpribor combat optic kit, combining the rugged 1P78 Kashtan scope with a canted red dot sight for enhanced versatility. The primary Kashtan scope features a unique dual-illumination system that combines fiber optics with tritium illumination, ensuring reticle visibility without batteries. The complementary red dot provides rapid target acquisition for close-quarter engagements. This sophisticated combination incorporates specialized shock absorption technology that maintains zero for both sights even under extreme conditions. The kit gained recognition during Russian military trials where its ability to perform in varied combat scenarios proved exceptional. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (2.8x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Factory\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_psicho_rmr">
+		<text>PSO-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_psicho_rmr_descr">
+		<text>A BelOMO combat optic kit, featuring the proven PSO-1М2-1 scope paired with a canted red dot sight for maximum combat flexibility. The primary PSO scope employs an advanced optical system with calibrated rangefinding capabilities, while the canted red dot provides instantaneous target acquisition at close range. This combination features specialized mounting solutions that maintain zero for both sights even under heavy recoil. The kit's unique design allows for seamless transition between different engagement ranges while incorporating tritium illumination for low-light operation. The system gained widespread adoption among Eastern European forces for its exceptional versatility in varied combat scenarios. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Belarus\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: BelOMO\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_march_f_shorty_alt">
+		<text>March F Shorty-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_march_f_shorty_alt_descr">
+		<text>A DEON Optical combat optic kit, combining the versatile March F Shorty LPVO with a canted red dot sight for unmatched tactical flexibility. The primary scope features an advanced optical system that provides true 1x to 8x magnification, while the complementary red dot ensures instantaneous target acquisition even if the primary optic fails. This sophisticated combination incorporates specialized mounting solutions that maintain zero for both sights while providing rapid transition between different engagement distances. The kit gained particular recognition among professional users where its combination of precision and speed proved invaluable. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Japan\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: DEON Optical Design\n
+		</text>
+	</string>
+
+</string_table>
