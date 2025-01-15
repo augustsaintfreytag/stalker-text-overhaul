@@ -708,6 +708,22 @@
 		</text>
 	</string>
 
+	<!-- LASERS -->
+
+	<string id="st_addon_scope_lazup_generic">
+		<text>Laser Aim Module</text>
+	</string>
+	<string id="st_addon_scope_lazup_generic_descr">
+		<text>A universal laser aiming module, developed as a versatile solution for modern tactical operations. This advanced device features a high-intensity laser system that provides both visible and IR aiming capabilities, making it compatible with night vision devices. The module employs sophisticated power regulation that maintains consistent beam strength while providing extended battery life. Its housing is constructed from aircraft-grade aluminum using precision manufacturing processes that ensure perfect zero retention even under heavy recoil. The mount incorporates a universal picatinny interface that enables compatibility with a wide range of modern weapon systems while maintaining rock-solid stability. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+        %c[d_cyan] • %c[ui_gray_2] laser aiming module\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+        %c[ui_gray_3]COMPATIBILITY:\n
+        %c[d_cyan] • %c[ui_gray_2] Firearms with picatinny or compatible rail\n
+		</text>
+	</string>
+
 	<!-- KITS -->
 
 	<string id="st_addon_scope_trijicon_rmr">
@@ -785,6 +801,18 @@
        %c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
        %c[d_cyan] • %c[ui_gray_2] origin: Japan\n
        %c[d_cyan] • %c[ui_gray_2] manufacturer: DEON Optical Design\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_sup_new">
+		<text>S.U.P. Special Upgrade Pack</text>
+	</string>
+	<string id="st_addon_scope_sup_new_descr">
+		<text>An imported Special Upgrade Pack (S.U.P.), a comprehensive solution for wide-range weapon modification and enhancement. This sophisticated kit contains a carefully curated selection of precision tools, specialized mounting hardware, and various optical systems ranging from red dot sights to advanced variable-power scopes. The package includes proprietary mounting solutions developed through extensive field testing in the Zone, ensuring compatibility with many Western and Eastern weapon platforms. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] universal compatibility\n
+	   %c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
 		</text>
 	</string>
 

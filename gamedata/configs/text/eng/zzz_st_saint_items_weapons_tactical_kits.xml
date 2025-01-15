@@ -1,9 +1,117 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 
-	<!--
-		TACTICAL KITS
-	-->
+	<!-- KITS -->
+
+	<string id="st_addon_scope_trijicon_rmr">
+		<text>Trijicon-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_trijicon_rmr_descr">
+		<text>A Trijicon combat optic kit, combining the renowned ACOG BAC sight with a canted red dot for maximum versatility. The primary ACOG sight employs advanced BAC (Bindon Aiming Concept) technology that enables both-eyes-open shooting while providing bullet drop compensation for 5.56mm ammunition. The complementary canted red dot sight offers instantaneous target acquisition for close-quarter engagements. This sophisticated combination gained widespread adoption among special operations units for its ability to seamlessly transition between varied engagement distances. The kit incorporates proprietary mounting solutions that maintain zero for both sights even under extreme conditions. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+        %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_mark8_rmr">
+		<text>Mark 8-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_mark8_rmr_descr">
+		<text>A Leupold Mark 8 CQBSS combat optic kit, featuring the flagship Mark 8 scope paired with a canted red dot sight for enhanced versatility. The primary Mark 8 scope employs advanced Edge HD lenses that provide exceptional clarity throughout its magnification range, while the complementary red dot enables instantaneous short-range target acquisition. This combination features Leupold's proprietary electronic systems that provide illumination for both sights while maintaining exceptional battery life. The kit incorporates a sophisticated mounting solution that ensures both sights maintain zero even under extreme recoil conditions. The system gained particular recognition in U.S. special operations where its ability to transition between varied engagement distances proved invaluable. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
+        %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: Leupold\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_spec_alt">
+		<text>SpecterDR-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_spec_alt_descr">
+		<text>An ELCAN SpecterDR combat optic kit, combining the sophisticated DFOV14-C2 dual-role optic with a canted red dot sight for maximum tactical flexibility. The primary SpecterDR sight features an innovative switch-lever system that instantly changes between 1x and 4x magnification while maintaining zero, while the canted red dot provides an alternative sighting solution for close-quarter engagements. The kit employs advanced optical coatings developed through military research that provide exceptional clarity in any lighting condition. Its unique mounting system incorporates specialized shock absorption technology that maintains zero for both sights even under sustained automatic fire. The combination gained widespread adoption among NATO special forces for its unmatched versatility in varied combat scenarios. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] magnified optic (1x/4x)\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Canada\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: ELCAN\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kashtan_rmr">
+		<text>Kashtan-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_kashtan_rmr_descr">
+		<text>A Tochpribor combat optic kit, combining the rugged 1P78 Kashtan scope with a canted red dot sight for enhanced versatility. The primary Kashtan scope features a unique dual-illumination system that combines fiber optics with tritium illumination, ensuring reticle visibility without batteries. The complementary red dot provides rapid target acquisition for close-quarter engagements. This sophisticated combination incorporates specialized shock absorption technology that maintains zero for both sights even under extreme conditions. The kit gained recognition during Russian military trials where its ability to perform in varied combat scenarios proved exceptional. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (2.8x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Factory\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_psicho_rmr">
+		<text>PSO-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_psicho_rmr_descr">
+		<text>A BelOMO combat optic kit, featuring the proven PSO-1М2-1 scope paired with a canted red dot sight for maximum combat flexibility. The primary PSO scope employs an advanced optical system with calibrated rangefinding capabilities, while the canted red dot provides instantaneous target acquisition at close range. This combination features specialized mounting solutions that maintain zero for both sights even under heavy recoil. The kit's unique design allows for seamless transition between different engagement ranges while incorporating tritium illumination for low-light operation. The system gained widespread adoption among Eastern European forces for its exceptional versatility in varied combat scenarios. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Belarus\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: BelOMO\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_march_f_shorty_alt">
+		<text>March F Shorty-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_march_f_shorty_alt_descr">
+		<text>A DEON Optical combat optic kit, combining the versatile March F Shorty LPVO with a canted red dot sight for unmatched tactical flexibility. The primary scope features an advanced optical system that provides true 1x to 8x magnification, while the complementary red dot ensures instantaneous target acquisition even if the primary optic fails. This sophisticated combination incorporates specialized mounting solutions that maintain zero for both sights while providing rapid transition between different engagement distances. The kit gained particular recognition among professional users where its combination of precision and speed proved invaluable. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Japan\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: DEON Optical Design\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_sup_new">
+		<text>S.U.P. Special Upgrade Pack</text>
+	</string>
+	<string id="st_addon_scope_sup_new_descr">
+		<text>An imported Special Upgrade Pack (S.U.P.), a comprehensive solution for wide-range weapon modification and enhancement. This sophisticated kit contains a carefully curated selection of precision tools, specialized mounting hardware, and various optical systems ranging from red dot sights to advanced variable-power scopes. The package includes proprietary mounting solutions developed through extensive field testing in the Zone, ensuring compatibility with many Western and Eastern weapon platforms. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] universal compatibility\n
+	   %c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+		</text>
+	</string>
+
+	<!-- KITS (BAS) -->
+
+	<string id="st_addon_scope_mono_kit">
+		<text>AK-12 Mono Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_mono_kit_descr">
+		<text>A comprehensive tactical modification kit, assembled specifically for the Monolith variant of the AK-12 platform. This sophisticated package combines carefully selected components that enhance both the weapon's combat capabilities and versatility. The kit features a Trijicon ACOG optic providing reliable target acquisition at varied ranges, while the AN/PEQ-16 illuminator enables effective night operations. The included 30mm grenade launcher significantly increases firepower, and the 60-round drum magazine extends sustained fire capability. Each component has been specifically chosen and tested to ensure perfect integration with the AK-12's advanced design, while maintaining the reliability expected from Monolith operators in the Zone. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] 30mm under-barrel grenade launcher\n
+       %c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n
+       %c[d_cyan] • %c[ui_gray_2] TNVC AN/PEQ-16 LAM illumination module\n
+       %c[d_cyan] • %c[ui_gray_2] 60-round drum magazine\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] АК-12 "Monolith"\n
+		</text>
+	</string>
 
 	<string id="st_addon_scope_mono_kit">
 		<text>Tactical Kit (AK-12 Mono)</text>
@@ -38,7 +146,7 @@
 		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n \n
 		</text>
 	</string>
-	
+
 	<string id="st_addon_scope_kit_fal_leup">
 		<text>Tactical Kit (AUS MX Leup)</text>
 	</string>
@@ -56,7 +164,7 @@
 		%c[ui_gray_3]COMPATIBILITY:\n
 		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n \n
 		</text>
-	</string>	
+	</string>
 
 	<string id="st_addon_scope_kit_sa5x_spec">
 		<text>Tactical Kit (AUS SPEC)</text>
@@ -306,7 +414,7 @@
 		%c[ui_gray_3]COMPATIBILITY:\n
 		%c[d_cyan] • %c[ui_gray_2] SR-2M Veresk\n \n
 		</text>
-	</string>	
+	</string>
 
 	<string id="st_addon_scope_5c_tik">
 		<text>Tactical Kit (AK-5C Tik)</text>
