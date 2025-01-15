@@ -6,12 +6,12 @@
 		<text>PSO-1M Scope</text>
 	</string>
 	<string id="st_addon_scope_descr">
-		<text>A PSO-1M scope designed for precision shooting. This optic offers a magnification of 4.0x, allowing for accurate target acquisition at medium to long ranges. The scope features a rangefinder reticle and an illuminated red chevron, enhancing visibility in low-light conditions. Constructed from durable aluminum alloy, it is both lightweight and rugged. Manufactured by NPZ Optics State Plant in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics State Plant\n
+		<text>A PSO-1M scope, developed in 1963 as the Soviet Union's primary marksman optic. This robust sight features an advanced rangefinding reticle system specifically calibrated for 7.62x54mmR ballistics, with chevrons enabling accurate engagement out to 1000 meters. The scope's unique reticle illumination uses a tritium-powered element that provides reliable aiming capability without batteries, while its sophisticated optical system employs specially developed glass that maintains clarity in extreme temperatures. The housing incorporates an adjustable focus eyepiece and a proprietary mounting system that maintains zero even under harsh conditions. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics State Plant\n
 		</text>
 	</string>
 
@@ -19,12 +19,12 @@
 		<text>1P29 Tulip Scope</text>
 	</string>
 	<string id="st_addon_scope_1p29_descr">
-		<text>A 1P29 Tulip scope designed for the AK family of rifles. This optic provides a 4.0x magnification, allowing for improved target identification and engagement at range. It features a unique bullet drop compensator and a wide field of view, enhancing accuracy and situational awareness. Made from rugged materials, it withstands harsh conditions. Originally manufactured in the Soviet Union. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Soviet Union\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: Soviet Union\n
+		<text>A 1P29 "Tulip" scope, introduced in 1983 as a modernized combat optic for Soviet forces. This distinctive sight combines a primary 4x magnification channel with an innovative supplementary collimator system for rapid target acquisition. The scope features a sophisticated bullet drop compensator calibrated for 5.45x39mm ammunition, while its unique mount design incorporates recoil-absorbing elements that maintain zero under sustained fire. Its optical system employs specially developed glass that provides exceptional light transmission while reducing chromatic aberration, particularly useful in low-light conditions. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Soviet Union\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: Soviet Union\n
 		</text>
 	</string>
 
@@ -32,12 +32,12 @@
 		<text>Barska Electro Sight</text>
 	</string>
 	<string id="st_addon_scope_ac10632_descr">
-		<text>A Barska Electro Sight designed for rapid target acquisition. This red dot optic offers a 1.0x magnification, providing an unlimited field of view and parallax-free aiming. The illuminated reticle can be adjusted for brightness, enhancing visibility in various lighting conditions. Constructed from high-quality aluminum, it is lightweight and durable. Manufactured by Barska in the United States. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: Barska\n
+		<text>A Barska Electro Sight, developed in 2008 as a cost-effective solution for modern sporting rifles. This compact optic features an illuminated 2 MOA red dot reticle with multiple brightness settings, allowing for rapid target acquisition in varying light conditions. The sight employs a sophisticated multicoating process that provides clear sight picture while reducing glare, and its housing is constructed from aircraft-grade aluminum that maintains zero even under heavy recoil. The integrated mount system is compatible with both Weaver and Picatinny rails, while the sealed design ensures reliable operation in adverse weather. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: Barska\n
 		</text>
 	</string>
 
@@ -45,12 +45,12 @@
 		<text>ACOG 4.0x Scope</text>
 	</string>
 	<string id="st_addon_scope_acog_descr">
-		<text>An ACOG scope with 4.0x magnification, designed for tactical shooting. This optic provides clear, fixed magnification with an illuminated reticle that enhances target acquisition in low-light environments. The rugged design ensures durability under combat conditions. Made from aircraft-grade aluminum, it is both lightweight and strong. Manufactured by Trijicon in the United States. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
+		<text>A Trijicon ACOG (Advanced Combat Optical Gunsight), introduced in 1987 as a revolutionary combat optic that changed modern warfare. This rugged sight employs an innovative fiber optic illumination system that automatically adjusts reticle brightness to ambient light conditions, while a tritium element provides low-light capability without batteries. The scope's unique BAC (Bindon Aiming Concept) design allows for both-eyes-open shooting, while its advanced optical system provides exceptional clarity and a generous eye relief. The housing is machined from aircraft-grade aluminum and has proven its reliability through extensive use in military operations worldwide, while its bullet drop compensator system enables accurate engagement out to 800 meters. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
 		</text>
 	</string>
 
@@ -58,12 +58,12 @@
 		<text>EOTech 553 Sight</text>
 	</string>
 	<string id="st_addon_scope_eotech_descr">
-		<text>An EOTech 553 holographic sight, designed for quick target acquisition. It offers a 1.0x magnification with a large field of view, allowing for rapid aiming and tracking. The sight features multiple brightness settings for the reticle, suitable for various lighting conditions. Constructed from durable materials, it is both shockproof and waterproof. Manufactured by EOTech in the United States. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] holographic optic (1x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: EOTech\n
+		<text>An EOTech 553 holographic sight, developed in 2004 as a military-grade solution for close-quarters combat. This sophisticated optic employs advanced holographic technology that projects a unique 68 MOA ring with 1 MOA center dot, enabling both rapid target acquisition and precise shot placement. The sight features a proprietary anti-glare coating that reduces signature while maintaining clarity, and its rugged housing is designed to withstand submersion up to 33 feet. The advanced electronics provide 20 brightness settings including night vision compatibility, while the unique mounting system maintains zero even after repeated removal and installation. The sight gained widespread adoption among special operations forces worldwide for its durability and performance in extreme conditions. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] holographic optic (1x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: EOTech\n
 		</text>
 	</string>
 
@@ -71,12 +71,12 @@
 		<text>Galil 4.0x SUSAT Scope</text>
 	</string>
 	<string id="st_addon_scope_galil_susat_descr">
-		<text>A SUSAT scope for the Galil rifle, providing 4.0x magnification for enhanced accuracy at range. This optic features a tritium-illuminated reticle, ensuring visibility in low-light conditions. The rugged design includes a shock-resistant housing and high-quality lenses. Manufactured by Israel Military Industries. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: israel\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: Israel Military Industries\n
+		<text>A Galil SUSAT scope, developed in 1975 as Israel's dedicated solution for combat optics in desert environments. This robust sight features a unique prismatic optical system that provides exceptional clarity while significantly reducing overall length compared to traditional designs. The scope incorporates an advanced elevation drum calibrated specifically for 5.56x45mm ballistics, while its distinctive squared housing includes special baffles that minimize glare in bright desert conditions. The optical system employs specially developed glass that resists scratching from sand particles, while maintaining clarity in extreme temperature variations common to Middle Eastern operations. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Israel\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: Israel Military Industries\n
 		</text>
 	</string>
 
@@ -84,12 +84,12 @@
 		<text>Kobra EKP 1S-03 Sight</text>
 	</string>
 	<string id="st_addon_scope_kobra_descr">
-		<text>A Kobra EKP 1S-03 red dot sight designed for rapid target acquisition. This optic offers a 1.0x magnification with an adjustable reticle brightness for various lighting conditions. It features a lightweight and durable construction with a quick-detach mount for easy installation. Manufactured by Axion in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: Axion\n
+		<text>A Kobra EKP-1S-03 sight, introduced in 1995 as Russia's answer to Western red dot optics. This distinctive sight features a unique weaver-style mount developed specifically for AK-pattern rifles, providing lower bore axis alignment than traditional designs. The optic employs an advanced reticle system offering four switchable patterns, while its sophisticated electronics maintain point of aim even in temperatures ranging from -50 to +50 degrees Celsius. The housing uses a specialized shock-absorbing system that protects internal components during the harsh recoil characteristic of Russian calibers, while its unique power system provides over 3,000 hours of operation on a single battery. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] reflex optic (1x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: Axion\n
 		</text>
 	</string>
 
@@ -97,12 +97,12 @@
 		<text>PO4x34 Scope</text>
 	</string>
 	<string id="st_addon_scope_po4x34_descr">
-		<text>A PO4x34 scope designed for precision shooting. This optic offers a 4.0x magnification, enhancing target acquisition at medium to long ranges. The scope features a rangefinder reticle and is built from durable materials to withstand harsh conditions. Manufactured by TsKIB SOO in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: TsKIB SOO\n
+		<text>A PO4x34 scope, created in 1989 by TsKIB SOO as a specialized optic for Soviet designated marksmen. This sight features an innovative optical system that employs a series of calcium fluoride lenses, providing exceptional clarity in extreme temperature conditions. The scope's unique rangefinding reticle incorporates both stadiametric ranging and bullet drop compensation, calibrated specifically for the ballistics of 5.45x39mm and 7.62x39mm ammunition at various altitudes. Its housing uses a proprietary shock absorption system with titanium buffer springs that maintain zero even under sustained automatic fire, while its sophisticated internal adjustment mechanism automatically compensates for atmospheric pressure changes. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: TsKIB SOO\n
 		</text>
 	</string>
 
@@ -110,12 +110,12 @@
 		<text>PSO-1M2-1 Scope</text>
 	</string>
 	<string id="st_addon_scope_pso-1m2-01_descr">
-		<text>A PSO-1M2-1 scope designed for precision marksmen. This optic provides a 4.0x magnification, ideal for long-range engagements. The illuminated reticle features a rangefinder for accurate distance estimation. Constructed from high-strength aluminum, it is both lightweight and durable. Manufactured by NPZ Optics State Plant in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics State Plant\n
+		<text>A PSO-1M2-1 scope, developed in 1992 as a modernized version of the venerable PSO-1 series. This advanced optic features an improved rangefinding reticle with enhanced tritium illumination, providing reliable target acquisition in low-light conditions without requiring batteries. The scope incorporates a sophisticated bullet drop compensator system calibrated for modern 5.45x39mm ammunition, while its optical system uses specially developed glass that reduces chromatic aberration while maintaining clarity in extreme temperatures. The housing features an enhanced sealing system that provides true waterproof performance while preventing internal fogging, and its mounting system incorporates additional recoil absorption elements. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Optics State Plant\n
 		</text>
 	</string>
 
@@ -123,12 +123,12 @@
 		<text>PU Scope</text>
 	</string>
 	<string id="st_addon_scope_pu_descr">
-		<text>A PU scope designed for precision shooting, offering a 3.5x magnification. This optic is known for its clear glass and simple reticle, providing reliable performance in various conditions. The rugged construction ensures durability. Originally manufactured in the Soviet Union for sniper rifles. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (3.5x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Soviet Union\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: Soviet Union\n
+		<text>A PU scope, introduced in 1942 as the Soviet Union's primary sniper optic during World War II. This historic sight features a remarkably robust optical system that proved its reliability in the harshest combat conditions imaginable, from the frozen streets of Stalingrad to the muddy forests of Belarus. The scope employs a unique internal adjustment system that provides precise zeroing while maintaining accuracy through extreme temperature variations, and its simplified reticle design enables quick target acquisition even in poor visibility. The housing is machined from high-grade steel that earned a legendary reputation for durability, while its mounting system became the standard for Soviet precision rifles for decades to follow. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] magnified optic (3.5x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Soviet Union\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: Soviet Union\n
 		</text>
 	</string>
 
@@ -136,12 +136,12 @@
 		<text>ZF-4 Scope</text>
 	</string>
 	<string id="st_addon_scope_zf4_descr">
-		<text>A ZF-4 scope offering a 2.0x magnification, used primarily during World War II. This optic features a simple crosshair reticle and was known for its reliability and ease of use. The durable construction made it a preferred choice for military applications. Manufactured by Nazi Germany. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (2x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: germany\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: nazi germany\n
+		<text>A ZF-4 scope, developed in 1942 as a standard optical sight for German military rifles. This historical optic features precision-ground glass elements that provided remarkable clarity for its era, while its robust steel housing demonstrated exceptional durability in field conditions. The scope employs a unique internal adjustment system that maintains zero even under heavy recoil, and its simplified reticle pattern enables quick target acquisition at medium ranges. The mounting system uses oversized steel rings that proved particularly reliable during sustained combat operations, while the optical coatings resist fogging in varying weather conditions. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] magnified optic (2x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Germany\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: Nazi Germany\n
 		</text>
 	</string>
 
@@ -149,12 +149,12 @@
 		<text>C-MORE Tactical Sight</text>
 	</string>
 	<string id="st_addon_scope_cmore_descr">
-		<text>A C-MORE tactical sight designed for rapid target acquisition. This red dot optic provides a clear, parallax-free reticle with adjustable brightness settings. Constructed from high-quality materials, it is lightweight and durable, suitable for various tactical applications. Manufactured by C-More Systems in the United States. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] reflex optic\n
-		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: C-More Systems\n
+		<text>A C-MORE Tactical sight, introduced in 1993 as an innovative solution for competition shooting that found widespread military and law enforcement adoption. This advanced optic features a unique heads-up display system with a massive field of view, while its proprietary reticle projection system provides exceptional clarity regardless of lighting conditions. The housing incorporates aircraft-grade aluminum construction with specialized protective ridges that prevent damage to the optical window, and its electronic system provides over 300 hours of operation while offering multiple brightness settings. The mount includes a built-in elevation adjustment that enables precise zeroing without special tools. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] reflex optic\n
+    %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: C-More Systems\n
 		</text>
 	</string>
 
@@ -162,12 +162,12 @@
 		<text>AC11090 Red Dot</text>
 	</string>
 	<string id="st_addon_scope_ac11090_descr">
-		<text>An AC11090 red dot sight designed for quick target acquisition. This optic provides a 2.0x magnification, featuring an illuminated reticle with adjustable brightness levels. Constructed from durable aluminum, it is lightweight and rugged. Manufactured by Barska in the United States. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (2x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: Barska\n
+		<text>A Barska AC11090 sight, developed in 2010 as a compact solution for modern sporting rifles. This versatile optic combines a 2x magnification with an illuminated reticle system, providing both rapid target acquisition and precision aiming capability. The sight employs multi-coated lenses that offer impressive light transmission while reducing glare, and its sealed housing provides fogproof and waterproof performance in adverse conditions. The mount system is compatible with both Weaver and Picatinny rails, while the electronic system offers multiple brightness settings for various lighting conditions. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] magnified optic (2x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: Barska\n
 		</text>
 	</string>
 
@@ -175,12 +175,13 @@
 		<text>.45 ACP Suppressor</text>
 	</string>
 	<string id="st_addon_sil_45_descr">
-		<text>A .45 ACP suppressor designed to reduce muzzle flash and sound signature. This attachment is made from high-grade aluminum and stainless steel, ensuring durability and corrosion resistance. The suppressor is easy to attach and detach, making it suitable for tactical and covert operations. Manufactured in the United States. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: .45\n
+		<text>A .45 ACP suppressor, designed specifically for the subsonic velocities common to this powerful pistol cartridge. This sophisticated device employs a series of precisely machined baffles that effectively reduce sound signature while minimizing point of impact shift. The suppressor's housing is constructed from heat-treated stainless steel that provides exceptional durability while resisting carbon buildup, and its advanced mounting system ensures consistent accuracy through repeated attachment cycles. The internal geometry is optimized specifically for .45 ACP's pressure curve, providing maximum sound reduction while maintaining reliability. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: .45 ACP\n
 		</text>
 	</string>
 
@@ -188,12 +189,13 @@
 		<text>5.7x28 Suppressor</text>
 	</string>
 	<string id="st_addon_sil_57_descr">
-		<text>A 5.7x28 suppressor designed for reducing muzzle flash and sound. Constructed from high-grade materials, it provides durability and effective sound suppression. The compact design allows for easy attachment and maneuverability. Manufactured in Belgium, this suppressor is ideal for tactical applications. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Belgium\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.7mm\n
+		<text>A 5.7x28mm suppressor, developed by FN Herstal specifically for their P90 and Five-seveN weapon systems. This specialized device features an advanced baffle design optimized for the unique high-velocity, small-diameter cartridge, providing exceptional sound reduction while maintaining the round's armor-penetrating capabilities. The suppressor employs a sophisticated flow-through design that minimizes backpressure, while its titanium construction offers superior heat dissipation during sustained fire. The mounting system uses a proprietary quick-attach mechanism that maintains perfect alignment through repeated cycling. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Belgium\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: FN Herstal\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 5.7mm\n
 		</text>
 	</string>
 
@@ -201,12 +203,13 @@
 		<text>6P9 Suppressor</text>
 	</string>
 	<string id="st_addon_sil_6p9_descr">
-		<text>A 6P9 suppressor designed for reducing the muzzle flash and sound signature of 9mm firearms. Made from durable steel and aluminum, it provides effective sound suppression and longevity. The suppressor is easy to mount and dismount, making it suitable for various tactical scenarios. Manufactured in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 9mm\n
+		<text>A 6P9 suppressor, designed in the 1980s as an integral part of Russia's specialized PB silent pistol system. This unique suppressor employs an innovative two-chamber design with integrated barrel ports that effectively manages gas dispersion, while its compact profile maintains weapon balance. The device features specialized internal baffles machined from high-strength steel that provide exceptional durability while maximizing sound reduction with Soviet-standard 9x18mm ammunition. The suppressor's distinctive cylindrical profile incorporates a series of expansion chambers that efficiently trap and cool propellant gases. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 9mm\n
 		</text>
 	</string>
 
@@ -214,12 +217,13 @@
 		<text>9A-91/VSK-94 Suppressor</text>
 	</string>
 	<string id="st_addon_sil_9a91_descr">
-		<text>A suppressor for the 9A-91 and VSK-94, designed to reduce muzzle flash and noise. Made from high-strength steel, it ensures durability and effective sound suppression. The suppressor is optimized for 9x39mm ammunition, enhancing stealth capabilities. Manufactured in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 9x39mm\n
+		<text>A 9A-91/VSK-94 suppressor, developed specifically for Russia's subsonic 9x39mm special operations weapons. This sophisticated device features an advanced baffle stack optimized for the unique low-velocity, heavy-bullet cartridge, providing exceptional sound reduction while maintaining accuracy. The suppressor incorporates specialized heat-treated steel construction that resists erosion from the powerful cartridge, while its mounting system ensures perfect alignment with the weapon's barrel. The internal geometry is specifically designed to handle the intense pressure curve of the 9x39mm round while minimizing point of impact shift during sustained fire. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 9x39mm\n
 		</text>
 	</string>
 
@@ -227,12 +231,12 @@
 		<text>9mm Suppressor</text>
 	</string>
 	<string id="st_addon_sil_9mm_descr">
-		<text>A versatile 9mm suppressor designed to reduce muzzle flash and sound signature. Constructed from high-grade aluminum and steel, it offers durability and effective noise reduction. The suppressor is compatible with various 9mm firearms. Manufactured in multiple countries. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Various Manufacturers\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 9mm\n
+		<text>A universal 9mm suppressor, designed for compatibility with a wide range of weapons chambered in 9x19mm Parabellum. This versatile device features a modern monocore baffle design that provides consistent sound reduction while simplifying maintenance. The suppressor employs precision-machined stainless steel construction that offers excellent durability and corrosion resistance, while its universal threading pattern accommodates most standard 9mm hosts. The internal geometry is optimized for both supersonic and subsonic ammunition, making it adaptable to various operational requirements. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Various Manufacturers\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 9mm\n
 		</text>
 	</string>
 
@@ -240,12 +244,13 @@
 		<text>APS Suppressor</text>
 	</string>
 	<string id="st_addon_sil_aps_descr">
-		<text>An APS suppressor designed specifically for the APS underwater pistol. This suppressor reduces muzzle flash and noise, enhancing stealth capabilities. Constructed from corrosion-resistant materials, it is suitable for underwater use. Manufactured in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 9mm\n
+		<text>An APS suppressor, created in the 1950s specifically for the unique underwater capabilities of the Soviet APS silent pistol. This specialized device features an innovative baffle design that effectively manages gas dispersion both in air and underwater, while maintaining weapon function in both environments. The suppressor employs corrosion-resistant steel construction treated with a unique coating developed for maritime operations, while its internal geometry is optimized for the specialized 9x18mm MPS ammunition. The device incorporates a series of specialized venting ports that maintain consistent performance even when submerged. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 9mm\n
 		</text>
 	</string>
 
@@ -253,12 +258,13 @@
 		<text>ATG Suppressor</text>
 	</string>
 	<string id="st_addon_sil_atg_descr">
-		<text>An ATG suppressor designed for versatility, compatible with both 5.56mm and 7.62mm firearms. Made from high-grade steel, it offers effective sound suppression and durability. The suppressor is easy to attach and detach, making it suitable for various tactical scenarios. Manufactured in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.56mm, 7.62mm\n
+		<text>An ATG suppressor, developed as a versatile solution for multiple calibers in Russian service rifles. This advanced device features a sophisticated baffle design that effectively manages the high-pressure gases from both 5.56mm and 7.62mm cartridges, while maintaining accuracy across platforms. The suppressor incorporates stellite-lined baffles that provide exceptional erosion resistance during sustained fire, and its mounting system uses a specialized quick-detach mechanism that ensures perfect alignment. The internal geometry employs progressive spacing that optimizes sound reduction while minimizing point of impact shift across different ammunition types. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 5.56mm, 7.62mm\n
 		</text>
 	</string>
 
@@ -266,12 +272,13 @@
 		<text>Gemtech Suppressor</text>
 	</string>
 	<string id="st_addon_sil_gemtech_descr">
-		<text>A Gemtech suppressor designed for both 9mm and .45 ACP firearms. This suppressor reduces muzzle flash and sound signature, enhancing stealth capabilities. Made from high-strength aluminum and stainless steel, it ensures durability and corrosion resistance. Manufactured by Gemtech in the United States. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 9mm, .45\n
+		<text>A Gemtech suppressor, designed in the late 1990s as a versatile solution for both pistol calibers. This sophisticated device features a patented G-Core monocore baffle system that provides exceptional sound reduction while simplifying maintenance. The suppressor employs advanced CNC-machined titanium construction that offers superior strength while reducing weight by 40% compared to steel designs, and its versatile mounting system accommodates both 9mm and .45 ACP hosts through innovative thread adapters. The internal geometry incorporates specialized turbulence generators that optimize sound reduction across different ammunition types. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Gemtech\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 9mm, .45\n
 		</text>
 	</string>
 
@@ -279,12 +286,13 @@
 		<text>KZRZP Suppressor</text>
 	</string>
 	<string id="st_addon_sil_kzrzp_descr">
-		<text>A KZRZP suppressor designed to reduce the sound and muzzle flash of 7.62mm firearms. Made from durable steel, it provides effective sound suppression and long-lasting performance. Ideal for tactical operations requiring stealth. Manufactured in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
+		<text>A KZRZP suppressor, developed in the 1980s as a specialized device for Soviet designated marksman rifles. This robust suppressor features a unique multi-chamber design that effectively manages the high-pressure gases from full-power 7.62x54R ammunition while maintaining sniper-grade accuracy. The device employs high-strength steel construction with specialized chrome lining that resists erosion during sustained fire, while its mounting system uses precision-ground threads that ensure perfect alignment with the barrel. The internal baffle geometry incorporates advanced flow dynamics research from Russian military institutes. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Russia\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
 		</text>
 	</string>
 
@@ -292,12 +300,13 @@
 		<text>NATO Suppressor</text>
 	</string>
 	<string id="st_addon_sil_nato_descr">
-		<text>A NATO suppressor designed for compatibility with .45 ACP, 5.56mm, and 7.62mm firearms. Made from high-quality materials, it offers effective sound suppression and durability. This suppressor is ideal for various tactical scenarios requiring stealth. Manufactured in Belgium. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Belgium\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: .45, 5.56mm, 7.62mm\n
+		<text>A NATO-standard suppressor, developed through multinational collaboration for maximum compatibility across alliance weapon systems. This versatile device features an innovative modular design that adapts to multiple calibers through interchangeable front caps and mounting solutions. The suppressor employs advanced Inconel alloy construction that provides exceptional heat resistance during sustained fire, while its sophisticated baffle geometry maintains effectiveness across various ammunition types. The mounting system incorporates standardized NATO threading patterns, while internal flow dynamics are optimized for both subsonic and supersonic ammunition. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Belgium\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: .45, 5.56mm, 7.62mm\n
 		</text>
 	</string>
 
@@ -305,12 +314,13 @@
 		<text>PBS-1 Suppressor</text>
 	</string>
 	<string id="st_addon_sil_pbs1_descr">
-		<text>A PBS-1 suppressor designed for the AK-47 and AKM rifles, reducing muzzle flash and sound signature. Constructed from high-strength steel, it provides effective sound suppression and durability. This suppressor is optimized for 7.62mm ammunition, enhancing stealth capabilities. Manufactured in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
+		<text>A PBS-1 suppressor, introduced in 1967 as the Soviet Union's primary sound suppression device for the AKM rifle. This iconic suppressor features a two-stage expansion chamber design that effectively reduces both sound and flash signature while maintaining reliability with standard 7.62x39mm ammunition. The device incorporates a specialized baffle stack machined from high-strength steel, with a chrome-lined interior that resists corrosion and simplifies cleaning. The mounting system uses a unique collar lock mechanism that ensures consistent alignment through repeated attachment cycles, while the front chamber acts as an effective flash hider. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
 		</text>
 	</string>
 
@@ -318,12 +328,13 @@
 		<text>PBS-4 Suppressor</text>
 	</string>
 	<string id="st_addon_sil_pbs4_descr">
-		<text>A PBS-4 suppressor designed for 5.45mm rifles, reducing muzzle flash and sound. Made from durable steel, it offers effective sound suppression and long-lasting performance. This suppressor is easy to attach and detach, making it suitable for various tactical scenarios. Manufactured in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.45mm\n
+		<text>A PBS-4 suppressor, developed in 1979 specifically for the 5.45x39mm caliber used in AK-74 series rifles. This advanced device features a carefully tuned expansion chamber system that manages the unique high-velocity characteristics of the 5.45mm round, while maintaining the weapon's reliability. The suppressor employs stellite-lined baffles that provide exceptional erosion resistance during sustained fire, and its mounting system interfaces directly with the AK-74's distinctive muzzle brake threads. The internal geometry is optimized for both standard 7N6 ammunition and specialized subsonic loads, providing versatile sound reduction capabilities. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 5.45mm\n
 		</text>
 	</string>
 
@@ -331,12 +342,13 @@
 		<text>SR-25 Suppressor</text>
 	</string>
 	<string id="st_addon_sil_sr25_descr">
-		<text>An SR-25 suppressor designed to reduce the sound and muzzle flash of 7.62mm SR-25 rifles. Made from high-grade materials, it provides effective sound suppression and durability. Ideal for tactical and sniper applications requiring stealth. Manufactured in the United States. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
+		<text>An SR-25 suppressor, designed by Knight's Armament Company specifically for their precision semi-automatic rifle platform. This sophisticated device features an advanced baffle design optimized for the accuracy requirements of designated marksman operations, while effectively managing the gas system timing of the SR-25. The suppressor incorporates high-temperature Inconel construction that maintains structural integrity during rapid fire, while its proprietary mounting system ensures perfect repeatability through attachment cycles. The internal geometry is specifically tuned for 7.62mm NATO ammunition, providing an optimal balance of sound reduction and accuracy. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Knight's Armament\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 7.62mm\n
 		</text>
 	</string>
 
@@ -344,12 +356,13 @@
 		<text>TGP-A Suppressor</text>
 	</string>
 	<string id="st_addon_sil_tgp-a_descr">
-		<text>A TGP-A suppressor designed for 5.45mm rifles, effectively reducing muzzle flash and sound signature. Constructed from high-strength steel, it offers durability and long-lasting performance. The suppressor is easy to mount and dismount, suitable for various tactical operations. Manufactured in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.45mm\n
+		<text>A TGP-A suppressor, developed in 1986 as a specialized sound suppression device for the AK-74M rifle system. This robust device features an advanced multi-chamber design that effectively reduces both sound and flash signature while maintaining optimal reliability with standard 5.45x39mm ammunition. The suppressor incorporates a series of precisely machined baffles with a specialized chromium coating that resists erosion during sustained fire, while its mounting system uses the standard AK-74 threading pattern with additional locking features. The internal geometry is specifically tuned to handle the high-velocity characteristics of the 5.45mm round while minimizing point of impact shift. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 5.45mm\n
 		</text>
 	</string>
 
@@ -357,12 +370,13 @@
 		<text>SR-3M Suppressor</text>
 	</string>
 	<string id="st_addon_sil_vihr_descr">
-		<text>An SR-3M suppressor designed to reduce muzzle flash and sound signature for 9x39mm ammunition. Constructed from high-grade steel, it ensures durability and effective sound suppression. This suppressor is ideal for covert and tactical operations. Manufactured in the United States. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 9x39mm\n
+		<text>An SR-3M suppressor, designed specifically for the compact Vikhr special operations weapon system in the mid-1990s. This sophisticated device employs a unique two-stage baffle system optimized for the subsonic 9x39mm SP-5 and SP-6 ammunition, providing exceptional sound reduction while maintaining the weapon's compact profile. The suppressor features specialized heat-treated steel construction with an advanced nickel-boron coating that enhances durability and heat dissipation, while its mounting system ensures perfect alignment with minimal impact on weapon balance. The internal geometry incorporates proprietary flow dynamics research from the TsNIITochMash design bureau. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: TsNIITochMash\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 9x39mm\n
 		</text>
 	</string>
 
@@ -370,12 +384,13 @@
 		<text>US Army Smallbore Rifle Suppressor</text>
 	</string>
 	<string id="st_addon_silencer_descr">
-		<text>A smallbore rifle suppressor designed for 5.56x45mm firearms, reducing muzzle flash and sound. Made from high-grade aluminum and steel, it offers effective sound suppression and durability. This suppressor is easy to attach and ideal for tactical operations. Manufactured in the United States. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: 5.56x45mm\n
+		<text>A US Army standard-issue suppressor, developed through extensive testing to meet modern military requirements for 5.56mm weapon systems. This advanced device features a sophisticated baffle design that effectively reduces both sound and flash signature while maintaining compatibility with the M4 carbine's gas system timing. The suppressor employs high-grade Inconel construction that provides exceptional heat resistance during sustained fire, while its proprietary coating minimizes infrared signature. The mounting system incorporates a robust quick-detach mechanism that ensures perfect repeatability and zero retention through multiple attachment cycles. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: 5.56x45mm\n
 		</text>
 	</string>
 
@@ -383,12 +398,13 @@
 		<text>SVU Suppressor</text>
 	</string>
 	<string id="st_addon_silencer_svu_descr">
-		<text>An SVU suppressor designed to reduce muzzle flash and noise for SVU rifles. Made from high-grade steel, it offers durability and effective sound suppression. This suppressor is ideal for sniper operations requiring stealth. Manufactured in Russia. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-		%c[d_cyan] • %c[ui_gray_2] compatibility: svu rifles\n
+		<text>An SVU suppressor, designed specifically for the specialized SVU-AS bullpup sniper rifle. This sophisticated device features an advanced multi-chamber design that effectively manages the high-pressure gases from full-power 7.62x54R ammunition while maintaining sniper-grade accuracy. The suppressor incorporates stellite-lined baffles that provide exceptional erosion resistance during sustained fire, while its integrated mounting system ensures perfect alignment with the barrel. The internal geometry has been carefully tuned through extensive testing to minimize point of impact shift and maintain consistent accuracy at extended ranges. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] muzzle suppressor\n
+    %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+	%c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+    %c[d_cyan] • %c[ui_gray_2] compatibility: SVU rifles\n
 		</text>
 	</string>
 
@@ -396,12 +412,12 @@
 		<text>ACOG 2.0x</text>
 	</string>
 	<string id="st_addon_trijicon_acog_descr">
-		<text>An ACOG scope with 2.0x magnification, designed for close to medium-range engagements. This optic provides clear, fixed magnification with an illuminated reticle for enhanced target acquisition. The rugged design ensures durability under combat conditions. Manufactured by Trijicon in the United States. \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] firearm attachment\n
-		%c[d_cyan] • %c[ui_gray_2] magnified optic (2x)\n
-		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
-		%c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
+		<text>A Trijicon ACOG TA47 scope, developed as a compact variant of the combat-proven ACOG series. This rugged sight features dual-illuminated reticle technology that combines fiber optic and tritium elements, providing automatic brightness adjustment without batteries. The scope employs advanced BAC (Bindon Aiming Concept) design principles that enable both-eyes-open shooting, while its forged aluminum housing has proven its reliability through extensive military testing. The optical system uses specialized glass that provides exceptional clarity while maintaining generous eye relief, and its mounting system maintains zero even under harsh recoil conditions. \n \n
+    %c[ui_gray_3]PROPERTIES:\n
+    %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
+    %c[d_cyan] • %c[ui_gray_2] magnified optic (2x)\n
+    %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+    %c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
 		</text>
 	</string>
 
