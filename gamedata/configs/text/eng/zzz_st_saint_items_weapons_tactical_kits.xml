@@ -8,11 +8,14 @@
 	</string>
 	<string id="st_addon_scope_trijicon_rmr_descr">
 		<text>A Trijicon combat optic kit, combining the renowned ACOG BAC sight with a canted red dot for maximum versatility. The primary ACOG sight employs advanced BAC (Bindon Aiming Concept) technology that enables both-eyes-open shooting while providing bullet drop compensation for 5.56mm ammunition. The complementary canted red dot sight offers instantaneous target acquisition for close-quarter engagements. This sophisticated combination gained widespread adoption among special operations units for its ability to seamlessly transition between varied engagement distances. The kit incorporates proprietary mounting solutions that maintain zero for both sights even under extreme conditions. \n \n
-        %c[ui_gray_3]PROPERTIES:\n
-        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
-        %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
-        %c[d_cyan] • %c[ui_gray_2] origin: United States\n
-        %c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Trijicon\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Trijicon ACOG BAC 5.56 BDC sight (4x)\n
+       %c[d_cyan] • %c[ui_gray_2] Canted red dot sight (1x)\n
+       %c[d_cyan] • %c[ui_gray_2] Proprietary mounting hardware\n
 		</text>
 	</string>
 
@@ -23,9 +26,12 @@
 		<text>A Leupold Mark 8 CQBSS combat optic kit, featuring the flagship Mark 8 scope paired with a canted red dot sight for enhanced versatility. The primary Mark 8 scope employs advanced Edge HD lenses that provide exceptional clarity throughout its magnification range, while the complementary red dot enables instantaneous short-range target acquisition. This combination features Leupold's proprietary electronic systems that provide illumination for both sights while maintaining exceptional battery life. The kit incorporates a sophisticated mounting solution that ensures both sights maintain zero even under extreme recoil conditions. The system gained particular recognition in U.S. special operations where its ability to transition between varied engagement distances proved invaluable. \n \n
         %c[ui_gray_3]PROPERTIES:\n
         %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
-        %c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
         %c[d_cyan] • %c[ui_gray_2] origin: United States\n
         %c[d_cyan] • %c[ui_gray_2] manufacturer: Leupold\n
+        %c[ui_gray_3]CONTENTS:\n
+        %c[d_cyan] • %c[ui_gray_2] Leupold Mark 8 CQBSS sight (1-8x)\n
+        %c[d_cyan] • %c[ui_gray_2] Canted red dot sight (1x)\n
+        %c[d_cyan] • %c[ui_gray_2] Proprietary mounting hardware\n
 		</text>
 	</string>
 
@@ -36,9 +42,12 @@
 		<text>An ELCAN SpecterDR combat optic kit, combining the sophisticated DFOV14-C2 dual-role optic with a canted red dot sight for maximum tactical flexibility. The primary SpecterDR sight features an innovative switch-lever system that instantly changes between 1x and 4x magnification while maintaining zero, while the canted red dot provides an alternative sighting solution for close-quarter engagements. The kit employs advanced optical coatings developed through military research that provide exceptional clarity in any lighting condition. Its unique mounting system incorporates specialized shock absorption technology that maintains zero for both sights even under sustained automatic fire. The combination gained widespread adoption among NATO special forces for its unmatched versatility in varied combat scenarios. \n \n
         %c[ui_gray_3]PROPERTIES:\n
         %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
-        %c[d_cyan] • %c[ui_gray_2] magnified optic (1x/4x)\n
         %c[d_cyan] • %c[ui_gray_2] origin: Canada\n
         %c[d_cyan] • %c[ui_gray_2] manufacturer: ELCAN\n
+        %c[ui_gray_3]CONTENTS:\n
+        %c[d_cyan] • %c[ui_gray_2] ELCAN SpecterDR DFOV14-C2 sight (1x/4x)\n
+        %c[d_cyan] • %c[ui_gray_2] Canted red dot sight (1x)\n
+        %c[d_cyan] • %c[ui_gray_2] Shock-absorbing mount system\n
 		</text>
 	</string>
 
@@ -47,11 +56,14 @@
 	</string>
 	<string id="st_addon_scope_kashtan_rmr_descr">
 		<text>A Tochpribor combat optic kit, combining the rugged 1P78 Kashtan scope with a canted red dot sight for enhanced versatility. The primary Kashtan scope features a unique dual-illumination system that combines fiber optics with tritium illumination, ensuring reticle visibility without batteries. The complementary red dot provides rapid target acquisition for close-quarter engagements. This sophisticated combination incorporates specialized shock absorption technology that maintains zero for both sights even under extreme conditions. The kit gained recognition during Russian military trials where its ability to perform in varied combat scenarios proved exceptional. \n \n
-       %c[ui_gray_3]PROPERTIES:\n
-       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
-       %c[d_cyan] • %c[ui_gray_2] magnified optic (2.8x)\n
-       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
-       %c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Factory\n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: NPZ Factory\n
+        %c[ui_gray_3]CONTENTS:\n
+        %c[d_cyan] • %c[ui_gray_2] Tochpribor 1P78 Kashtan sight (2.8x)\n
+        %c[d_cyan] • %c[ui_gray_2] Canted red dot sight (1x)\n
+        %c[d_cyan] • %c[ui_gray_2] Shock-absorbing mount system\n
 		</text>
 	</string>
 
@@ -60,11 +72,14 @@
 	</string>
 	<string id="st_addon_scope_psicho_rmr_descr">
 		<text>A BelOMO combat optic kit, featuring the proven PSO-1М2-1 scope paired with a canted red dot sight for maximum combat flexibility. The primary PSO scope employs an advanced optical system with calibrated rangefinding capabilities, while the canted red dot provides instantaneous target acquisition at close range. This combination features specialized mounting solutions that maintain zero for both sights even under heavy recoil. The kit's unique design allows for seamless transition between different engagement ranges while incorporating tritium illumination for low-light operation. The system gained widespread adoption among Eastern European forces for its exceptional versatility in varied combat scenarios. \n \n
-       %c[ui_gray_3]PROPERTIES:\n
-       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
-       %c[d_cyan] • %c[ui_gray_2] magnified optic (4x)\n
-       %c[d_cyan] • %c[ui_gray_2] origin: Belarus\n
-       %c[d_cyan] • %c[ui_gray_2] manufacturer: BelOMO\n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Belarus\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: BelOMO\n
+        %c[ui_gray_3]CONTENTS:\n
+        %c[d_cyan] • %c[ui_gray_2] BelOMO PSO-1М2-1 sight (4x)\n
+        %c[d_cyan] • %c[ui_gray_2] Canted red dot sight (1x)\n
+        %c[d_cyan] • %c[ui_gray_2] Specialized mounting hardware\n
 		</text>
 	</string>
 
@@ -75,21 +90,30 @@
 		<text>A DEON Optical combat optic kit, combining the versatile March F Shorty LPVO with a canted red dot sight for unmatched tactical flexibility. The primary scope features an advanced optical system that provides true 1x to 8x magnification, while the complementary red dot ensures instantaneous target acquisition even if the primary optic fails. This sophisticated combination incorporates specialized mounting solutions that maintain zero for both sights while providing rapid transition between different engagement distances. The kit gained particular recognition among professional users where its combination of precision and speed proved invaluable. \n \n
        %c[ui_gray_3]PROPERTIES:\n
        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
-       %c[d_cyan] • %c[ui_gray_2] magnified optic (1-8x)\n
        %c[d_cyan] • %c[ui_gray_2] origin: Japan\n
-       %c[d_cyan] • %c[ui_gray_2] manufacturer: DEON Optical Design\n \n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: DEON Optical Design\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] March F Shorty 1x-8x24mm LPVO\n
+       %c[d_cyan] • %c[ui_gray_2] Canted red dot sight (1x)\n
+       %c[d_cyan] • %c[ui_gray_2] Precision mounting system\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_sup_new">
-		<text>S.U.P. Special Upgrade Pack</text>
+		<text>Special Upgrade Pack (S.U.P.)</text>
 	</string>
 	<string id="st_addon_scope_sup_new_descr">
 		<text>An imported Special Upgrade Pack (S.U.P.), a comprehensive solution for wide-range weapon modification and enhancement. This sophisticated kit contains a carefully curated selection of precision tools, specialized mounting hardware, and various optical systems ranging from red dot sights to advanced variable-power scopes. The package includes proprietary mounting solutions developed through extensive field testing in the Zone, ensuring compatibility with many Western and Eastern weapon platforms. \n \n
        %c[ui_gray_3]PROPERTIES:\n
        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
        %c[d_cyan] • %c[ui_gray_2] universal compatibility\n
-	   %c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Various\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Assorted optical sights\n
+       %c[d_cyan] • %c[ui_gray_2] Universal mounting solutions\n
+       %c[d_cyan] • %c[ui_gray_2] Precision gunsmithing tools\n
+       %c[d_cyan] • %c[ui_gray_2] Rail adapters and hardware\n
+       %c[d_cyan] • %c[ui_gray_2] Technical documentation\n
 		</text>
 	</string>
 
@@ -113,323 +137,388 @@
 		</text>
 	</string>
 
-	<string id="st_addon_scope_mono_kit">
-		<text>Tactical Kit (AK-12 Mono)</text>
-	</string>
-	<string id="st_addon_scope_mono_kit_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] 30mm under-barrel grenade launcher\n
-		%c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n
-		%c[d_cyan] • %c[ui_gray_2] TNVC AN/PEQ-16 LAM illumination module\n
-		%c[d_cyan] • %c[ui_gray_2] 60-round drum magazine\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] АК-12 "Monolith"\n \n
-		</text>
-	</string>
-
 	<string id="st_addon_scope_kit_aus_tri">
-		<text>Tactical Kit (AUS MX Tri)</text>
+		<text>AUS MX Tri Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_kit_aus_tri_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
-		%c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
-		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
-		%c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
-		%c[d_cyan] • %c[ui_gray_2] 21" barrel\n
-		%c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
-		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
-		%c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n \n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n \n
+		<text>A comprehensive modernization kit for the SA-58 AUS platform, developed to enhance its capabilities in both medium and close-range engagements. This sophisticated package combines premium ergonomic upgrades with advanced optics, featuring both the Trijicon ACOG for precision shooting and the Aimpoint T1 for rapid target acquisition. The kit includes a match-grade 21" barrel that significantly improves accuracy, while the Vltor CASV system provides superior mounting solutions for additional accessories. Each component has been specifically selected and tested to ensure perfect integration while maintaining the reliability expected from the SA-58 platform. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: DSA Arms\n
+        %c[ui_gray_3]CONTENTS:\n
+        %c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
+        %c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
+        %c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+        %c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
+        %c[d_cyan] • %c[ui_gray_2] 21" barrel\n
+        %c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
+        %c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
+        %c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n
+        %c[ui_gray_3]COMPATIBILITY:\n
+        %c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_kit_fal_leup">
-		<text>Tactical Kit (AUS MX Leup)</text>
+		<text>AUS MX Leup Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_kit_fal_leup_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
-		%c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
-		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
-		%c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
-		%c[d_cyan] • %c[ui_gray_2] 21" barrel\n
-		%c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
-		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
-		%c[d_cyan] • %c[ui_gray_2] Leupold Mark 8 CQBSS sight\n \n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n \n
+		<text>A precision-focused modification kit for the SA-58 AUS, designed to maximize its effectiveness across varied engagement ranges. This advanced package features the sophisticated Leupold Mark 8 CQBSS optic paired with an Aimpoint T1 for backup targeting capability. The included match-grade 21" barrel and premium ergonomic components transform the SA-58 into a highly capable precision platform while maintaining its reliability. The kit's Vltor CASV system provides a robust mounting solution that ensures perfect zero retention even under harsh conditions. Each component undergoes rigorous quality control to maintain the highest standards of performance. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: DSA Arms\n
+        %c[ui_gray_3]CONTENTS:\n
+        %c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
+        %c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
+        %c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+        %c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
+        %c[d_cyan] • %c[ui_gray_2] 21" barrel\n
+        %c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
+        %c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
+        %c[d_cyan] • %c[ui_gray_2] Leupold Mark 8 CQBSS sight\n
+        %c[ui_gray_3]COMPATIBILITY:\n
+        %c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_kit_sa5x_spec">
-		<text>Tactical Kit (AUS SPEC)</text>
+		<text>AUS SPEC Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_kit_sa5x_spec_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
-		%c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
-		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
-		%c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
-		%c[d_cyan] • %c[ui_gray_2] 21" barrel\n
-		%c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
-		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
-		%c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n \n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n \n
+		<text>A versatile combat modification kit for the SA-58 AUS, optimized for special operations requirements. This comprehensive package features the advanced ELCAN SpecterDR dual-role optic combined with an Aimpoint T1 for maximum tactical flexibility. The kit's premium ergonomic components and match-grade 21" barrel significantly enhance the platform's handling and accuracy characteristics. The included Vltor CASV system provides superior mounting options while ensuring perfect zero retention under all conditions. Each component has been selected based on extensive field testing to ensure optimal performance in various combat scenarios. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+		%c[d_cyan] • %c[ui_gray_2] origin: United States\n
+		%c[d_cyan] • %c[ui_gray_2] manufacturer: DSA Arms\n
+        %c[ui_gray_3]CONTENTS:\n
+        %c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
+        %c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
+        %c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+        %c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
+        %c[d_cyan] • %c[ui_gray_2] 21" barrel\n
+        %c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
+        %c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
+        %c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n
+        %c[ui_gray_3]COMPATIBILITY:\n
+        %c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_226sig_kit">
-		<text>Tactical Kit (P226R BS)</text>
+		<text>P226R BS Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_226sig_kit_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
-		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] SIG P226R\n \n
+		<text>A SIG Sauer enhancement kit, developed specifically for the P226R platform. This specialized package transforms the standard pistol into a modern tactical weapon system through carefully selected components. The match-grade threaded barrel enables suppressor use while improving accuracy, and the Trijicon RMR provides rapid target acquisition capabilities crucial for dynamic shooting scenarios. Each component undergoes SIG's rigorous quality control process to ensure perfect compatibility with the P226R system. The kit gained particular recognition among law enforcement units where its combination of reliability and precision proved exceptional. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Germany\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: SIG Sauer\n
+        %c[ui_gray_3]CONTENTS:\n
+        %c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+        %c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+        %c[ui_gray_3]COMPATIBILITY:\n
+        %c[d_cyan] • %c[ui_gray_2] SIG P226R\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_mod9">
-		<text>Tactical Kit (P99 Mod-9)</text>
+		<text>P99 Mod-9 Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_mod9_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
-		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
-		%c[d_cyan] • %c[ui_gray_2] Viridian X5L laser sight\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] Walther P99\n \n
+		<text>A Walther tactical enhancement kit, designed to maximize the P99's capabilities in low-light operations. This advanced package combines premium tritium sights with the sophisticated Viridian X5L laser system, enabling rapid target acquisition in any lighting condition. The match-grade threaded barrel improves accuracy while providing suppressor compatibility. Each component has been specifically selected and tested to maintain the P99's renowned ergonomics while significantly enhancing its tactical capabilities. The kit gained widespread adoption among European law enforcement units for its exceptional performance in urban operations. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Germany\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: Walther\n
+        %c[ui_gray_3]CONTENTS:\n
+        %c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+        %c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+        %c[d_cyan] • %c[ui_gray_2] Viridian X5L laser sight\n
+        %c[ui_gray_3]COMPATIBILITY:\n
+        %c[d_cyan] • %c[ui_gray_2] Walther P99\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_upg220">
-		<text>Tactical Kit (P220 BSSM)</text>
+		<text>P220 BSSM Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_upg220_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
-		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
-		%c[d_cyan] • %c[ui_gray_2] Viridian X5L laser sight\n
-		%c[d_cyan] • %c[ui_gray_2] 12-round magazine\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] SIG P220\n \n
+		<text>A SIG Sauer modernization kit, developed to enhance the P220's capabilities for specialized operations. This comprehensive package combines advanced sighting solutions with increased magazine capacity, transforming the classic pistol into a modern tactical weapon. The match-grade threaded barrel provides suppressor compatibility while maintaining the P220's legendary accuracy. The integrated Viridian X5L system offers both laser aiming and illumination capabilities, while the tritium sights ensure target acquisition in any lighting condition. The kit includes an extended magazine that increases capacity while maintaining reliable feeding. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Germany\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: SIG Sauer\n
+        %c[ui_gray_3]CONTENTS:\n
+        %c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+        %c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+        %c[d_cyan] • %c[ui_gray_2] Viridian X5L laser sight\n
+        %c[d_cyan] • %c[ui_gray_2] 12-round magazine\n
+        %c[ui_gray_3]COMPATIBILITY:\n
+        %c[d_cyan] • %c[ui_gray_2] SIG P220\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_sr1upgr1">
-		<text>Tactical Kit (SR1M BSM)</text>
+		<text>SR1M BSM Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_sr1upgr1_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
-		%c[d_cyan] • %c[ui_gray_2] Tritium iron sights\n
-		%c[d_cyan] • %c[ui_gray_2] Laser sight module\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] Serdyukov SR1M Gyurza\n \n
+		<text>A TsNIITochMash modernization kit, designed specifically for the SR1M Gyurza pistol platform. This specialized package enhances the weapon's capabilities through carefully selected tactical components. The match-grade threaded barrel maintains the pistol's accuracy with its signature 9x21mm cartridge while enabling suppressor use. The advanced tritium sights provide reliable target acquisition in low-light conditions, complemented by an integrated laser module developed specifically for the SR1M's unique mounting system. The kit gained recognition among Russian special operations units where its enhanced capabilities proved particularly effective. \n \n
+        %c[ui_gray_3]PROPERTIES:\n
+        %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+        %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+        %c[d_cyan] • %c[ui_gray_2] manufacturer: TsNIITochMash\n
+        %c[ui_gray_3]CONTENTS:\n
+        %c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+        %c[d_cyan] • %c[ui_gray_2] Tritium iron sights\n
+        %c[d_cyan] • %c[ui_gray_2] Laser sight module\n
+        %c[ui_gray_3]COMPATIBILITY:\n
+        %c[d_cyan] • %c[ui_gray_2] Serdyukov SR1M Gyurza\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_kab_up">
-		<text>Tactical Kit (KS-23M BS)</text>
+		<text>KS-23M BS Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_kab_up_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
-		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] KS-23M Drozd\n \n
+		<text>A TulaMash modernization kit, developed specifically for the KS-23M Drozd shotgun platform. This specialized package enhances the weapon's capabilities through precision-manufactured components. The match-grade threaded barrel maintains the shotgun's legendary accuracy with its unique 23mm bore while enabling the use of specialized muzzle devices. The addition of the Trijicon RMR provides rapid target acquisition capabilities crucial for tactical operations. Each component undergoes rigorous testing to ensure compatibility with the KS-23M's robust design. The kit gained recognition among specialized units where its enhanced accuracy proved particularly effective. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: TulaMash\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+       %c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] KS-23M Drozd\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_archangel">
-		<text>Tactical Kit (M700 SM Archangel)</text>
+		<text>M700 SM Archangel Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_archangel_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Archangel polymer stock\n
-		%c[d_cyan] • %c[ui_gray_2] Set of 20-round magazines\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		<text>A ProMag Industries conversion kit, designed to transform the Remington M700 into a modern precision rifle system. This comprehensive package features the advanced Archangel precision stock that dramatically improves ergonomics and shooting stability. The included high-capacity magazines extend engagement capability while maintaining reliable feeding. Each component is manufactured from advanced polymers and aerospace-grade aluminum, significantly reducing overall weight while enhancing durability. The kit gained particular popularity among precision shooting enthusiasts where its combination of ergonomics and increased capacity proved advantageous. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: ProMag Industries\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Archangel polymer stock\n
+       %c[d_cyan] • %c[ui_gray_2] Set of 20-round magazines\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] Remington M700\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_magpul_pro">
-		<text>Tactical Kit (M700 SMS Magpul)</text>
+		<text>M700 SMS Magpul Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_magpul_pro_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Magpul PRO 700 polymer stock\n
-		%c[d_cyan] • %c[ui_gray_2] Set of 12-round magazines\n
-		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		<text>A Magpul Industries precision rifle kit, developed to enhance the M700's capabilities in tactical applications. This sophisticated package combines Magpul's PRO 700 stock system with premium accessories, transforming the standard rifle into a modern precision platform. The stock features tool-less adjustment capabilities while providing enhanced accuracy through its rigid aluminum bedding block. The included magazines are manufactured from advanced polymers that ensure reliable feeding in any condition, while the Trijicon RMR provides rapid target acquisition capability. The kit gained recognition among professional users where its rugged reliability proved invaluable. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Magpul Industries\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Magpul PRO 700 polymer stock\n
+       %c[d_cyan] • %c[ui_gray_2] Set of 12-round magazines\n
+       %c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] Remington M700\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_mod_x_gen3">
-		<text>Tactical Kit (M700 AMP-3)</text>
+		<text>M700 AMP-3 Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_mod_x_gen3_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] ABAC MOD X GEN III Modular Rifle System\n
-		%c[d_cyan] • %c[ui_gray_2] Set of 12-round magazines\n
-		%c[d_cyan] • %c[ui_gray_2] Leupold DeltaPoint PRO sight\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		<text>An ABAC tactical modernization kit, featuring their latest generation modular rifle system for the M700 platform. This advanced package transforms the standard rifle through the sophisticated MOD X GEN III chassis system, providing unparalleled customization options. The chassis incorporates tool-less adjustment capabilities while its advanced aluminum construction ensures perfect bedding and enhanced accuracy. The included Leupold DeltaPoint PRO and high-capacity magazines complete the system's tactical capabilities. The kit gained particular recognition in precision shooting competitions where its adaptability and performance proved exceptional. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: ABAC Industries\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] ABAC MOD X GEN III Modular Rifle System\n
+       %c[d_cyan] • %c[ui_gray_2] Set of 12-round magazines\n
+       %c[d_cyan] • %c[ui_gray_2] Leupold DeltaPoint PRO sight\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] Remington M700\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_swamp">
-		<text>Tactical Kit (AK-105 MX Swamp)</text>
+		<text>AK-105 MX Swamp Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_swamp_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Extended forend\n
-		%c[d_cyan] • %c[ui_gray_2] Ergonomic stock and pistol grip\n
-		%c[d_cyan] • %c[ui_gray_2] Improved trigger\n
-		%c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n
-		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
-		%c[d_cyan] • %c[ui_gray_2] AN/PEQ-15 LAM laser module\n
-		%c[d_cyan] • %c[ui_gray_2] Set of 45-round magazines\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] AK-105\n \n
+		<text>A Zenitco tactical enhancement kit, developed specifically for the AK-105 platform. This comprehensive package transforms the compact rifle into a fully modernized weapon system through carefully selected components. The extended forend and ergonomic furniture provide superior handling characteristics while offering extensive mounting options for accessories. The dual optic system combines the Elcan SpecterDR for precision engagement with the Trijicon RMR for close-quarter situations. The AN/PEQ-15 provides advanced aiming capabilities in any lighting condition, while the high-capacity magazines extend sustained fire capability. Each component undergoes rigorous testing to ensure perfect integration with the AK-105 system. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Zenitco\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Extended forend\n
+       %c[d_cyan] • %c[ui_gray_2] Ergonomic stock and pistol grip\n
+       %c[d_cyan] • %c[ui_gray_2] Improved trigger\n
+       %c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n
+       %c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+       %c[d_cyan] • %c[ui_gray_2] AN/PEQ-15 LAM laser module\n
+       %c[d_cyan] • %c[ui_gray_2] Set of 45-round magazines\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] AK-105\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_lapua700">
-		<text>Tactical Kit (M700 BSSM Lapua)</text>
+		<text>M700 BSSM Lapua Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_lapua700_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Threaded .338 barrel\n
-		%c[d_cyan] • %c[ui_gray_2] Magpul Pro stock\n
-		%c[d_cyan] • %c[ui_gray_2] Set of .338LM magazines\n
-		%c[d_cyan] • %c[ui_gray_2] Improved Leupold sight\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		<text>A Magpul Industries long-range precision kit, developed to convert the M700 to the powerful .338 Lapua Magnum caliber. This sophisticated package combines a match-grade threaded barrel with Magpul's advanced Pro stock system, transforming the standard rifle into an extreme range precision platform. The stock features tool-less adjustment capabilities while providing enhanced stability through its rigid construction. The included Leupold optic provides exceptional clarity and precision at extended ranges, while the specialized magazines ensure reliable feeding of the larger cartridge. The kit gained particular recognition among precision shooters where its exceptional long-range capabilities proved invaluable. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: United States\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Magpul Industries\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Threaded .338 barrel\n
+       %c[d_cyan] • %c[ui_gray_2] Magpul Pro stock\n
+       %c[d_cyan] • %c[ui_gray_2] Set of .338LM magazines\n
+       %c[d_cyan] • %c[ui_gray_2] Improved Leupold sight\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] Remington M700\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_gurza_up">
-		<text>Tactical Kit (SR1M SML Gyurza)</text>
+		<text>SR1M SML Gyurza Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_gurza_up_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR\n
-		%c[d_cyan] • %c[ui_gray_2] Quadrail mount\n
-		%c[d_cyan] • %c[ui_gray_2] Laser aiming system\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] SR1M Gyurza\n \n
+		<text>A TsNIITochMash special operations kit, designed to maximize the SR1M Gyurza's combat effectiveness. This advanced package combines sophisticated targeting systems with enhanced mounting solutions. The Trijicon RMR provides rapid target acquisition capabilities, while the proprietary quadrail mount offers extensive accessory compatibility. The integrated laser aiming system, specifically calibrated for the 9x21mm cartridge, enables precise engagement in any lighting condition. Each component has been carefully selected to maintain the pistol's handling characteristics while significantly enhancing its tactical capabilities. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: TsNIITochMash\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Trijicon RMR\n
+       %c[d_cyan] • %c[ui_gray_2] Quadrail mount\n
+       %c[d_cyan] • %c[ui_gray_2] Laser aiming system\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] SR1M Gyurza\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_u2p2g0r">
-		<text>Tactical Kit (P220 BSLM)</text>
+		<text>P220 BSLM Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_u2p2g0r_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
-		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
-		%c[d_cyan] • %c[ui_gray_2] Viridian X5L laser module\n
-		%c[d_cyan] • %c[ui_gray_2] 19-round magazine\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] Sig Sauer P220\n \n
+		<text>A SIG Sauer high-capacity tactical kit, developed to enhance the P220's capabilities in extended engagements. This comprehensive package combines advanced sighting solutions with increased magazine capacity, significantly extending the pistol's combat effectiveness. The match-grade threaded barrel provides suppressor compatibility while maintaining accuracy, complemented by tritium sights for low-light operation. The Viridian X5L system offers both laser aiming and illumination capabilities, while the extended magazine dramatically increases capacity without compromising reliability. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Germany\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: SIG Sauer\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+       %c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+       %c[d_cyan] • %c[ui_gray_2] Viridian X5L laser module\n
+       %c[d_cyan] • %c[ui_gray_2] 19-round magazine\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] Sig Sauer P220\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_shakal">
-		<text>Tactical Kit (AK-105 MX Shakal)</text>
+		<text>AK-105 MX Shakal Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_shakal_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Extended forend\n
-		%c[d_cyan] • %c[ui_gray_2] Ergonomic stock and pistol grip\n
-		%c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n
-		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
-		%c[d_cyan] • %c[ui_gray_2] AN/PEQ-15 LAM laser module\n
-		%c[d_cyan] • %c[ui_gray_2] Set of 45-round magazine\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] AK-105\n \n
+		<text>A Zenitco professional modification kit, designed to maximize the AK-105's combat effectiveness. This advanced package transforms the compact rifle through carefully selected ergonomic and tactical components. The extended forend provides superior handling characteristics while offering extensive mounting options. The dual optic system combines the Trijicon ACOG for precision engagement with the RMR for close-quarter scenarios. The AN/PEQ-15 enables effective target acquisition in any lighting condition, while the high-capacity magazines extend sustained fire capability. Each component has been specifically tested to ensure perfect integration with the AK-105 platform. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Zenitco\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Extended forend\n
+       %c[d_cyan] • %c[ui_gray_2] Ergonomic stock and pistol grip\n
+       %c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n
+       %c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+       %c[d_cyan] • %c[ui_gray_2] AN/PEQ-15 LAM laser module\n
+       %c[d_cyan] • %c[ui_gray_2] Set of 45-round magazine\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] AK-105\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_pl15_scolaz">
-		<text>Tactical Kit (PL-15 SL Scolaz)</text>
+		<text>PL-15 SL Scolaz Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_pl15_scolaz_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Laser aiming system\n
-		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 scope\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] Lebedev PL-15\n \n
+		<text>A Kalashnikov Concern modernization kit, developed specifically for the PL-15 pistol platform. This specialized package enhances the weapon's targeting capabilities through carefully selected components. The advanced laser aiming system provides precise target acquisition in any lighting condition, while the compact Aimpoint T1 offers rapid sight picture acquisition. The combination has been specifically tested to maintain the pistol's excellent ergonomics while significantly enhancing its accuracy potential. Each component undergoes rigorous quality control to ensure perfect integration with the PL-15's modern design. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Kalashnikov Concern\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Laser aiming system\n
+       %c[d_cyan] • %c[ui_gray_2] Aimpoint T1 scope\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] Lebedev PL-15\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_apsabigo">
-		<text>Tactical Kit (APS BGS)</text>
+		<text>APS BGS Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_apsabigo_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
-		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
-		%c[d_cyan] • %c[ui_gray_2] Ergonomic pistol grip\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] APS\n
+		<text>A TsNIITochMash enhancement kit, designed to modernize the classic APS automatic pistol. This specialized package updates the proven design through carefully selected ergonomic and tactical components. The match-grade threaded barrel provides suppressor compatibility while improving accuracy, complemented by tritium sights for low-light operation. The ergonomic pistol grip significantly improves handling characteristics while maintaining compatibility with standard holsters. Each component has been specifically designed to enhance the weapon's capabilities while preserving its reliable operation. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: TsNIITochMash\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Threaded barrel\n
+       %c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+       %c[d_cyan] • %c[ui_gray_2] Ergonomic pistol grip\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] APS\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_sr2_upkit">
-		<text>Tactical Kit (SR-2M Veresk FRLS)</text>
+		<text>SR-2M Veresk FRLS Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_sr2_upkit_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Tactical forend\n
-		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
-		%c[d_cyan] • %c[ui_gray_2] Laser aiming system\n
-		%c[d_cyan] • %c[ui_gray_2] KP-SR2 Reflex Sight\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] SR-2M Veresk\n \n
+		<text>A TsNIITochMash tactical enhancement kit, developed specifically for the SR-2M Veresk submachine gun. This comprehensive package significantly improves the weapon's combat capabilities through modernized components. The tactical forend provides superior handling characteristics while offering multiple mounting options for accessories. The specialized KP-SR2 sight and laser aiming system enable rapid target acquisition in any combat scenario. Each component has been carefully designed to maintain the weapon's compact profile while enhancing its effectiveness in close-quarter operations. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Russia\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: TsNIITochMash\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Tactical forend\n
+       %c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+       %c[d_cyan] • %c[ui_gray_2] Laser aiming system\n
+       %c[d_cyan] • %c[ui_gray_2] KP-SR2 Reflex Sight\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] SR-2M Veresk\n
 		</text>
 	</string>
 
 	<string id="st_addon_scope_5c_tik">
-		<text>Tactical Kit (AK-5C Tik)</text>
+		<text>AK-5C Tik Tactical Kit</text>
 	</string>
 	<string id="st_addon_scope_5c_tik_descr">
-		<text>A metal case containing a tactical kit for advanced weapon modification. Tactical kits are typically made for a particular model of firearm to adapt it to a specialized use case. They commonly include replacement barrels, stocks, foregrips, rails, grips, dust covers, and somtimes also sights and attachments. Components are made from high-quality materials like aircraft-grade aluminum and reinforced polymer. The case itself is water-resistant and impact-proof, protecting its contents from environmental damage.\n \n
-		%c[ui_gray_3]CONTENTS:\n
-		%c[d_cyan] • %c[ui_gray_2] Shortened barrel\n
-		%c[d_cyan] • %c[ui_gray_2] Low profile foregrip\n
-		%c[d_cyan] • %c[ui_gray_2] LA5 Laser aiming system\n
-		%c[d_cyan] • %c[ui_gray_2] Leupold Carbine Optic sight\n
-		%c[d_cyan] • %c[ui_gray_2] D-EVO 6.0x scope\n
-		%c[d_cyan] • %c[ui_gray_2] Modified gas system (fire rate)\n
-		%c[ui_gray_3]COMPATIBILITY:\n
-		%c[d_cyan] • %c[ui_gray_2] AK 5C\n \n
+		<text>A Bofors Defence modernization kit, designed to enhance the AK-5C's capabilities in urban operations. This sophisticated package combines advanced optics with improved handling characteristics. The shortened barrel and low-profile foregrip significantly improve maneuverability, while the modified gas system increases cyclic rate. The dual-optic configuration pairs the Leupold Carbine Optic with a D-EVO scope for versatility across all engagement ranges. The LA5 laser aiming module enables effective target acquisition in any lighting condition. Each component has been specifically selected to transform the rifle into a highly capable urban combat system. \n \n
+       %c[ui_gray_3]PROPERTIES:\n
+       %c[d_cyan] • %c[ui_gray_2] firearm modification kit\n
+       %c[d_cyan] • %c[ui_gray_2] origin: Sweden\n
+       %c[d_cyan] • %c[ui_gray_2] manufacturer: Bofors Defence\n
+       %c[ui_gray_3]CONTENTS:\n
+       %c[d_cyan] • %c[ui_gray_2] Shortened barrel\n
+       %c[d_cyan] • %c[ui_gray_2] Low profile foregrip\n
+       %c[d_cyan] • %c[ui_gray_2] LA5 Laser aiming system\n
+       %c[d_cyan] • %c[ui_gray_2] Leupold Carbine Optic sight\n
+       %c[d_cyan] • %c[ui_gray_2] D-EVO 6.0x scope\n
+       %c[d_cyan] • %c[ui_gray_2] Modified gas system (fire rate)\n
+       %c[ui_gray_3]COMPATIBILITY:\n
+       %c[d_cyan] • %c[ui_gray_2] AK 5C\n
 		</text>
 	</string>
 
