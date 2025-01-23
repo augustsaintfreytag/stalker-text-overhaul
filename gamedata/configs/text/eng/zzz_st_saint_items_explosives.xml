@@ -6,44 +6,43 @@
 		<text>PFM-1 Scatterable Anti-Personnel Mine</text>
 	</string>
 	<string id="st_mine_descr">
-		<text>The PFM-1 used to be a standard-issue anti-personnel mine of the Red Army, employed mainly during the Soviet invasion of Afghanistan. A large number of these mines have made their way into the Zone and is highly valued for its functionality, user-friendliness, compact size and low weight.\n \n
+		<text>A PFM-1 anti-personnel mine, developed in 1984 by the Soviet Union for rapid minefield deployment. This unique device features a pressure-activated liquid explosive charge with wings for aerial dispersal, earning it the nickname "Butterfly Mine." The mine employs a sophisticated pressure-detection mechanism that activates with minimal force, while its specialized polymer construction resists environmental degradation. Found frequently in the Zone due to multiple airdrops during the initial military containment efforts. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] military item\n
 		%c[d_cyan] • %c[ui_gray_2] placed explosive ordinance\n
 		%c[d_red] • %c[ui_gray_2] trigger: proximity\n
 		</text>
 	</string>
-	
+
 	<string id="st_ied_rpg">
 		<text>IED (OG-7V Warhead)</text>
 	</string>
 	<string id="st_ied_rpg_descr">
-		<text>Improvised explosive device based on OG-7V warhead and parts of a car battery. In the Zone, IEDs are quite popular and Zoners use them for a variety of purposes, from gaining access to closed areas, to ambushes.\n \n
+		<text>An improvised explosive device constructed from an OG-7V high-explosive warhead and modified vehicle battery components. This sophisticated device employs the warhead's original fragmentation payload combined with a jury-rigged electronic proximity sensor. The battery housing contains a modified circuit board that provides reliable detonation while maintaining safety for the user during placement. Particularly effective against both soft and light armored targets due to its original military-grade explosive fill. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] military item\n
 		%c[d_cyan] • %c[ui_gray_2] placed explosive ordinance\n
 		%c[d_red] • %c[ui_gray_2] trigger: proximity\n
 		</text>
 	</string>
-	
+
 	<string id="st_ied">
 		<text>IED (Chemical)</text>
 	</string>
 	<string id="st_ied_descr">
-		<text>Improvised explosive device produced from various chemical substances. This IED is significantly more powerful than the more common OG-7V version. In the Zone, IEDs are quite popular and Zoners use them for a variety of purposes, from gaining access to closed areas, to ambushes.\n \n
+		<text>An improvised explosive device utilizing a mixture of industrial chemicals and homemade explosive compounds. This advanced device combines multiple reactive agents that create a significantly larger blast effect than conventional explosives, while its electronic trigger system provides reliable detonation with minimal risk of accidental activation. The chemical composition produces a unique pressure wave that makes it particularly effective against hardened targets and structures. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] military item\n
 		%c[d_cyan] • %c[ui_gray_2] placed explosive ordinance\n
 		%c[d_red] • %c[ui_gray_2] trigger: proximity\n
-		%c[d_cyan] • %c[0,255,255,255] Triggering Mechanism: %c[ui_gray_2]proximity\n
 		</text>
 	</string>
-	
+
 	<string id="st_balon_gas">
 		<text>Gas Balloon</text>
 	</string>
 	<string id="st_balon_gas_descr">
-		<text>Heavy metal gas balloon. In the Zone, such canisters often contain a composition of methane, propane, ethane and butane, and can be used for cooking, though some Zoners have found alternate ways of utilizing the jerrycans, namely, as improvised explosives. Upon direct hit, the canister will catch fire and explode after a slight delay.\n \n
+		<text>A pressurized gas cylinder containing a proprietary blend of methane, propane, ethane, and butane. This industrial container features a specialized pressure relief valve and thick-walled construction rated for high-pressure storage. The multi-gas mixture provides superior heat output compared to single-gas alternatives, making it particularly valuable for cooking and heating applications. The robust steel construction paradoxically makes it more dangerous when damaged, as the pressurized contents can produce significant explosive force. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
 		%c[d_cyan] • %c[ui_gray_2] cooking fuel (gaseous)\n
@@ -55,33 +54,29 @@
 		<text>Gas Balloon (Empty)</text>
 	</string>
 	<string id="st_balon_gas_empty_descr">
-		<text>Emptied heavy metal gas balloon. In the Zone, such canisters often contain a composition of methane, propane, ethane and butane, and can be used for cooking as well as combat purposes. Though empty, it can still be put to good use in outfit maintenance.\n \n
+		<text>A depleted industrial gas cylinder constructed from high-grade steel. This robust container retains significant utility value due to its precision-machined threads and pressure-rated construction. The thick walls and specialized alloy composition make it particularly suitable for repurposing in equipment repairs and reinforcement projects. Empty cylinders are highly valued by technicians for their versatile applications in workshop operations. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
-		%c[d_cyan] • %c[ui_gray_2] cookied fuel (depleted)\n
+		%c[d_cyan] • %c[ui_gray_2] cooking fuel (depleted)\n
 		</text>
 	</string>
-	
+
 	<string id="st_metalcan_powder">
 		<text>Powder Can</text>
 	</string>
 	<string id="st_metalcan_powder_descr">
-		<text>A small and moderately heavy metal can filled with a mixture of explosive industrial chemicals, metal bolts and nuts as well as black gunpowder retrieved from old ammunition. Upon direct gunfire, the can will instantly explode with metal bolts and corrosive chemicals bursting out in every direction.\n \n
+		<text>A repurposed industrial container filled with a volatile mixture of salvaged explosives and improvised shrapnel. This dangerous device combines recycled gunpowder with industrial chemicals and metallic fragments, creating a potent improvised fragmentation charge. The mixture is particularly sensitive to impact, with the chemical accelerants ensuring rapid detonation upon container breach. The added metallic components significantly increase its effectiveness against both soft and hard targets. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
 		%c[d_red] • %c[ui_gray_2] detonates when damaged\n
 		</text>
 	</string>
-	
-	<string id="st_jerrycan_item">
-		<text>Jerrycan</text>
-	</string>
-	
+
 	<string id="st_jerrycan_fuel">
 		<text>Jerrycan</text>
 	</string>
 	<string id="st_jerrycan_fuel_descr">
-		<text>A large metal can filled with E95 gasoline. Usable as a high-tier cooking fuel though some Zoners have found alternate ways of utilizing the jerrycans, namely, as improvised explosives. Upon direct hit, the canister will catch fire and explode after a slight delay.\n \n
+		<text>A military-specification steel container filled with E95 high-octane gasoline. This robust vessel features reinforced seams and a specialized cap design that prevents leakage while allowing controlled dispensing. The high-grade fuel provides excellent heat output for cooking applications, while its volatile nature makes it particularly dangerous if the container is compromised. The standardized design includes internal baffles that reduce sloshing during transport and help maintain structural integrity. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
 		%c[d_cyan] • %c[ui_gray_2] cooking fuel (liquid)\n
@@ -93,11 +88,11 @@
 		<text>Jerrycan (Empty)</text>
 	</string>
 	<string id="st_jerrycan_fuel_empty_descr">
-		<text>Empty jerrycan. Still usable as material for basic outfit repairs.\n \n
+		<text>A military-specification steel container built to stringent quality standards. This durable vessel retains significant utility value due to its robust construction and corrosion-resistant coating. The welded seams and reinforced corners provide excellent structural integrity, making it particularly valuable for equipment repairs and defensive improvements. Its standardized design allows for easy integration into various storage and transport systems. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scrap item\n
-		%c[d_cyan] • %c[ui_gray_2] cookied fuel (depleted)\n
+		%c[d_cyan] • %c[ui_gray_2] cooking fuel (depleted)\n
 		</text>
 	</string>
-	
+
 </string_table>
