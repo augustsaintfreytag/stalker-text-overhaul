@@ -80,11 +80,11 @@
 		</text>
 	</string>
 
-	<string id="mutant_pseudodog_meat">
+	<string id="mutant_psevdodog_meat">
 		<text>Pseudodog Meat</text>
 	</string>
-	<string id="mutant_pseudodog_meat_description">
-		<text>A cut of meat from a mutant pseudodog, comparable to wolf meat in texture and flavor. Pseudodog meat has a dense, lean composition with a gamey taste and a hint of the wild, setting it apart from regular dog meat. This meat is slightly less common but also provides a better balance of nutritional content to residue contamination compared to common dog meat. Commonly roasted over an open flame but also slow roasted or cooked into a stew. Slower processes tenderize the meat and bring out some of the deeper flavors. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+	<string id="mutant_psevdodog_meat_description">
+		<text>A cut of meat from a mutant pseudodog, comparable to wolf meat in texture and flavor. Pseudodog meat has a dense, lean composition with a gamey, mildly acidic taste and a hint of the wild, setting it apart from regular dog meat. This meat is slightly less common but also provides a better balance of nutritional content to residue contamination compared to common dog meat. Commonly roasted over an open flame but also slow roasted or cooked into a stew. Slower processes tenderize the meat and bring out some of the deeper flavors. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] cookable item\n
 		%c[d_cyan] • %c[ui_gray_2] common mutant meat\n
@@ -96,7 +96,7 @@
 		<text>Psysucker Meat</text>
 	</string>
 	<string id="mutant_psysucker_meat_description">
-		<text>A slim cut of meat from a psysucker mutant, known for its lean and sinewy texture. Psysucker meat is far less fatty and muscular compared to other mutants, with a distinctive, mildly sour and metallic taste. This meat is not as popular as bloodsucker and far less popular than boar or flesh. Few stalkers value it for its strange flavor profile. It is generally more contaminated than other game found in the Zone and the balance to its nutritional content is subpar. Like with bloodsucker meat, there are discussions around the exact nature of the meat and if its consumption can be classified as cannibalism. Best suited for slow cooking methods like braising or stewing to tenderize the tough fibers. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		<text>A slim cut of meat from a psysucker mutant, known for its lean and sinewy texture. Psysucker meat is far less fatty and muscular  than more common options and has a distinctive, mildly sour, earthy, and often metallic taste. This meat is not as popular as bloodsucker and far less popular than boar or flesh. Few stalkers value it for its strange flavor profile. It is generally more contaminated than other game found in the Zone and the balance to its nutritional content is subpar. Like with bloodsucker meat, there are discussions around the exact nature of the meat and if its consumption can be classified as cannibalism. Best suited for slow cooking methods like braising or stewing to tenderize the tough fibers. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] cookable item\n
 		%c[d_cyan] • %c[ui_gray_2] uncommon mutant meat\n
@@ -109,7 +109,7 @@
 		<text>Tushkano Meat</text>
 	</string>
 	<string id="mutant_tushkano_meat_description">
-		<text>A cut of meat from a tushkano, lean and slightly gamey, with a texture similar to rabbit or guinea pig. Though not a primary food source due to its small size, tushkano meat can be a valued addition to stews or roasted for a quick meal. The meat is generally less contaminated compared to larger mutants, but it still requires thorough cooking. Best suited for grilling or slow-cooking methods to ensure safety and enhance its natural flavors. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		<text>A cut of meat from a tushkano, lean and slightly gamey, with a texture similar to rabbit or guinea pig. Though not suited as a primary nutritional source due to its small size, tushkano meat can be a valued addition to stews or roasted for a snack. The meat is generally less contaminated compared to larger mutants, but it still requires thorough cooking. Best suited for grilling or slow-cooking methods to ensure safety and enhance its natural flavors. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] cookable item\n
 		%c[d_cyan] • %c[ui_gray_2] common mutant meat\n
@@ -122,7 +122,7 @@
 		<text>Snork Hand</text>
 	</string>
 	<string id="mutant_snork_hand_description">
-		<text>A severed hand from a snork mutant, with a tough and sinewy texture. Consumption of snork meat is controversial, often considered cannibalistic and immoral by most stalkers, even more so than meats from other humanoid creatures, like bloodsuckers. Certain factions like bandits and some mercenaries include it in their meals to show off superiority and ruthlessness. The meat has a gamey, somewhat unsettling flavor and is naturally salty. It requires thorough cooking to be edible and remove the comparably high levels of residue contamination. Best prepared through slow-cooking methods like stewing to tenderize the tough muscle fibers and mask the strong taste. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
+		<text>A severed hand from a snork, with a tough and sinewy texture. Consumption of snork meat is controversial, often considered cannibalistic and immoral by most stalkers, even more so than meats from other humanoid creatures, like bloodsuckers. Certain factions like bandits and some mercenaries include it in their meals to show off superiority and ruthlessness. The meat has a gamey, somewhat unsettling flavor and is naturally salty. It requires thorough cooking to be edible and remove the comparably high levels of residue contamination. Best prepared through slow-cooking methods like stewing to tenderize the tough muscle fibers and mask the strong taste. Warning: Consumption of raw meats, especially meat obtained in the Zone, is associated with major health risks.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] cookable item\n
 		%c[d_cyan] • %c[ui_gray_2] questionable mutant meat\n
@@ -248,7 +248,7 @@
 		<text>Rat Skewers</text>
 	</string>
 	<string id="st_meat_tushkano_descr">
-		<text>Small skewered tushkanos, grilled and seasoned with salt and various herbs. This is the cheapest hot meal available in the Zone, providing a lean and slightly gamey flavor. The meat is generally less contaminated compared to larger mutants, but it still requires thorough cooking. These skewers are best enjoyed grilled over an open flame for a quick and accessible meal.\n \n
+		<text>Small skewered tushkano cuts, grilled and seasoned with salt and various herbs. This is the cheapest hot meal available in the Zone, providing a lean and slightly gamey flavor. The meat is generally less contaminated compared to larger mutants, but it still requires thorough cooking. These skewers are best enjoyed grilled over an open flame for a quick and accessible meal.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] consumable item\n
 		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
@@ -519,7 +519,7 @@
 		<text>Pseudodog Tail</text>
 	</string>
 	<string id="mutant_psevdodog_tail_description">
-		<text>A tail from a pseudodog, known for its incredibly soft fur that provides warmth even in the harshest of snowstorms. The tail is in high demand for its potential applications in creating warm clothing and other protective gear. Scientists are also interested in studying the fur's insulating properties.\n \n
+		<text>A tail from a pseudodog. The tail is in high demand for its potential applications in creating warm clothing and other protective gear. Scientists are also interested in studying the fur's insulating properties.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
 		%c[d_cyan] • %c[ui_gray_2] uncommon mutant part\n
