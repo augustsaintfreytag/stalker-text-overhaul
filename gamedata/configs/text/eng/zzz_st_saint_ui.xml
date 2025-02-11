@@ -80,8 +80,12 @@
 	<string id="st_found_new_treasure">
 		<text>Stash coordinates added</text>
 	</string>
+	<string id="st_dyn_news_pripyat">
+		<text>in the Pripyat Outskirts,</text>
+	</string>
 
 	<!-- News -->
+
 	<string id="st_dyn_news_few_days">
 		<text>in a few days</text>
 	</string>
@@ -135,6 +139,114 @@
 	</string>
 	<string id="st_fft_travel_zoneblocked_2">
 		<text>Personal travel unavailable outside owned faction bases</text>
+	</string>
+
+	<!-- Level Changers-->
+
+	<string id="mar_space_restrictor_to_agroprom_descr">
+		<text>To Agroprom</text>
+	</string>
+	<string id="space_restrictor_to_agr_ug_desc">
+		<text>To Agroprom Underground</text>
+	</string>
+	<string id="space_restrictor_to_military_desc">
+		<text>To Army Warehouses</text>
+	</string>
+	<string id="gen_space_restrictor_to_aes2_descr">
+		<text>To Chernobyl NPP</text>
+	</string>
+	<string id="ds_space_restrictor_to_escape_descr">
+		<text>To Cordon</text>
+	</string>
+	<string id="esc_space_restrictor_to_darkscape_descr">
+		<text>To Darkscape</text>
+	</string>
+	<string id="ds_space_restrictor_to_darkvalley_desc">
+		<text>To Dark Valley</text>
+	</string>
+	<string id="space_restrictor_to_deadcity_desc">
+		<text>To Dead City</text>
+	</string>
+	<string id="space_restrictor_to_hospital">
+		<text>To the Deserted Hospital</text>
+	</string>
+	<string id="esc_space_restrictor_to_garbage_descr">
+		<text>To Garbage</text>
+	</string>
+	<string id="aes2_space_restrictor_to_gen_descr">
+		<text>To Generators</text>
+	</string>
+	<string id="mar_teleport_from_base_to_north_descr">
+		<text>To the Great Swamps</text>
+	</string>
+	<string id="space_restrictor_to_jupiter_desc">
+		<text>To Jupiter</text>
+	</string>
+	<string id="space_restrictor_to_jupiter_ug_desc">
+		<text>To Jupiter Underground</text>
+	</string>
+	<string id="space_restrictor_to_labx16_desc">
+		<text>To Laboratory X16</text>
+	</string>
+	<string id="space_restrictor_to_labx18_desc">
+		<text>To Laboratory X18</text>
+	</string>
+	<string id="space_restrictor_to_labx10_desc">
+		<text>To Laboratory X19</text>
+	</string>
+	<string id="space_restrictor_to_labx8_desc">
+		<text>To Laboratory X8</text>
+	</string>
+	<string id="space_restrictor_to_limansk_desc">
+		<text>To Limansk</text>
+	</string>
+	<string id="space_restrictor_to_secret_lab_desc">
+		<text>To Monolith Control Center</text>
+	</string>
+	<string id="space_restrictor_to_warlab_desc">
+		<text>To Monolith War Lab</text>
+	</string>
+	<string id="space_restrictor_to_cop_pripyat_desc">
+		<text>To Pripyat (Outskirts)</text>
+	</string>
+	<string id="space_restrictor_to_pripyat_desc">
+		<text>To Pripyat (West)</text>
+	</string>
+	<string id="space_restrictor_to_radar_desc">
+		<text>To Radar</text>
+	</string>
+	<string id="mil_space_restrictor_to_red_1_descr">
+		<text>To Red Forest</text>
+	</string>
+	<string id="space_restrictor_to_bar_desc">
+		<text>To Rostok</text>
+	</string>
+	<string id="space_restrictor_to_sarcophagus_desc">
+		<text>To the Sarcophagus</text>
+	</string>
+	<string id="space_restrictor_to_tc_desc">
+		<text>To Truck Cemetery</text>
+	</string>
+	<string id="space_restrictor_to_rostok_desc">
+		<text>To Wild Territory</text>
+	</string>
+	<string id="space_restrictor_to_yantar_desc">
+		<text>To Yantar</text>
+	</string>
+	<string id="space_restrictor_to_zaton_desc">
+		<text>To Zaton</text>
+	</string>
+	<string id="pol_space_restrictor_to_esc_1_descr">
+		<text>To Cordon</text>
+	</string>
+	<string id="pol_space_restrictor_to_val_1_descr">
+		<text>To Dark Valley</text>
+	</string>
+	<string id="esc_space_restrictor_to_pol_1_descr">
+		<text>To Meadow</text>
+	</string>
+	<string id="val_space_restrictor_to_pole_1_descr">
+		<text>To Meadow</text>
 	</string>
 
 	<!-- Settings -->
