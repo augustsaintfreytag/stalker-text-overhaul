@@ -67,10 +67,13 @@
 		</text>
 	</string>
 
+	<string id="st_addon_scope_galil">
+		<text>Galil 4.0x SUSAT Scope</text>
+	</string>
 	<string id="st_addon_scope_galil_susat">
 		<text>Galil 4.0x SUSAT Scope</text>
 	</string>
-	<string id="st_addon_scope_galil_susat_descr">
+	<string id="st_addon_scope_galil_descr">
 		<text>A Galil SUSAT scope, developed in 1975 as Israel's dedicated solution for combat optics in desert environments. This robust sight features a unique prismatic optical system that provides exceptional clarity while significantly reducing overall length compared to traditional designs. The scope incorporates an advanced elevation drum calibrated specifically for 5.56x45mm ballistics, while its distinctive squared housing includes special baffles that minimize glare in bright desert conditions. The optical system employs specially developed glass that resists scratching from sand particles, while maintaining clarity in extreme temperature variations common to Middle Eastern operations. \n \n
     %c[ui_gray_3]PROPERTIES:\n
     %c[d_cyan] • %c[ui_gray_2] firearm attachment\n
