@@ -2,11 +2,11 @@
 
 <string_table>
 
-	<string id="st_cash_name">
+	<string id="st_cash">
 		<text>Wallet</text>
 	</string>
 	<string id="st_cash_descr">
-		<text>A moderately worn wallet made from leather for storing banknotes and coins. Inside, it has multiple compartments for cash, identification cards, and smaller miscellaneous items. The outside is scuffed and the stitching is frayed in places, but it remains functional. As trade using barter items and physical currency still remains the norm in the Zone, durable wallets remain widely used.\n \n
+		<text>A worn wallet made from leather for storing banknotes and coins. Inside, it has multiple compartments for cash, identification cards, and smaller miscellaneous items. The outside is scuffed and the stitching is frayed in places. It appears to have been handed down from multiple previous owners. As trade using barter items and physical currency still remains the norm in the Zone, durable wallets remain widely used.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
 		%c[d_cyan] • %c[ui_gray_2] currency storage\n
@@ -17,69 +17,109 @@
 		<text>Roubles</text>
 	</string>
 	<string id="st_roubles_descr">
-		<text>A loose assortment of coins and low value rouble banknotes, the officially recognized currency of the Russian Federation. \n \nThe rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. Banknotes range from 5 to 5000 roubles, with higher denominations typically featuring advanced anti-counterfeiting measures such as watermarks, security threads, and holographic elements. In the Zone, the rouble remains a common medium of exchange despite the prevalence of bartering, often used for transactions with local merchants and for purchasing imported goods. However, outside of official trade, its value can be precarious due to fluctuating economic conditions.\n \n
+		<text>A loose assortment of rouble coins, the officially recognized currency of the Russian Federation. The rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. In the Zone, the rouble remains the standard medium of exchange, besides direct bartering.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] currency item\n
+		%c[d_cyan] • %c[ui_gray_2] valuable item\n
+		%c[d_cyan] • %c[ui_gray_2] universal currency\n
 		</text>
 	</string>
-	
-	<string id="st_roubles_5000_name">
-		<text>5000 Roubles</text>
-	</string>
-	<string id="st_roubles_5000_descr">
-		<text>A bundle of rouble banknotes, the officially recognized currency of the Russian Federation. \n \nThe rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. Banknotes range from 5 to 5000 roubles, with higher denominations typically featuring advanced anti-counterfeiting measures such as watermarks, security threads, and holographic elements. In the Zone, the rouble remains a common medium of exchange despite the prevalence of bartering, often used for transactions with local merchants and for purchasing imported goods. However, outside of official trade, its value can be precarious due to fluctuating economic conditions.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] currency item\n
-		</text>
-	</string>
-	
-	<string id="st_roubles_1000_name">
-		<text>1000 Roubles</text>
-	</string>
-	<string id="st_roubles_1000_descr">
-		<text>A bundle of rouble banknotes, the officially recognized currency of the Russian Federation. \n \nThe rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. Banknotes range from 5 to 5000 roubles, with higher denominations typically featuring advanced anti-counterfeiting measures such as watermarks, security threads, and holographic elements. In the Zone, the rouble remains a common medium of exchange despite the prevalence of bartering, often used for transactions with local merchants and for purchasing imported goods. However, outside of official trade, its value can be precarious due to fluctuating economic conditions.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] currency item\n
-		</text>
-	</string>
-	
-	<string id="st_roubles_500_name">
-		<text>500 Roubles</text>
-	</string>
-	<string id="st_roubles_500_descr">
-		<text>A few rouble banknotes, the officially recognized currency of the Russian Federation. \n \nThe rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. Banknotes range from 5 to 5000 roubles, with higher denominations typically featuring advanced anti-counterfeiting measures such as watermarks, security threads, and holographic elements. In the Zone, the rouble remains a common medium of exchange despite the prevalence of bartering, often used for transactions with local merchants and for purchasing imported goods. However, outside of official trade, its value can be precarious due to fluctuating economic conditions.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] currency item\n
-		</text>
-	</string>
-	
-	<string id="st_roubles_100_name">
-		<text>100 Roubles</text>
-	</string>
-	<string id="st_roubles_100_descr">
-		<text>A few rouble banknotes, the officially recognized currency of the Russian Federation. \n \nThe rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. Banknotes range from 5 to 5000 roubles, with higher denominations typically featuring advanced anti-counterfeiting measures such as watermarks, security threads, and holographic elements. In the Zone, the rouble remains a common medium of exchange despite the prevalence of bartering, often used for transactions with local merchants and for purchasing imported goods. However, outside of official trade, its value can be precarious due to fluctuating economic conditions.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] currency item\n
-		</text>
-	</string>
-	
-	<string id="st_roubles_50_name">
-		<text>50 Roubles</text>
-	</string>
-	<string id="st_roubles_50_descr">
-		<text>A few rouble banknotes, the officially recognized currency of the Russian Federation. \n \nThe rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. Banknotes range from 5 to 5000 roubles, with higher denominations typically featuring advanced anti-counterfeiting measures such as watermarks, security threads, and holographic elements. In the Zone, the rouble remains a common medium of exchange despite the prevalence of bartering, often used for transactions with local merchants and for purchasing imported goods. However, outside of official trade, its value can be precarious due to fluctuating economic conditions.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] currency item\n
-		</text>
-	</string>
-	
-	<string id="st_roubles_10_name">
+
+	<string id="st_roubles_10">
 		<text>10 Roubles</text>
 	</string>
 	<string id="st_roubles_10_descr">
-		<text>A few rouble banknotes, the officially recognized currency of the Russian Federation. \n \nThe rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. Banknotes range from 5 to 5000 roubles, with higher denominations typically featuring advanced anti-counterfeiting measures such as watermarks, security threads, and holographic elements. In the Zone, the rouble remains a common medium of exchange despite the prevalence of bartering, often used for transactions with local merchants and for purchasing imported goods. However, outside of official trade, its value can be precarious due to fluctuating economic conditions.\n \n
+		<text>A few coins and a rouble banknote, the officially recognized currency of the Russian Federation. The rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. In the Zone, the rouble remains the standard medium of exchange, besides direct bartering.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] currency item\n
+		%c[d_cyan] • %c[ui_gray_2] valuable item\n
+		%c[d_cyan] • %c[ui_gray_2] universal currency\n
+		</text>
+	</string>
+
+	<string id="st_roubles_50">
+		<text>50 Roubles</text>
+	</string>
+	<string id="st_roubles_50_100">
+		<text>50-100 Roubles</text>
+	</string>
+	<string id="st_roubles_50_descr">
+		<text>A few low value rouble coins and banknotes, the officially recognized currency of the Russian Federation. The rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. In the Zone, the rouble remains the standard medium of exchange, besides direct bartering.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] valuable item\n
+		%c[d_cyan] • %c[ui_gray_2] universal currency\n
+		</text>
+	</string>
+
+	<string id="st_roubles_100">
+		<text>100 Roubles</text>
+	</string>
+	<string id="st_roubles_100_200">
+		<text>100-200 Roubles</text>
+	</string>
+	<string id="st_roubles_200_300">
+		<text>200-300 Roubles</text>
+	</string>
+	<string id="st_roubles_300_400">
+		<text>300-400 Roubles</text>
+	</string>
+	<string id="st_roubles_100_descr">
+		<text>A bundle of low value rouble banknotes, the officially recognized currency of the Russian Federation. The rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. In the Zone, the rouble remains the standard medium of exchange, besides direct bartering.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] valuable item\n
+		%c[d_cyan] • %c[ui_gray_2] universal currency\n
+		</text>
+	</string>
+
+	<string id="st_roubles_500">
+		<text>500 Roubles</text>
+	</string>
+	<string id="st_roubles_500_600">
+		<text>500-600 Roubles</text>
+	</string>
+	<string id="st_roubles_600_700">
+		<text>600-700 Roubles</text>
+	</string>
+	<string id="st_roubles_700_800">
+		<text>700-800 Roubles</text>
+	</string>
+	<string id="st_roubles_800_900">
+		<text>800-900 Roubles</text>
+	</string>
+	<string id="st_roubles_900_1000">
+		<text>900-1.000 Roubles</text>
+	</string>
+	<string id="st_roubles_500_descr">
+		<text>A few bundles of rouble banknotes, the officially recognized currency of the Russian Federation. The rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. In the Zone, the rouble remains the standard medium of exchange, besides direct bartering.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] valuable item\n
+		%c[d_cyan] • %c[ui_gray_2] universal currency\n
+		</text>
+	</string>
+
+	<string id="st_roubles_1000">
+		<text>1.000 Roubles</text>
+	</string>
+	<string id="st_roubles_1000_5000">
+		<text>1.000-5.000 Roubles</text>
+	</string>
+	<string id="st_roubles_1000_descr">
+		<text>A thick bundle of rouble banknotes, the officially recognized currency of the Russian Federation. The rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. In the Zone, the rouble remains the standard medium of exchange, besides direct bartering.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] valuable item\n
+		%c[d_cyan] • %c[ui_gray_2] universal currency\n
+		</text>
+	</string>
+	
+	<string id="st_roubles_5000">
+		<text>5.000 Roubles</text>
+	</string>
+	<string id="st_roubles_5000_end">
+		<text>5.000-10.000 Roubles</text>
+	</string>
+	<string id="st_roubles_5000_descr">
+		<text>A stack of thick bundles of rouble banknotes, the officially recognized currency of the Russian Federation. The rouble's history traces back to the 14th century, making it one of the oldest continuously used currencies in the world. Modern roubles are composed of paper banknotes and metallic coins, each bearing the emblem of the Russian Federation and intricate designs that reflect significant cultural and historical landmarks. In the Zone, the rouble remains the standard medium of exchange, besides direct bartering.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] valuable item\n
+		%c[d_cyan] • %c[ui_gray_2] universal currency\n
 		</text>
 	</string>
 	

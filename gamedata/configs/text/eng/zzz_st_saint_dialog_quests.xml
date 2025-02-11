@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="mechanic_explanation_old">
+		<text>Bratan, does it look like I have time to spare to repair your equipment? "Do it yourself", do you know it? I heard it's trending on the social networks. Anyway, you can use the workbench that is around, for free. You can distinguish it thanks to the lit lamp. Everyone is using it, and yet nobody is turning the lights off. I guess that saving the planet isn't the top concern of most stalkers. \n\n
+		Alright no need to be grumpy, let me tell you few tips and tricks.\n
+		First, Keep in mind that guns parts can be swapped without a workbench nor any repair kit, except for the barrel. Repair kits however allow you to replace any part of the guns with a brand new one. Meanwhile, cleaning kits allow you to clean dirty parts that are within your gun directly, including the barrel.\n
+		Now, back on the workbench, you can repair guns and armors with the appropriate repair kits overthere.  You can also upgrade your equipment and craft some new gear as well. To give you ideas about how to craft new stuff, I have some blueprints for sell if you want. 
+		</text>
+	</string>
+
+	<string id="mechanic_explanation">
+		<text>The workbench is there, marked by the lamp. You can use it for repairs and upgrades.\n\n
+		
+		Weapon parts can be swapped with tools appropriate for the weapon type, except barrels. You can already swap out gun parts out in the field, even without tools, but that might cause some parts to get dirty or even damaged. Armour repairs always require toolkits. Cleaning kits maintain a firearm or armour as a whole, usually to keep it in good condition. There's special hardware to clean and maintain individual parts.\n\n
+		
+		The workbench also lets you perform upgrades on your gear. For that, you'll need both suitable tools and the upgrade kits. Check the details of your gear to find out what they require. Upgrades can make a pretty significant difference and even change the calibre of a firearm or allow for different attachments.\n\n
+		
+		Last, if you've got the right of spare parts and scrap materials, you can craft items, technical equipment, custom upgrade kits, even reload your own ammunition, or synthesize medical compounds. Each of these require certain workshop tools, as well. Just check the bench and see for yourself.</text>
+	</string>
+
+</string_table>

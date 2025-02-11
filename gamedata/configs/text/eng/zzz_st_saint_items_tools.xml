@@ -169,8 +169,7 @@
 		<text>Sleeping Bag</text>
 	</string>
 	<string id="st_itm_sleepbag_descr">
-		<text>A durable sleeping bag for camping in the field. Made with a tough, water-resistant polyester shell and a soft, insulated interior lining made from synthetic fibers. The insulation provides adequate heat retention for temperatures down to -10°C, making it suitable for usual climate conditions in the exclusion zone. The drawstring hood offers additional warmth for colder conditions. The bag shows some minor signs of use on the outer layer, and the zipper may occasionally snag. \n \n
-		Sleeping bags of different models are widely used to offer a more personal place of rest and may be moved between bases and hideouts. Bags do not offer protection against dangerous wildlife, radiation, or other environmental hazards. Sleeping in the open may attract predators.\n \n
+		<text>A durable sleeping bag for camping in the field. Made with a tough, water-resistant polyester shell and a soft, insulated interior lining made from synthetic fibers. The insulation provides adequate heat retention for temperatures down to -10°C, making it suitable for climate conditions in the exclusion zone. The bag shows some minor signs of use on the outer layer. Sleeping bags of different models are widely used to offer a more personal place of rest and may be moved between bases and hideouts. Bags do not offer protection against dangerous wildlife, radiation, or other environmental hazards. Sleeping in the open may attract predators.\n \n
 		%c[d_orange]Instructions: %c[ui_gray_3]Find a safe spot to set up the sleeping bag. There should be adequate space to place the bag in its fully rolled out position. Use the beg when standing in a chosen spot to unroll it. Use the leftover compression bag to pack up the sleeping bag. Note that unpacking a sleeping bag may take some time.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
@@ -195,7 +194,6 @@
 	</string>
 	<string id="st_itm_tent_descr">
 		<text>A Vityaz M-B2 A-frame camping tent, constructed from strong, weather-resistant polyester fabric with reinforced with fiberglass poles and a 1000D polyethylene floor for protection against rough terrain and moisture. The exterior is treated with a water-resistant coating, ensuring protection against light to moderate rainfall. The model also features inverted and taped seams to prevent leakage. Provides good ventilation through mesh windows and a zippable entrance.\n \n
-		Frequent use may lead to minor issues like wear on the tent's fabric, particularly at stress points, or fraying of the guy lines. Periodic inspection and application of seam sealer is recommended and can extend the tent's life. This model provides shelter for up to two occupants. Camping tents are commonly used by operatives, researchers, and independent stalkers working predominantly outside of major bases. When used in conjunction with a sleeping bag, the tent offers a home away from Rostok to rest.\n \n
 		%c[d_orange]Instructions: %c[ui_gray_3]Find a suitable outdoor location to set up the tent. The area should be flat, free of debris, and some distance away from buildings and bases. Use the tent when standing in the chosen spot to assemble it. Note that setting up a tent may take some time.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n

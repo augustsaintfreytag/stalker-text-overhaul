@@ -196,4 +196,36 @@
 		%c[d_cyan] • %c[ui_gray_2] clean nutrition source\n
 		</text>
 	</string>
+
+	<!-- Redone Items -->
+
+	<string id="st_elixir">
+		<text>Elixir</text>
+	</string>
+	<string id="st_elixir_descr">
+		<text>A mysterious dark-colored liquid produced exclusively by Sin faction's specialized chemists. The only available chemical analysis report reveals a complex mixture of Zone-mutated herb extracts, processed animal proteins, and various psychoactive compounds. The liquid has a distinct opalescent sheen and an indescribable organic odor. The exact recipe is unknown.\n \n
+Gathered reports indicate high toxicity in most subjects, with symptoms including hallucinations, altered consciousness, and personality changes. There are also mentions of some consumers showing remarkable increases in physical endurance and heightened sensory perception, accompanied by concerning signs of psychological dependency.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_orange] • %c[ui_gray_2] somatic transformative\n
+		%c[d_orange] • %c[ui_gray_2] major psychoactive effects\n
+		%c[d_red] • %c[ui_gray_2] indeterminate toxicity\n
+		</text>
+	</string>
+
+	<string id="st_elixir_bad">
+		<text>Elixir (Expired)</text>
+	</string>
+	<string id="st_elixir_bad_descr">
+		<text>A mysterious dark-colored liquid produced exclusively by Sin faction's specialized chemists. The only available chemical analysis report reveals a complex mixture of Zone-mutated herb extracts, processed animal proteins, and various psychoactive compounds. The liquid has a distinct opalescent sheen and an indescribable organic odor. The exact recipe is unknown. Judging by its foamy appearance, this sample seems to have been expired.\n \n
+Gathered reports indicate high toxicity in most subjects, with symptoms including hallucinations, altered consciousness, and personality changes. There are also mentions of some consumers showing remarkable increases in physical endurance and heightened sensory perception, accompanied by concerning signs of psychological dependency.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] consumable item\n
+		%c[d_cyan] • %c[ui_gray_2] zone-produced item\n
+		%c[d_orange] • %c[ui_gray_2] somatic transformative\n
+		%c[d_orange] • %c[ui_gray_2] major psychoactive effects\n
+		%c[d_red] • %c[ui_gray_2] extremely high toxicity\n
+		</text>
+	</string>
 </string_table>

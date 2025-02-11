@@ -45,6 +45,9 @@
 	<string id="ui_st_take_all_hint">
 		<text>MOVE ALL ITEMS TO BACKPACK (SHIFT + T)</text>
 	</string>
+	<string id="st_anombp_pickup">
+        <text>PICK UP</text>
+    </string>
 	
 	<!-- Trade mode -->
 	<string id="ui_total_price">
