@@ -243,10 +243,10 @@
 	</string>
 
 	<string id="st_beadspread">
-		<text>Bedspread</text>
+		<text>Torn Bedspread</text>
 	</string>
 	<string id="st_beadspread_descr">
-		<text>A durable bedspread, often used together with a bedroll for reasonably comfortable sleeping conditions on multi-day expeditions. Made from heavy-duty, weather-resistant fabric, it provides an additional layer of insulation and protection against the elements. The edges are reinforced with double stitching to prevent fraying. It can be easily rolled up and compacted for transport. Bedspreads are a luxury item in the Zone, in particular for those traveling further north and residing outside of major camps. \n \n
+		<text>A heavily damaged bedspread, usually used together with a bedroll for reasonably comfortable sleeping conditions on multi-day expeditions. Made from heavy-duty, weather-resistant fabric, it provides an additional layer of insulation and protection against the elements when in good condition and well-maintained. This roll appears to have been exposed to the elements and is cut up in multiple places. Though repair is no longer an option, it may be ripped apart for its materials and repurposed.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] utility item\n
 		%c[d_cyan] • %c[ui_gray_2] workshop item\n
