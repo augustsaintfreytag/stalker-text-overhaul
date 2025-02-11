@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_dyn_news_welcome_stalker">
+		<text>$clr_2Welcome to the Unified S.T.A.L.K.E.R. Network.\nBased on available data, there are currently $clr_1$number$clr_2 registered individuals in the Zone. New user registration complete. Welcome to the Chernobyl Exclusion Zone, $clr_1$name$clr_2. Good hunting.</text>
+	</string>
+
+	<string id="st_dyn_news_enemy_activity_zombied_10">
+		<text>Heard $who’s been spotted in the area, could be more of them.</text>
+	</string>
+
+	<string id="st_dyn_news_enemy_activity_zombied_18">
+		<text>I feel $who’s in the area. Somewhere... around here.</text>
+	</string>
+
+	<string id="st_dyn_news_enemy_activity_zombied_24">
+		<text>I think $who’s nearby. Something’s not right.</text>
+	</string>
+
+</string_table>
